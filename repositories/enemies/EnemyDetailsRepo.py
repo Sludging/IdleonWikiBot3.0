@@ -22,7 +22,7 @@ class EnemyDetailsRepo(Repository[EnemyDetails]):
 	@classmethod
 	def generateRepo(cls) -> None:
 		reName = r'..\.addNewMonster\("([a-zA-Z0-9_]*)", {'
-		reData = r'([a-zA-Z0-9_]*): "?([a-zA-Z0-9_.\]\[, \$]*)"?,'
+		reData = r'([a-zA-Z0-9_]*): "?([a-zA-Z0-9_().\]\[, \$]*)"?,'
 		enemiesText = cls.getSection(0)
 		enemiesData = re.split(reName, enemiesText)
 
@@ -38,7 +38,7 @@ class EnemyDetailsRepo(Repository[EnemyDetails]):
 					val = Constants.nameConflicts.get(val, val)
 				val = strToArray(val) if "[" in val else formatStr(val, [","], replaceUnderscores = True)
 				enemy[atr.strip()] = val
-			if enemy.get("Name") == "Error" or enemy.get("AFKtype") == "error":
+			if enemy.get("Name") == "Error":
 				continue
 			enemy["Type"] = enemy.get("Type").split(".")[1].title()
 			enemy["AFKtype"] = enemy.get("AFKtype").title()
