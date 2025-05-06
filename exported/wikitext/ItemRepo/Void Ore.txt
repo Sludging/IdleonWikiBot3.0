@@ -5,3 +5,6 @@
 |sellprice=48
 |notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Chillsnap Golden Chest(W3)]]|0.1|120}}
+|}

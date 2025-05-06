@@ -14,4 +14,5 @@
 {{detdrops|[[TV]]|0.000000644|1}}
 {{detdrops|[[Donut]]|0.000000713|1}}
 {{detdrops|[[Demon Genie]]|0.000000782|1}}
+{{detdrops|[[Astro Bronze Chest(W4)]]|0.00023|1}}
 |}

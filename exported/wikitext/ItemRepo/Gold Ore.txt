@@ -5,3 +5,7 @@
 |sellprice=13
 |notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Dewdrop Golden Chest(W1)]]|0.1|20}}
+{{detdrops|[[Sandstone Bronze Chest(W2)]]|0.6|75}}
+|}

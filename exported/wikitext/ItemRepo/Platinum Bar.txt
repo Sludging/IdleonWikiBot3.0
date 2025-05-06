@@ -3,3 +3,8 @@
 |sellprice=460
 |notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Sandstone Golden Chest(W2)]]|0.2|20}}
+{{detdrops|[[Chillsnap Bronze Chest(W3)]]|0.35|60}}
+{{detdrops|[[Chillsnap Bronze Chest(W3)]]|0.2|20}}
+|}

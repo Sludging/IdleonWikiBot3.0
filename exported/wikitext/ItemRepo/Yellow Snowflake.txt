@@ -6,4 +6,5 @@
 }}
 {{detdrops/head}}
 {{detdrops|[[Frost Flake]]|0.00005|1}}
+{{detdrops|[[Chillsnap Bronze Chest(W3)]]|0.01|1}}
 |}

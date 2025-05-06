@@ -13,4 +13,5 @@
 {{detdrops|[[Choppin#Drops|Choppin Forest Tree]]|0.000285|1}}
 {{detdrops|[[Choppin#Drops|Choppin Stump Tree]]|0.000306|1}}
 {{detdrops|[[Choppin#Drops|Choppin Toilet Tree]]|0.000318|1}}
+{{detdrops|[[Dewdrop Bronze Chest(W1)]]|0.025|1}}
 |}

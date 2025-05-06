@@ -4,3 +4,6 @@
 |description=It's a bee and it's working. As per the Worker Bee Union Act of 1977, I am barred from making any pun or joke about them. 
 |sellprice=70
 }}
+{{detdrops/head}}
+{{detdrops|[[Astro Silver Chest(W4)]]|0.4|1500}}
+|}

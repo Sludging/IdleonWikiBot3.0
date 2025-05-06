@@ -15,6 +15,7 @@
 {{detdrops|[[Crabcake]]|0.0000003402|1}}
 {{detdrops|[[Biggie Hours]]|0.00004725|1}}
 {{detdrops|[[Efaunt]]|0.0000945|2}}
+{{detdrops|[[Sandstone Bronze Chest(W2)]]|0.0000945|1}}
 {{detdrops|[[Crystal Crabal]]|0.00004725|1}}
 {{detdrops|[[Dig Doug]]|0.00000030240000000000006|1}}
 {{detdrops|[[Mafioso]]|0.00000030240000000000006|1}}
@@ -23,6 +24,7 @@
 {{detdrops|[[Mashed Potato]]|0.00000036855|1}}
 {{detdrops|[[Efaunt]]|0.0000945|2}}
 {{detdrops|[[Chaotic Efaunt]]|0.0000945|2}}
+{{detdrops|[[Sandstone Silver Chest(W2)]]|0.0000945|1}}
 {{detdrops|[[Crystal Crabal]]|0.000037800000000000004|1}}
 {{detdrops|[[Tyson]]|0.00000030240000000000006|1}}
 {{detdrops|[[Moonmoon]]|0.00000033075|1}}
@@ -31,6 +33,7 @@
 {{detdrops|[[Efaunt]]|0.0000945|2}}
 {{detdrops|[[Chaotic Efaunt]]|0.0000945|2}}
 {{detdrops|[[Gilded Efaunt]]|0.0000945|2}}
+{{detdrops|[[Sandstone Golden Chest(W2)]]|0.0000945|1}}
 {{detdrops|[[Crystal Crabal]]|0.000056699999999999996|1}}
 {{detdrops|[[Fishing#Drops|Fishing Small Fish]]|0.000001134|1}}
 {{detdrops|[[Fishing#Drops|Fishing Medium Fish]]|0.000001134|1}}

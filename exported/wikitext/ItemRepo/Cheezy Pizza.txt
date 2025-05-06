@@ -15,6 +15,7 @@
 {{detdrops|[[Amarok]]|0.42|30}}
 {{detdrops|[[Chaotic Amarok]]|0.42|60}}
 {{detdrops|[[Radiant Amarok]]|0.42|30}}
+{{detdrops|[[Dewdrop Golden Chest(W1)]]|0.42|15}}
 {{detdrops|[[Baby Boa]]|0.005|3}}
 {{detdrops|[[Carrotman]]|0.006|4}}
 |}

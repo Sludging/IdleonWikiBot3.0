@@ -18,4 +18,5 @@
 {{detdrops|[[Chizoar]]|0.000945|2}}
 {{detdrops|[[Chaotic Chizoar]]|0.000945|2}}
 {{detdrops|[[Blighted Chizoar]]|0.000945|2}}
+{{detdrops|[[Chillsnap Golden Chest(W3)]]|0.000945|1}}
 |}

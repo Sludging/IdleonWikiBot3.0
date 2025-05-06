@@ -11,6 +11,9 @@
 |setname = Gold
 |notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Sandstone Golden Chest(W2)]]|0.04|1}}
+|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Copper Platelegs|1}}

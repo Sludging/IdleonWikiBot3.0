@@ -15,4 +15,5 @@
 {{detdrops|[[Sir Stache]]|0.0000029294999999999996|1}}
 {{detdrops|[[Xylobone]]|0.00000945|1}}
 {{detdrops|[[Chizoar]]|0.000945|2}}
+{{detdrops|[[Chillsnap Bronze Chest(W3)]]|0.000945|1}}
 |}

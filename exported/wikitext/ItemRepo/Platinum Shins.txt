@@ -11,6 +11,9 @@
 |setname = Platinum
 |notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Chillsnap Golden Chest(W3)]]|0.04|1}}
+|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Iron Platelegs|1}}

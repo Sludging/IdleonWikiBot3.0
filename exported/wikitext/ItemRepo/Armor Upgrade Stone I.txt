@@ -22,4 +22,5 @@
 {{detdrops|[[Catching#Drops|Catching Fractalfly]]|0.0000000003|2}}
 {{detdrops|[[Choppin#Drops|Choppin Evertree]]|0.0000000003|2}}
 {{detdrops|[[Fishing#Drops|Fishing Trench Fish]]|0.0000000003|2}}
+{{detdrops|[[Dewdrop Bronze Chest(W1)]]|0.09|1}}
 |}

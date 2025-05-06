@@ -11,6 +11,7 @@
 {{detdrops|[[Crabcake]]|0.0000108|1}}
 {{detdrops|[[Biggie Hours]]|0.0015|1}}
 {{detdrops|[[Efaunt]]|0.003|2}}
+{{detdrops|[[Sandstone Bronze Chest(W2)]]|0.003|1}}
 {{detdrops|[[Crystal Crabal]]|0.0015|1}}
 {{detdrops|[[Dig Doug]]|0.000009600000000000001|1}}
 {{detdrops|[[Mafioso]]|0.000009600000000000001|1}}
@@ -19,6 +20,7 @@
 {{detdrops|[[Mashed Potato]]|0.0000117|1}}
 {{detdrops|[[Efaunt]]|0.003|2}}
 {{detdrops|[[Chaotic Efaunt]]|0.003|2}}
+{{detdrops|[[Sandstone Silver Chest(W2)]]|0.003|1}}
 {{detdrops|[[Crystal Crabal]]|0.0012000000000000001|1}}
 {{detdrops|[[Tyson]]|0.000009600000000000001|1}}
 {{detdrops|[[Moonmoon]]|0.000010500000000000001|1}}
@@ -27,6 +29,7 @@
 {{detdrops|[[Efaunt]]|0.003|2}}
 {{detdrops|[[Chaotic Efaunt]]|0.003|2}}
 {{detdrops|[[Gilded Efaunt]]|0.003|2}}
+{{detdrops|[[Sandstone Golden Chest(W2)]]|0.003|1}}
 {{detdrops|[[Crystal Crabal]]|0.0018|1}}
 {{detdrops|[[Fishing#Drops|Fishing Small Fish]]|0.000036|1}}
 {{detdrops|[[Fishing#Drops|Fishing Medium Fish]]|0.000036|1}}
@@ -52,5 +55,6 @@
 {{detdrops|[[Catching#Drops|Catching Butterflies]]|0.000044999999999999996|1}}
 {{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.000044999999999999996|1}}
 {{detdrops|[[Catching#Drops|Catching Fruitflies]]|0.000044999999999999996|1}}
+{{detdrops|[[Sandstone Golden Chest(W2)]]|0.5|1}}
 |}
 {{gfoodbonus|30|Increases your Total Defence by [%.}}

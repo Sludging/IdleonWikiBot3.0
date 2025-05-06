@@ -12,6 +12,9 @@
 |setname = Iron
 |notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Dewdrop Golden Chest(W1)]]|0.04|1}}
+|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Iron Bar|50}}

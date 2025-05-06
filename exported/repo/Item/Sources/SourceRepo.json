@@ -113,7 +113,11 @@
     },
     "EquipmentHats17": {
         "sources": [
-            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Silver Chest(W1)|Dewdrop Silver Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Silver Chest(W1)"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -268,14 +272,22 @@
     },
     "EquipmentHats18": {
         "sources": [
-            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
+            {
+                "wikiName": "[[Colosseum/Sandstone#Silver Chest(W2)|Sandstone Silver Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Silver Chest(W2)"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
     },
     "EquipmentShirts12": {
         "sources": [
-            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Golden Chest(W1)|Dewdrop Golden Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Golden Chest(W1)"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -893,7 +905,11 @@
     },
     "EquipmentHats28": {
         "sources": [
-            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Silver Chest(W3)|Chillsnap Silver Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Silver Chest(W3)"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -907,7 +923,11 @@
     },
     "EquipmentPants4": {
         "sources": [
-            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
+            {
+                "wikiName": "[[Colosseum/Sandstone#Golden Chest(W2)|Sandstone Golden Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Golden Chest(W2)"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -1125,7 +1145,11 @@
     },
     "EquipmentPants5": {
         "sources": [
-            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Golden Chest(W3)|Chillsnap Golden Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Golden Chest(W3)"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -4229,6 +4253,102 @@
             {"wikiName": "[[Gloomie Mushroom]]", "txtName": "Gloomie Mushroom"},
             {"wikiName": "[[Ancient Golem]]", "txtName": "Ancient Golem"},
             {"wikiName": "[[Shimmer Glunko]]", "txtName": "Shimmer Glunko"},
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Bronze Chest(W1)|Dewdrop Bronze Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Bronze Chest(W1)"
+            },
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Silver Chest(W1)|Dewdrop Silver Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Silver Chest(W1)"
+            },
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Golden Chest(W1)|Dewdrop Golden Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Golden Chest(W1)"
+            },
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Legendary Chest|Dewdrop Legendary Chest]]",
+                "txtName": "Colosseum: Dewdrop Legendary Chest"
+            },
+            {
+                "wikiName": "[[Colosseum/Sandstone#Bronze Chest(W2)|Sandstone Bronze Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Bronze Chest(W2)"
+            },
+            {
+                "wikiName": "[[Colosseum/Sandstone#Silver Chest(W2)|Sandstone Silver Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Silver Chest(W2)"
+            },
+            {
+                "wikiName": "[[Colosseum/Sandstone#Golden Chest(W2)|Sandstone Golden Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Golden Chest(W2)"
+            },
+            {
+                "wikiName": "[[Colosseum/Sandstone#Legendary Chest|Sandstone Legendary Chest]]",
+                "txtName": "Colosseum: Sandstone Legendary Chest"
+            },
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Bronze Chest(W3)|Chillsnap Bronze Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Bronze Chest(W3)"
+            },
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Silver Chest(W3)|Chillsnap Silver Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Silver Chest(W3)"
+            },
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Golden Chest(W3)|Chillsnap Golden Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Golden Chest(W3)"
+            },
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Legendary Chest|Chillsnap Legendary Chest]]",
+                "txtName": "Colosseum: Chillsnap Legendary Chest"
+            },
+            {
+                "wikiName": "[[Colosseum/Astro#Bronze Chest(W4)|Astro Bronze Chest(W4)]]",
+                "txtName": "Colosseum: Astro Bronze Chest(W4)"
+            },
+            {
+                "wikiName": "[[Colosseum/Astro#Silver Chest(W4)|Astro Silver Chest(W4)]]",
+                "txtName": "Colosseum: Astro Silver Chest(W4)"
+            },
+            {
+                "wikiName": "[[Colosseum/Astro#Golden Chest(W4)|Astro Golden Chest(W4)]]",
+                "txtName": "Colosseum: Astro Golden Chest(W4)"
+            },
+            {
+                "wikiName": "[[Colosseum/Astro#Legendary Chest|Astro Legendary Chest]]",
+                "txtName": "Colosseum: Astro Legendary Chest"
+            },
+            {
+                "wikiName": "[[Colosseum/Molten#Bronze Chest(W5)|Molten Bronze Chest(W5)]]",
+                "txtName": "Colosseum: Molten Bronze Chest(W5)"
+            },
+            {
+                "wikiName": "[[Colosseum/Molten#Silver Chest(W5)|Molten Silver Chest(W5)]]",
+                "txtName": "Colosseum: Molten Silver Chest(W5)"
+            },
+            {
+                "wikiName": "[[Colosseum/Molten#Golden Chest(W5)|Molten Golden Chest(W5)]]",
+                "txtName": "Colosseum: Molten Golden Chest(W5)"
+            },
+            {
+                "wikiName": "[[Colosseum/Molten#Legendary Chest|Molten Legendary Chest]]",
+                "txtName": "Colosseum: Molten Legendary Chest"
+            },
+            {
+                "wikiName": "[[Colosseum/Whimsical#Bronze Chest(W6)|Whimsical Bronze Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Bronze Chest(W6)"
+            },
+            {
+                "wikiName": "[[Colosseum/Whimsical#Silver Chest(W6)|Whimsical Silver Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Silver Chest(W6)"
+            },
+            {
+                "wikiName": "[[Colosseum/Whimsical#Golden Chest(W6)|Whimsical Golden Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Golden Chest(W6)"
+            },
+            {
+                "wikiName": "[[Colosseum/Whimsical#Legendary Chest|Whimsical Legendary Chest]]",
+                "txtName": "Colosseum: Whimsical Legendary Chest"
+            },
             {"wikiName": "[[Ghost (Event)]]", "txtName": "Ghost (Event)"},
             {"wikiName": "[[Giftmas Blobulyte]]", "txtName": "Giftmas Blobulyte"},
             {"wikiName": "[[Valentslime]]", "txtName": "Valentslime"},
@@ -4513,7 +4633,11 @@
             {"wikiName": "[[Bored Bean]]", "txtName": "Bored Bean"},
             {"wikiName": "[[Baba Yaga]]", "txtName": "Baba Yaga"},
             {"wikiName": "[[Amarok]]", "txtName": "Amarok"},
-            {"wikiName": "[[Chaotic Amarok]]", "txtName": "Chaotic Amarok"}
+            {"wikiName": "[[Chaotic Amarok]]", "txtName": "Chaotic Amarok"},
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Bronze Chest(W1)|Dewdrop Bronze Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Bronze Chest(W1)"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -4526,7 +4650,11 @@
             {"wikiName": "[[Carrotman]]", "txtName": "Carrotman"},
             {"wikiName": "[[Baba Yaga]]", "txtName": "Baba Yaga"},
             {"wikiName": "[[Amarok]]", "txtName": "Amarok"},
-            {"wikiName": "[[Chaotic Amarok]]", "txtName": "Chaotic Amarok"}
+            {"wikiName": "[[Chaotic Amarok]]", "txtName": "Chaotic Amarok"},
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Silver Chest(W1)|Dewdrop Silver Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Silver Chest(W1)"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -4542,7 +4670,11 @@
             {"wikiName": "[[Glunko The Massive]]", "txtName": "Glunko The Massive"},
             {"wikiName": "[[Amarok]]", "txtName": "Amarok"},
             {"wikiName": "[[Chaotic Amarok]]", "txtName": "Chaotic Amarok"},
-            {"wikiName": "[[Radiant Amarok]]", "txtName": "Radiant Amarok"}
+            {"wikiName": "[[Radiant Amarok]]", "txtName": "Radiant Amarok"},
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Golden Chest(W1)|Dewdrop Golden Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Golden Chest(W1)"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -4606,7 +4738,11 @@
             {"wikiName": "[[Mimic]]", "txtName": "Mimic"},
             {"wikiName": "[[Crabcake]]", "txtName": "Crabcake"},
             {"wikiName": "[[Biggie Hours]]", "txtName": "Biggie Hours"},
-            {"wikiName": "[[Efaunt]]", "txtName": "Efaunt"}
+            {"wikiName": "[[Efaunt]]", "txtName": "Efaunt"},
+            {
+                "wikiName": "[[Colosseum/Sandstone#Bronze Chest(W2)|Sandstone Bronze Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Bronze Chest(W2)"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -4620,7 +4756,11 @@
             {"wikiName": "[[Pincermin]]", "txtName": "Pincermin"},
             {"wikiName": "[[Mashed Potato]]", "txtName": "Mashed Potato"},
             {"wikiName": "[[Efaunt]]", "txtName": "Efaunt"},
-            {"wikiName": "[[Chaotic Efaunt]]", "txtName": "Chaotic Efaunt"}
+            {"wikiName": "[[Chaotic Efaunt]]", "txtName": "Chaotic Efaunt"},
+            {
+                "wikiName": "[[Colosseum/Sandstone#Silver Chest(W2)|Sandstone Silver Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Silver Chest(W2)"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -4634,7 +4774,11 @@
             {"wikiName": "[[Snelbie]]", "txtName": "Snelbie"},
             {"wikiName": "[[Efaunt]]", "txtName": "Efaunt"},
             {"wikiName": "[[Chaotic Efaunt]]", "txtName": "Chaotic Efaunt"},
-            {"wikiName": "[[Gilded Efaunt]]", "txtName": "Gilded Efaunt"}
+            {"wikiName": "[[Gilded Efaunt]]", "txtName": "Gilded Efaunt"},
+            {
+                "wikiName": "[[Colosseum/Sandstone#Golden Chest(W2)|Sandstone Golden Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Golden Chest(W2)"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -4686,7 +4830,11 @@
             {"wikiName": "[[Frost Flake]]", "txtName": "Frost Flake"},
             {"wikiName": "[[Sir Stache]]", "txtName": "Sir Stache"},
             {"wikiName": "[[Xylobone]]", "txtName": "Xylobone"},
-            {"wikiName": "[[Chizoar]]", "txtName": "Chizoar"}
+            {"wikiName": "[[Chizoar]]", "txtName": "Chizoar"},
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Bronze Chest(W3)|Chillsnap Bronze Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Bronze Chest(W3)"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -4700,7 +4848,11 @@
             {"wikiName": "[[Penguin]]", "txtName": "Penguin"},
             {"wikiName": "[[Thermister]]", "txtName": "Thermister"},
             {"wikiName": "[[Chizoar]]", "txtName": "Chizoar"},
-            {"wikiName": "[[Chaotic Chizoar]]", "txtName": "Chaotic Chizoar"}
+            {"wikiName": "[[Chaotic Chizoar]]", "txtName": "Chaotic Chizoar"},
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Silver Chest(W3)|Chillsnap Silver Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Silver Chest(W3)"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -4716,7 +4868,11 @@
             {"wikiName": "[[Bloodbone]]", "txtName": "Bloodbone"},
             {"wikiName": "[[Chizoar]]", "txtName": "Chizoar"},
             {"wikiName": "[[Chaotic Chizoar]]", "txtName": "Chaotic Chizoar"},
-            {"wikiName": "[[Blighted Chizoar]]", "txtName": "Blighted Chizoar"}
+            {"wikiName": "[[Blighted Chizoar]]", "txtName": "Blighted Chizoar"},
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Golden Chest(W3)|Chillsnap Golden Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Golden Chest(W3)"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -4755,7 +4911,11 @@
             {"wikiName": "[[Purp Mushroom]]", "txtName": "Purp Mushroom"},
             {"wikiName": "[[TV]]", "txtName": "TV"},
             {"wikiName": "[[Donut]]", "txtName": "Donut"},
-            {"wikiName": "[[Demon Genie]]", "txtName": "Demon Genie"}
+            {"wikiName": "[[Demon Genie]]", "txtName": "Demon Genie"},
+            {
+                "wikiName": "[[Colosseum/Astro#Bronze Chest(W4)|Astro Bronze Chest(W4)]]",
+                "txtName": "Colosseum: Astro Bronze Chest(W4)"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -4770,7 +4930,11 @@
             {"wikiName": "[[Flying Worm]]", "txtName": "Flying Worm"},
             {"wikiName": "[[Gelatinous Cuboid]]", "txtName": "Gelatinous Cuboid"},
             {"wikiName": "[[Choccie]]", "txtName": "Choccie"},
-            {"wikiName": "[[Biggole Wurm]]", "txtName": "Biggole Wurm"}
+            {"wikiName": "[[Biggole Wurm]]", "txtName": "Biggole Wurm"},
+            {
+                "wikiName": "[[Colosseum/Astro#Silver Chest(W4)|Astro Silver Chest(W4)]]",
+                "txtName": "Colosseum: Astro Silver Chest(W4)"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -4784,7 +4948,11 @@
             {"wikiName": "[[Clammie]]", "txtName": "Clammie"},
             {"wikiName": "[[Octodar]]", "txtName": "Octodar"},
             {"wikiName": "[[Flombeige]]", "txtName": "Flombeige"},
-            {"wikiName": "[[Stilted Seeker]]", "txtName": "Stilted Seeker"}
+            {"wikiName": "[[Stilted Seeker]]", "txtName": "Stilted Seeker"},
+            {
+                "wikiName": "[[Colosseum/Astro#Golden Chest(W4)|Astro Golden Chest(W4)]]",
+                "txtName": "Colosseum: Astro Golden Chest(W4)"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -4816,6 +4984,10 @@
             {"wikiName": "[[Kattlekruk]]", "txtName": "Kattlekruk"},
             {"wikiName": "[[Chaotic Kattlekruk]]", "txtName": "Chaotic Kattlekruk"},
             {"wikiName": "[[Sacrilegious Kattlekruk]]", "txtName": "Sacrilegious Kattlekruk"},
+            {
+                "wikiName": "[[Colosseum/Molten#Bronze Chest(W5)|Molten Bronze Chest(W5)]]",
+                "txtName": "Colosseum: Molten Bronze Chest(W5)"
+            },
             {"wikiName": "[[Scarab]]", "txtName": "Scarab"}
         ],
         "recipeFrom": [],
@@ -4832,6 +5004,10 @@
             {"wikiName": "[[Biggole Mole]]", "txtName": "Biggole Mole"},
             {"wikiName": "[[Kattlekruk]]", "txtName": "Kattlekruk"},
             {"wikiName": "[[Chaotic Kattlekruk]]", "txtName": "Chaotic Kattlekruk"},
+            {
+                "wikiName": "[[Colosseum/Molten#Silver Chest(W5)|Molten Silver Chest(W5)]]",
+                "txtName": "Colosseum: Molten Silver Chest(W5)"
+            },
             {"wikiName": "[[Dust Mote]]", "txtName": "Dust Mote"},
             {"wikiName": "[[Dream Particulate]]", "txtName": "Dream Particulate"}
         ],
@@ -4844,7 +5020,11 @@
             {"wikiName": "[[Crawler]]", "txtName": "Crawler"},
             {"wikiName": "[[Tremor Wurm]]", "txtName": "Tremor Wurm"},
             {"wikiName": "[[Kattlekruk]]", "txtName": "Kattlekruk"},
-            {"wikiName": "[[Chaotic Kattlekruk]]", "txtName": "Chaotic Kattlekruk"}
+            {"wikiName": "[[Chaotic Kattlekruk]]", "txtName": "Chaotic Kattlekruk"},
+            {
+                "wikiName": "[[Colosseum/Molten#Golden Chest(W5)|Molten Golden Chest(W5)]]",
+                "txtName": "Colosseum: Molten Golden Chest(W5)"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -4873,6 +5053,18 @@
             {"wikiName": "[[River Spirit]]", "txtName": "River Spirit"},
             {"wikiName": "[[Baby Troll]]", "txtName": "Baby Troll"},
             {"wikiName": "[[Woodlin Spirit]]", "txtName": "Woodlin Spirit"},
+            {
+                "wikiName": "[[Colosseum/Whimsical#Bronze Chest(W6)|Whimsical Bronze Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Bronze Chest(W6)"
+            },
+            {
+                "wikiName": "[[Colosseum/Whimsical#Silver Chest(W6)|Whimsical Silver Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Silver Chest(W6)"
+            },
+            {
+                "wikiName": "[[Colosseum/Whimsical#Golden Chest(W6)|Whimsical Golden Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Golden Chest(W6)"
+            },
             {"wikiName": "[[Ladybug]]", "txtName": "Ladybug"}
         ],
         "recipeFrom": [],
@@ -4958,6 +5150,14 @@
     "StoneW2": {
         "sources": [
             {"wikiName": "[[Green Mushroom]]", "txtName": "Green Mushroom"},
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Silver Chest(W1)|Dewdrop Silver Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Silver Chest(W1)"
+            },
+            {
+                "wikiName": "[[Colosseum/Sandstone#Bronze Chest(W2)|Sandstone Bronze Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Bronze Chest(W2)"
+            },
             {
                 "wikiName": "[[Post Office#Plan-it Express|Plan-it Express]]",
                 "txtName": "Post Office: Plan-it Express"
@@ -5150,6 +5350,14 @@
     "StoneA2": {
         "sources": [
             {"wikiName": "[[Bored Bean]]", "txtName": "Bored Bean"},
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Silver Chest(W1)|Dewdrop Silver Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Silver Chest(W1)"
+            },
+            {
+                "wikiName": "[[Colosseum/Sandstone#Bronze Chest(W2)|Sandstone Bronze Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Bronze Chest(W2)"
+            },
             {
                 "wikiName": "[[Post Office#Plan-it Express|Plan-it Express]]",
                 "txtName": "Post Office: Plan-it Express"
@@ -6127,6 +6335,18 @@
         "sources": [
             {"wikiName": "[[King Doot]]", "txtName": "King Doot"},
             {
+                "wikiName": "[[Colosseum/Sandstone#Bronze Chest(W2)|Sandstone Bronze Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Bronze Chest(W2)"
+            },
+            {
+                "wikiName": "[[Colosseum/Sandstone#Silver Chest(W2)|Sandstone Silver Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Silver Chest(W2)"
+            },
+            {
+                "wikiName": "[[Colosseum/Sandstone#Golden Chest(W2)|Sandstone Golden Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Golden Chest(W2)"
+            },
+            {
                 "wikiName": "[[Post Office#Simple Shippin|Simple Shippin]]",
                 "txtName": "Post Office: Simple Shippin"
             },
@@ -6165,6 +6385,82 @@
     "PremiumGem": {
         "sources": [
             {"wikiName": "[[King Doot]]", "txtName": "King Doot"},
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Bronze Chest(W1)|Dewdrop Bronze Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Bronze Chest(W1)"
+            },
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Silver Chest(W1)|Dewdrop Silver Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Silver Chest(W1)"
+            },
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Golden Chest(W1)|Dewdrop Golden Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Golden Chest(W1)"
+            },
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Golden Chest(W1)|Dewdrop Golden Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Golden Chest(W1)"
+            },
+            {
+                "wikiName": "[[Colosseum/Sandstone#Bronze Chest(W2)|Sandstone Bronze Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Bronze Chest(W2)"
+            },
+            {
+                "wikiName": "[[Colosseum/Sandstone#Silver Chest(W2)|Sandstone Silver Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Silver Chest(W2)"
+            },
+            {
+                "wikiName": "[[Colosseum/Sandstone#Golden Chest(W2)|Sandstone Golden Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Golden Chest(W2)"
+            },
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Bronze Chest(W3)|Chillsnap Bronze Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Bronze Chest(W3)"
+            },
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Silver Chest(W3)|Chillsnap Silver Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Silver Chest(W3)"
+            },
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Golden Chest(W3)|Chillsnap Golden Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Golden Chest(W3)"
+            },
+            {
+                "wikiName": "[[Colosseum/Astro#Bronze Chest(W4)|Astro Bronze Chest(W4)]]",
+                "txtName": "Colosseum: Astro Bronze Chest(W4)"
+            },
+            {
+                "wikiName": "[[Colosseum/Astro#Silver Chest(W4)|Astro Silver Chest(W4)]]",
+                "txtName": "Colosseum: Astro Silver Chest(W4)"
+            },
+            {
+                "wikiName": "[[Colosseum/Astro#Golden Chest(W4)|Astro Golden Chest(W4)]]",
+                "txtName": "Colosseum: Astro Golden Chest(W4)"
+            },
+            {
+                "wikiName": "[[Colosseum/Molten#Bronze Chest(W5)|Molten Bronze Chest(W5)]]",
+                "txtName": "Colosseum: Molten Bronze Chest(W5)"
+            },
+            {
+                "wikiName": "[[Colosseum/Molten#Silver Chest(W5)|Molten Silver Chest(W5)]]",
+                "txtName": "Colosseum: Molten Silver Chest(W5)"
+            },
+            {
+                "wikiName": "[[Colosseum/Molten#Golden Chest(W5)|Molten Golden Chest(W5)]]",
+                "txtName": "Colosseum: Molten Golden Chest(W5)"
+            },
+            {
+                "wikiName": "[[Colosseum/Whimsical#Bronze Chest(W6)|Whimsical Bronze Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Bronze Chest(W6)"
+            },
+            {
+                "wikiName": "[[Colosseum/Whimsical#Silver Chest(W6)|Whimsical Silver Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Silver Chest(W6)"
+            },
+            {
+                "wikiName": "[[Colosseum/Whimsical#Golden Chest(W6)|Whimsical Golden Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Golden Chest(W6)"
+            },
             {"wikiName": "[[Egg Capsule]]", "txtName": "Egg Capsule"},
             {"wikiName": "[[Spring Splendor]]", "txtName": "Spring Splendor"},
             {"wikiName": "[[Falloween Pumpkin]]", "txtName": "Falloween Pumpkin"},
@@ -6534,7 +6830,11 @@
     },
     "SnowA2a": {
         "sources": [
-            {"wikiName": "[[Frost Flake]]", "txtName": "Frost Flake"}
+            {"wikiName": "[[Frost Flake]]", "txtName": "Frost Flake"},
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Bronze Chest(W3)|Chillsnap Bronze Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Bronze Chest(W3)"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -6957,6 +7257,18 @@
         "sources": [
             {"wikiName": "[[Dilapidated Slush]]", "txtName": "Dilapidated Slush"},
             {
+                "wikiName": "[[Colosseum/Chillsnap#Bronze Chest(W3)|Chillsnap Bronze Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Bronze Chest(W3)"
+            },
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Silver Chest(W3)|Chillsnap Silver Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Silver Chest(W3)"
+            },
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Golden Chest(W3)|Chillsnap Golden Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Golden Chest(W3)"
+            },
+            {
                 "wikiName": "[[Post Office#Alpine Suppliers|Alpine Suppliers]]",
                 "txtName": "Post Office: Alpine Suppliers"
             },
@@ -7029,7 +7341,19 @@
     "Key4": {
         "sources": [
             {"wikiName": "[[Mutated Mush]]", "txtName": "Mutated Mush"},
-            {"wikiName": "[[Stilted Seeker]]", "txtName": "Stilted Seeker"}
+            {"wikiName": "[[Stilted Seeker]]", "txtName": "Stilted Seeker"},
+            {
+                "wikiName": "[[Colosseum/Astro#Bronze Chest(W4)|Astro Bronze Chest(W4)]]",
+                "txtName": "Colosseum: Astro Bronze Chest(W4)"
+            },
+            {
+                "wikiName": "[[Colosseum/Astro#Silver Chest(W4)|Astro Silver Chest(W4)]]",
+                "txtName": "Colosseum: Astro Silver Chest(W4)"
+            },
+            {
+                "wikiName": "[[Colosseum/Astro#Golden Chest(W4)|Astro Golden Chest(W4)]]",
+                "txtName": "Colosseum: Astro Golden Chest(W4)"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -7233,7 +7557,11 @@
     },
     "GalaxyA2b": {
         "sources": [
-            {"wikiName": "[[TV]]", "txtName": "TV"}
+            {"wikiName": "[[TV]]", "txtName": "TV"},
+            {
+                "wikiName": "[[Colosseum/Astro#Bronze Chest(W4)|Astro Bronze Chest(W4)]]",
+                "txtName": "Colosseum: Astro Bronze Chest(W4)"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -7501,7 +7829,11 @@
     },
     "LavaA1b": {
         "sources": [
-            {"wikiName": "[[Suggma]]", "txtName": "Suggma"}
+            {"wikiName": "[[Suggma]]", "txtName": "Suggma"},
+            {
+                "wikiName": "[[Colosseum/Molten#Bronze Chest(W5)|Molten Bronze Chest(W5)]]",
+                "txtName": "Colosseum: Molten Bronze Chest(W5)"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -7853,6 +8185,10 @@
         "sources": [
             {"wikiName": "[[Ricecake]]", "txtName": "Ricecake"},
             {
+                "wikiName": "[[Colosseum/Whimsical#Bronze Chest(W6)|Whimsical Bronze Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Bronze Chest(W6)"
+            },
+            {
                 "wikiName": "[[Sussy Gene#Loiterin' Around|Loiterin' Around]]",
                 "txtName": "Sussy Gene: Loiterin' Around"
             }
@@ -8140,6 +8476,1206 @@
     "StampC25": {
         "sources": [
             {"wikiName": "[[Ancient Golem]]", "txtName": "Ancient Golem"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StoneW1": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Bronze Chest(W1)|Dewdrop Bronze Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Bronze Chest(W1)"
+            },
+            {
+                "wikiName": "[[Post Office#Simple Shippin|Simple Shippin]]",
+                "txtName": "Post Office: Simple Shippin"
+            },
+            {
+                "wikiName": "[[Post Office#Plan-it Express|Plan-it Express]]",
+                "txtName": "Post Office: Plan-it Express"
+            },
+            {
+                "wikiName": "[[Post Office#Dudes Next Door|Dudes Next Door]]",
+                "txtName": "Post Office: Dudes Next Door"
+            },
+            {
+                "wikiName": "[[Post Office#Alpine Suppliers|Alpine Suppliers]]",
+                "txtName": "Post Office: Alpine Suppliers"
+            },
+            {
+                "wikiName": "[[Vendors#Blunder Hills|Blunder Hills Vendors]]",
+                "txtName": "Blunder Hills Vendor"
+            },
+            {"wikiName": "[[DropTable5]]", "txtName": "DropTable5"},
+            {
+                "wikiName": "[[Promotheus#Three Right Answers|Three Right Answers]]",
+                "txtName": "Promotheus: Three Right Answers"
+            },
+            {
+                "wikiName": "[[Alchemy#Liquid Shop|Weak UPG Stone]]",
+                "txtName": "Alchemy: Weak UPG Stone"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StoneA1": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Bronze Chest(W1)|Dewdrop Bronze Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Bronze Chest(W1)"
+            },
+            {
+                "wikiName": "[[Post Office#Simple Shippin|Simple Shippin]]",
+                "txtName": "Post Office: Simple Shippin"
+            },
+            {
+                "wikiName": "[[Post Office#Plan-it Express|Plan-it Express]]",
+                "txtName": "Post Office: Plan-it Express"
+            },
+            {
+                "wikiName": "[[Post Office#Dudes Next Door|Dudes Next Door]]",
+                "txtName": "Post Office: Dudes Next Door"
+            },
+            {
+                "wikiName": "[[Post Office#Alpine Suppliers|Alpine Suppliers]]",
+                "txtName": "Post Office: Alpine Suppliers"
+            },
+            {
+                "wikiName": "[[Vendors#Blunder Hills|Blunder Hills Vendors]]",
+                "txtName": "Blunder Hills Vendor"
+            },
+            {"wikiName": "[[DropTable4]]", "txtName": "DropTable4"},
+            {
+                "wikiName": "[[Scripticus#Can't somebody else do it?|Can't somebody else do it?]]",
+                "txtName": "Scripticus: Can't somebody else do it?"
+            },
+            {
+                "wikiName": "[[Alchemy#Liquid Shop|Weak UPG Stone]]",
+                "txtName": "Alchemy: Weak UPG Stone"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "OakTree": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Bronze Chest(W1)|Dewdrop Bronze Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Bronze Chest(W1)"
+            },
+            {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Copper": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Bronze Chest(W1)|Dewdrop Bronze Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Bronze Chest(W1)"
+            },
+            {"wikiName": "[[Mining]]", "txtName": "Mining"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CopperBar": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Bronze Chest(W1)|Dewdrop Bronze Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Bronze Chest(W1)"
+            },
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Silver Chest(W1)|Dewdrop Silver Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Silver Chest(W1)"
+            },
+            {"wikiName": "[[Forging]]", "txtName": "Forging"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Key1": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Bronze Chest(W1)|Dewdrop Bronze Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Bronze Chest(W1)"
+            },
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Silver Chest(W1)|Dewdrop Silver Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Silver Chest(W1)"
+            },
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Golden Chest(W1)|Dewdrop Golden Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Golden Chest(W1)"
+            },
+            {
+                "wikiName": "[[Post Office#Simple Shippin|Simple Shippin]]",
+                "txtName": "Post Office: Simple Shippin"
+            },
+            {
+                "wikiName": "[[Post Office#Plan-it Express|Plan-it Express]]",
+                "txtName": "Post Office: Plan-it Express"
+            },
+            {
+                "wikiName": "[[Post Office#Down Undelivery|Down Undelivery]]",
+                "txtName": "Post Office: Down Undelivery"
+            },
+            {
+                "wikiName": "[[Dog Bone (NPC)#Why he Die???|Why he Die???]]",
+                "txtName": "Dog Bone (NPC): Why he Die???"
+            },
+            {
+                "wikiName": "[[Dog Bone (NPC)#Bow Wow going Dow..n!|Bow Wow going Dow..n!]]",
+                "txtName": "Dog Bone (NPC): Bow Wow going Dow..n!"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "FoodG4": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Silver Chest(W1)|Dewdrop Silver Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Silver Chest(W1)"
+            },
+            {
+                "wikiName": "[[Post Office#Plan-it Express|Plan-it Express]]",
+                "txtName": "Post Office: Plan-it Express"
+            },
+            {"wikiName": "[[SuperDropTable1]]", "txtName": "SuperDropTable1"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Iron": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Silver Chest(W1)|Dewdrop Silver Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Silver Chest(W1)"
+            },
+            {"wikiName": "[[Mining]]", "txtName": "Mining"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "JungleTree": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Silver Chest(W1)|Dewdrop Silver Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Silver Chest(W1)"
+            },
+            {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "BirchTree": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Silver Chest(W1)|Dewdrop Silver Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Silver Chest(W1)"
+            },
+            {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "FoodG1": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Golden Chest(W1)|Dewdrop Golden Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Golden Chest(W1)"
+            },
+            {
+                "wikiName": "[[Colosseum/Whimsical#Golden Chest(W6)|Whimsical Golden Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Golden Chest(W6)"
+            },
+            {
+                "wikiName": "[[Post Office#Simple Shippin|Simple Shippin]]",
+                "txtName": "Post Office: Simple Shippin"
+            },
+            {
+                "wikiName": "[[Picnic Stowaway#Live-Action Entertainment|Live-Action Entertainment]]",
+                "txtName": "Picnic Stowaway: Live-Action Entertainment"
+            },
+            {
+                "wikiName": "[[Picnic Stowaway#The Most Important Meal of the Day|The Most Important Meal of the Day]]",
+                "txtName": "Picnic Stowaway: The Most Important Meal of the Day"
+            },
+            {
+                "wikiName": "[[Picnic Stowaway#Brunchin' with the Blobs|Brunchin' with the Blobs]]",
+                "txtName": "Picnic Stowaway: Brunchin' with the Blobs"
+            },
+            {
+                "wikiName": "[[Picnic Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]]",
+                "txtName": "Picnic Stowaway: Luncheon with the Inlaws"
+            },
+            {
+                "wikiName": "[[Picnic Stowaway#Afternoon Tea in a Jiffy|Afternoon Tea in a Jiffy]]",
+                "txtName": "Picnic Stowaway: Afternoon Tea in a Jiffy"
+            },
+            {
+                "wikiName": "[[Picnic Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]]",
+                "txtName": "Picnic Stowaway: Early Evening Eating Endeavor"
+            },
+            {
+                "wikiName": "[[Tiki Chief#Brochure Building|Brochure Building]]",
+                "txtName": "Tiki Chief: Brochure Building"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "IronBar": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Golden Chest(W1)|Dewdrop Golden Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Golden Chest(W1)"
+            },
+            {"wikiName": "[[Forging]]", "txtName": "Forging"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Gold": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Golden Chest(W1)|Dewdrop Golden Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Golden Chest(W1)"
+            },
+            {
+                "wikiName": "[[Colosseum/Sandstone#Bronze Chest(W2)|Sandstone Bronze Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Bronze Chest(W2)"
+            },
+            {"wikiName": "[[Mining]]", "txtName": "Mining"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "ToiletTree": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Golden Chest(W1)|Dewdrop Golden Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Golden Chest(W1)"
+            },
+            {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StumpTree": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Dewdrop#Golden Chest(W1)|Dewdrop Golden Chest(W1)]]",
+                "txtName": "Colosseum: Dewdrop Golden Chest(W1)"
+            },
+            {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Fish1": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Sandstone#Bronze Chest(W2)|Sandstone Bronze Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Bronze Chest(W2)"
+            },
+            {"wikiName": "[[Fishing]]", "txtName": "Fishing"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Fish2": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Sandstone#Bronze Chest(W2)|Sandstone Bronze Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Bronze Chest(W2)"
+            },
+            {"wikiName": "[[Fishing]]", "txtName": "Fishing"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Bug1": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Sandstone#Bronze Chest(W2)|Sandstone Bronze Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Bronze Chest(W2)"
+            },
+            {"wikiName": "[[Catching]]", "txtName": "Catching"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "GoldBar": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Sandstone#Bronze Chest(W2)|Sandstone Bronze Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Bronze Chest(W2)"
+            },
+            {
+                "wikiName": "[[Colosseum/Sandstone#Silver Chest(W2)|Sandstone Silver Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Silver Chest(W2)"
+            },
+            {"wikiName": "[[Forging]]", "txtName": "Forging"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StoneW3": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Sandstone#Silver Chest(W2)|Sandstone Silver Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Silver Chest(W2)"
+            },
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Bronze Chest(W3)|Chillsnap Bronze Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Bronze Chest(W3)"
+            },
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Silver Chest(W3)|Chillsnap Silver Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Silver Chest(W3)"
+            },
+            {
+                "wikiName": "[[Post Office#Dudes Next Door|Dudes Next Door]]",
+                "txtName": "Post Office: Dudes Next Door"
+            },
+            {
+                "wikiName": "[[Post Office#Down Undelivery|Down Undelivery]]",
+                "txtName": "Post Office: Down Undelivery"
+            },
+            {
+                "wikiName": "[[Post Office#Alpine Suppliers|Alpine Suppliers]]",
+                "txtName": "Post Office: Alpine Suppliers"
+            },
+            {
+                "wikiName": "[[Vendors#Frostbite Towndra|Frostbite Towndra Vendors]]",
+                "txtName": "Frostbite Towndra Vendor"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StoneA3": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Sandstone#Silver Chest(W2)|Sandstone Silver Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Silver Chest(W2)"
+            },
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Bronze Chest(W3)|Chillsnap Bronze Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Bronze Chest(W3)"
+            },
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Silver Chest(W3)|Chillsnap Silver Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Silver Chest(W3)"
+            },
+            {
+                "wikiName": "[[Post Office#Alpine Suppliers|Alpine Suppliers]]",
+                "txtName": "Post Office: Alpine Suppliers"
+            },
+            {
+                "wikiName": "[[Vendors#Frostbite Towndra|Frostbite Towndra Vendors]]",
+                "txtName": "Frostbite Towndra Vendor"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Fish3": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Sandstone#Silver Chest(W2)|Sandstone Silver Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Silver Chest(W2)"
+            },
+            {
+                "wikiName": "[[Shuvelle#Mayoral Skill|Mayoral Skill]]",
+                "txtName": "Shuvelle: Mayoral Skill"
+            },
+            {"wikiName": "[[Fishing]]", "txtName": "Fishing"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Bug3": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Sandstone#Silver Chest(W2)|Sandstone Silver Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Silver Chest(W2)"
+            },
+            {
+                "wikiName": "[[Shuvelle#Mayoral Skill|Mayoral Skill]]",
+                "txtName": "Shuvelle: Mayoral Skill"
+            },
+            {"wikiName": "[[Catching]]", "txtName": "Catching"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "FoodG2": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Sandstone#Silver Chest(W2)|Sandstone Silver Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Silver Chest(W2)"
+            },
+            {
+                "wikiName": "[[Colosseum/Molten#Silver Chest(W5)|Molten Silver Chest(W5)]]",
+                "txtName": "Colosseum: Molten Silver Chest(W5)"
+            },
+            {
+                "wikiName": "[[Colosseum/Molten#Golden Chest(W5)|Molten Golden Chest(W5)]]",
+                "txtName": "Colosseum: Molten Golden Chest(W5)"
+            },
+            {
+                "wikiName": "[[Colosseum/Whimsical#Silver Chest(W6)|Whimsical Silver Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Silver Chest(W6)"
+            },
+            {
+                "wikiName": "[[Colosseum/Whimsical#Golden Chest(W6)|Whimsical Golden Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Golden Chest(W6)"
+            },
+            {
+                "wikiName": "[[Post Office#Dudes Next Door|Dudes Next Door]]",
+                "txtName": "Post Office: Dudes Next Door"
+            },
+            {
+                "wikiName": "[[Picnic Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]]",
+                "txtName": "Picnic Stowaway: Luncheon with the Inlaws"
+            },
+            {
+                "wikiName": "[[Picnic Stowaway#Afternoon Tea in a Jiffy|Afternoon Tea in a Jiffy]]",
+                "txtName": "Picnic Stowaway: Afternoon Tea in a Jiffy"
+            },
+            {
+                "wikiName": "[[Picnic Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]]",
+                "txtName": "Picnic Stowaway: Early Evening Eating Endeavor"
+            },
+            {
+                "wikiName": "[[Picnic Stowaway#The Last Supper, at Least for Today!|The Last Supper, at Least for Today!]]",
+                "txtName": "Picnic Stowaway: The Last Supper, at Least for Today!"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Plat": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Sandstone#Silver Chest(W2)|Sandstone Silver Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Silver Chest(W2)"
+            },
+            {"wikiName": "[[Mining]]", "txtName": "Mining"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "PalmTree": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Sandstone#Silver Chest(W2)|Sandstone Silver Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Silver Chest(W2)"
+            },
+            {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "FoodG3": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Sandstone#Golden Chest(W2)|Sandstone Golden Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Golden Chest(W2)"
+            },
+            {"wikiName": "[[SuperDropTable2]]", "txtName": "SuperDropTable2"},
+            {
+                "wikiName": "[[Picnic Stowaway#The Last Supper, at Least for Today!|The Last Supper, at Least for Today!]]",
+                "txtName": "Picnic Stowaway: The Last Supper, at Least for Today!"
+            },
+            {
+                "wikiName": "[[Picnic Stowaway#Don't Desert the Dessert|Don't Desert the Dessert]]",
+                "txtName": "Picnic Stowaway: Don't Desert the Dessert"
+            },
+            {
+                "wikiName": "[[Picnic Stowaway#A Midnight Snack|A Midnight Snack]]",
+                "txtName": "Picnic Stowaway: A Midnight Snack"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "PlatBar": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Sandstone#Golden Chest(W2)|Sandstone Golden Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Golden Chest(W2)"
+            },
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Bronze Chest(W3)|Chillsnap Bronze Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Bronze Chest(W3)"
+            },
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Bronze Chest(W3)|Chillsnap Bronze Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Bronze Chest(W3)"
+            },
+            {"wikiName": "[[Forging]]", "txtName": "Forging"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Dementia": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Sandstone#Golden Chest(W2)|Sandstone Golden Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Golden Chest(W2)"
+            },
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Silver Chest(W3)|Chillsnap Silver Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Silver Chest(W3)"
+            },
+            {"wikiName": "[[Mining]]", "txtName": "Mining"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Fish4": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Sandstone#Golden Chest(W2)|Sandstone Golden Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Golden Chest(W2)"
+            },
+            {"wikiName": "[[Fishing]]", "txtName": "Fishing"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Bug4": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Sandstone#Golden Chest(W2)|Sandstone Golden Chest(W2)]]",
+                "txtName": "Colosseum: Sandstone Golden Chest(W2)"
+            },
+            {"wikiName": "[[Catching]]", "txtName": "Catching"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Soul1": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Bronze Chest(W3)|Chillsnap Bronze Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Bronze Chest(W3)"
+            },
+            {"wikiName": "[[Worship]]", "txtName": "Worship"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Critter1": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Bronze Chest(W3)|Chillsnap Bronze Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Bronze Chest(W3)"
+            },
+            {"wikiName": "[[Trapping]]", "txtName": "Trapping"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Critter2": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Silver Chest(W3)|Chillsnap Silver Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Silver Chest(W3)"
+            },
+            {"wikiName": "[[Trapping]]", "txtName": "Trapping"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Bug5": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Silver Chest(W3)|Chillsnap Silver Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Silver Chest(W3)"
+            },
+            {"wikiName": "[[Catching]]", "txtName": "Catching"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "FoodG5": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Silver Chest(W3)|Chillsnap Silver Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Silver Chest(W3)"
+            },
+            {
+                "wikiName": "[[Post Office#Down Undelivery|Down Undelivery]]",
+                "txtName": "Post Office: Down Undelivery"
+            },
+            {"wikiName": "[[SuperDropTable3]]", "txtName": "SuperDropTable3"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "SaharanFoal": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Silver Chest(W3)|Chillsnap Silver Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Silver Chest(W3)"
+            },
+            {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "DementiaBar": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Golden Chest(W3)|Chillsnap Golden Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Golden Chest(W3)"
+            },
+            {"wikiName": "[[Forging]]", "txtName": "Forging"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Soul2": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Golden Chest(W3)|Chillsnap Golden Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Golden Chest(W3)"
+            },
+            {"wikiName": "[[Worship]]", "txtName": "Worship"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Void": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Golden Chest(W3)|Chillsnap Golden Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Golden Chest(W3)"
+            },
+            {"wikiName": "[[Mining]]", "txtName": "Mining"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Bug6": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Golden Chest(W3)|Chillsnap Golden Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Golden Chest(W3)"
+            },
+            {"wikiName": "[[Catching]]", "txtName": "Catching"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "FoodG6": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Chillsnap#Golden Chest(W3)|Chillsnap Golden Chest(W3)]]",
+                "txtName": "Colosseum: Chillsnap Golden Chest(W3)"
+            },
+            {
+                "wikiName": "[[Colosseum/Molten#Golden Chest(W5)|Molten Golden Chest(W5)]]",
+                "txtName": "Colosseum: Molten Golden Chest(W5)"
+            },
+            {
+                "wikiName": "[[Post Office#Alpine Suppliers|Alpine Suppliers]]",
+                "txtName": "Post Office: Alpine Suppliers"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StoneW4": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Astro#Bronze Chest(W4)|Astro Bronze Chest(W4)]]",
+                "txtName": "Colosseum: Astro Bronze Chest(W4)"
+            },
+            {
+                "wikiName": "[[Colosseum/Astro#Silver Chest(W4)|Astro Silver Chest(W4)]]",
+                "txtName": "Colosseum: Astro Silver Chest(W4)"
+            },
+            {
+                "wikiName": "[[Post Office#Cosmic Carrier|Cosmic Carrier]]",
+                "txtName": "Post Office: Cosmic Carrier"
+            },
+            {
+                "wikiName": "[[Vendors#Outer World Town|Outer World Town Vendors]]",
+                "txtName": "Outer World Town Vendor"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StoneA4": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Astro#Bronze Chest(W4)|Astro Bronze Chest(W4)]]",
+                "txtName": "Colosseum: Astro Bronze Chest(W4)"
+            },
+            {
+                "wikiName": "[[Colosseum/Astro#Silver Chest(W4)|Astro Silver Chest(W4)]]",
+                "txtName": "Colosseum: Astro Silver Chest(W4)"
+            },
+            {
+                "wikiName": "[[Post Office#Cosmic Carrier|Cosmic Carrier]]",
+                "txtName": "Post Office: Cosmic Carrier"
+            },
+            {
+                "wikiName": "[[Vendors#Outer World Town|Outer World Town Vendors]]",
+                "txtName": "Outer World Town Vendor"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Soul3": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Astro#Bronze Chest(W4)|Astro Bronze Chest(W4)]]",
+                "txtName": "Colosseum: Astro Bronze Chest(W4)"
+            },
+            {"wikiName": "[[Worship]]", "txtName": "Worship"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Critter6": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Astro#Bronze Chest(W4)|Astro Bronze Chest(W4)]]",
+                "txtName": "Colosseum: Astro Bronze Chest(W4)"
+            },
+            {"wikiName": "[[Trapping]]", "txtName": "Trapping"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "VoidBar": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Astro#Bronze Chest(W4)|Astro Bronze Chest(W4)]]",
+                "txtName": "Colosseum: Astro Bronze Chest(W4)"
+            },
+            {"wikiName": "[[Forging]]", "txtName": "Forging"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Critter8": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Astro#Silver Chest(W4)|Astro Silver Chest(W4)]]",
+                "txtName": "Colosseum: Astro Silver Chest(W4)"
+            },
+            {"wikiName": "[[Trapping]]", "txtName": "Trapping"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Bug7": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Astro#Silver Chest(W4)|Astro Silver Chest(W4)]]",
+                "txtName": "Colosseum: Astro Silver Chest(W4)"
+            },
+            {"wikiName": "[[Catching]]", "txtName": "Catching"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "FoodG7": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Astro#Silver Chest(W4)|Astro Silver Chest(W4)]]",
+                "txtName": "Colosseum: Astro Silver Chest(W4)"
+            },
+            {
+                "wikiName": "[[Colosseum/Astro#Golden Chest(W4)|Astro Golden Chest(W4)]]",
+                "txtName": "Colosseum: Astro Golden Chest(W4)"
+            },
+            {
+                "wikiName": "[[Post Office#Cosmic Carrier|Cosmic Carrier]]",
+                "txtName": "Post Office: Cosmic Carrier"
+            },
+            {"wikiName": "[[SuperDropTable4]]", "txtName": "SuperDropTable4"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Lustre": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Astro#Silver Chest(W4)|Astro Silver Chest(W4)]]",
+                "txtName": "Colosseum: Astro Silver Chest(W4)"
+            },
+            {"wikiName": "[[Mining]]", "txtName": "Mining"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "AlienTree": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Astro#Silver Chest(W4)|Astro Silver Chest(W4)]]",
+                "txtName": "Colosseum: Astro Silver Chest(W4)"
+            },
+            {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "LustreBar": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Astro#Golden Chest(W4)|Astro Golden Chest(W4)]]",
+                "txtName": "Colosseum: Astro Golden Chest(W4)"
+            },
+            {"wikiName": "[[Forging]]", "txtName": "Forging"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Starfire": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Astro#Golden Chest(W4)|Astro Golden Chest(W4)]]",
+                "txtName": "Colosseum: Astro Golden Chest(W4)"
+            },
+            {
+                "wikiName": "[[Colosseum/Molten#Silver Chest(W5)|Molten Silver Chest(W5)]]",
+                "txtName": "Colosseum: Molten Silver Chest(W5)"
+            },
+            {"wikiName": "[[Mining]]", "txtName": "Mining"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Bug8": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Astro#Golden Chest(W4)|Astro Golden Chest(W4)]]",
+                "txtName": "Colosseum: Astro Golden Chest(W4)"
+            },
+            {"wikiName": "[[Catching]]", "txtName": "Catching"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StoneW5": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Molten#Bronze Chest(W5)|Molten Bronze Chest(W5)]]",
+                "txtName": "Colosseum: Molten Bronze Chest(W5)"
+            },
+            {
+                "wikiName": "[[Colosseum/Molten#Silver Chest(W5)|Molten Silver Chest(W5)]]",
+                "txtName": "Colosseum: Molten Silver Chest(W5)"
+            },
+            {
+                "wikiName": "[[Vendors#Magma Rivertown|Magma Rivertown Vendors]]",
+                "txtName": "Magma Rivertown Vendor"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StoneA5": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Molten#Bronze Chest(W5)|Molten Bronze Chest(W5)]]",
+                "txtName": "Colosseum: Molten Bronze Chest(W5)"
+            },
+            {
+                "wikiName": "[[Colosseum/Molten#Silver Chest(W5)|Molten Silver Chest(W5)]]",
+                "txtName": "Colosseum: Molten Silver Chest(W5)"
+            },
+            {
+                "wikiName": "[[Vendors#Magma Rivertown|Magma Rivertown Vendors]]",
+                "txtName": "Magma Rivertown Vendor"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Gfoodcoupon": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Molten#Bronze Chest(W5)|Molten Bronze Chest(W5)]]",
+                "txtName": "Colosseum: Molten Bronze Chest(W5)"
+            },
+            {
+                "wikiName": "[[Colosseum/Molten#Silver Chest(W5)|Molten Silver Chest(W5)]]",
+                "txtName": "Colosseum: Molten Silver Chest(W5)"
+            },
+            {
+                "wikiName": "[[Colosseum/Molten#Golden Chest(W5)|Molten Golden Chest(W5)]]",
+                "txtName": "Colosseum: Molten Golden Chest(W5)"
+            },
+            {
+                "wikiName": "[[Colosseum/Whimsical#Bronze Chest(W6)|Whimsical Bronze Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Bronze Chest(W6)"
+            },
+            {
+                "wikiName": "[[Colosseum/Whimsical#Silver Chest(W6)|Whimsical Silver Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Silver Chest(W6)"
+            },
+            {
+                "wikiName": "[[Colosseum/Whimsical#Golden Chest(W6)|Whimsical Golden Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Golden Chest(W6)"
+            },
+            {
+                "wikiName": "[[Royal Worm#Royal Bidding|Royal Bidding]]",
+                "txtName": "Royal Worm: Royal Bidding"
+            },
+            {
+                "wikiName": "[[Hoov#Stealth Check 1 2 3|Stealth Check 1 2 3]]",
+                "txtName": "Hoov: Stealth Check 1 2 3"
+            },
+            {
+                "wikiName": "[[Hoov#Sneak Registration|Sneak Registration]]",
+                "txtName": "Hoov: Sneak Registration"
+            },
+            {
+                "wikiName": "[[Hoov#Sneak Graduate|Sneak Graduate]]",
+                "txtName": "Hoov: Sneak Graduate"
+            },
+            {
+                "wikiName": "[[Woodlin Elder#Portal Issues|Portal Issues]]",
+                "txtName": "Woodlin Elder: Portal Issues"
+            },
+            {"wikiName": "[[Woodlin Elder#Fiddy|Fiddy]]", "txtName": "Woodlin Elder: Fiddy"},
+            {
+                "wikiName": "[[Woodlin Elder#Hunned Fiddy|Hunned Fiddy]]",
+                "txtName": "Woodlin Elder: Hunned Fiddy"
+            },
+            {
+                "wikiName": "[[Woodlin Elder#Triple Tre|Triple Tre]]",
+                "txtName": "Woodlin Elder: Triple Tre"
+            },
+            {
+                "wikiName": "[[Sussy Gene#Goofin' Around|Goofin' Around]]",
+                "txtName": "Sussy Gene: Goofin' Around"
+            },
+            {
+                "wikiName": "[[Sussy Gene#Messin' Around|Messin' Around]]",
+                "txtName": "Sussy Gene: Messin' Around"
+            },
+            {
+                "wikiName": "[[Sussy Gene#Loiterin' Around|Loiterin' Around]]",
+                "txtName": "Sussy Gene: Loiterin' Around"
+            },
+            {"wikiName": "[[Arcade]]", "txtName": "Arcade"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "FoodG9": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Molten#Bronze Chest(W5)|Molten Bronze Chest(W5)]]",
+                "txtName": "Colosseum: Molten Bronze Chest(W5)"
+            },
+            {"wikiName": "[[DropTable26]]", "txtName": "DropTable26"},
+            {"wikiName": "[[DropTable27]]", "txtName": "DropTable27"},
+            {"wikiName": "[[SuperDropTable5]]", "txtName": "SuperDropTable5"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Soul4": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Molten#Bronze Chest(W5)|Molten Bronze Chest(W5)]]",
+                "txtName": "Colosseum: Molten Bronze Chest(W5)"
+            },
+            {"wikiName": "[[Worship]]", "txtName": "Worship"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Bug9": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Molten#Silver Chest(W5)|Molten Silver Chest(W5)]]",
+                "txtName": "Colosseum: Molten Silver Chest(W5)"
+            },
+            {"wikiName": "[[Catching]]", "txtName": "Catching"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Tree9": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Molten#Silver Chest(W5)|Molten Silver Chest(W5)]]",
+                "txtName": "Colosseum: Molten Silver Chest(W5)"
+            },
+            {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "DreadloBar": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Molten#Golden Chest(W5)|Molten Golden Chest(W5)]]",
+                "txtName": "Colosseum: Molten Golden Chest(W5)"
+            },
+            {"wikiName": "[[Forging]]", "txtName": "Forging"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Dreadlo": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Molten#Golden Chest(W5)|Molten Golden Chest(W5)]]",
+                "txtName": "Colosseum: Molten Golden Chest(W5)"
+            },
+            {"wikiName": "[[Mining]]", "txtName": "Mining"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Bug10": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Molten#Golden Chest(W5)|Molten Golden Chest(W5)]]",
+                "txtName": "Colosseum: Molten Golden Chest(W5)"
+            },
+            {"wikiName": "[[Catching]]", "txtName": "Catching"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StoneW8": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Whimsical#Bronze Chest(W6)|Whimsical Bronze Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Bronze Chest(W6)"
+            },
+            {
+                "wikiName": "[[Colosseum/Whimsical#Silver Chest(W6)|Whimsical Silver Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Silver Chest(W6)"
+            },
+            {
+                "wikiName": "[[Vendors#Spirit Village|Spirit Village Vendors]]",
+                "txtName": "Spirit Village Vendor"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StoneA7": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Whimsical#Bronze Chest(W6)|Whimsical Bronze Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Bronze Chest(W6)"
+            },
+            {
+                "wikiName": "[[Colosseum/Whimsical#Silver Chest(W6)|Whimsical Silver Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Silver Chest(W6)"
+            },
+            {
+                "wikiName": "[[Vendors#Spirit Village|Spirit Village Vendors]]",
+                "txtName": "Spirit Village Vendor"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "FoodG11": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Whimsical#Bronze Chest(W6)|Whimsical Bronze Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Bronze Chest(W6)"
+            },
+            {"wikiName": "[[DropTable30]]", "txtName": "DropTable30"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Soul5": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Whimsical#Bronze Chest(W6)|Whimsical Bronze Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Bronze Chest(W6)"
+            },
+            {"wikiName": "[[Worship]]", "txtName": "Worship"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Soul6": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Whimsical#Bronze Chest(W6)|Whimsical Bronze Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Bronze Chest(W6)"
+            },
+            {"wikiName": "[[Worship]]", "txtName": "Worship"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Bug12": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Whimsical#Silver Chest(W6)|Whimsical Silver Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Silver Chest(W6)"
+            },
+            {"wikiName": "[[Catching]]", "txtName": "Catching"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Tree12": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Whimsical#Silver Chest(W6)|Whimsical Silver Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Silver Chest(W6)"
+            },
+            {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "GodshardBar": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Whimsical#Golden Chest(W6)|Whimsical Golden Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Golden Chest(W6)"
+            },
+            {"wikiName": "[[Forging]]", "txtName": "Forging"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Godshard": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Whimsical#Golden Chest(W6)|Whimsical Golden Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Golden Chest(W6)"
+            },
+            {"wikiName": "[[Mining]]", "txtName": "Mining"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Bug13": {
+        "sources": [
+            {
+                "wikiName": "[[Colosseum/Whimsical#Golden Chest(W6)|Whimsical Golden Chest(W6)]]",
+                "txtName": "Colosseum: Whimsical Golden Chest(W6)"
+            },
+            {"wikiName": "[[Catching]]", "txtName": "Catching"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -9146,76 +10682,6 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "StoneA1": {
-        "sources": [
-            {
-                "wikiName": "[[Post Office#Simple Shippin|Simple Shippin]]",
-                "txtName": "Post Office: Simple Shippin"
-            },
-            {
-                "wikiName": "[[Post Office#Plan-it Express|Plan-it Express]]",
-                "txtName": "Post Office: Plan-it Express"
-            },
-            {
-                "wikiName": "[[Post Office#Dudes Next Door|Dudes Next Door]]",
-                "txtName": "Post Office: Dudes Next Door"
-            },
-            {
-                "wikiName": "[[Post Office#Alpine Suppliers|Alpine Suppliers]]",
-                "txtName": "Post Office: Alpine Suppliers"
-            },
-            {
-                "wikiName": "[[Vendors#Blunder Hills|Blunder Hills Vendors]]",
-                "txtName": "Blunder Hills Vendor"
-            },
-            {"wikiName": "[[DropTable4]]", "txtName": "DropTable4"},
-            {
-                "wikiName": "[[Scripticus#Can't somebody else do it?|Can't somebody else do it?]]",
-                "txtName": "Scripticus: Can't somebody else do it?"
-            },
-            {
-                "wikiName": "[[Alchemy#Liquid Shop|Weak UPG Stone]]",
-                "txtName": "Alchemy: Weak UPG Stone"
-            }
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "StoneW1": {
-        "sources": [
-            {
-                "wikiName": "[[Post Office#Simple Shippin|Simple Shippin]]",
-                "txtName": "Post Office: Simple Shippin"
-            },
-            {
-                "wikiName": "[[Post Office#Plan-it Express|Plan-it Express]]",
-                "txtName": "Post Office: Plan-it Express"
-            },
-            {
-                "wikiName": "[[Post Office#Dudes Next Door|Dudes Next Door]]",
-                "txtName": "Post Office: Dudes Next Door"
-            },
-            {
-                "wikiName": "[[Post Office#Alpine Suppliers|Alpine Suppliers]]",
-                "txtName": "Post Office: Alpine Suppliers"
-            },
-            {
-                "wikiName": "[[Vendors#Blunder Hills|Blunder Hills Vendors]]",
-                "txtName": "Blunder Hills Vendor"
-            },
-            {"wikiName": "[[DropTable5]]", "txtName": "DropTable5"},
-            {
-                "wikiName": "[[Promotheus#Three Right Answers|Three Right Answers]]",
-                "txtName": "Promotheus: Three Right Answers"
-            },
-            {
-                "wikiName": "[[Alchemy#Liquid Shop|Weak UPG Stone]]",
-                "txtName": "Alchemy: Weak UPG Stone"
-            }
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
     "StoneT1": {
         "sources": [
             {
@@ -9238,44 +10704,6 @@
             {
                 "wikiName": "[[Alchemy#Liquid Shop|Weak UPG Stone]]",
                 "txtName": "Alchemy: Weak UPG Stone"
-            }
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "FoodG1": {
-        "sources": [
-            {
-                "wikiName": "[[Post Office#Simple Shippin|Simple Shippin]]",
-                "txtName": "Post Office: Simple Shippin"
-            },
-            {
-                "wikiName": "[[Picnic Stowaway#Live-Action Entertainment|Live-Action Entertainment]]",
-                "txtName": "Picnic Stowaway: Live-Action Entertainment"
-            },
-            {
-                "wikiName": "[[Picnic Stowaway#The Most Important Meal of the Day|The Most Important Meal of the Day]]",
-                "txtName": "Picnic Stowaway: The Most Important Meal of the Day"
-            },
-            {
-                "wikiName": "[[Picnic Stowaway#Brunchin' with the Blobs|Brunchin' with the Blobs]]",
-                "txtName": "Picnic Stowaway: Brunchin' with the Blobs"
-            },
-            {
-                "wikiName": "[[Picnic Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]]",
-                "txtName": "Picnic Stowaway: Luncheon with the Inlaws"
-            },
-            {
-                "wikiName": "[[Picnic Stowaway#Afternoon Tea in a Jiffy|Afternoon Tea in a Jiffy]]",
-                "txtName": "Picnic Stowaway: Afternoon Tea in a Jiffy"
-            },
-            {
-                "wikiName": "[[Picnic Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]]",
-                "txtName": "Picnic Stowaway: Early Evening Eating Endeavor"
-            },
-            {
-                "wikiName": "[[Tiki Chief#Brochure Building|Brochure Building]]",
-                "txtName": "Tiki Chief: Brochure Building"
             }
         ],
         "recipeFrom": [],
@@ -9425,43 +10853,6 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "Key1": {
-        "sources": [
-            {
-                "wikiName": "[[Post Office#Simple Shippin|Simple Shippin]]",
-                "txtName": "Post Office: Simple Shippin"
-            },
-            {
-                "wikiName": "[[Post Office#Plan-it Express|Plan-it Express]]",
-                "txtName": "Post Office: Plan-it Express"
-            },
-            {
-                "wikiName": "[[Post Office#Down Undelivery|Down Undelivery]]",
-                "txtName": "Post Office: Down Undelivery"
-            },
-            {
-                "wikiName": "[[Dog Bone (NPC)#Why he Die???|Why he Die???]]",
-                "txtName": "Dog Bone (NPC): Why he Die???"
-            },
-            {
-                "wikiName": "[[Dog Bone (NPC)#Bow Wow going Dow..n!|Bow Wow going Dow..n!]]",
-                "txtName": "Dog Bone (NPC): Bow Wow going Dow..n!"
-            }
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "FoodG4": {
-        "sources": [
-            {
-                "wikiName": "[[Post Office#Plan-it Express|Plan-it Express]]",
-                "txtName": "Post Office: Plan-it Express"
-            },
-            {"wikiName": "[[SuperDropTable1]]", "txtName": "SuperDropTable1"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
     "FoodPotGr2": {
         "sources": [
             {
@@ -9573,32 +10964,6 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "FoodG2": {
-        "sources": [
-            {
-                "wikiName": "[[Post Office#Dudes Next Door|Dudes Next Door]]",
-                "txtName": "Post Office: Dudes Next Door"
-            },
-            {
-                "wikiName": "[[Picnic Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]]",
-                "txtName": "Picnic Stowaway: Luncheon with the Inlaws"
-            },
-            {
-                "wikiName": "[[Picnic Stowaway#Afternoon Tea in a Jiffy|Afternoon Tea in a Jiffy]]",
-                "txtName": "Picnic Stowaway: Afternoon Tea in a Jiffy"
-            },
-            {
-                "wikiName": "[[Picnic Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]]",
-                "txtName": "Picnic Stowaway: Early Evening Eating Endeavor"
-            },
-            {
-                "wikiName": "[[Picnic Stowaway#The Last Supper, at Least for Today!|The Last Supper, at Least for Today!]]",
-                "txtName": "Picnic Stowaway: The Last Supper, at Least for Today!"
-            }
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
     "FoodPotYe2": {
         "sources": [
             {
@@ -9645,39 +11010,6 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "StoneW3": {
-        "sources": [
-            {
-                "wikiName": "[[Post Office#Dudes Next Door|Dudes Next Door]]",
-                "txtName": "Post Office: Dudes Next Door"
-            },
-            {
-                "wikiName": "[[Post Office#Down Undelivery|Down Undelivery]]",
-                "txtName": "Post Office: Down Undelivery"
-            },
-            {
-                "wikiName": "[[Post Office#Alpine Suppliers|Alpine Suppliers]]",
-                "txtName": "Post Office: Alpine Suppliers"
-            },
-            {
-                "wikiName": "[[Vendors#Frostbite Towndra|Frostbite Towndra Vendors]]",
-                "txtName": "Frostbite Towndra Vendor"
-            }
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "FoodG5": {
-        "sources": [
-            {
-                "wikiName": "[[Post Office#Down Undelivery|Down Undelivery]]",
-                "txtName": "Post Office: Down Undelivery"
-            },
-            {"wikiName": "[[SuperDropTable3]]", "txtName": "SuperDropTable3"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
     "EquipmentStatues13": {
         "sources": [
             {
@@ -9711,16 +11043,6 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "FoodG6": {
-        "sources": [
-            {
-                "wikiName": "[[Post Office#Alpine Suppliers|Alpine Suppliers]]",
-                "txtName": "Post Office: Alpine Suppliers"
-            }
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
     "EquipmentStatues18": {
         "sources": [
             {
@@ -9732,20 +11054,6 @@
             {
                 "wikiName": "[[Monolith#A Lack of Modesty|A Lack of Modesty]]",
                 "txtName": "Monolith: A Lack of Modesty"
-            }
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "StoneA3": {
-        "sources": [
-            {
-                "wikiName": "[[Post Office#Alpine Suppliers|Alpine Suppliers]]",
-                "txtName": "Post Office: Alpine Suppliers"
-            },
-            {
-                "wikiName": "[[Vendors#Frostbite Towndra|Frostbite Towndra Vendors]]",
-                "txtName": "Frostbite Towndra Vendor"
             }
         ],
         "recipeFrom": [],
@@ -9793,34 +11101,6 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "StoneA4": {
-        "sources": [
-            {
-                "wikiName": "[[Post Office#Cosmic Carrier|Cosmic Carrier]]",
-                "txtName": "Post Office: Cosmic Carrier"
-            },
-            {
-                "wikiName": "[[Vendors#Outer World Town|Outer World Town Vendors]]",
-                "txtName": "Outer World Town Vendor"
-            }
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "StoneW4": {
-        "sources": [
-            {
-                "wikiName": "[[Post Office#Cosmic Carrier|Cosmic Carrier]]",
-                "txtName": "Post Office: Cosmic Carrier"
-            },
-            {
-                "wikiName": "[[Vendors#Outer World Town|Outer World Town Vendors]]",
-                "txtName": "Outer World Town Vendor"
-            }
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
     "StoneT4": {
         "sources": [
             {
@@ -9831,17 +11111,6 @@
                 "wikiName": "[[Vendors#Outer World Town|Outer World Town Vendors]]",
                 "txtName": "Outer World Town Vendor"
             }
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "FoodG7": {
-        "sources": [
-            {
-                "wikiName": "[[Post Office#Cosmic Carrier|Cosmic Carrier]]",
-                "txtName": "Post Office: Cosmic Carrier"
-            },
-            {"wikiName": "[[SuperDropTable4]]", "txtName": "SuperDropTable4"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -10863,26 +12132,6 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "StoneW5": {
-        "sources": [
-            {
-                "wikiName": "[[Vendors#Magma Rivertown|Magma Rivertown Vendors]]",
-                "txtName": "Magma Rivertown Vendor"
-            }
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "StoneA5": {
-        "sources": [
-            {
-                "wikiName": "[[Vendors#Magma Rivertown|Magma Rivertown Vendors]]",
-                "txtName": "Magma Rivertown Vendor"
-            }
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
     "StoneT5": {
         "sources": [
             {
@@ -10954,26 +12203,6 @@
         "questAss": []
     },
     "OilBarrel7": {
-        "sources": [
-            {
-                "wikiName": "[[Vendors#Spirit Village|Spirit Village Vendors]]",
-                "txtName": "Spirit Village Vendor"
-            }
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "StoneW8": {
-        "sources": [
-            {
-                "wikiName": "[[Vendors#Spirit Village|Spirit Village Vendors]]",
-                "txtName": "Spirit Village Vendor"
-            }
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "StoneA7": {
         "sources": [
             {
                 "wikiName": "[[Vendors#Spirit Village|Spirit Village Vendors]]",
@@ -11670,25 +12899,6 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "FoodG3": {
-        "sources": [
-            {"wikiName": "[[SuperDropTable2]]", "txtName": "SuperDropTable2"},
-            {
-                "wikiName": "[[Picnic Stowaway#The Last Supper, at Least for Today!|The Last Supper, at Least for Today!]]",
-                "txtName": "Picnic Stowaway: The Last Supper, at Least for Today!"
-            },
-            {
-                "wikiName": "[[Picnic Stowaway#Don't Desert the Dessert|Don't Desert the Dessert]]",
-                "txtName": "Picnic Stowaway: Don't Desert the Dessert"
-            },
-            {
-                "wikiName": "[[Picnic Stowaway#A Midnight Snack|A Midnight Snack]]",
-                "txtName": "Picnic Stowaway: A Midnight Snack"
-            }
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
     "ObolGold3": {
         "sources": [
             {"wikiName": "[[SuperDropTable2]]", "txtName": "SuperDropTable2"}
@@ -12005,15 +13215,6 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "FoodG9": {
-        "sources": [
-            {"wikiName": "[[DropTable26]]", "txtName": "DropTable26"},
-            {"wikiName": "[[DropTable27]]", "txtName": "DropTable27"},
-            {"wikiName": "[[SuperDropTable5]]", "txtName": "SuperDropTable5"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
     "InvStorage25": {
         "sources": [
             {"wikiName": "[[DropTable26]]", "txtName": "DropTable26"}
@@ -12090,13 +13291,6 @@
         "questAss": []
     },
     "EquipmentStatues27": {
-        "sources": [
-            {"wikiName": "[[DropTable30]]", "txtName": "DropTable30"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "FoodG11": {
         "sources": [
             {"wikiName": "[[DropTable30]]", "txtName": "DropTable30"}
         ],
@@ -13724,28 +14918,6 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "Bug3": {
-        "sources": [
-            {
-                "wikiName": "[[Shuvelle#Mayoral Skill|Mayoral Skill]]",
-                "txtName": "Shuvelle: Mayoral Skill"
-            },
-            {"wikiName": "[[Catching]]", "txtName": "Catching"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Fish3": {
-        "sources": [
-            {
-                "wikiName": "[[Shuvelle#Mayoral Skill|Mayoral Skill]]",
-                "txtName": "Shuvelle: Mayoral Skill"
-            },
-            {"wikiName": "[[Fishing]]", "txtName": "Fishing"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
     "NPCtoken35": {
         "sources": [
             {
@@ -14355,54 +15527,6 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "Gfoodcoupon": {
-        "sources": [
-            {
-                "wikiName": "[[Royal Worm#Royal Bidding|Royal Bidding]]",
-                "txtName": "Royal Worm: Royal Bidding"
-            },
-            {
-                "wikiName": "[[Hoov#Stealth Check 1 2 3|Stealth Check 1 2 3]]",
-                "txtName": "Hoov: Stealth Check 1 2 3"
-            },
-            {
-                "wikiName": "[[Hoov#Sneak Registration|Sneak Registration]]",
-                "txtName": "Hoov: Sneak Registration"
-            },
-            {
-                "wikiName": "[[Hoov#Sneak Graduate|Sneak Graduate]]",
-                "txtName": "Hoov: Sneak Graduate"
-            },
-            {
-                "wikiName": "[[Woodlin Elder#Portal Issues|Portal Issues]]",
-                "txtName": "Woodlin Elder: Portal Issues"
-            },
-            {"wikiName": "[[Woodlin Elder#Fiddy|Fiddy]]", "txtName": "Woodlin Elder: Fiddy"},
-            {
-                "wikiName": "[[Woodlin Elder#Hunned Fiddy|Hunned Fiddy]]",
-                "txtName": "Woodlin Elder: Hunned Fiddy"
-            },
-            {
-                "wikiName": "[[Woodlin Elder#Triple Tre|Triple Tre]]",
-                "txtName": "Woodlin Elder: Triple Tre"
-            },
-            {
-                "wikiName": "[[Sussy Gene#Goofin' Around|Goofin' Around]]",
-                "txtName": "Sussy Gene: Goofin' Around"
-            },
-            {
-                "wikiName": "[[Sussy Gene#Messin' Around|Messin' Around]]",
-                "txtName": "Sussy Gene: Messin' Around"
-            },
-            {
-                "wikiName": "[[Sussy Gene#Loiterin' Around|Loiterin' Around]]",
-                "txtName": "Sussy Gene: Loiterin' Around"
-            },
-            {"wikiName": "[[Arcade]]", "txtName": "Arcade"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
     "Quest82": {
         "sources": [
             {
@@ -14897,69 +16021,6 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "Copper": {
-        "sources": [
-            {"wikiName": "[[Mining]]", "txtName": "Mining"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Iron": {
-        "sources": [
-            {"wikiName": "[[Mining]]", "txtName": "Mining"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Gold": {
-        "sources": [
-            {"wikiName": "[[Mining]]", "txtName": "Mining"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Plat": {
-        "sources": [
-            {"wikiName": "[[Mining]]", "txtName": "Mining"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Dementia": {
-        "sources": [
-            {"wikiName": "[[Mining]]", "txtName": "Mining"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Void": {
-        "sources": [
-            {"wikiName": "[[Mining]]", "txtName": "Mining"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Lustre": {
-        "sources": [
-            {"wikiName": "[[Mining]]", "txtName": "Mining"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Starfire": {
-        "sources": [
-            {"wikiName": "[[Mining]]", "txtName": "Mining"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Dreadlo": {
-        "sources": [
-            {"wikiName": "[[Mining]]", "txtName": "Mining"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
     "Marble": {
         "sources": [
             {"wikiName": "[[Mining]]", "txtName": "Mining"}
@@ -14967,77 +16028,7 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "Godshard": {
-        "sources": [
-            {"wikiName": "[[Mining]]", "txtName": "Mining"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "CopperBar": {
-        "sources": [
-            {"wikiName": "[[Forging]]", "txtName": "Forging"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "IronBar": {
-        "sources": [
-            {"wikiName": "[[Forging]]", "txtName": "Forging"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "GoldBar": {
-        "sources": [
-            {"wikiName": "[[Forging]]", "txtName": "Forging"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "PlatBar": {
-        "sources": [
-            {"wikiName": "[[Forging]]", "txtName": "Forging"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "DementiaBar": {
-        "sources": [
-            {"wikiName": "[[Forging]]", "txtName": "Forging"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "VoidBar": {
-        "sources": [
-            {"wikiName": "[[Forging]]", "txtName": "Forging"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "LustreBar": {
-        "sources": [
-            {"wikiName": "[[Forging]]", "txtName": "Forging"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
     "StarfireBar": {
-        "sources": [
-            {"wikiName": "[[Forging]]", "txtName": "Forging"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "DreadloBar": {
-        "sources": [
-            {"wikiName": "[[Forging]]", "txtName": "Forging"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "GodshardBar": {
         "sources": [
             {"wikiName": "[[Forging]]", "txtName": "Forging"}
         ],
@@ -15051,56 +16042,7 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "OakTree": {
-        "sources": [
-            {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "BirchTree": {
-        "sources": [
-            {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "JungleTree": {
-        "sources": [
-            {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
     "ForestTree": {
-        "sources": [
-            {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "ToiletTree": {
-        "sources": [
-            {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "PalmTree": {
-        "sources": [
-            {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "StumpTree": {
-        "sources": [
-            {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "SaharanFoal": {
         "sources": [
             {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
         ],
@@ -15114,21 +16056,7 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "AlienTree": {
-        "sources": [
-            {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
     "Tree8": {
-        "sources": [
-            {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Tree9": {
         "sources": [
             {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
         ],
@@ -15149,37 +16077,9 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "Tree12": {
-        "sources": [
-            {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
     "Tree13": {
         "sources": [
             {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Fish1": {
-        "sources": [
-            {"wikiName": "[[Fishing]]", "txtName": "Fishing"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Fish2": {
-        "sources": [
-            {"wikiName": "[[Fishing]]", "txtName": "Fishing"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Fish4": {
-        "sources": [
-            {"wikiName": "[[Fishing]]", "txtName": "Fishing"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -15247,63 +16147,7 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "Bug1": {
-        "sources": [
-            {"wikiName": "[[Catching]]", "txtName": "Catching"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
     "Bug2": {
-        "sources": [
-            {"wikiName": "[[Catching]]", "txtName": "Catching"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Bug4": {
-        "sources": [
-            {"wikiName": "[[Catching]]", "txtName": "Catching"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Bug5": {
-        "sources": [
-            {"wikiName": "[[Catching]]", "txtName": "Catching"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Bug6": {
-        "sources": [
-            {"wikiName": "[[Catching]]", "txtName": "Catching"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Bug7": {
-        "sources": [
-            {"wikiName": "[[Catching]]", "txtName": "Catching"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Bug8": {
-        "sources": [
-            {"wikiName": "[[Catching]]", "txtName": "Catching"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Bug9": {
-        "sources": [
-            {"wikiName": "[[Catching]]", "txtName": "Catching"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Bug10": {
         "sources": [
             {"wikiName": "[[Catching]]", "txtName": "Catching"}
         ],
@@ -15317,35 +16161,7 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "Bug12": {
-        "sources": [
-            {"wikiName": "[[Catching]]", "txtName": "Catching"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Bug13": {
-        "sources": [
-            {"wikiName": "[[Catching]]", "txtName": "Catching"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Critter1": {
-        "sources": [
-            {"wikiName": "[[Trapping]]", "txtName": "Trapping"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
     "Critter1A": {
-        "sources": [
-            {"wikiName": "[[Trapping]]", "txtName": "Trapping"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Critter2": {
         "sources": [
             {"wikiName": "[[Trapping]]", "txtName": "Trapping"}
         ],
@@ -15401,13 +16217,6 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "Critter6": {
-        "sources": [
-            {"wikiName": "[[Trapping]]", "txtName": "Trapping"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
     "Critter6A": {
         "sources": [
             {"wikiName": "[[Trapping]]", "txtName": "Trapping"}
@@ -15423,13 +16232,6 @@
         "questAss": []
     },
     "Critter7A": {
-        "sources": [
-            {"wikiName": "[[Trapping]]", "txtName": "Trapping"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Critter8": {
         "sources": [
             {"wikiName": "[[Trapping]]", "txtName": "Trapping"}
         ],
@@ -15474,48 +16276,6 @@
     "Critter11A": {
         "sources": [
             {"wikiName": "[[Trapping]]", "txtName": "Trapping"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Soul1": {
-        "sources": [
-            {"wikiName": "[[Worship]]", "txtName": "Worship"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Soul2": {
-        "sources": [
-            {"wikiName": "[[Worship]]", "txtName": "Worship"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Soul3": {
-        "sources": [
-            {"wikiName": "[[Worship]]", "txtName": "Worship"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Soul4": {
-        "sources": [
-            {"wikiName": "[[Worship]]", "txtName": "Worship"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Soul5": {
-        "sources": [
-            {"wikiName": "[[Worship]]", "txtName": "Worship"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Soul6": {
-        "sources": [
-            {"wikiName": "[[Worship]]", "txtName": "Worship"}
         ],
         "recipeFrom": [],
         "questAss": []

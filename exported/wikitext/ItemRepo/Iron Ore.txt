@@ -5,3 +5,6 @@
 |sellprice=7
 |notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Dewdrop Silver Chest(W1)]]|0.6|50}}
+|}

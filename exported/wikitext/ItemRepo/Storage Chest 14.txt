@@ -16,4 +16,5 @@
 {{detdrops|[[Mashed Potato]]|0.000004679999999999999|1}}
 {{detdrops|[[Efaunt]]|0.0012|2}}
 {{detdrops|[[Chaotic Efaunt]]|0.0012|2}}
+{{detdrops|[[Sandstone Silver Chest(W2)]]|0.0012|1}}
 |}

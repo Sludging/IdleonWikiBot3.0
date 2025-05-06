@@ -2,9 +2,9 @@
 |world=Unknown
 |location=Unknown
 |npcType=Unknown
-|birthweight=4.1
-|starsign=Scorpio
-|mmm=Thompson
+|birthweight=3.14
+|starsign=Libra
+|mmm=Trussel
 |notes= 
 }}
 {{Quest/head}}

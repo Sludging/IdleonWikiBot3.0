@@ -3,3 +3,6 @@
 |sellprice=12500
 |notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Astro Golden Chest(W4)]]|0.05|150}}
+|}

@@ -5,3 +5,6 @@
 |sellprice=32
 |notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Chillsnap Silver Chest(W3)]]|0.4|150}}
+|}

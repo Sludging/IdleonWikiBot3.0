@@ -5,3 +5,7 @@
 |sellprice=100
 |notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Astro Golden Chest(W4)]]|0.03|2000}}
+{{detdrops|[[Molten Silver Chest(W5)]]|0.6|5000}}
+|}

@@ -14,4 +14,5 @@
 {{detdrops|[[Crabcake]]|0.00000648|1}}
 {{detdrops|[[Biggie Hours]]|0.0009|1}}
 {{detdrops|[[Efaunt]]|0.0018|2}}
+{{detdrops|[[Sandstone Bronze Chest(W2)]]|0.0018|1}}
 |}

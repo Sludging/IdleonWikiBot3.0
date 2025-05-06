@@ -12,6 +12,9 @@
 |setname = Gold
 |notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Chillsnap Silver Chest(W3)]]|0.02|1}}
+|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Copper Helmet|1}}

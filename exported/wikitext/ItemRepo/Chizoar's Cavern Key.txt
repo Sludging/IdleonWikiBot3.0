@@ -6,4 +6,7 @@
 }}
 {{detdrops/head}}
 {{detdrops|[[Dilapidated Slush]]|0.8|2}}
+{{detdrops|[[Chillsnap Bronze Chest(W3)]]|0.04|1}}
+{{detdrops|[[Chillsnap Silver Chest(W3)]]|0.1|1}}
+{{detdrops|[[Chillsnap Golden Chest(W3)]]|0.18|1}}
 |}

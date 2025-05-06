@@ -22,5 +22,6 @@
 {{detdrops|[[Chizoar]]|0.03|2}}
 {{detdrops|[[Chaotic Chizoar]]|0.03|2}}
 {{detdrops|[[Blighted Chizoar]]|0.03|2}}
+{{detdrops|[[Chillsnap Golden Chest(W3)]]|0.03|1}}
 |}
 {{Statuedata|1|%@Food Effect}}

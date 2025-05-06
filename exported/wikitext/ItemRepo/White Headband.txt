@@ -19,4 +19,5 @@
 {{detdrops|[[Baba Yaga]]|0.01|2}}
 {{detdrops|[[Amarok]]|0.01|2}}
 {{detdrops|[[Chaotic Amarok]]|0.01|4}}
+{{detdrops|[[Dewdrop Bronze Chest(W1)]]|0.01|1}}
 |}

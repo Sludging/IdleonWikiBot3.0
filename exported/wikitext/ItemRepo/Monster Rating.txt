@@ -11,6 +11,7 @@
 {{detdrops|[[Crabcake]]|0.00216|1}}
 {{detdrops|[[Biggie Hours]]|0.3|1}}
 {{detdrops|[[Efaunt]]|0.6|2}}
+{{detdrops|[[Sandstone Bronze Chest(W2)]]|0.6|1}}
 {{detdrops|[[Crystal Crabal]]|0.45|1}}
 {{detdrops|[[Dig Doug]]|0.00288|1}}
 {{detdrops|[[Mafioso]]|0.00288|1}}
@@ -19,4 +20,5 @@
 {{detdrops|[[Mashed Potato]]|0.00351|1}}
 {{detdrops|[[Efaunt]]|0.9|2}}
 {{detdrops|[[Chaotic Efaunt]]|0.9|2}}
+{{detdrops|[[Sandstone Silver Chest(W2)]]|0.9|1}}
 |}

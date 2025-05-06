@@ -18,3 +18,11 @@
 {{Sources/datarow|item=Golden Ham|SpecialText=4%}}
 {{Sources/datarow|item=Golden Bread|SpecialText=5%}}
 }}
+{{detdrops/head}}
+{{detdrops|[[Molten Bronze Chest(W5)]]|0.99|4}}
+{{detdrops|[[Molten Silver Chest(W5)]]|0.99|9}}
+{{detdrops|[[Molten Golden Chest(W5)]]|0.99|12}}
+{{detdrops|[[Whimsical Bronze Chest(W6)]]|0.99|15}}
+{{detdrops|[[Whimsical Silver Chest(W6)]]|0.99|30}}
+{{detdrops|[[Whimsical Golden Chest(W6)]]|0.99|50}}
+|}

@@ -3,3 +3,6 @@
 |sellprice=32
 |notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Dewdrop Golden Chest(W1)]]|0.1|15}}
+|}

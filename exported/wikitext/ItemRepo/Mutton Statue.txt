@@ -14,5 +14,6 @@
 {{detdrops|[[Gelatinous Cuboid]]|0.0000725|1}}
 {{detdrops|[[Choccie]]|0.0000775|1}}
 {{detdrops|[[Biggole Wurm]]|0.0000825|1}}
+{{detdrops|[[Astro Silver Chest(W4)]]|0.025|1}}
 |}
 {{Statuedata|0.3|%@Cooking Exp}}

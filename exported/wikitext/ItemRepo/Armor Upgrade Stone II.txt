@@ -7,4 +7,6 @@
 }}
 {{detdrops/head}}
 {{detdrops|[[Bored Bean]]|0.00005|1}}
+{{detdrops|[[Dewdrop Silver Chest(W1)]]|0.1|1}}
+{{detdrops|[[Sandstone Bronze Chest(W2)]]|0.09|1}}
 |}

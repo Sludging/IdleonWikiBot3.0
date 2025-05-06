@@ -13,6 +13,7 @@
 {{detdrops|[[Baba Yaga]]|0.0004|2}}
 {{detdrops|[[Amarok]]|0.0004|2}}
 {{detdrops|[[Chaotic Amarok]]|0.0004|4}}
+{{detdrops|[[Dewdrop Bronze Chest(W1)]]|0.0004|1}}
 {{detdrops|[[Crystal Carrot]]|0.000225|1}}
 {{detdrops|[[Slime]]|0.0000018000000000000001|1}}
 {{detdrops|[[Baby Boa]]|0.00000225|1}}
@@ -20,6 +21,7 @@
 {{detdrops|[[Baba Yaga]]|0.00045|1}}
 {{detdrops|[[Amarok]]|0.00045|2}}
 {{detdrops|[[Chaotic Amarok]]|0.00045|4}}
+{{detdrops|[[Dewdrop Silver Chest(W1)]]|0.00045|1}}
 {{detdrops|[[Crystal Carrot]]|0.0002|1}}
 {{detdrops|[[Glublin]]|0.0000020000000000000003|1}}
 {{detdrops|[[Wode Board]]|0.00000225|1}}
@@ -30,6 +32,7 @@
 {{detdrops|[[Amarok]]|0.0005|2}}
 {{detdrops|[[Chaotic Amarok]]|0.0005|4}}
 {{detdrops|[[Radiant Amarok]]|0.0005|2}}
+{{detdrops|[[Dewdrop Golden Chest(W1)]]|0.0005|1}}
 {{detdrops|[[Poop]]|0.0000032999999999999997|1}}
 {{detdrops|[[Rat]]|0.0000032999999999999997|1}}
 {{detdrops|[[Wood Mushroom]]|0.00000385|1}}
@@ -64,6 +67,7 @@
 {{detdrops|[[Crabcake]]|0.00000324|1}}
 {{detdrops|[[Biggie Hours]]|0.00045|1}}
 {{detdrops|[[Efaunt]]|0.0009|2}}
+{{detdrops|[[Sandstone Bronze Chest(W2)]]|0.0009|1}}
 {{detdrops|[[Crystal Crabal]]|0.00045|1}}
 {{detdrops|[[Dig Doug]]|0.0000028800000000000004|1}}
 {{detdrops|[[Mafioso]]|0.0000028800000000000004|1}}
@@ -72,6 +76,7 @@
 {{detdrops|[[Mashed Potato]]|0.00000351|1}}
 {{detdrops|[[Efaunt]]|0.0009|2}}
 {{detdrops|[[Chaotic Efaunt]]|0.0009|2}}
+{{detdrops|[[Sandstone Silver Chest(W2)]]|0.0009|1}}
 {{detdrops|[[Crystal Crabal]]|0.00036|1}}
 {{detdrops|[[Tyson]]|0.0000028800000000000004|1}}
 {{detdrops|[[Moonmoon]]|0.0000031500000000000003|1}}
@@ -80,6 +85,7 @@
 {{detdrops|[[Efaunt]]|0.0009|2}}
 {{detdrops|[[Chaotic Efaunt]]|0.0009|2}}
 {{detdrops|[[Gilded Efaunt]]|0.0009|2}}
+{{detdrops|[[Sandstone Golden Chest(W2)]]|0.0009|1}}
 {{detdrops|[[Crystal Crabal]]|0.00054|1}}
 {{detdrops|[[Fishing#Drops|Fishing Small Fish]]|0.0000108|1}}
 {{detdrops|[[Fishing#Drops|Fishing Medium Fish]]|0.0000108|1}}
@@ -111,6 +117,7 @@
 {{detdrops|[[Sir Stache]]|0.0000027899999999999995|1}}
 {{detdrops|[[Xylobone]]|0.000009|1}}
 {{detdrops|[[Chizoar]]|0.0009|2}}
+{{detdrops|[[Chillsnap Bronze Chest(W3)]]|0.0009|1}}
 {{detdrops|[[Crystal Cattle]]|0.00045|1}}
 {{detdrops|[[Bloque]]|0.00000225|1}}
 {{detdrops|[[Mamooth]]|0.00000243|1}}
@@ -119,6 +126,7 @@
 {{detdrops|[[Thermister]]|0.00000297|1}}
 {{detdrops|[[Chizoar]]|0.0009|2}}
 {{detdrops|[[Chaotic Chizoar]]|0.0009|2}}
+{{detdrops|[[Chillsnap Silver Chest(W3)]]|0.0009|1}}
 {{detdrops|[[Crystal Cattle]]|0.00036|1}}
 {{detdrops|[[Dedotated Ram]]|0.0000030599999999999995|1}}
 {{detdrops|[[Quenchie]]|0.00000225|1}}
@@ -129,6 +137,7 @@
 {{detdrops|[[Chizoar]]|0.0009|2}}
 {{detdrops|[[Chaotic Chizoar]]|0.0009|2}}
 {{detdrops|[[Blighted Chizoar]]|0.0009|2}}
+{{detdrops|[[Chillsnap Golden Chest(W3)]]|0.0009|1}}
 {{detdrops|[[Crystal Cattle]]|0.00054|1}}
 {{detdrops|[[Choppin#Drops|Choppin Saharan Foal]]|0.00000801|1}}
 {{detdrops|[[Choppin#Drops|Choppin Wispy Tree]]|0.00000801|1}}
@@ -143,6 +152,7 @@
 {{detdrops|[[TV]]|0.00000252|1}}
 {{detdrops|[[Donut]]|0.0000027899999999999995|1}}
 {{detdrops|[[Demon Genie]]|0.0000030599999999999995|1}}
+{{detdrops|[[Astro Bronze Chest(W4)]]|0.0009|1}}
 {{detdrops|[[Crystal Custard]]|0.00045|1}}
 {{detdrops|[[Massive Troll]]|0.0009|2}}
 {{detdrops|[[Chaotic Troll]]|0.0009|2}}
@@ -152,6 +162,7 @@
 {{detdrops|[[Gelatinous Cuboid]]|0.00000261|1}}
 {{detdrops|[[Choccie]]|0.0000027899999999999995|1}}
 {{detdrops|[[Biggole Wurm]]|0.00000297|1}}
+{{detdrops|[[Astro Silver Chest(W4)]]|0.0009|1}}
 {{detdrops|[[Crystal Custard]]|0.00036|1}}
 {{detdrops|[[Massive Troll]]|0.0009|2}}
 {{detdrops|[[Chaotic Troll]]|0.0009|2}}
@@ -160,6 +171,7 @@
 {{detdrops|[[Octodar]]|0.00000252|1}}
 {{detdrops|[[Flombeige]]|0.0000027|1}}
 {{detdrops|[[Stilted Seeker]]|0.0000028800000000000004|1}}
+{{detdrops|[[Astro Golden Chest(W4)]]|0.0009|1}}
 {{detdrops|[[Crystal Custard]]|0.00036|1}}
 {{detdrops|[[Choppin#Drops|Choppin Alien Tree]]|0.000007334999999999999|2}}
 {{detdrops|[[Choppin#Drops|Choppin Cubed Tree]]|0.00000801|1}}
@@ -174,6 +186,7 @@
 {{detdrops|[[Kattlekruk]]|0.00075|2}}
 {{detdrops|[[Chaotic Kattlekruk]]|0.00075|2}}
 {{detdrops|[[Sacrilegious Kattlekruk]]|0.00075|2}}
+{{detdrops|[[Molten Bronze Chest(W5)]]|0.00075|1}}
 {{detdrops|[[Catching#Drops|Catching Scarab]]|0.000011249999999999999|1}}
 {{detdrops|[[Crystal Capybara]]|0.00015|1}}
 {{detdrops|[[Molti]]|0.000001875|1}}
@@ -184,6 +197,7 @@
 {{detdrops|[[Biggole Mole]]|0.0000026250000000000003|1}}
 {{detdrops|[[Kattlekruk]]|0.00075|2}}
 {{detdrops|[[Chaotic Kattlekruk]]|0.00075|2}}
+{{detdrops|[[Molten Silver Chest(W5)]]|0.00075|1}}
 {{detdrops|[[Catching#Drops|Catching Dust Mote]]|0.000011249999999999999|1}}
 {{detdrops|[[Catching#Drops|Catching Dream Particulate]]|0.0000000000075|1}}
 {{detdrops|[[Crystal Capybara]]|0.0001275|1}}
@@ -191,6 +205,7 @@
 {{detdrops|[[Tremor Wurm]]|0.0000026250000000000003|1}}
 {{detdrops|[[Kattlekruk]]|0.00075|2}}
 {{detdrops|[[Chaotic Kattlekruk]]|0.00075|2}}
+{{detdrops|[[Molten Golden Chest(W5)]]|0.00075|1}}
 {{detdrops|[[Crystal Capybara]]|0.000153|1}}
 {{detdrops|[[Choppin#Drops|Choppin Dandelioli Tree]]|0.00000801|1}}
 {{detdrops|[[Choppin#Drops|Choppin Equinox Willow]]|0.00000801|1}}

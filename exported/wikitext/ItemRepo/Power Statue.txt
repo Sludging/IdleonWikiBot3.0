@@ -13,5 +13,6 @@
 {{detdrops|[[Baba Yaga]]|0.12|1}}
 {{detdrops|[[Amarok]]|0.12|2}}
 {{detdrops|[[Chaotic Amarok]]|0.12|4}}
+{{detdrops|[[Dewdrop Silver Chest(W1)]]|0.12|1}}
 |}
 {{Statuedata|3|@Base Damage}}

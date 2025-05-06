@@ -15,4 +15,5 @@
 {{detdrops|[[Amarok]]|0.25|20}}
 {{detdrops|[[Chaotic Amarok]]|0.25|40}}
 {{detdrops|[[Radiant Amarok]]|0.25|20}}
+{{detdrops|[[Dewdrop Golden Chest(W1)]]|0.25|10}}
 |}

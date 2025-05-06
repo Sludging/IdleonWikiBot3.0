@@ -5,3 +5,6 @@
 |sellprice=11
 |notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Sandstone Bronze Chest(W2)]]|0.4|50}}
+|}

@@ -4,3 +4,7 @@
 |tier=IV
 |sellprice=450000
 }}
+{{detdrops/head}}
+{{detdrops|[[Astro Bronze Chest(W4)]]|0.04|1}}
+{{detdrops|[[Astro Silver Chest(W4)]]|0.07|1}}
+|}

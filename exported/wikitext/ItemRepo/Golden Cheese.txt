@@ -10,6 +10,7 @@
 {{detdrops|[[Sir Stache]]|0.00000744|1}}
 {{detdrops|[[Xylobone]]|0.000024|1}}
 {{detdrops|[[Chizoar]]|0.0024000000000000002|2}}
+{{detdrops|[[Chillsnap Bronze Chest(W3)]]|0.0024000000000000002|1}}
 {{detdrops|[[Crystal Cattle]]|0.0012000000000000001|1}}
 {{detdrops|[[Bloque]]|0.000006|1}}
 {{detdrops|[[Mamooth]]|0.000006480000000000001|1}}
@@ -18,6 +19,7 @@
 {{detdrops|[[Thermister]]|0.00000792|1}}
 {{detdrops|[[Chizoar]]|0.0024000000000000002|2}}
 {{detdrops|[[Chaotic Chizoar]]|0.0024000000000000002|2}}
+{{detdrops|[[Chillsnap Silver Chest(W3)]]|0.0024000000000000002|1}}
 {{detdrops|[[Crystal Cattle]]|0.0009600000000000001|1}}
 {{detdrops|[[Dedotated Ram]]|0.00000816|1}}
 {{detdrops|[[Quenchie]]|0.000006|1}}
@@ -28,6 +30,7 @@
 {{detdrops|[[Chizoar]]|0.0024000000000000002|2}}
 {{detdrops|[[Chaotic Chizoar]]|0.0024000000000000002|2}}
 {{detdrops|[[Blighted Chizoar]]|0.0024000000000000002|2}}
+{{detdrops|[[Chillsnap Golden Chest(W3)]]|0.0024000000000000002|1}}
 {{detdrops|[[Crystal Cattle]]|0.00144|1}}
 {{detdrops|[[Choppin#Drops|Choppin Saharan Foal]]|0.000021360000000000002|1}}
 {{detdrops|[[Choppin#Drops|Choppin Wispy Tree]]|0.000021360000000000002|1}}

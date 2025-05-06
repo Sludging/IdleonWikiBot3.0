@@ -9,6 +9,7 @@
             {"source": "babayaga", "quantity": 2, "chance": 0},
             {"source": "wolfA", "quantity": 2, "chance": 0},
             {"source": "wolfB", "quantity": 4, "chance": 0},
+            {"source": "ChestA1", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 0},
             {"source": "slimeG", "quantity": 1, "chance": 0},
             {"source": "snakeG", "quantity": 1, "chance": 0},
@@ -16,6 +17,7 @@
             {"source": "babayaga", "quantity": 1, "chance": 0},
             {"source": "wolfA", "quantity": 2, "chance": 0},
             {"source": "wolfB", "quantity": 4, "chance": 0},
+            {"source": "ChestB1", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 0},
             {"source": "goblinG", "quantity": 1, "chance": 0},
             {"source": "plank", "quantity": 1, "chance": 0},
@@ -26,6 +28,7 @@
             {"source": "wolfA", "quantity": 2, "chance": 0},
             {"source": "wolfB", "quantity": 4, "chance": 0},
             {"source": "wolfC", "quantity": 2, "chance": 0},
+            {"source": "ChestC1", "quantity": 1, "chance": 0},
             {"source": "poopSmall", "quantity": 1, "chance": 0},
             {"source": "ratB", "quantity": 1, "chance": 0},
             {"source": "mushW", "quantity": 1, "chance": 0},
@@ -62,6 +65,7 @@
             {"source": "babayaga", "quantity": 2, "chance": 0},
             {"source": "wolfA", "quantity": 2, "chance": 0},
             {"source": "wolfB", "quantity": 4, "chance": 0},
+            {"source": "ChestA1", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 0},
             {"source": "slimeG", "quantity": 1, "chance": 0},
             {"source": "snakeG", "quantity": 1, "chance": 0},
@@ -69,6 +73,7 @@
             {"source": "babayaga", "quantity": 1, "chance": 0},
             {"source": "wolfA", "quantity": 2, "chance": 0},
             {"source": "wolfB", "quantity": 4, "chance": 0},
+            {"source": "ChestB1", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 0},
             {"source": "goblinG", "quantity": 1, "chance": 0},
             {"source": "plank", "quantity": 1, "chance": 0},
@@ -79,6 +84,7 @@
             {"source": "wolfA", "quantity": 2, "chance": 0},
             {"source": "wolfB", "quantity": 4, "chance": 0},
             {"source": "wolfC", "quantity": 2, "chance": 0},
+            {"source": "ChestC1", "quantity": 1, "chance": 0},
             {"source": "poopSmall", "quantity": 1, "chance": 0},
             {"source": "ratB", "quantity": 1, "chance": 0},
             {"source": "mushW", "quantity": 1, "chance": 0},
@@ -117,6 +123,7 @@
             {"source": "crabcake", "quantity": 1, "chance": 0},
             {"source": "babaHour", "quantity": 1, "chance": 0},
             {"source": "Boss2A", "quantity": 2, "chance": 0},
+            {"source": "ChestA2", "quantity": 1, "chance": 0},
             {"source": "Crystal1", "quantity": 1, "chance": 0},
             {"source": "shovelR", "quantity": 1, "chance": 0},
             {"source": "coconut", "quantity": 1, "chance": 0},
@@ -125,6 +132,7 @@
             {"source": "potato", "quantity": 1, "chance": 0},
             {"source": "Boss2A", "quantity": 2, "chance": 0},
             {"source": "Boss2B", "quantity": 2, "chance": 0},
+            {"source": "ChestB2", "quantity": 1, "chance": 0},
             {"source": "Crystal1", "quantity": 1, "chance": 0},
             {"source": "steak", "quantity": 1, "chance": 0},
             {"source": "moonman", "quantity": 1, "chance": 0},
@@ -133,6 +141,7 @@
             {"source": "Boss2A", "quantity": 2, "chance": 0},
             {"source": "Boss2B", "quantity": 2, "chance": 0},
             {"source": "Boss2C", "quantity": 2, "chance": 0},
+            {"source": "ChestC2", "quantity": 1, "chance": 0},
             {"source": "Crystal1", "quantity": 1, "chance": 0},
             {"source": "FishSmall", "quantity": 1, "chance": 0},
             {"source": "FishMed", "quantity": 1, "chance": 0},
@@ -164,6 +173,7 @@
             {"source": "crabcake", "quantity": 1, "chance": 0},
             {"source": "babaHour", "quantity": 1, "chance": 0},
             {"source": "Boss2A", "quantity": 2, "chance": 0},
+            {"source": "ChestA2", "quantity": 1, "chance": 0},
             {"source": "Crystal1", "quantity": 1, "chance": 0},
             {"source": "shovelR", "quantity": 1, "chance": 0},
             {"source": "coconut", "quantity": 1, "chance": 0},
@@ -172,6 +182,7 @@
             {"source": "potato", "quantity": 1, "chance": 0},
             {"source": "Boss2A", "quantity": 2, "chance": 0},
             {"source": "Boss2B", "quantity": 2, "chance": 0},
+            {"source": "ChestB2", "quantity": 1, "chance": 0},
             {"source": "Crystal1", "quantity": 1, "chance": 0},
             {"source": "steak", "quantity": 1, "chance": 0},
             {"source": "moonman", "quantity": 1, "chance": 0},
@@ -180,6 +191,7 @@
             {"source": "Boss2A", "quantity": 2, "chance": 0},
             {"source": "Boss2B", "quantity": 2, "chance": 0},
             {"source": "Boss2C", "quantity": 2, "chance": 0},
+            {"source": "ChestC2", "quantity": 1, "chance": 0},
             {"source": "Crystal1", "quantity": 1, "chance": 0},
             {"source": "FishSmall", "quantity": 1, "chance": 0},
             {"source": "FishMed", "quantity": 1, "chance": 0},
@@ -211,6 +223,7 @@
             {"source": "stache", "quantity": 1, "chance": 0},
             {"source": "skele", "quantity": 1, "chance": 0},
             {"source": "Boss3A", "quantity": 2, "chance": 0},
+            {"source": "ChestA3", "quantity": 1, "chance": 0},
             {"source": "Crystal2", "quantity": 1, "chance": 0},
             {"source": "bloque", "quantity": 1, "chance": 0},
             {"source": "mamoth", "quantity": 1, "chance": 0},
@@ -219,6 +232,7 @@
             {"source": "thermostat", "quantity": 1, "chance": 0},
             {"source": "Boss3A", "quantity": 2, "chance": 0},
             {"source": "Boss3B", "quantity": 2, "chance": 0},
+            {"source": "ChestB3", "quantity": 1, "chance": 0},
             {"source": "Crystal2", "quantity": 1, "chance": 0},
             {"source": "ram", "quantity": 1, "chance": 0},
             {"source": "glass", "quantity": 1, "chance": 0},
@@ -229,6 +243,7 @@
             {"source": "Boss3A", "quantity": 2, "chance": 0},
             {"source": "Boss3B", "quantity": 2, "chance": 0},
             {"source": "Boss3C", "quantity": 2, "chance": 0},
+            {"source": "ChestC3", "quantity": 1, "chance": 0},
             {"source": "Crystal2", "quantity": 1, "chance": 0},
             {"source": "SaharanFoal", "quantity": 1, "chance": 0},
             {"source": "Tree7", "quantity": 1, "chance": 0},
@@ -241,6 +256,7 @@
             {"source": "stache", "quantity": 1, "chance": 0},
             {"source": "skele", "quantity": 1, "chance": 0},
             {"source": "Boss3A", "quantity": 2, "chance": 0},
+            {"source": "ChestA3", "quantity": 1, "chance": 0},
             {"source": "Crystal2", "quantity": 1, "chance": 0},
             {"source": "bloque", "quantity": 1, "chance": 0},
             {"source": "mamoth", "quantity": 1, "chance": 0},
@@ -249,6 +265,7 @@
             {"source": "thermostat", "quantity": 1, "chance": 0},
             {"source": "Boss3A", "quantity": 2, "chance": 0},
             {"source": "Boss3B", "quantity": 2, "chance": 0},
+            {"source": "ChestB3", "quantity": 1, "chance": 0},
             {"source": "Crystal2", "quantity": 1, "chance": 0},
             {"source": "ram", "quantity": 1, "chance": 0},
             {"source": "glass", "quantity": 1, "chance": 0},
@@ -259,6 +276,7 @@
             {"source": "Boss3A", "quantity": 2, "chance": 0},
             {"source": "Boss3B", "quantity": 2, "chance": 0},
             {"source": "Boss3C", "quantity": 2, "chance": 0},
+            {"source": "ChestC3", "quantity": 1, "chance": 0},
             {"source": "Crystal2", "quantity": 1, "chance": 0},
             {"source": "SaharanFoal", "quantity": 1, "chance": 0},
             {"source": "Tree7", "quantity": 1, "chance": 0},
@@ -273,6 +291,7 @@
             {"source": "w4a2", "quantity": 1, "chance": 0},
             {"source": "w4a3", "quantity": 1, "chance": 0},
             {"source": "demonP", "quantity": 1, "chance": 0},
+            {"source": "ChestA4", "quantity": 1, "chance": 0},
             {"source": "Crystal3", "quantity": 1, "chance": 0},
             {"source": "Boss4A", "quantity": 2, "chance": 0},
             {"source": "Boss4B", "quantity": 2, "chance": 0},
@@ -282,6 +301,7 @@
             {"source": "w4b3", "quantity": 1, "chance": 0},
             {"source": "w4b4", "quantity": 1, "chance": 0},
             {"source": "w4b5", "quantity": 1, "chance": 0},
+            {"source": "ChestB4", "quantity": 1, "chance": 0},
             {"source": "Crystal3", "quantity": 1, "chance": 0},
             {"source": "Boss4A", "quantity": 2, "chance": 0},
             {"source": "Boss4B", "quantity": 2, "chance": 0},
@@ -290,6 +310,7 @@
             {"source": "w4c2", "quantity": 1, "chance": 0},
             {"source": "w4c3", "quantity": 1, "chance": 0},
             {"source": "w4c4", "quantity": 1, "chance": 0},
+            {"source": "ChestC4", "quantity": 1, "chance": 0},
             {"source": "Crystal3", "quantity": 1, "chance": 0},
             {"source": "AlienTree", "quantity": 2, "chance": 0},
             {"source": "Tree8", "quantity": 1, "chance": 0},
@@ -303,6 +324,7 @@
             {"source": "w4a2", "quantity": 1, "chance": 0},
             {"source": "w4a3", "quantity": 1, "chance": 0},
             {"source": "demonP", "quantity": 1, "chance": 0},
+            {"source": "ChestA4", "quantity": 1, "chance": 0},
             {"source": "Crystal3", "quantity": 1, "chance": 0},
             {"source": "Boss4A", "quantity": 2, "chance": 0},
             {"source": "Boss4B", "quantity": 2, "chance": 0},
@@ -312,6 +334,7 @@
             {"source": "w4b3", "quantity": 1, "chance": 0},
             {"source": "w4b4", "quantity": 1, "chance": 0},
             {"source": "w4b5", "quantity": 1, "chance": 0},
+            {"source": "ChestB4", "quantity": 1, "chance": 0},
             {"source": "Crystal3", "quantity": 1, "chance": 0},
             {"source": "Boss4A", "quantity": 2, "chance": 0},
             {"source": "Boss4B", "quantity": 2, "chance": 0},
@@ -320,6 +343,7 @@
             {"source": "w4c2", "quantity": 1, "chance": 0},
             {"source": "w4c3", "quantity": 1, "chance": 0},
             {"source": "w4c4", "quantity": 1, "chance": 0},
+            {"source": "ChestC4", "quantity": 1, "chance": 0},
             {"source": "Crystal3", "quantity": 1, "chance": 0},
             {"source": "AlienTree", "quantity": 2, "chance": 0},
             {"source": "Tree8", "quantity": 1, "chance": 0},
@@ -334,6 +358,7 @@
             {"source": "Boss5A", "quantity": 2, "chance": 0},
             {"source": "Boss5B", "quantity": 2, "chance": 0},
             {"source": "Boss5C", "quantity": 2, "chance": 0},
+            {"source": "ChestA5", "quantity": 1, "chance": 0},
             {"source": "Bug9", "quantity": 1, "chance": 0},
             {"source": "Crystal4", "quantity": 1, "chance": 0},
             {"source": "w5b1", "quantity": 1, "chance": 0},
@@ -344,6 +369,7 @@
             {"source": "w5b6", "quantity": 1, "chance": 0},
             {"source": "Boss5A", "quantity": 2, "chance": 0},
             {"source": "Boss5B", "quantity": 2, "chance": 0},
+            {"source": "ChestB5", "quantity": 1, "chance": 0},
             {"source": "Bug10", "quantity": 1, "chance": 0},
             {"source": "Bug11", "quantity": 1, "chance": 0},
             {"source": "Crystal4", "quantity": 1, "chance": 0},
@@ -351,6 +377,7 @@
             {"source": "w5c2", "quantity": 1, "chance": 0},
             {"source": "Boss5A", "quantity": 2, "chance": 0},
             {"source": "Boss5B", "quantity": 2, "chance": 0},
+            {"source": "ChestC5", "quantity": 1, "chance": 0},
             {"source": "Crystal4", "quantity": 1, "chance": 0},
             {"source": "Tree10", "quantity": 1, "chance": 0},
             {"source": "Tree11", "quantity": 1, "chance": 0},
@@ -363,6 +390,7 @@
             {"source": "Boss5A", "quantity": 2, "chance": 0},
             {"source": "Boss5B", "quantity": 2, "chance": 0},
             {"source": "Boss5C", "quantity": 2, "chance": 0},
+            {"source": "ChestA5", "quantity": 1, "chance": 0},
             {"source": "Bug9", "quantity": 1, "chance": 0},
             {"source": "Crystal4", "quantity": 1, "chance": 0},
             {"source": "w5b1", "quantity": 1, "chance": 0},
@@ -373,6 +401,7 @@
             {"source": "w5b6", "quantity": 1, "chance": 0},
             {"source": "Boss5A", "quantity": 2, "chance": 0},
             {"source": "Boss5B", "quantity": 2, "chance": 0},
+            {"source": "ChestB5", "quantity": 1, "chance": 0},
             {"source": "Bug10", "quantity": 1, "chance": 0},
             {"source": "Bug11", "quantity": 1, "chance": 0},
             {"source": "Crystal4", "quantity": 1, "chance": 0},
@@ -380,6 +409,7 @@
             {"source": "w5c2", "quantity": 1, "chance": 0},
             {"source": "Boss5A", "quantity": 2, "chance": 0},
             {"source": "Boss5B", "quantity": 2, "chance": 0},
+            {"source": "ChestC5", "quantity": 1, "chance": 0},
             {"source": "Crystal4", "quantity": 1, "chance": 0},
             {"source": "Tree10", "quantity": 1, "chance": 0},
             {"source": "Tree11", "quantity": 1, "chance": 0},
@@ -389,6 +419,9 @@
             {"source": "w6a3", "quantity": 1, "chance": 0},
             {"source": "w6a4", "quantity": 1, "chance": 0},
             {"source": "w6a5", "quantity": 1, "chance": 0},
+            {"source": "ChestA6", "quantity": 1, "chance": 0},
+            {"source": "ChestB6", "quantity": 1, "chance": 0},
+            {"source": "ChestC6", "quantity": 1, "chance": 0},
             {"source": "Bug12", "quantity": 1, "chance": 0},
             {"source": "Crystal5", "quantity": 1, "chance": 0},
             {"source": "w6b1", "quantity": 1, "chance": 0},
@@ -412,6 +445,9 @@
             {"source": "w6a3", "quantity": 1, "chance": 0},
             {"source": "w6a4", "quantity": 1, "chance": 0},
             {"source": "w6a5", "quantity": 1, "chance": 0},
+            {"source": "ChestA6", "quantity": 1, "chance": 0},
+            {"source": "ChestB6", "quantity": 1, "chance": 0},
+            {"source": "ChestC6", "quantity": 1, "chance": 0},
             {"source": "Bug12", "quantity": 1, "chance": 0},
             {"source": "Crystal5", "quantity": 1, "chance": 0},
             {"source": "w6b1", "quantity": 1, "chance": 0},
@@ -571,6 +607,30 @@
             {"source": "caveB", "quantity": 1, "chance": 0},
             {"source": "caveC", "quantity": 1, "chance": 0},
             {"source": "caveD", "quantity": 1, "chance": 0},
+            {"source": "ChestA1", "quantity": 100, "chance": 1},
+            {"source": "ChestB1", "quantity": 400, "chance": 1},
+            {"source": "ChestC1", "quantity": 1250, "chance": 1},
+            {"source": "ChestD1", "quantity": 5000, "chance": 1},
+            {"source": "ChestA2", "quantity": 1000, "chance": 1},
+            {"source": "ChestB2", "quantity": 4000, "chance": 1},
+            {"source": "ChestC2", "quantity": 10000, "chance": 1},
+            {"source": "ChestD2", "quantity": 5000, "chance": 1},
+            {"source": "ChestA3", "quantity": 10000, "chance": 1},
+            {"source": "ChestB3", "quantity": 40000, "chance": 1},
+            {"source": "ChestC3", "quantity": 100000, "chance": 1},
+            {"source": "ChestD3", "quantity": 5000, "chance": 1},
+            {"source": "ChestA4", "quantity": 800000, "chance": 1},
+            {"source": "ChestB4", "quantity": 1500000, "chance": 1},
+            {"source": "ChestC4", "quantity": 4000000, "chance": 1},
+            {"source": "ChestD4", "quantity": 5000, "chance": 1},
+            {"source": "ChestA5", "quantity": 8000000, "chance": 1},
+            {"source": "ChestB5", "quantity": 8000000, "chance": 1},
+            {"source": "ChestC5", "quantity": 8000000, "chance": 1},
+            {"source": "ChestD5", "quantity": 5000, "chance": 1},
+            {"source": "ChestA6", "quantity": 8000000, "chance": 1},
+            {"source": "ChestB6", "quantity": 8000000, "chance": 1},
+            {"source": "ChestC6", "quantity": 8000000, "chance": 1},
+            {"source": "ChestD6", "quantity": 5000, "chance": 1},
             {"source": "ghost", "quantity": 10, "chance": 0.5},
             {"source": "xmasEvent", "quantity": 10, "chance": 0.5},
             {"source": "slimeR", "quantity": 10, "chance": 0.5},
@@ -676,6 +736,7 @@
             {"source": "babayaga", "quantity": 54, "chance": 0.008},
             {"source": "wolfA", "quantity": 54, "chance": 0.008},
             {"source": "wolfB", "quantity": 108, "chance": 0.008},
+            {"source": "ChestA1", "quantity": 27, "chance": 0.008},
             {"source": "Crystal0", "quantity": 39, "chance": 2e-05},
             {"source": "goblinG", "quantity": 39, "chance": 2e-07},
             {"source": "plank", "quantity": 39, "chance": 2.25e-07},
@@ -686,6 +747,7 @@
             {"source": "wolfA", "quantity": 78, "chance": 5e-05},
             {"source": "wolfB", "quantity": 156, "chance": 5e-05},
             {"source": "wolfC", "quantity": 78, "chance": 5e-05},
+            {"source": "ChestC1", "quantity": 39, "chance": 5e-05},
             {"source": "slimeG", "quantity": 43, "chance": 3e-05},
             {"source": "slimeG", "quantity": 47, "chance": 2e-05},
             {"source": "goblinG", "quantity": 44, "chance": 3e-05},
@@ -705,6 +767,7 @@
             {"source": "babayaga", "quantity": 20, "chance": 0.25},
             {"source": "wolfA", "quantity": 20, "chance": 0.25},
             {"source": "wolfB", "quantity": 40, "chance": 0.25},
+            {"source": "ChestA1", "quantity": 10, "chance": 0.25},
             {"source": "mushG", "quantity": 3, "chance": 0.005}
         ]
     },
@@ -718,6 +781,7 @@
             {"source": "babayaga", "quantity": 10, "chance": 0.1},
             {"source": "wolfA", "quantity": 10, "chance": 0.1},
             {"source": "wolfB", "quantity": 20, "chance": 0.1},
+            {"source": "ChestA1", "quantity": 5, "chance": 0.1},
             {"source": "poopSmall", "quantity": 25, "chance": 0.0024},
             {"source": "ratB", "quantity": 25, "chance": 0.0024},
             {"source": "mushW", "quantity": 25, "chance": 0.0028},
@@ -735,7 +799,8 @@
             {"source": "beanG", "quantity": 1, "chance": 4.5e-05},
             {"source": "babayaga", "quantity": 2, "chance": 0.01},
             {"source": "wolfA", "quantity": 2, "chance": 0.01},
-            {"source": "wolfB", "quantity": 4, "chance": 0.01}
+            {"source": "wolfB", "quantity": 4, "chance": 0.01},
+            {"source": "ChestA1", "quantity": 1, "chance": 0.01}
         ]
     },
     "EquipmentPants10": {
@@ -747,7 +812,8 @@
             {"source": "beanG", "quantity": 1, "chance": 9e-05},
             {"source": "babayaga", "quantity": 2, "chance": 0.02},
             {"source": "wolfA", "quantity": 2, "chance": 0.02},
-            {"source": "wolfB", "quantity": 4, "chance": 0.02}
+            {"source": "wolfB", "quantity": 4, "chance": 0.02},
+            {"source": "ChestA1", "quantity": 1, "chance": 0.02}
         ]
     },
     "StampB3": {
@@ -759,7 +825,8 @@
             {"source": "beanG", "quantity": 1, "chance": 5.4e-06},
             {"source": "babayaga", "quantity": 2, "chance": 0.0012},
             {"source": "wolfA", "quantity": 2, "chance": 0.0012},
-            {"source": "wolfB", "quantity": 4, "chance": 0.0012}
+            {"source": "wolfB", "quantity": 4, "chance": 0.0012},
+            {"source": "ChestA1", "quantity": 1, "chance": 0.0012}
         ]
     },
     "Quest24": {
@@ -772,6 +839,7 @@
             {"source": "babayaga", "quantity": 6, "chance": 0.5},
             {"source": "wolfA", "quantity": 6, "chance": 0.5},
             {"source": "wolfB", "quantity": 12, "chance": 0.5},
+            {"source": "ChestA1", "quantity": 3, "chance": 0.5},
             {"source": "Crystal0", "quantity": 4, "chance": 0.25},
             {"source": "slimeG", "quantity": 4, "chance": 0.002},
             {"source": "snakeG", "quantity": 4, "chance": 0.0025},
@@ -779,6 +847,7 @@
             {"source": "babayaga", "quantity": 4, "chance": 0.5},
             {"source": "wolfA", "quantity": 8, "chance": 0.5},
             {"source": "wolfB", "quantity": 16, "chance": 0.5},
+            {"source": "ChestB1", "quantity": 4, "chance": 0.5},
             {"source": "Crystal0", "quantity": 6, "chance": 0.2},
             {"source": "goblinG", "quantity": 6, "chance": 0.002},
             {"source": "plank", "quantity": 6, "chance": 0.00225},
@@ -789,6 +858,7 @@
             {"source": "wolfA", "quantity": 12, "chance": 0.5},
             {"source": "wolfB", "quantity": 24, "chance": 0.5},
             {"source": "wolfC", "quantity": 12, "chance": 0.5},
+            {"source": "ChestC1", "quantity": 6, "chance": 0.5},
             {"source": "poopSmall", "quantity": 3, "chance": 0.003},
             {"source": "ratB", "quantity": 3, "chance": 0.003},
             {"source": "mushW", "quantity": 3, "chance": 0.0035},
@@ -800,6 +870,7 @@
             {"source": "crabcake", "quantity": 7, "chance": 0.0018},
             {"source": "babaHour", "quantity": 7, "chance": 0.25},
             {"source": "Boss2A", "quantity": 14, "chance": 0.5},
+            {"source": "ChestA2", "quantity": 7, "chance": 0.5},
             {"source": "Crystal1", "quantity": 8, "chance": 0.25},
             {"source": "shovelR", "quantity": 8, "chance": 0.0016},
             {"source": "coconut", "quantity": 8, "chance": 0.0016},
@@ -808,6 +879,7 @@
             {"source": "potato", "quantity": 8, "chance": 0.00195},
             {"source": "Boss2A", "quantity": 16, "chance": 0.5},
             {"source": "Boss2B", "quantity": 16, "chance": 0.5},
+            {"source": "ChestB2", "quantity": 8, "chance": 0.5},
             {"source": "Crystal1", "quantity": 8, "chance": 0.2},
             {"source": "steak", "quantity": 8, "chance": 0.0016},
             {"source": "moonman", "quantity": 8, "chance": 0.00175},
@@ -816,12 +888,14 @@
             {"source": "Boss2A", "quantity": 16, "chance": 0.5},
             {"source": "Boss2B", "quantity": 16, "chance": 0.5},
             {"source": "Boss2C", "quantity": 16, "chance": 0.5},
+            {"source": "ChestC2", "quantity": 8, "chance": 0.5},
             {"source": "Crystal2", "quantity": 8, "chance": 0.3},
             {"source": "sheep", "quantity": 8, "chance": 0.00125},
             {"source": "flake", "quantity": 8, "chance": 0.0014},
             {"source": "stache", "quantity": 8, "chance": 0.00155},
             {"source": "skele", "quantity": 8, "chance": 0.005},
             {"source": "Boss3A", "quantity": 16, "chance": 0.5},
+            {"source": "ChestA3", "quantity": 8, "chance": 0.5},
             {"source": "Crystal2", "quantity": 9, "chance": 0.25},
             {"source": "bloque", "quantity": 9, "chance": 0.00125},
             {"source": "mamoth", "quantity": 9, "chance": 0.00135},
@@ -830,6 +904,7 @@
             {"source": "thermostat", "quantity": 9, "chance": 0.00165},
             {"source": "Boss3A", "quantity": 18, "chance": 0.5},
             {"source": "Boss3B", "quantity": 18, "chance": 0.5},
+            {"source": "ChestB3", "quantity": 9, "chance": 0.5},
             {"source": "Crystal2", "quantity": 10, "chance": 0.2},
             {"source": "ram", "quantity": 10, "chance": 0.0017},
             {"source": "glass", "quantity": 10, "chance": 0.00125},
@@ -840,6 +915,7 @@
             {"source": "Boss3A", "quantity": 20, "chance": 0.5},
             {"source": "Boss3B", "quantity": 20, "chance": 0.5},
             {"source": "Boss3C", "quantity": 20, "chance": 0.5},
+            {"source": "ChestC3", "quantity": 10, "chance": 0.5},
             {"source": "Crystal3", "quantity": 8, "chance": 0.3},
             {"source": "Boss4A", "quantity": 16, "chance": 0.5},
             {"source": "Boss4B", "quantity": 16, "chance": 0.5},
@@ -848,6 +924,7 @@
             {"source": "w4a2", "quantity": 8, "chance": 0.0014},
             {"source": "w4a3", "quantity": 8, "chance": 0.00155},
             {"source": "demonP", "quantity": 8, "chance": 0.0017},
+            {"source": "ChestA4", "quantity": 8, "chance": 0.5},
             {"source": "Crystal3", "quantity": 8, "chance": 0.25},
             {"source": "Boss4A", "quantity": 16, "chance": 0.5},
             {"source": "Boss4B", "quantity": 16, "chance": 0.5},
@@ -857,6 +934,7 @@
             {"source": "w4b3", "quantity": 8, "chance": 0.00145},
             {"source": "w4b4", "quantity": 8, "chance": 0.00155},
             {"source": "w4b5", "quantity": 8, "chance": 0.00165},
+            {"source": "ChestB4", "quantity": 8, "chance": 0.5},
             {"source": "Crystal3", "quantity": 8, "chance": 0.2},
             {"source": "Boss4A", "quantity": 16, "chance": 0.5},
             {"source": "Boss4B", "quantity": 16, "chance": 0.5},
@@ -865,6 +943,7 @@
             {"source": "w4c2", "quantity": 8, "chance": 0.0014},
             {"source": "w4c3", "quantity": 8, "chance": 0.0015},
             {"source": "w4c4", "quantity": 8, "chance": 0.0016},
+            {"source": "ChestC4", "quantity": 8, "chance": 0.5},
             {"source": "Crystal4", "quantity": 8, "chance": 0.15},
             {"source": "w5a1", "quantity": 8, "chance": 0.00125},
             {"source": "w5a2", "quantity": 8, "chance": 0.0014},
@@ -874,6 +953,7 @@
             {"source": "Boss5A", "quantity": 16, "chance": 0.5},
             {"source": "Boss5B", "quantity": 16, "chance": 0.5},
             {"source": "Boss5C", "quantity": 16, "chance": 0.5},
+            {"source": "ChestA5", "quantity": 8, "chance": 0.5},
             {"source": "Bug9", "quantity": 8, "chance": 0.0075},
             {"source": "Crystal4", "quantity": 8, "chance": 0.1},
             {"source": "w5b1", "quantity": 8, "chance": 0.00125},
@@ -884,6 +964,7 @@
             {"source": "w5b6", "quantity": 8, "chance": 0.00175},
             {"source": "Boss5A", "quantity": 16, "chance": 0.5},
             {"source": "Boss5B", "quantity": 16, "chance": 0.5},
+            {"source": "ChestB5", "quantity": 8, "chance": 0.5},
             {"source": "Bug10", "quantity": 8, "chance": 0.0075},
             {"source": "Bug11", "quantity": 8, "chance": 5e-09},
             {"source": "Crystal4", "quantity": 8, "chance": 0.085},
@@ -891,12 +972,16 @@
             {"source": "w5c2", "quantity": 8, "chance": 0.00175},
             {"source": "Boss5A", "quantity": 16, "chance": 0.5},
             {"source": "Boss5B", "quantity": 16, "chance": 0.5},
+            {"source": "ChestC5", "quantity": 8, "chance": 0.5},
             {"source": "Crystal5", "quantity": 8, "chance": 0.15},
             {"source": "w6a1", "quantity": 8, "chance": 0.00125},
             {"source": "w6a2", "quantity": 8, "chance": 0.0014},
             {"source": "w6a3", "quantity": 8, "chance": 0.00155},
             {"source": "w6a4", "quantity": 8, "chance": 0.0017},
             {"source": "w6a5", "quantity": 8, "chance": 0.00185},
+            {"source": "ChestA6", "quantity": 8, "chance": 0.5},
+            {"source": "ChestB6", "quantity": 8, "chance": 0.5},
+            {"source": "ChestC6", "quantity": 8, "chance": 0.5},
             {"source": "Bug12", "quantity": 8, "chance": 0.0075},
             {"source": "Crystal5", "quantity": 8, "chance": 0.1},
             {"source": "w6b1", "quantity": 8, "chance": 0.00125},
@@ -922,7 +1007,8 @@
             {"source": "beanG", "quantity": 1, "chance": 5.1975e-06},
             {"source": "babayaga", "quantity": 2, "chance": 0.001155},
             {"source": "wolfA", "quantity": 2, "chance": 0.001155},
-            {"source": "wolfB", "quantity": 4, "chance": 0.001155}
+            {"source": "wolfB", "quantity": 4, "chance": 0.001155},
+            {"source": "ChestA1", "quantity": 1, "chance": 0.001155}
         ]
     },
     "SuperDropTable1": {
@@ -935,6 +1021,7 @@
             {"source": "babayaga", "quantity": 2, "chance": 0.004},
             {"source": "wolfA", "quantity": 2, "chance": 0.004},
             {"source": "wolfB", "quantity": 4, "chance": 0.004},
+            {"source": "ChestA1", "quantity": 1, "chance": 0.004},
             {"source": "Crystal0", "quantity": 1, "chance": 0.00225},
             {"source": "slimeG", "quantity": 1, "chance": 1.8e-05},
             {"source": "snakeG", "quantity": 1, "chance": 2.25e-05},
@@ -942,6 +1029,7 @@
             {"source": "babayaga", "quantity": 1, "chance": 0.0045},
             {"source": "wolfA", "quantity": 2, "chance": 0.0045},
             {"source": "wolfB", "quantity": 4, "chance": 0.0045},
+            {"source": "ChestB1", "quantity": 1, "chance": 0.0045},
             {"source": "Crystal0", "quantity": 1, "chance": 0.002},
             {"source": "goblinG", "quantity": 1, "chance": 2e-05},
             {"source": "plank", "quantity": 1, "chance": 2.25e-05},
@@ -952,6 +1040,7 @@
             {"source": "wolfA", "quantity": 2, "chance": 0.005},
             {"source": "wolfB", "quantity": 4, "chance": 0.005},
             {"source": "wolfC", "quantity": 2, "chance": 0.005},
+            {"source": "ChestC1", "quantity": 1, "chance": 0.005},
             {"source": "poopSmall", "quantity": 1, "chance": 3.3e-05},
             {"source": "ratB", "quantity": 1, "chance": 3.3e-05},
             {"source": "mushW", "quantity": 1, "chance": 3.85e-05},
@@ -990,7 +1079,8 @@
             {"source": "carrotO", "quantity": 15, "chance": 0.0021},
             {"source": "babayaga", "quantity": 15, "chance": 0.35},
             {"source": "wolfA", "quantity": 30, "chance": 0.35},
-            {"source": "wolfB", "quantity": 60, "chance": 0.35}
+            {"source": "wolfB", "quantity": 60, "chance": 0.35},
+            {"source": "ChestB1", "quantity": 15, "chance": 0.35}
         ]
     },
     "EquipmentStatues1": {
@@ -1001,7 +1091,8 @@
             {"source": "carrotO", "quantity": 1, "chance": 0.00072},
             {"source": "babayaga", "quantity": 1, "chance": 0.12},
             {"source": "wolfA", "quantity": 2, "chance": 0.12},
-            {"source": "wolfB", "quantity": 4, "chance": 0.12}
+            {"source": "wolfB", "quantity": 4, "chance": 0.12},
+            {"source": "ChestB1", "quantity": 1, "chance": 0.12}
         ]
     },
     "FoodPotGr1": {
@@ -1013,6 +1104,7 @@
             {"source": "babayaga", "quantity": 5, "chance": 0.1},
             {"source": "wolfA", "quantity": 10, "chance": 0.1},
             {"source": "wolfB", "quantity": 20, "chance": 0.1},
+            {"source": "ChestB1", "quantity": 5, "chance": 0.1},
             {"source": "Crystal0", "quantity": 5, "chance": 0.12},
             {"source": "Copper", "quantity": 5, "chance": 0.0013},
             {"source": "Iron", "quantity": 5, "chance": 0.0014},
@@ -1039,7 +1131,8 @@
             {"source": "carrotO", "quantity": 10, "chance": 0.0012},
             {"source": "babayaga", "quantity": 10, "chance": 0.2},
             {"source": "wolfA", "quantity": 20, "chance": 0.2},
-            {"source": "wolfB", "quantity": 40, "chance": 0.2}
+            {"source": "wolfB", "quantity": 40, "chance": 0.2},
+            {"source": "ChestB1", "quantity": 10, "chance": 0.2}
         ]
     },
     "rtt0": {
@@ -1051,6 +1144,7 @@
             {"source": "babayaga", "quantity": 1, "chance": 0.02},
             {"source": "wolfA", "quantity": 2, "chance": 0.02},
             {"source": "wolfB", "quantity": 4, "chance": 0.02},
+            {"source": "ChestB1", "quantity": 1, "chance": 0.02},
             {"source": "Crystal0", "quantity": 1, "chance": 0.02},
             {"source": "goblinG", "quantity": 1, "chance": 0.0002},
             {"source": "plank", "quantity": 1, "chance": 0.000225},
@@ -1060,7 +1154,8 @@
             {"source": "slimeB", "quantity": 2, "chance": 0.05},
             {"source": "wolfA", "quantity": 2, "chance": 0.05},
             {"source": "wolfB", "quantity": 4, "chance": 0.05},
-            {"source": "wolfC", "quantity": 2, "chance": 0.05}
+            {"source": "wolfC", "quantity": 2, "chance": 0.05},
+            {"source": "ChestC1", "quantity": 1, "chance": 0.05}
         ]
     },
     "EquipmentShirts21": {
@@ -1071,7 +1166,8 @@
             {"source": "carrotO", "quantity": 1, "chance": 6e-05},
             {"source": "babayaga", "quantity": 1, "chance": 0.01},
             {"source": "wolfA", "quantity": 2, "chance": 0.01},
-            {"source": "wolfB", "quantity": 4, "chance": 0.01}
+            {"source": "wolfB", "quantity": 4, "chance": 0.01},
+            {"source": "ChestB1", "quantity": 1, "chance": 0.01}
         ]
     },
     "Quest21": {
@@ -1082,7 +1178,8 @@
             {"source": "carrotO", "quantity": 1, "chance": 0.0018},
             {"source": "babayaga", "quantity": 1, "chance": 0.3},
             {"source": "wolfA", "quantity": 2, "chance": 0.3},
-            {"source": "wolfB", "quantity": 4, "chance": 0.3}
+            {"source": "wolfB", "quantity": 4, "chance": 0.3},
+            {"source": "ChestB1", "quantity": 1, "chance": 0.3}
         ]
     },
     "ObolBronze1": {
@@ -1093,7 +1190,8 @@
             {"source": "carrotO", "quantity": 1, "chance": 6.93e-06},
             {"source": "babayaga", "quantity": 1, "chance": 0.001155},
             {"source": "wolfA", "quantity": 2, "chance": 0.001155},
-            {"source": "wolfB", "quantity": 4, "chance": 0.001155}
+            {"source": "wolfB", "quantity": 4, "chance": 0.001155},
+            {"source": "ChestB1", "quantity": 1, "chance": 0.001155}
         ]
     },
     "FoodHealth2": {
@@ -1108,6 +1206,7 @@
             {"source": "wolfA", "quantity": 30, "chance": 0.42},
             {"source": "wolfB", "quantity": 60, "chance": 0.42},
             {"source": "wolfC", "quantity": 30, "chance": 0.42},
+            {"source": "ChestC1", "quantity": 15, "chance": 0.42},
             {"source": "snakeG", "quantity": 3, "chance": 0.005},
             {"source": "carrotO", "quantity": 4, "chance": 0.006}
         ]
@@ -1124,6 +1223,7 @@
             {"source": "wolfA", "quantity": 2, "chance": 0.12},
             {"source": "wolfB", "quantity": 4, "chance": 0.12},
             {"source": "wolfC", "quantity": 2, "chance": 0.12},
+            {"source": "ChestC1", "quantity": 1, "chance": 0.12},
             {"source": "poopSmall", "quantity": 1, "chance": 0.00054},
             {"source": "ratB", "quantity": 1, "chance": 0.00054},
             {"source": "mushW", "quantity": 1, "chance": 0.00063},
@@ -1142,7 +1242,8 @@
             {"source": "slimeB", "quantity": 20, "chance": 0.25},
             {"source": "wolfA", "quantity": 20, "chance": 0.25},
             {"source": "wolfB", "quantity": 40, "chance": 0.25},
-            {"source": "wolfC", "quantity": 20, "chance": 0.25}
+            {"source": "wolfC", "quantity": 20, "chance": 0.25},
+            {"source": "ChestC1", "quantity": 10, "chance": 0.25}
         ]
     },
     "StoneT2": {
@@ -1157,6 +1258,7 @@
             {"source": "wolfA", "quantity": 2, "chance": 0.03},
             {"source": "wolfB", "quantity": 4, "chance": 0.03},
             {"source": "wolfC", "quantity": 2, "chance": 0.03},
+            {"source": "ChestC1", "quantity": 1, "chance": 0.03},
             {"source": "Bug1", "quantity": 1, "chance": 3e-05},
             {"source": "Bug2", "quantity": 1, "chance": 3e-05},
             {"source": "Bug3", "quantity": 1, "chance": 3e-05},
@@ -1174,7 +1276,8 @@
             {"source": "slimeB", "quantity": 2, "chance": 0.001155},
             {"source": "wolfA", "quantity": 2, "chance": 0.001155},
             {"source": "wolfB", "quantity": 4, "chance": 0.001155},
-            {"source": "wolfC", "quantity": 2, "chance": 0.001155}
+            {"source": "wolfC", "quantity": 2, "chance": 0.001155},
+            {"source": "ChestC1", "quantity": 1, "chance": 0.001155}
         ]
     },
     "FoodPotRe1": {
@@ -1203,7 +1306,8 @@
             {"source": "skele2", "quantity": 1, "chance": 0.00015},
             {"source": "Boss3A", "quantity": 2, "chance": 0.03},
             {"source": "Boss3B", "quantity": 2, "chance": 0.03},
-            {"source": "Boss3C", "quantity": 2, "chance": 0.03}
+            {"source": "Boss3C", "quantity": 2, "chance": 0.03},
+            {"source": "ChestC3", "quantity": 1, "chance": 0.03}
         ]
     },
     "EquipmentStatues15": {
@@ -1230,7 +1334,8 @@
             {"source": "Motherlode", "quantity": 2, "chance": 3e-10},
             {"source": "Bug14", "quantity": 2, "chance": 3e-10},
             {"source": "MotherlodeTREE", "quantity": 2, "chance": 3e-10},
-            {"source": "MotherlodeFISH", "quantity": 2, "chance": 3e-10}
+            {"source": "MotherlodeFISH", "quantity": 2, "chance": 3e-10},
+            {"source": "ChestA1", "quantity": 1, "chance": 0.09}
         ]
     },
     "StoneT1": {
@@ -1365,7 +1470,8 @@
             {"source": "JungleTree", "quantity": 1, "chance": 0.00027},
             {"source": "ForestTree", "quantity": 1, "chance": 0.000285},
             {"source": "StumpTree", "quantity": 1, "chance": 0.000306},
-            {"source": "ToiletTree", "quantity": 1, "chance": 0.000318}
+            {"source": "ToiletTree", "quantity": 1, "chance": 0.000318},
+            {"source": "ChestA1", "quantity": 1, "chance": 0.025}
         ]
     },
     "EquipmentStatues3": {
@@ -1428,6 +1534,7 @@
             {"source": "babayaga", "quantity": 2, "chance": 1.2e-06},
             {"source": "wolfA", "quantity": 2, "chance": 1.2e-06},
             {"source": "wolfB", "quantity": 4, "chance": 1.2e-06},
+            {"source": "ChestA1", "quantity": 1, "chance": 1.2e-06},
             {"source": "Crystal0", "quantity": 1, "chance": 6.75e-07},
             {"source": "slimeG", "quantity": 1, "chance": 5.4e-09},
             {"source": "snakeG", "quantity": 1, "chance": 6.75e-09},
@@ -1435,6 +1542,7 @@
             {"source": "babayaga", "quantity": 1, "chance": 1.35e-06},
             {"source": "wolfA", "quantity": 2, "chance": 1.35e-06},
             {"source": "wolfB", "quantity": 4, "chance": 1.35e-06},
+            {"source": "ChestB1", "quantity": 1, "chance": 1.35e-06},
             {"source": "Crystal0", "quantity": 1, "chance": 6e-07},
             {"source": "goblinG", "quantity": 1, "chance": 6e-09},
             {"source": "plank", "quantity": 1, "chance": 6.75e-09},
@@ -1445,6 +1553,7 @@
             {"source": "wolfA", "quantity": 2, "chance": 1.5e-06},
             {"source": "wolfB", "quantity": 4, "chance": 1.5e-06},
             {"source": "wolfC", "quantity": 2, "chance": 1.5e-06},
+            {"source": "ChestC1", "quantity": 1, "chance": 1.5e-06},
             {"source": "poopSmall", "quantity": 1, "chance": 9.9e-09},
             {"source": "ratB", "quantity": 1, "chance": 9.9e-09},
             {"source": "mushW", "quantity": 1, "chance": 1.155e-08},
@@ -1479,6 +1588,7 @@
             {"source": "crabcake", "quantity": 1, "chance": 6.48e-09},
             {"source": "babaHour", "quantity": 1, "chance": 9e-07},
             {"source": "Boss2A", "quantity": 2, "chance": 1.8e-06},
+            {"source": "ChestA2", "quantity": 1, "chance": 1.8e-06},
             {"source": "Crystal1", "quantity": 1, "chance": 9e-07},
             {"source": "shovelR", "quantity": 1, "chance": 5.76e-09},
             {"source": "coconut", "quantity": 1, "chance": 5.76e-09},
@@ -1487,6 +1597,7 @@
             {"source": "potato", "quantity": 1, "chance": 7.02e-09},
             {"source": "Boss2A", "quantity": 2, "chance": 1.8e-06},
             {"source": "Boss2B", "quantity": 2, "chance": 1.8e-06},
+            {"source": "ChestB2", "quantity": 1, "chance": 1.8e-06},
             {"source": "Crystal1", "quantity": 1, "chance": 7.2e-07},
             {"source": "steak", "quantity": 1, "chance": 5.76e-09},
             {"source": "moonman", "quantity": 1, "chance": 6.3e-09},
@@ -1495,6 +1606,7 @@
             {"source": "Boss2A", "quantity": 2, "chance": 1.8e-06},
             {"source": "Boss2B", "quantity": 2, "chance": 1.8e-06},
             {"source": "Boss2C", "quantity": 2, "chance": 1.8e-06},
+            {"source": "ChestC2", "quantity": 1, "chance": 1.8e-06},
             {"source": "Crystal1", "quantity": 1, "chance": 1.08e-06},
             {"source": "FishSmall", "quantity": 1, "chance": 2.16e-08},
             {"source": "FishMed", "quantity": 1, "chance": 2.16e-08},
@@ -1526,6 +1638,7 @@
             {"source": "stache", "quantity": 1, "chance": 5.58e-09},
             {"source": "skele", "quantity": 1, "chance": 1.8e-08},
             {"source": "Boss3A", "quantity": 2, "chance": 1.8e-06},
+            {"source": "ChestA3", "quantity": 1, "chance": 1.8e-06},
             {"source": "Crystal2", "quantity": 1, "chance": 9e-07},
             {"source": "bloque", "quantity": 1, "chance": 4.5e-09},
             {"source": "mamoth", "quantity": 1, "chance": 4.86e-09},
@@ -1534,6 +1647,7 @@
             {"source": "thermostat", "quantity": 1, "chance": 5.94e-09},
             {"source": "Boss3A", "quantity": 2, "chance": 1.8e-06},
             {"source": "Boss3B", "quantity": 2, "chance": 1.8e-06},
+            {"source": "ChestB3", "quantity": 1, "chance": 1.8e-06},
             {"source": "Crystal2", "quantity": 1, "chance": 7.2e-07},
             {"source": "ram", "quantity": 1, "chance": 6.12e-09},
             {"source": "glass", "quantity": 1, "chance": 4.5e-09},
@@ -1544,6 +1658,7 @@
             {"source": "Boss3A", "quantity": 2, "chance": 1.8e-06},
             {"source": "Boss3B", "quantity": 2, "chance": 1.8e-06},
             {"source": "Boss3C", "quantity": 2, "chance": 1.8e-06},
+            {"source": "ChestC3", "quantity": 1, "chance": 1.8e-06},
             {"source": "Crystal2", "quantity": 1, "chance": 1.08e-06},
             {"source": "SaharanFoal", "quantity": 1, "chance": 1.602e-08},
             {"source": "Tree7", "quantity": 1, "chance": 1.602e-08},
@@ -1558,6 +1673,7 @@
             {"source": "w4a2", "quantity": 1, "chance": 5.04e-09},
             {"source": "w4a3", "quantity": 1, "chance": 5.58e-09},
             {"source": "demonP", "quantity": 1, "chance": 6.12e-09},
+            {"source": "ChestA4", "quantity": 1, "chance": 1.8e-06},
             {"source": "Crystal3", "quantity": 1, "chance": 9e-07},
             {"source": "Boss4A", "quantity": 2, "chance": 1.8e-06},
             {"source": "Boss4B", "quantity": 2, "chance": 1.8e-06},
@@ -1567,6 +1683,7 @@
             {"source": "w4b3", "quantity": 1, "chance": 5.22e-09},
             {"source": "w4b4", "quantity": 1, "chance": 5.58e-09},
             {"source": "w4b5", "quantity": 1, "chance": 5.94e-09},
+            {"source": "ChestB4", "quantity": 1, "chance": 1.8e-06},
             {"source": "Crystal3", "quantity": 1, "chance": 7.2e-07},
             {"source": "Boss4A", "quantity": 2, "chance": 1.8e-06},
             {"source": "Boss4B", "quantity": 2, "chance": 1.8e-06},
@@ -1575,6 +1692,7 @@
             {"source": "w4c2", "quantity": 1, "chance": 5.04e-09},
             {"source": "w4c3", "quantity": 1, "chance": 5.4e-09},
             {"source": "w4c4", "quantity": 1, "chance": 5.76e-09},
+            {"source": "ChestC4", "quantity": 1, "chance": 1.8e-06},
             {"source": "Crystal3", "quantity": 1, "chance": 7.2e-07},
             {"source": "AlienTree", "quantity": 2, "chance": 1.467e-08},
             {"source": "Tree8", "quantity": 1, "chance": 1.602e-08},
@@ -1589,6 +1707,7 @@
             {"source": "Boss5A", "quantity": 2, "chance": 1.5e-06},
             {"source": "Boss5B", "quantity": 2, "chance": 1.5e-06},
             {"source": "Boss5C", "quantity": 2, "chance": 1.5e-06},
+            {"source": "ChestA5", "quantity": 1, "chance": 1.5e-06},
             {"source": "Bug9", "quantity": 1, "chance": 2.25e-08},
             {"source": "Crystal4", "quantity": 1, "chance": 3e-07},
             {"source": "w5b1", "quantity": 1, "chance": 3.75e-09},
@@ -1599,6 +1718,7 @@
             {"source": "w5b6", "quantity": 1, "chance": 5.25e-09},
             {"source": "Boss5A", "quantity": 2, "chance": 1.5e-06},
             {"source": "Boss5B", "quantity": 2, "chance": 1.5e-06},
+            {"source": "ChestB5", "quantity": 1, "chance": 1.5e-06},
             {"source": "Bug10", "quantity": 1, "chance": 2.25e-08},
             {"source": "Bug11", "quantity": 1, "chance": 1.5e-14},
             {"source": "Crystal4", "quantity": 1, "chance": 2.55e-07},
@@ -1606,6 +1726,7 @@
             {"source": "w5c2", "quantity": 1, "chance": 5.25e-09},
             {"source": "Boss5A", "quantity": 2, "chance": 1.5e-06},
             {"source": "Boss5B", "quantity": 2, "chance": 1.5e-06},
+            {"source": "ChestC5", "quantity": 1, "chance": 1.5e-06},
             {"source": "Crystal4", "quantity": 1, "chance": 3.06e-07},
             {"source": "Tree10", "quantity": 1, "chance": 1.602e-08},
             {"source": "Tree11", "quantity": 1, "chance": 1.602e-08},
@@ -1615,6 +1736,9 @@
             {"source": "w6a3", "quantity": 1, "chance": 4.65e-09},
             {"source": "w6a4", "quantity": 1, "chance": 5.1e-09},
             {"source": "w6a5", "quantity": 1, "chance": 5.55e-09},
+            {"source": "ChestA6", "quantity": 1, "chance": 1.5e-06},
+            {"source": "ChestB6", "quantity": 1, "chance": 1.5e-06},
+            {"source": "ChestC6", "quantity": 1, "chance": 1.5e-06},
             {"source": "Bug12", "quantity": 1, "chance": 2.25e-08},
             {"source": "Crystal5", "quantity": 1, "chance": 3e-07},
             {"source": "w6b1", "quantity": 1, "chance": 3.75e-09},
@@ -1644,6 +1768,7 @@
             {"source": "babayaga", "quantity": 2, "chance": 0.00028},
             {"source": "wolfA", "quantity": 2, "chance": 0.00028},
             {"source": "wolfB", "quantity": 4, "chance": 0.00028},
+            {"source": "ChestA1", "quantity": 1, "chance": 0.00028},
             {"source": "Crystal0", "quantity": 1, "chance": 0.0001575},
             {"source": "slimeG", "quantity": 1, "chance": 1.26e-06},
             {"source": "snakeG", "quantity": 1, "chance": 1.575e-06},
@@ -1651,6 +1776,7 @@
             {"source": "babayaga", "quantity": 1, "chance": 0.000315},
             {"source": "wolfA", "quantity": 2, "chance": 0.000315},
             {"source": "wolfB", "quantity": 4, "chance": 0.000315},
+            {"source": "ChestB1", "quantity": 1, "chance": 0.000315},
             {"source": "Crystal0", "quantity": 1, "chance": 0.00014},
             {"source": "goblinG", "quantity": 1, "chance": 1.4e-06},
             {"source": "plank", "quantity": 1, "chance": 1.575e-06},
@@ -1661,6 +1787,7 @@
             {"source": "wolfA", "quantity": 2, "chance": 0.00035},
             {"source": "wolfB", "quantity": 4, "chance": 0.00035},
             {"source": "wolfC", "quantity": 2, "chance": 0.00035},
+            {"source": "ChestC1", "quantity": 1, "chance": 0.00035},
             {"source": "poopSmall", "quantity": 1, "chance": 2.31e-06},
             {"source": "ratB", "quantity": 1, "chance": 2.31e-06},
             {"source": "mushW", "quantity": 1, "chance": 2.695e-06},
@@ -1695,6 +1822,7 @@
             {"source": "crabcake", "quantity": 1, "chance": 1.944e-06},
             {"source": "babaHour", "quantity": 1, "chance": 0.00027},
             {"source": "Boss2A", "quantity": 2, "chance": 0.00054},
+            {"source": "ChestA2", "quantity": 1, "chance": 0.00054},
             {"source": "Crystal1", "quantity": 1, "chance": 0.00027},
             {"source": "shovelR", "quantity": 1, "chance": 1.728e-06},
             {"source": "coconut", "quantity": 1, "chance": 1.728e-06},
@@ -1703,6 +1831,7 @@
             {"source": "potato", "quantity": 1, "chance": 2.106e-06},
             {"source": "Boss2A", "quantity": 2, "chance": 0.00054},
             {"source": "Boss2B", "quantity": 2, "chance": 0.00054},
+            {"source": "ChestB2", "quantity": 1, "chance": 0.00054},
             {"source": "Crystal1", "quantity": 1, "chance": 0.000216},
             {"source": "steak", "quantity": 1, "chance": 1.728e-06},
             {"source": "moonman", "quantity": 1, "chance": 1.89e-06},
@@ -1711,6 +1840,7 @@
             {"source": "Boss2A", "quantity": 2, "chance": 0.00054},
             {"source": "Boss2B", "quantity": 2, "chance": 0.00054},
             {"source": "Boss2C", "quantity": 2, "chance": 0.00054},
+            {"source": "ChestC2", "quantity": 1, "chance": 0.00054},
             {"source": "Crystal1", "quantity": 1, "chance": 0.000324},
             {"source": "FishSmall", "quantity": 1, "chance": 6.48e-06},
             {"source": "FishMed", "quantity": 1, "chance": 6.48e-06},
@@ -1742,6 +1872,7 @@
             {"source": "stache", "quantity": 1, "chance": 1.674e-06},
             {"source": "skele", "quantity": 1, "chance": 5.4e-06},
             {"source": "Boss3A", "quantity": 2, "chance": 0.00054},
+            {"source": "ChestA3", "quantity": 1, "chance": 0.00054},
             {"source": "Crystal2", "quantity": 1, "chance": 0.00027},
             {"source": "bloque", "quantity": 1, "chance": 1.35e-06},
             {"source": "mamoth", "quantity": 1, "chance": 1.458e-06},
@@ -1750,6 +1881,7 @@
             {"source": "thermostat", "quantity": 1, "chance": 1.782e-06},
             {"source": "Boss3A", "quantity": 2, "chance": 0.00054},
             {"source": "Boss3B", "quantity": 2, "chance": 0.00054},
+            {"source": "ChestB3", "quantity": 1, "chance": 0.00054},
             {"source": "Crystal2", "quantity": 1, "chance": 0.000216},
             {"source": "ram", "quantity": 1, "chance": 1.836e-06},
             {"source": "glass", "quantity": 1, "chance": 1.35e-06},
@@ -1760,6 +1892,7 @@
             {"source": "Boss3A", "quantity": 2, "chance": 0.00054},
             {"source": "Boss3B", "quantity": 2, "chance": 0.00054},
             {"source": "Boss3C", "quantity": 2, "chance": 0.00054},
+            {"source": "ChestC3", "quantity": 1, "chance": 0.00054},
             {"source": "Crystal2", "quantity": 1, "chance": 0.000324},
             {"source": "SaharanFoal", "quantity": 1, "chance": 4.806e-06},
             {"source": "Tree7", "quantity": 1, "chance": 4.806e-06},
@@ -1774,6 +1907,7 @@
             {"source": "w4a2", "quantity": 1, "chance": 1.512e-06},
             {"source": "w4a3", "quantity": 1, "chance": 1.674e-06},
             {"source": "demonP", "quantity": 1, "chance": 1.836e-06},
+            {"source": "ChestA4", "quantity": 1, "chance": 0.00054},
             {"source": "Crystal3", "quantity": 1, "chance": 0.00027},
             {"source": "Boss4A", "quantity": 2, "chance": 0.00054},
             {"source": "Boss4B", "quantity": 2, "chance": 0.00054},
@@ -1783,6 +1917,7 @@
             {"source": "w4b3", "quantity": 1, "chance": 1.566e-06},
             {"source": "w4b4", "quantity": 1, "chance": 1.674e-06},
             {"source": "w4b5", "quantity": 1, "chance": 1.782e-06},
+            {"source": "ChestB4", "quantity": 1, "chance": 0.00054},
             {"source": "Crystal3", "quantity": 1, "chance": 0.000216},
             {"source": "Boss4A", "quantity": 2, "chance": 0.00054},
             {"source": "Boss4B", "quantity": 2, "chance": 0.00054},
@@ -1791,6 +1926,7 @@
             {"source": "w4c2", "quantity": 1, "chance": 1.512e-06},
             {"source": "w4c3", "quantity": 1, "chance": 1.62e-06},
             {"source": "w4c4", "quantity": 1, "chance": 1.728e-06},
+            {"source": "ChestC4", "quantity": 1, "chance": 0.00054},
             {"source": "Crystal3", "quantity": 1, "chance": 0.000216},
             {"source": "AlienTree", "quantity": 2, "chance": 4.401e-06},
             {"source": "Tree8", "quantity": 1, "chance": 4.806e-06},
@@ -1805,6 +1941,7 @@
             {"source": "Boss5A", "quantity": 2, "chance": 0.00045},
             {"source": "Boss5B", "quantity": 2, "chance": 0.00045},
             {"source": "Boss5C", "quantity": 2, "chance": 0.00045},
+            {"source": "ChestA5", "quantity": 1, "chance": 0.00045},
             {"source": "Bug9", "quantity": 1, "chance": 6.75e-06},
             {"source": "Crystal4", "quantity": 1, "chance": 9e-05},
             {"source": "w5b1", "quantity": 1, "chance": 1.125e-06},
@@ -1815,6 +1952,7 @@
             {"source": "w5b6", "quantity": 1, "chance": 1.575e-06},
             {"source": "Boss5A", "quantity": 2, "chance": 0.00045},
             {"source": "Boss5B", "quantity": 2, "chance": 0.00045},
+            {"source": "ChestB5", "quantity": 1, "chance": 0.00045},
             {"source": "Bug10", "quantity": 1, "chance": 6.75e-06},
             {"source": "Bug11", "quantity": 1, "chance": 4.5e-12},
             {"source": "Crystal4", "quantity": 1, "chance": 7.65e-05},
@@ -1822,6 +1960,7 @@
             {"source": "w5c2", "quantity": 1, "chance": 1.575e-06},
             {"source": "Boss5A", "quantity": 2, "chance": 0.00045},
             {"source": "Boss5B", "quantity": 2, "chance": 0.00045},
+            {"source": "ChestC5", "quantity": 1, "chance": 0.00045},
             {"source": "Crystal4", "quantity": 1, "chance": 9.18e-05},
             {"source": "Tree10", "quantity": 1, "chance": 4.806e-06},
             {"source": "Tree11", "quantity": 1, "chance": 4.806e-06},
@@ -1831,6 +1970,9 @@
             {"source": "w6a3", "quantity": 1, "chance": 1.395e-06},
             {"source": "w6a4", "quantity": 1, "chance": 1.53e-06},
             {"source": "w6a5", "quantity": 1, "chance": 1.665e-06},
+            {"source": "ChestA6", "quantity": 1, "chance": 0.00045},
+            {"source": "ChestB6", "quantity": 1, "chance": 0.00045},
+            {"source": "ChestC6", "quantity": 1, "chance": 0.00045},
             {"source": "Bug12", "quantity": 1, "chance": 6.75e-06},
             {"source": "Crystal5", "quantity": 1, "chance": 9e-05},
             {"source": "w6b1", "quantity": 1, "chance": 1.125e-06},
@@ -1860,6 +2002,7 @@
             {"source": "babayaga", "quantity": 7246200, "chance": 0.0004},
             {"source": "wolfA", "quantity": 7246200, "chance": 0.0004},
             {"source": "wolfB", "quantity": 14492400, "chance": 0.0004},
+            {"source": "ChestA1", "quantity": 3623100, "chance": 0.0004},
             {"source": "Crystal0", "quantity": 3623100, "chance": 0.000225},
             {"source": "slimeG", "quantity": 3623100, "chance": 1.8e-06},
             {"source": "snakeG", "quantity": 3623100, "chance": 2.25e-06},
@@ -1867,6 +2010,7 @@
             {"source": "babayaga", "quantity": 3623100, "chance": 0.00045},
             {"source": "wolfA", "quantity": 7246200, "chance": 0.00045},
             {"source": "wolfB", "quantity": 14492400, "chance": 0.00045},
+            {"source": "ChestB1", "quantity": 3623100, "chance": 0.00045},
             {"source": "Crystal0", "quantity": 3623100, "chance": 0.0002},
             {"source": "goblinG", "quantity": 3623100, "chance": 2e-06},
             {"source": "plank", "quantity": 3623100, "chance": 2.25e-06},
@@ -1877,6 +2021,7 @@
             {"source": "wolfA", "quantity": 7246200, "chance": 0.0005},
             {"source": "wolfB", "quantity": 14492400, "chance": 0.0005},
             {"source": "wolfC", "quantity": 7246200, "chance": 0.0005},
+            {"source": "ChestC1", "quantity": 3623100, "chance": 0.0005},
             {"source": "poopSmall", "quantity": 3623100, "chance": 3.3e-06},
             {"source": "ratB", "quantity": 3623100, "chance": 3.3e-06},
             {"source": "mushW", "quantity": 3623100, "chance": 3.85e-06},
@@ -1913,6 +2058,7 @@
             {"source": "babayaga", "quantity": 724900, "chance": 0.0004},
             {"source": "wolfA", "quantity": 724900, "chance": 0.0004},
             {"source": "wolfB", "quantity": 1449800, "chance": 0.0004},
+            {"source": "ChestA1", "quantity": 362450, "chance": 0.0004},
             {"source": "Crystal0", "quantity": 362450, "chance": 0.000225},
             {"source": "slimeG", "quantity": 362450, "chance": 1.8e-06},
             {"source": "snakeG", "quantity": 362450, "chance": 2.25e-06},
@@ -1920,6 +2066,7 @@
             {"source": "babayaga", "quantity": 362450, "chance": 0.00045},
             {"source": "wolfA", "quantity": 724900, "chance": 0.00045},
             {"source": "wolfB", "quantity": 1449800, "chance": 0.00045},
+            {"source": "ChestB1", "quantity": 362450, "chance": 0.00045},
             {"source": "Crystal0", "quantity": 362450, "chance": 0.0002},
             {"source": "goblinG", "quantity": 362450, "chance": 2e-06},
             {"source": "plank", "quantity": 362450, "chance": 2.25e-06},
@@ -1930,6 +2077,7 @@
             {"source": "wolfA", "quantity": 724900, "chance": 0.0005},
             {"source": "wolfB", "quantity": 1449800, "chance": 0.0005},
             {"source": "wolfC", "quantity": 724900, "chance": 0.0005},
+            {"source": "ChestC1", "quantity": 362450, "chance": 0.0005},
             {"source": "poopSmall", "quantity": 362450, "chance": 3.3e-06},
             {"source": "ratB", "quantity": 362450, "chance": 3.3e-06},
             {"source": "mushW", "quantity": 362450, "chance": 3.85e-06},
@@ -1979,6 +2127,7 @@
             {"source": "babayaga", "quantity": 2, "chance": 0.0004},
             {"source": "wolfA", "quantity": 2, "chance": 0.0004},
             {"source": "wolfB", "quantity": 4, "chance": 0.0004},
+            {"source": "ChestA1", "quantity": 1, "chance": 0.0004},
             {"source": "Crystal0", "quantity": 1, "chance": 0.000225},
             {"source": "slimeG", "quantity": 1, "chance": 1.8e-06},
             {"source": "snakeG", "quantity": 1, "chance": 2.25e-06},
@@ -1986,6 +2135,7 @@
             {"source": "babayaga", "quantity": 1, "chance": 0.00045},
             {"source": "wolfA", "quantity": 2, "chance": 0.00045},
             {"source": "wolfB", "quantity": 4, "chance": 0.00045},
+            {"source": "ChestB1", "quantity": 1, "chance": 0.00045},
             {"source": "Crystal0", "quantity": 1, "chance": 0.0002},
             {"source": "goblinG", "quantity": 1, "chance": 2e-06},
             {"source": "plank", "quantity": 1, "chance": 2.25e-06},
@@ -1996,6 +2146,7 @@
             {"source": "wolfA", "quantity": 2, "chance": 0.0005},
             {"source": "wolfB", "quantity": 4, "chance": 0.0005},
             {"source": "wolfC", "quantity": 2, "chance": 0.0005},
+            {"source": "ChestC1", "quantity": 1, "chance": 0.0005},
             {"source": "poopSmall", "quantity": 1, "chance": 3.3e-06},
             {"source": "ratB", "quantity": 1, "chance": 3.3e-06},
             {"source": "mushW", "quantity": 1, "chance": 3.85e-06},
@@ -2030,6 +2181,7 @@
             {"source": "crabcake", "quantity": 1, "chance": 3.24e-06},
             {"source": "babaHour", "quantity": 1, "chance": 0.00045},
             {"source": "Boss2A", "quantity": 2, "chance": 0.0009},
+            {"source": "ChestA2", "quantity": 1, "chance": 0.0009},
             {"source": "Crystal1", "quantity": 1, "chance": 0.00045},
             {"source": "shovelR", "quantity": 1, "chance": 2.88e-06},
             {"source": "coconut", "quantity": 1, "chance": 2.88e-06},
@@ -2038,6 +2190,7 @@
             {"source": "potato", "quantity": 1, "chance": 3.51e-06},
             {"source": "Boss2A", "quantity": 2, "chance": 0.0009},
             {"source": "Boss2B", "quantity": 2, "chance": 0.0009},
+            {"source": "ChestB2", "quantity": 1, "chance": 0.0009},
             {"source": "Crystal1", "quantity": 1, "chance": 0.00036},
             {"source": "steak", "quantity": 1, "chance": 2.88e-06},
             {"source": "moonman", "quantity": 1, "chance": 3.15e-06},
@@ -2046,6 +2199,7 @@
             {"source": "Boss2A", "quantity": 2, "chance": 0.0009},
             {"source": "Boss2B", "quantity": 2, "chance": 0.0009},
             {"source": "Boss2C", "quantity": 2, "chance": 0.0009},
+            {"source": "ChestC2", "quantity": 1, "chance": 0.0009},
             {"source": "Crystal1", "quantity": 1, "chance": 0.00054},
             {"source": "FishSmall", "quantity": 1, "chance": 1.08e-05},
             {"source": "FishMed", "quantity": 1, "chance": 1.08e-05},
@@ -2077,6 +2231,7 @@
             {"source": "stache", "quantity": 1, "chance": 2.79e-06},
             {"source": "skele", "quantity": 1, "chance": 9e-06},
             {"source": "Boss3A", "quantity": 2, "chance": 0.0009},
+            {"source": "ChestA3", "quantity": 1, "chance": 0.0009},
             {"source": "Crystal2", "quantity": 1, "chance": 0.00045},
             {"source": "bloque", "quantity": 1, "chance": 2.25e-06},
             {"source": "mamoth", "quantity": 1, "chance": 2.43e-06},
@@ -2085,6 +2240,7 @@
             {"source": "thermostat", "quantity": 1, "chance": 2.97e-06},
             {"source": "Boss3A", "quantity": 2, "chance": 0.0009},
             {"source": "Boss3B", "quantity": 2, "chance": 0.0009},
+            {"source": "ChestB3", "quantity": 1, "chance": 0.0009},
             {"source": "Crystal2", "quantity": 1, "chance": 0.00036},
             {"source": "ram", "quantity": 1, "chance": 3.06e-06},
             {"source": "glass", "quantity": 1, "chance": 2.25e-06},
@@ -2095,6 +2251,7 @@
             {"source": "Boss3A", "quantity": 2, "chance": 0.0009},
             {"source": "Boss3B", "quantity": 2, "chance": 0.0009},
             {"source": "Boss3C", "quantity": 2, "chance": 0.0009},
+            {"source": "ChestC3", "quantity": 1, "chance": 0.0009},
             {"source": "Crystal2", "quantity": 1, "chance": 0.00054},
             {"source": "SaharanFoal", "quantity": 1, "chance": 8.01e-06},
             {"source": "Tree7", "quantity": 1, "chance": 8.01e-06},
@@ -2109,6 +2266,7 @@
             {"source": "w4a2", "quantity": 1, "chance": 2.52e-06},
             {"source": "w4a3", "quantity": 1, "chance": 2.79e-06},
             {"source": "demonP", "quantity": 1, "chance": 3.06e-06},
+            {"source": "ChestA4", "quantity": 1, "chance": 0.0009},
             {"source": "Crystal3", "quantity": 1, "chance": 0.00045},
             {"source": "Boss4A", "quantity": 2, "chance": 0.0009},
             {"source": "Boss4B", "quantity": 2, "chance": 0.0009},
@@ -2118,6 +2276,7 @@
             {"source": "w4b3", "quantity": 1, "chance": 2.61e-06},
             {"source": "w4b4", "quantity": 1, "chance": 2.79e-06},
             {"source": "w4b5", "quantity": 1, "chance": 2.97e-06},
+            {"source": "ChestB4", "quantity": 1, "chance": 0.0009},
             {"source": "Crystal3", "quantity": 1, "chance": 0.00036},
             {"source": "Boss4A", "quantity": 2, "chance": 0.0009},
             {"source": "Boss4B", "quantity": 2, "chance": 0.0009},
@@ -2126,6 +2285,7 @@
             {"source": "w4c2", "quantity": 1, "chance": 2.52e-06},
             {"source": "w4c3", "quantity": 1, "chance": 2.7e-06},
             {"source": "w4c4", "quantity": 1, "chance": 2.88e-06},
+            {"source": "ChestC4", "quantity": 1, "chance": 0.0009},
             {"source": "Crystal3", "quantity": 1, "chance": 0.00036},
             {"source": "AlienTree", "quantity": 2, "chance": 7.335e-06},
             {"source": "Tree8", "quantity": 1, "chance": 8.01e-06},
@@ -2140,6 +2300,7 @@
             {"source": "Boss5A", "quantity": 2, "chance": 0.00075},
             {"source": "Boss5B", "quantity": 2, "chance": 0.00075},
             {"source": "Boss5C", "quantity": 2, "chance": 0.00075},
+            {"source": "ChestA5", "quantity": 1, "chance": 0.00075},
             {"source": "Bug9", "quantity": 1, "chance": 1.125e-05},
             {"source": "Crystal4", "quantity": 1, "chance": 0.00015},
             {"source": "w5b1", "quantity": 1, "chance": 1.875e-06},
@@ -2150,6 +2311,7 @@
             {"source": "w5b6", "quantity": 1, "chance": 2.625e-06},
             {"source": "Boss5A", "quantity": 2, "chance": 0.00075},
             {"source": "Boss5B", "quantity": 2, "chance": 0.00075},
+            {"source": "ChestB5", "quantity": 1, "chance": 0.00075},
             {"source": "Bug10", "quantity": 1, "chance": 1.125e-05},
             {"source": "Bug11", "quantity": 1, "chance": 7.5e-12},
             {"source": "Crystal4", "quantity": 1, "chance": 0.0001275},
@@ -2157,6 +2319,7 @@
             {"source": "w5c2", "quantity": 1, "chance": 2.625e-06},
             {"source": "Boss5A", "quantity": 2, "chance": 0.00075},
             {"source": "Boss5B", "quantity": 2, "chance": 0.00075},
+            {"source": "ChestC5", "quantity": 1, "chance": 0.00075},
             {"source": "Crystal4", "quantity": 1, "chance": 0.000153},
             {"source": "Tree10", "quantity": 1, "chance": 8.01e-06},
             {"source": "Tree11", "quantity": 1, "chance": 8.01e-06}
@@ -2172,6 +2335,7 @@
             {"source": "babayaga", "quantity": 2, "chance": 0.002},
             {"source": "wolfA", "quantity": 2, "chance": 0.002},
             {"source": "wolfB", "quantity": 4, "chance": 0.002},
+            {"source": "ChestA1", "quantity": 1, "chance": 0.002},
             {"source": "Crystal0", "quantity": 1, "chance": 0.001125},
             {"source": "slimeG", "quantity": 1, "chance": 9e-06},
             {"source": "snakeG", "quantity": 1, "chance": 1.125e-05},
@@ -2179,6 +2343,7 @@
             {"source": "babayaga", "quantity": 1, "chance": 0.00225},
             {"source": "wolfA", "quantity": 2, "chance": 0.00225},
             {"source": "wolfB", "quantity": 4, "chance": 0.00225},
+            {"source": "ChestB1", "quantity": 1, "chance": 0.00225},
             {"source": "Crystal0", "quantity": 1, "chance": 0.001},
             {"source": "goblinG", "quantity": 1, "chance": 1e-05},
             {"source": "plank", "quantity": 1, "chance": 1.125e-05},
@@ -2189,6 +2354,7 @@
             {"source": "wolfA", "quantity": 2, "chance": 0.0025},
             {"source": "wolfB", "quantity": 4, "chance": 0.0025},
             {"source": "wolfC", "quantity": 2, "chance": 0.0025},
+            {"source": "ChestC1", "quantity": 1, "chance": 0.0025},
             {"source": "poopSmall", "quantity": 1, "chance": 1.65e-05},
             {"source": "ratB", "quantity": 1, "chance": 1.65e-05},
             {"source": "mushW", "quantity": 1, "chance": 1.925e-05},
@@ -2216,7 +2382,8 @@
             {"source": "JungleTree", "quantity": 1, "chance": 2.7e-05},
             {"source": "ForestTree", "quantity": 1, "chance": 2.85e-05},
             {"source": "StumpTree", "quantity": 1, "chance": 3.06e-05},
-            {"source": "ToiletTree", "quantity": 1, "chance": 3.18e-05}
+            {"source": "ToiletTree", "quantity": 1, "chance": 3.18e-05},
+            {"source": "ChestB1", "quantity": 1, "chance": 0.5}
         ]
     },
     "ObolSilverMoney": {
@@ -2229,6 +2396,7 @@
             {"source": "babayaga", "quantity": 2, "chance": 0.000126},
             {"source": "wolfA", "quantity": 2, "chance": 0.000126},
             {"source": "wolfB", "quantity": 4, "chance": 0.000126},
+            {"source": "ChestA1", "quantity": 1, "chance": 0.000126},
             {"source": "Crystal0", "quantity": 1, "chance": 7.0875e-05},
             {"source": "slimeG", "quantity": 1, "chance": 5.67e-07},
             {"source": "snakeG", "quantity": 1, "chance": 7.0875e-07},
@@ -2236,6 +2404,7 @@
             {"source": "babayaga", "quantity": 1, "chance": 0.00014175},
             {"source": "wolfA", "quantity": 2, "chance": 0.00014175},
             {"source": "wolfB", "quantity": 4, "chance": 0.00014175},
+            {"source": "ChestB1", "quantity": 1, "chance": 0.00014175},
             {"source": "Crystal0", "quantity": 1, "chance": 6.3e-05},
             {"source": "goblinG", "quantity": 1, "chance": 6.3e-07},
             {"source": "plank", "quantity": 1, "chance": 7.0875e-07},
@@ -2246,6 +2415,7 @@
             {"source": "wolfA", "quantity": 2, "chance": 0.0001575},
             {"source": "wolfB", "quantity": 4, "chance": 0.0001575},
             {"source": "wolfC", "quantity": 2, "chance": 0.0001575},
+            {"source": "ChestC1", "quantity": 1, "chance": 0.0001575},
             {"source": "poopSmall", "quantity": 1, "chance": 1.0395e-06},
             {"source": "ratB", "quantity": 1, "chance": 1.0395e-06},
             {"source": "mushW", "quantity": 1, "chance": 1.21275e-06},
@@ -2286,6 +2456,7 @@
             {"source": "babayaga", "quantity": 2, "chance": 0.0001302},
             {"source": "wolfA", "quantity": 2, "chance": 0.0001302},
             {"source": "wolfB", "quantity": 4, "chance": 0.0001302},
+            {"source": "ChestA1", "quantity": 1, "chance": 0.0001302},
             {"source": "Crystal0", "quantity": 1, "chance": 7.32375e-05},
             {"source": "slimeG", "quantity": 1, "chance": 5.859e-07},
             {"source": "snakeG", "quantity": 1, "chance": 7.32375e-07},
@@ -2293,6 +2464,7 @@
             {"source": "babayaga", "quantity": 1, "chance": 0.000146475},
             {"source": "wolfA", "quantity": 2, "chance": 0.000146475},
             {"source": "wolfB", "quantity": 4, "chance": 0.000146475},
+            {"source": "ChestB1", "quantity": 1, "chance": 0.000146475},
             {"source": "Crystal0", "quantity": 1, "chance": 6.51e-05},
             {"source": "goblinG", "quantity": 1, "chance": 6.51e-07},
             {"source": "plank", "quantity": 1, "chance": 7.32375e-07},
@@ -2303,6 +2475,7 @@
             {"source": "wolfA", "quantity": 2, "chance": 0.00016275},
             {"source": "wolfB", "quantity": 4, "chance": 0.00016275},
             {"source": "wolfC", "quantity": 2, "chance": 0.00016275},
+            {"source": "ChestC1", "quantity": 1, "chance": 0.00016275},
             {"source": "poopSmall", "quantity": 1, "chance": 1.07415e-06},
             {"source": "ratB", "quantity": 1, "chance": 1.07415e-06},
             {"source": "mushW", "quantity": 1, "chance": 1.25318e-06},
@@ -2343,6 +2516,7 @@
             {"source": "babayaga", "quantity": 2, "chance": 0.0001218},
             {"source": "wolfA", "quantity": 2, "chance": 0.0001218},
             {"source": "wolfB", "quantity": 4, "chance": 0.0001218},
+            {"source": "ChestA1", "quantity": 1, "chance": 0.0001218},
             {"source": "Crystal0", "quantity": 1, "chance": 6.85125e-05},
             {"source": "slimeG", "quantity": 1, "chance": 5.481e-07},
             {"source": "snakeG", "quantity": 1, "chance": 6.85125e-07},
@@ -2350,6 +2524,7 @@
             {"source": "babayaga", "quantity": 1, "chance": 0.000137025},
             {"source": "wolfA", "quantity": 2, "chance": 0.000137025},
             {"source": "wolfB", "quantity": 4, "chance": 0.000137025},
+            {"source": "ChestB1", "quantity": 1, "chance": 0.000137025},
             {"source": "Crystal0", "quantity": 1, "chance": 6.09e-05},
             {"source": "goblinG", "quantity": 1, "chance": 6.09e-07},
             {"source": "plank", "quantity": 1, "chance": 6.85125e-07},
@@ -2360,6 +2535,7 @@
             {"source": "wolfA", "quantity": 2, "chance": 0.00015225},
             {"source": "wolfB", "quantity": 4, "chance": 0.00015225},
             {"source": "wolfC", "quantity": 2, "chance": 0.00015225},
+            {"source": "ChestC1", "quantity": 1, "chance": 0.00015225},
             {"source": "poopSmall", "quantity": 1, "chance": 1.00485e-06},
             {"source": "ratB", "quantity": 1, "chance": 1.00485e-06},
             {"source": "mushW", "quantity": 1, "chance": 1.17233e-06},
@@ -2400,6 +2576,7 @@
             {"source": "babayaga", "quantity": 4, "chance": 0.0034},
             {"source": "wolfA", "quantity": 4, "chance": 0.0034},
             {"source": "wolfB", "quantity": 8, "chance": 0.0034},
+            {"source": "ChestA1", "quantity": 2, "chance": 0.0034},
             {"source": "Crystal0", "quantity": 2, "chance": 0.0019125},
             {"source": "slimeG", "quantity": 2, "chance": 1.53e-05},
             {"source": "snakeG", "quantity": 2, "chance": 1.9125e-05},
@@ -2407,6 +2584,7 @@
             {"source": "babayaga", "quantity": 2, "chance": 0.003825},
             {"source": "wolfA", "quantity": 4, "chance": 0.003825},
             {"source": "wolfB", "quantity": 8, "chance": 0.003825},
+            {"source": "ChestB1", "quantity": 2, "chance": 0.003825},
             {"source": "Crystal0", "quantity": 2, "chance": 0.0017},
             {"source": "goblinG", "quantity": 2, "chance": 1.7e-05},
             {"source": "plank", "quantity": 2, "chance": 1.9125e-05},
@@ -2417,6 +2595,7 @@
             {"source": "wolfA", "quantity": 4, "chance": 0.00425},
             {"source": "wolfB", "quantity": 8, "chance": 0.00425},
             {"source": "wolfC", "quantity": 4, "chance": 0.00425},
+            {"source": "ChestC1", "quantity": 2, "chance": 0.00425},
             {"source": "poopSmall", "quantity": 2, "chance": 2.805e-05},
             {"source": "ratB", "quantity": 2, "chance": 2.805e-05},
             {"source": "mushW", "quantity": 2, "chance": 3.2725e-05},
@@ -2451,6 +2630,7 @@
             {"source": "crabcake", "quantity": 3, "chance": 1.512e-05},
             {"source": "babaHour", "quantity": 3, "chance": 0.0021},
             {"source": "Boss2A", "quantity": 6, "chance": 0.0042},
+            {"source": "ChestA2", "quantity": 3, "chance": 0.0042},
             {"source": "Crystal1", "quantity": 3, "chance": 0.0021},
             {"source": "shovelR", "quantity": 3, "chance": 1.344e-05},
             {"source": "coconut", "quantity": 3, "chance": 1.344e-05},
@@ -2459,6 +2639,7 @@
             {"source": "potato", "quantity": 3, "chance": 1.638e-05},
             {"source": "Boss2A", "quantity": 6, "chance": 0.0042},
             {"source": "Boss2B", "quantity": 6, "chance": 0.0042},
+            {"source": "ChestB2", "quantity": 3, "chance": 0.0042},
             {"source": "Crystal1", "quantity": 3, "chance": 0.00168},
             {"source": "steak", "quantity": 3, "chance": 1.344e-05},
             {"source": "moonman", "quantity": 3, "chance": 1.47e-05},
@@ -2467,6 +2648,7 @@
             {"source": "Boss2A", "quantity": 6, "chance": 0.0042},
             {"source": "Boss2B", "quantity": 6, "chance": 0.0042},
             {"source": "Boss2C", "quantity": 6, "chance": 0.0042},
+            {"source": "ChestC2", "quantity": 3, "chance": 0.0042},
             {"source": "Crystal1", "quantity": 3, "chance": 0.00252},
             {"source": "FishSmall", "quantity": 3, "chance": 5.04e-05},
             {"source": "FishMed", "quantity": 3, "chance": 5.04e-05},
@@ -2508,7 +2690,8 @@
             {"source": "flake", "quantity": 1, "chance": 8.4e-05},
             {"source": "stache", "quantity": 1, "chance": 9.3e-05},
             {"source": "skele", "quantity": 1, "chance": 0.0003},
-            {"source": "Boss3A", "quantity": 2, "chance": 0.03}
+            {"source": "Boss3A", "quantity": 2, "chance": 0.03},
+            {"source": "ChestA3", "quantity": 1, "chance": 0.03}
         ]
     },
     "EquipmentStatues14": {
@@ -2526,7 +2709,8 @@
             {"source": "mimicA", "quantity": 1, "chance": 5.76e-06},
             {"source": "crabcake", "quantity": 1, "chance": 6.48e-06},
             {"source": "babaHour", "quantity": 1, "chance": 0.0009},
-            {"source": "Boss2A", "quantity": 2, "chance": 0.0018}
+            {"source": "Boss2A", "quantity": 2, "chance": 0.0018},
+            {"source": "ChestA2", "quantity": 1, "chance": 0.0018}
         ]
     },
     "FoodHealth6": {
@@ -2536,7 +2720,8 @@
             {"source": "mimicA", "quantity": 15, "chance": 0.001344},
             {"source": "crabcake", "quantity": 15, "chance": 0.001512},
             {"source": "babaHour", "quantity": 15, "chance": 0.21},
-            {"source": "Boss2A", "quantity": 30, "chance": 0.42}
+            {"source": "Boss2A", "quantity": 30, "chance": 0.42},
+            {"source": "ChestA2", "quantity": 15, "chance": 0.42}
         ]
     },
     "FoodPotGr2": {
@@ -2546,7 +2731,8 @@
             {"source": "mimicA", "quantity": 25, "chance": 0.00128},
             {"source": "crabcake", "quantity": 25, "chance": 0.00144},
             {"source": "babaHour", "quantity": 25, "chance": 0.2},
-            {"source": "Boss2A", "quantity": 50, "chance": 0.4}
+            {"source": "Boss2A", "quantity": 50, "chance": 0.4},
+            {"source": "ChestA2", "quantity": 25, "chance": 0.4}
         ]
     },
     "StampB15": {
@@ -2556,7 +2742,8 @@
             {"source": "mimicA", "quantity": 1, "chance": 1.92e-06},
             {"source": "crabcake", "quantity": 1, "chance": 2.16e-06},
             {"source": "babaHour", "quantity": 1, "chance": 0.0003},
-            {"source": "Boss2A", "quantity": 2, "chance": 0.0006}
+            {"source": "Boss2A", "quantity": 2, "chance": 0.0006},
+            {"source": "ChestA2", "quantity": 1, "chance": 0.0006}
         ]
     },
     "EquipmentStatues12": {
@@ -2566,7 +2753,8 @@
             {"source": "mimicA", "quantity": 1, "chance": 0.000224},
             {"source": "crabcake", "quantity": 1, "chance": 0.000252},
             {"source": "babaHour", "quantity": 1, "chance": 0.035},
-            {"source": "Boss2A", "quantity": 2, "chance": 0.07}
+            {"source": "Boss2A", "quantity": 2, "chance": 0.07},
+            {"source": "ChestA2", "quantity": 1, "chance": 0.07}
         ]
     },
     "Quest32": {
@@ -2577,6 +2765,7 @@
             {"source": "crabcake", "quantity": 1, "chance": 0.00216},
             {"source": "babaHour", "quantity": 1, "chance": 0.3},
             {"source": "Boss2A", "quantity": 2, "chance": 0.6},
+            {"source": "ChestA2", "quantity": 1, "chance": 0.6},
             {"source": "Crystal1", "quantity": 1, "chance": 0.45},
             {"source": "shovelR", "quantity": 1, "chance": 0.00288},
             {"source": "coconut", "quantity": 1, "chance": 0.00288},
@@ -2584,7 +2773,8 @@
             {"source": "pincermin", "quantity": 1, "chance": 0.00333},
             {"source": "potato", "quantity": 1, "chance": 0.00351},
             {"source": "Boss2A", "quantity": 2, "chance": 0.9},
-            {"source": "Boss2B", "quantity": 2, "chance": 0.9}
+            {"source": "Boss2B", "quantity": 2, "chance": 0.9},
+            {"source": "ChestB2", "quantity": 1, "chance": 0.9}
         ]
     },
     "Quest23": {
@@ -2595,6 +2785,7 @@
             {"source": "crabcake", "quantity": 3, "chance": 0.00108},
             {"source": "babaHour", "quantity": 3, "chance": 0.15},
             {"source": "Boss2A", "quantity": 6, "chance": 0.3},
+            {"source": "ChestA2", "quantity": 3, "chance": 0.3},
             {"source": "Crystal1", "quantity": 3, "chance": 0.15},
             {"source": "shovelR", "quantity": 3, "chance": 0.00096},
             {"source": "coconut", "quantity": 3, "chance": 0.00096},
@@ -2603,6 +2794,7 @@
             {"source": "potato", "quantity": 3, "chance": 0.00117},
             {"source": "Boss2A", "quantity": 6, "chance": 0.3},
             {"source": "Boss2B", "quantity": 6, "chance": 0.3},
+            {"source": "ChestB2", "quantity": 3, "chance": 0.3},
             {"source": "Crystal1", "quantity": 3, "chance": 0.12},
             {"source": "steak", "quantity": 3, "chance": 0.00096},
             {"source": "moonman", "quantity": 3, "chance": 0.00105},
@@ -2611,12 +2803,14 @@
             {"source": "Boss2A", "quantity": 6, "chance": 0.3},
             {"source": "Boss2B", "quantity": 6, "chance": 0.3},
             {"source": "Boss2C", "quantity": 6, "chance": 0.3},
+            {"source": "ChestC2", "quantity": 3, "chance": 0.3},
             {"source": "Crystal2", "quantity": 5, "chance": 0.18},
             {"source": "sheep", "quantity": 5, "chance": 0.00075},
             {"source": "flake", "quantity": 5, "chance": 0.00084},
             {"source": "stache", "quantity": 5, "chance": 0.00093},
             {"source": "skele", "quantity": 5, "chance": 0.003},
             {"source": "Boss3A", "quantity": 10, "chance": 0.3},
+            {"source": "ChestA3", "quantity": 5, "chance": 0.3},
             {"source": "Crystal2", "quantity": 5, "chance": 0.15},
             {"source": "bloque", "quantity": 5, "chance": 0.00075},
             {"source": "mamoth", "quantity": 5, "chance": 0.00081},
@@ -2625,6 +2819,7 @@
             {"source": "thermostat", "quantity": 5, "chance": 0.00099},
             {"source": "Boss3A", "quantity": 10, "chance": 0.3},
             {"source": "Boss3B", "quantity": 10, "chance": 0.3},
+            {"source": "ChestB3", "quantity": 5, "chance": 0.3},
             {"source": "Crystal2", "quantity": 5, "chance": 0.12},
             {"source": "ram", "quantity": 5, "chance": 0.00102},
             {"source": "glass", "quantity": 5, "chance": 0.00075},
@@ -2635,6 +2830,7 @@
             {"source": "Boss3A", "quantity": 10, "chance": 0.3},
             {"source": "Boss3B", "quantity": 10, "chance": 0.3},
             {"source": "Boss3C", "quantity": 10, "chance": 0.3},
+            {"source": "ChestC3", "quantity": 5, "chance": 0.3},
             {"source": "ratB", "quantity": 1, "chance": 0.16},
             {"source": "ratB", "quantity": 1, "chance": 0.16}
         ]
@@ -2646,7 +2842,8 @@
             {"source": "mimicA", "quantity": 1, "chance": 2.352e-06},
             {"source": "crabcake", "quantity": 1, "chance": 2.646e-06},
             {"source": "babaHour", "quantity": 1, "chance": 0.0003675},
-            {"source": "Boss2A", "quantity": 2, "chance": 0.000735}
+            {"source": "Boss2A", "quantity": 2, "chance": 0.000735},
+            {"source": "ChestA2", "quantity": 1, "chance": 0.000735}
         ]
     },
     "SuperDropTable2": {
@@ -2657,6 +2854,7 @@
             {"source": "crabcake", "quantity": 1, "chance": 2.16e-05},
             {"source": "babaHour", "quantity": 1, "chance": 0.003},
             {"source": "Boss2A", "quantity": 2, "chance": 0.006},
+            {"source": "ChestA2", "quantity": 1, "chance": 0.006},
             {"source": "Crystal1", "quantity": 1, "chance": 0.003},
             {"source": "shovelR", "quantity": 1, "chance": 1.92e-05},
             {"source": "coconut", "quantity": 1, "chance": 1.92e-05},
@@ -2665,6 +2863,7 @@
             {"source": "potato", "quantity": 1, "chance": 2.34e-05},
             {"source": "Boss2A", "quantity": 2, "chance": 0.006},
             {"source": "Boss2B", "quantity": 2, "chance": 0.006},
+            {"source": "ChestB2", "quantity": 1, "chance": 0.006},
             {"source": "Crystal1", "quantity": 1, "chance": 0.0024},
             {"source": "steak", "quantity": 1, "chance": 1.92e-05},
             {"source": "moonman", "quantity": 1, "chance": 2.1e-05},
@@ -2673,6 +2872,7 @@
             {"source": "Boss2A", "quantity": 2, "chance": 0.006},
             {"source": "Boss2B", "quantity": 2, "chance": 0.006},
             {"source": "Boss2C", "quantity": 2, "chance": 0.006},
+            {"source": "ChestC2", "quantity": 1, "chance": 0.006},
             {"source": "Crystal1", "quantity": 1, "chance": 0.0036},
             {"source": "FishSmall", "quantity": 1, "chance": 7.2e-05},
             {"source": "FishMed", "quantity": 1, "chance": 7.2e-05},
@@ -2709,7 +2909,8 @@
             {"source": "pincermin", "quantity": 1, "chance": 4.44e-06},
             {"source": "potato", "quantity": 1, "chance": 4.68e-06},
             {"source": "Boss2A", "quantity": 2, "chance": 0.0012},
-            {"source": "Boss2B", "quantity": 2, "chance": 0.0012}
+            {"source": "Boss2B", "quantity": 2, "chance": 0.0012},
+            {"source": "ChestB2", "quantity": 1, "chance": 0.0012}
         ]
     },
     "StoneA2b": {
@@ -2721,7 +2922,8 @@
             {"source": "pincermin", "quantity": 1, "chance": 1.85e-05},
             {"source": "potato", "quantity": 1, "chance": 1.95e-05},
             {"source": "Boss2A", "quantity": 2, "chance": 0.005},
-            {"source": "Boss2B", "quantity": 2, "chance": 0.005}
+            {"source": "Boss2B", "quantity": 2, "chance": 0.005},
+            {"source": "ChestB2", "quantity": 1, "chance": 0.005}
         ]
     },
     "FoodHealth7": {
@@ -2733,7 +2935,8 @@
             {"source": "pincermin", "quantity": 15, "chance": 0.001554},
             {"source": "potato", "quantity": 15, "chance": 0.001638},
             {"source": "Boss2A", "quantity": 30, "chance": 0.42},
-            {"source": "Boss2B", "quantity": 30, "chance": 0.42}
+            {"source": "Boss2B", "quantity": 30, "chance": 0.42},
+            {"source": "ChestB2", "quantity": 15, "chance": 0.42}
         ]
     },
     "StampB16": {
@@ -2745,7 +2948,8 @@
             {"source": "pincermin", "quantity": 1, "chance": 1.48e-06},
             {"source": "potato", "quantity": 1, "chance": 1.56e-06},
             {"source": "Boss2A", "quantity": 2, "chance": 0.0004},
-            {"source": "Boss2B", "quantity": 2, "chance": 0.0004}
+            {"source": "Boss2B", "quantity": 2, "chance": 0.0004},
+            {"source": "ChestB2", "quantity": 1, "chance": 0.0004}
         ]
     },
     "EquipmentStatues11": {
@@ -2757,7 +2961,8 @@
             {"source": "pincermin", "quantity": 1, "chance": 0.000148},
             {"source": "potato", "quantity": 1, "chance": 0.000156},
             {"source": "Boss2A", "quantity": 2, "chance": 0.04},
-            {"source": "Boss2B", "quantity": 2, "chance": 0.04}
+            {"source": "Boss2B", "quantity": 2, "chance": 0.04},
+            {"source": "ChestB2", "quantity": 1, "chance": 0.04}
         ]
     },
     "ObolSilver2": {
@@ -2769,7 +2974,8 @@
             {"source": "pincermin", "quantity": 1, "chance": 2.7195e-06},
             {"source": "potato", "quantity": 1, "chance": 2.8665e-06},
             {"source": "Boss2A", "quantity": 2, "chance": 0.000735},
-            {"source": "Boss2B", "quantity": 2, "chance": 0.000735}
+            {"source": "Boss2B", "quantity": 2, "chance": 0.000735},
+            {"source": "ChestB2", "quantity": 1, "chance": 0.000735}
         ]
     },
     "MidnightCookie": {
@@ -2782,6 +2988,7 @@
             {"source": "Boss2A", "quantity": 2, "chance": 0.003},
             {"source": "Boss2B", "quantity": 2, "chance": 0.003},
             {"source": "Boss2C", "quantity": 2, "chance": 0.003},
+            {"source": "ChestC2", "quantity": 1, "chance": 0.003},
             {"source": "babaMummy", "quantity": 2, "chance": 0.2},
             {"source": "Boss2A", "quantity": 1, "chance": 0.07},
             {"source": "Boss2B", "quantity": 1, "chance": 0.07},
@@ -2797,7 +3004,8 @@
             {"source": "snailZ", "quantity": 1, "chance": 3.9e-05},
             {"source": "Boss2A", "quantity": 2, "chance": 0.01},
             {"source": "Boss2B", "quantity": 2, "chance": 0.01},
-            {"source": "Boss2C", "quantity": 2, "chance": 0.01}
+            {"source": "Boss2C", "quantity": 2, "chance": 0.01},
+            {"source": "ChestC2", "quantity": 1, "chance": 0.01}
         ]
     },
     "FoodPotRe3": {
@@ -2809,7 +3017,8 @@
             {"source": "snailZ", "quantity": 25, "chance": 0.00156},
             {"source": "Boss2A", "quantity": 50, "chance": 0.4},
             {"source": "Boss2B", "quantity": 50, "chance": 0.4},
-            {"source": "Boss2C", "quantity": 50, "chance": 0.4}
+            {"source": "Boss2C", "quantity": 50, "chance": 0.4},
+            {"source": "ChestC2", "quantity": 25, "chance": 0.4}
         ]
     },
     "StampB24": {
@@ -2821,7 +3030,8 @@
             {"source": "snailZ", "quantity": 1, "chance": 5.85e-07},
             {"source": "Boss2A", "quantity": 2, "chance": 0.00015},
             {"source": "Boss2B", "quantity": 2, "chance": 0.00015},
-            {"source": "Boss2C", "quantity": 2, "chance": 0.00015}
+            {"source": "Boss2C", "quantity": 2, "chance": 0.00015},
+            {"source": "ChestC2", "quantity": 1, "chance": 0.00015}
         ]
     },
     "EquipmentStatues13": {
@@ -2833,7 +3043,8 @@
             {"source": "snailZ", "quantity": 1, "chance": 0.000273},
             {"source": "Boss2A", "quantity": 2, "chance": 0.07},
             {"source": "Boss2B", "quantity": 2, "chance": 0.07},
-            {"source": "Boss2C", "quantity": 2, "chance": 0.07}
+            {"source": "Boss2C", "quantity": 2, "chance": 0.07},
+            {"source": "ChestC2", "quantity": 1, "chance": 0.07}
         ]
     },
     "ObolSilver3": {
@@ -2845,7 +3056,8 @@
             {"source": "snailZ", "quantity": 1, "chance": 2.8665e-06},
             {"source": "Boss2A", "quantity": 2, "chance": 0.000735},
             {"source": "Boss2B", "quantity": 2, "chance": 0.000735},
-            {"source": "Boss2C", "quantity": 2, "chance": 0.000735}
+            {"source": "Boss2C", "quantity": 2, "chance": 0.000735},
+            {"source": "ChestC2", "quantity": 1, "chance": 0.000735}
         ]
     },
     "StampB23": {
@@ -2927,7 +3139,9 @@
         "sources": [
             {"source": "Crystal1", "quantity": 1, "chance": 0.001},
             {"source": "PalmTree", "quantity": 2, "chance": 3e-05},
-            {"source": "mushG", "quantity": 1, "chance": 5e-05}
+            {"source": "mushG", "quantity": 1, "chance": 5e-05},
+            {"source": "ChestB1", "quantity": 1, "chance": 0.04},
+            {"source": "ChestA2", "quantity": 1, "chance": 0.025}
         ]
     },
     "EquipmentStatues8": {
@@ -2985,6 +3199,25 @@
             {"source": "mini5a", "quantity": 4, "chance": 0.5},
             {"source": "mini6a", "quantity": 4, "chance": 0.5},
             {"source": "babaMummy", "quantity": 5, "chance": 0.75},
+            {"source": "ChestA1", "quantity": 1, "chance": 0.05},
+            {"source": "ChestB1", "quantity": 1, "chance": 0.12},
+            {"source": "ChestC1", "quantity": 1, "chance": 0.3},
+            {"source": "ChestC1", "quantity": 1, "chance": 0.8},
+            {"source": "ChestA2", "quantity": 1, "chance": 0.1},
+            {"source": "ChestB2", "quantity": 1, "chance": 0.2},
+            {"source": "ChestC2", "quantity": 1, "chance": 0.4},
+            {"source": "ChestA3", "quantity": 1, "chance": 0.12},
+            {"source": "ChestB3", "quantity": 1, "chance": 0.23},
+            {"source": "ChestC3", "quantity": 1, "chance": 0.45},
+            {"source": "ChestA4", "quantity": 1, "chance": 0.12},
+            {"source": "ChestB4", "quantity": 1, "chance": 0.23},
+            {"source": "ChestC4", "quantity": 1, "chance": 0.45},
+            {"source": "ChestA5", "quantity": 1, "chance": 0.12},
+            {"source": "ChestB5", "quantity": 1, "chance": 0.23},
+            {"source": "ChestC5", "quantity": 1, "chance": 0.45},
+            {"source": "ChestA6", "quantity": 1, "chance": 0.12},
+            {"source": "ChestB6", "quantity": 1, "chance": 0.23},
+            {"source": "ChestC6", "quantity": 1, "chance": 0.45},
             {"source": "EasterEvent2", "quantity": 1, "chance": 0.3},
             {"source": "springEvent2", "quantity": 1, "chance": 0.2},
             {"source": "fallEvent1", "quantity": 1, "chance": 0.2},
@@ -3065,6 +3298,7 @@
             {"source": "crabcake", "quantity": 1, "chance": 1.08e-05},
             {"source": "babaHour", "quantity": 1, "chance": 0.0015},
             {"source": "Boss2A", "quantity": 2, "chance": 0.003},
+            {"source": "ChestA2", "quantity": 1, "chance": 0.003},
             {"source": "Crystal1", "quantity": 1, "chance": 0.0015},
             {"source": "shovelR", "quantity": 1, "chance": 9.6e-06},
             {"source": "coconut", "quantity": 1, "chance": 9.6e-06},
@@ -3073,6 +3307,7 @@
             {"source": "potato", "quantity": 1, "chance": 1.17e-05},
             {"source": "Boss2A", "quantity": 2, "chance": 0.003},
             {"source": "Boss2B", "quantity": 2, "chance": 0.003},
+            {"source": "ChestB2", "quantity": 1, "chance": 0.003},
             {"source": "Crystal1", "quantity": 1, "chance": 0.0012},
             {"source": "steak", "quantity": 1, "chance": 9.6e-06},
             {"source": "moonman", "quantity": 1, "chance": 1.05e-05},
@@ -3081,6 +3316,7 @@
             {"source": "Boss2A", "quantity": 2, "chance": 0.003},
             {"source": "Boss2B", "quantity": 2, "chance": 0.003},
             {"source": "Boss2C", "quantity": 2, "chance": 0.003},
+            {"source": "ChestC2", "quantity": 1, "chance": 0.003},
             {"source": "Crystal1", "quantity": 1, "chance": 0.0018},
             {"source": "FishSmall", "quantity": 1, "chance": 3.6e-05},
             {"source": "FishMed", "quantity": 1, "chance": 3.6e-05},
@@ -3105,7 +3341,8 @@
             {"source": "Bug1", "quantity": 1, "chance": 4.5e-05},
             {"source": "Bug2", "quantity": 1, "chance": 4.5e-05},
             {"source": "Bug3", "quantity": 1, "chance": 4.5e-05},
-            {"source": "Bug4", "quantity": 1, "chance": 4.5e-05}
+            {"source": "Bug4", "quantity": 1, "chance": 4.5e-05},
+            {"source": "ChestC2", "quantity": 1, "chance": 0.5}
         ]
     },
     "ObolGold3": {
@@ -3116,6 +3353,7 @@
             {"source": "crabcake", "quantity": 1, "chance": 3.402e-07},
             {"source": "babaHour", "quantity": 1, "chance": 4.725e-05},
             {"source": "Boss2A", "quantity": 2, "chance": 9.45e-05},
+            {"source": "ChestA2", "quantity": 1, "chance": 9.45e-05},
             {"source": "Crystal1", "quantity": 1, "chance": 4.725e-05},
             {"source": "shovelR", "quantity": 1, "chance": 3.024e-07},
             {"source": "coconut", "quantity": 1, "chance": 3.024e-07},
@@ -3124,6 +3362,7 @@
             {"source": "potato", "quantity": 1, "chance": 3.6855e-07},
             {"source": "Boss2A", "quantity": 2, "chance": 9.45e-05},
             {"source": "Boss2B", "quantity": 2, "chance": 9.45e-05},
+            {"source": "ChestB2", "quantity": 1, "chance": 9.45e-05},
             {"source": "Crystal1", "quantity": 1, "chance": 3.78e-05},
             {"source": "steak", "quantity": 1, "chance": 3.024e-07},
             {"source": "moonman", "quantity": 1, "chance": 3.3075e-07},
@@ -3132,6 +3371,7 @@
             {"source": "Boss2A", "quantity": 2, "chance": 9.45e-05},
             {"source": "Boss2B", "quantity": 2, "chance": 9.45e-05},
             {"source": "Boss2C", "quantity": 2, "chance": 9.45e-05},
+            {"source": "ChestC2", "quantity": 1, "chance": 9.45e-05},
             {"source": "Crystal1", "quantity": 1, "chance": 5.67e-05},
             {"source": "FishSmall", "quantity": 1, "chance": 1.134e-06},
             {"source": "FishMed", "quantity": 1, "chance": 1.134e-06},
@@ -3167,6 +3407,7 @@
             {"source": "crabcake", "quantity": 1, "chance": 5.67e-07},
             {"source": "babaHour", "quantity": 1, "chance": 7.875e-05},
             {"source": "Boss2A", "quantity": 2, "chance": 0.0001575},
+            {"source": "ChestA2", "quantity": 1, "chance": 0.0001575},
             {"source": "Crystal1", "quantity": 1, "chance": 7.875e-05},
             {"source": "shovelR", "quantity": 1, "chance": 5.04e-07},
             {"source": "coconut", "quantity": 1, "chance": 5.04e-07},
@@ -3175,6 +3416,7 @@
             {"source": "potato", "quantity": 1, "chance": 6.1425e-07},
             {"source": "Boss2A", "quantity": 2, "chance": 0.0001575},
             {"source": "Boss2B", "quantity": 2, "chance": 0.0001575},
+            {"source": "ChestB2", "quantity": 1, "chance": 0.0001575},
             {"source": "Crystal1", "quantity": 1, "chance": 6.3e-05},
             {"source": "steak", "quantity": 1, "chance": 5.04e-07},
             {"source": "moonman", "quantity": 1, "chance": 5.5125e-07},
@@ -3183,6 +3425,7 @@
             {"source": "Boss2A", "quantity": 2, "chance": 0.0001575},
             {"source": "Boss2B", "quantity": 2, "chance": 0.0001575},
             {"source": "Boss2C", "quantity": 2, "chance": 0.0001575},
+            {"source": "ChestC2", "quantity": 1, "chance": 0.0001575},
             {"source": "Crystal1", "quantity": 1, "chance": 9.45e-05},
             {"source": "FishSmall", "quantity": 1, "chance": 1.89e-06},
             {"source": "FishMed", "quantity": 1, "chance": 1.89e-06},
@@ -3218,6 +3461,7 @@
             {"source": "crabcake", "quantity": 1, "chance": 6.5772e-07},
             {"source": "babaHour", "quantity": 1, "chance": 9.135e-05},
             {"source": "Boss2A", "quantity": 2, "chance": 0.0001827},
+            {"source": "ChestA2", "quantity": 1, "chance": 0.0001827},
             {"source": "Crystal1", "quantity": 1, "chance": 9.135e-05},
             {"source": "shovelR", "quantity": 1, "chance": 5.8464e-07},
             {"source": "coconut", "quantity": 1, "chance": 5.8464e-07},
@@ -3226,6 +3470,7 @@
             {"source": "potato", "quantity": 1, "chance": 7.1253e-07},
             {"source": "Boss2A", "quantity": 2, "chance": 0.0001827},
             {"source": "Boss2B", "quantity": 2, "chance": 0.0001827},
+            {"source": "ChestB2", "quantity": 1, "chance": 0.0001827},
             {"source": "Crystal1", "quantity": 1, "chance": 7.308e-05},
             {"source": "steak", "quantity": 1, "chance": 5.8464e-07},
             {"source": "moonman", "quantity": 1, "chance": 6.3945e-07},
@@ -3234,6 +3479,7 @@
             {"source": "Boss2A", "quantity": 2, "chance": 0.0001827},
             {"source": "Boss2B", "quantity": 2, "chance": 0.0001827},
             {"source": "Boss2C", "quantity": 2, "chance": 0.0001827},
+            {"source": "ChestC2", "quantity": 1, "chance": 0.0001827},
             {"source": "Crystal1", "quantity": 1, "chance": 0.00010962},
             {"source": "FishSmall", "quantity": 1, "chance": 2.1924e-06},
             {"source": "FishMed", "quantity": 1, "chance": 2.1924e-06},
@@ -3268,7 +3514,8 @@
             {"source": "flake", "quantity": 1, "chance": 2.8e-06},
             {"source": "stache", "quantity": 1, "chance": 3.1e-06},
             {"source": "skele", "quantity": 1, "chance": 1e-05},
-            {"source": "Boss3A", "quantity": 2, "chance": 0.001}
+            {"source": "Boss3A", "quantity": 2, "chance": 0.001},
+            {"source": "ChestA3", "quantity": 1, "chance": 0.001}
         ]
     },
     "PureWater": {
@@ -3279,6 +3526,7 @@
             {"source": "stache", "quantity": 1, "chance": 6.82e-05},
             {"source": "skele", "quantity": 1, "chance": 0.00022},
             {"source": "Boss3A", "quantity": 2, "chance": 0.022},
+            {"source": "ChestA3", "quantity": 1, "chance": 0.022},
             {"source": "Crystal2", "quantity": 1, "chance": 0.0125},
             {"source": "bloque", "quantity": 1, "chance": 6.25e-05},
             {"source": "mamoth", "quantity": 1, "chance": 6.75e-05},
@@ -3287,6 +3535,7 @@
             {"source": "thermostat", "quantity": 1, "chance": 8.25e-05},
             {"source": "Boss3A", "quantity": 2, "chance": 0.025},
             {"source": "Boss3B", "quantity": 2, "chance": 0.025},
+            {"source": "ChestB3", "quantity": 1, "chance": 0.025},
             {"source": "Crystal2", "quantity": 1, "chance": 0.0108},
             {"source": "ram", "quantity": 1, "chance": 9.18e-05},
             {"source": "glass", "quantity": 1, "chance": 6.75e-05},
@@ -3296,7 +3545,8 @@
             {"source": "skele2", "quantity": 1, "chance": 0.000135},
             {"source": "Boss3A", "quantity": 2, "chance": 0.027},
             {"source": "Boss3B", "quantity": 2, "chance": 0.027},
-            {"source": "Boss3C", "quantity": 2, "chance": 0.027}
+            {"source": "Boss3C", "quantity": 2, "chance": 0.027},
+            {"source": "ChestC3", "quantity": 1, "chance": 0.027}
         ]
     },
     "StampB36": {
@@ -3306,7 +3556,8 @@
             {"source": "flake", "quantity": 1, "chance": 1.68e-06},
             {"source": "stache", "quantity": 1, "chance": 1.86e-06},
             {"source": "skele", "quantity": 1, "chance": 6e-06},
-            {"source": "Boss3A", "quantity": 2, "chance": 0.0006}
+            {"source": "Boss3A", "quantity": 2, "chance": 0.0006},
+            {"source": "ChestA3", "quantity": 1, "chance": 0.0006}
         ]
     },
     "EquipmentStatues18": {
@@ -3317,6 +3568,7 @@
             {"source": "stache", "quantity": 1, "chance": 0.000155},
             {"source": "skele", "quantity": 1, "chance": 0.0005},
             {"source": "Boss3A", "quantity": 2, "chance": 0.05},
+            {"source": "ChestA3", "quantity": 1, "chance": 0.05},
             {"source": "Crystal2", "quantity": 1, "chance": 0.02},
             {"source": "bloque", "quantity": 1, "chance": 0.0001},
             {"source": "mamoth", "quantity": 1, "chance": 0.000108},
@@ -3324,7 +3576,8 @@
             {"source": "penguin", "quantity": 1, "chance": 0.000124},
             {"source": "thermostat", "quantity": 1, "chance": 0.000132},
             {"source": "Boss3A", "quantity": 2, "chance": 0.04},
-            {"source": "Boss3B", "quantity": 2, "chance": 0.04}
+            {"source": "Boss3B", "quantity": 2, "chance": 0.04},
+            {"source": "ChestB3", "quantity": 1, "chance": 0.04}
         ]
     },
     "FoodPotOr3": {
@@ -3334,7 +3587,8 @@
             {"source": "flake", "quantity": 25, "chance": 0.00042},
             {"source": "stache", "quantity": 25, "chance": 0.000465},
             {"source": "skele", "quantity": 25, "chance": 0.0015},
-            {"source": "Boss3A", "quantity": 50, "chance": 0.15}
+            {"source": "Boss3A", "quantity": 50, "chance": 0.15},
+            {"source": "ChestA3", "quantity": 25, "chance": 0.15}
         ]
     },
     "Quest22": {
@@ -3345,6 +3599,7 @@
             {"source": "stache", "quantity": 3, "chance": 0.00062},
             {"source": "skele", "quantity": 3, "chance": 0.002},
             {"source": "Boss3A", "quantity": 6, "chance": 0.2},
+            {"source": "ChestA3", "quantity": 3, "chance": 0.2},
             {"source": "Crystal2", "quantity": 3, "chance": 0.1},
             {"source": "bloque", "quantity": 3, "chance": 0.0005},
             {"source": "mamoth", "quantity": 3, "chance": 0.00054},
@@ -3353,6 +3608,7 @@
             {"source": "thermostat", "quantity": 3, "chance": 0.00066},
             {"source": "Boss3A", "quantity": 6, "chance": 0.2},
             {"source": "Boss3B", "quantity": 6, "chance": 0.2},
+            {"source": "ChestB3", "quantity": 3, "chance": 0.2},
             {"source": "Crystal2", "quantity": 3, "chance": 0.08},
             {"source": "ram", "quantity": 3, "chance": 0.00068},
             {"source": "glass", "quantity": 3, "chance": 0.0005},
@@ -3363,6 +3619,7 @@
             {"source": "Boss3A", "quantity": 6, "chance": 0.2},
             {"source": "Boss3B", "quantity": 6, "chance": 0.2},
             {"source": "Boss3C", "quantity": 6, "chance": 0.2},
+            {"source": "ChestC3", "quantity": 3, "chance": 0.2},
             {"source": "Crystal3", "quantity": 3, "chance": 0.12},
             {"source": "Boss4A", "quantity": 6, "chance": 0.2},
             {"source": "Boss4B", "quantity": 6, "chance": 0.2},
@@ -3371,6 +3628,7 @@
             {"source": "w4a2", "quantity": 3, "chance": 0.00056},
             {"source": "w4a3", "quantity": 3, "chance": 0.00062},
             {"source": "demonP", "quantity": 3, "chance": 0.00068},
+            {"source": "ChestA4", "quantity": 3, "chance": 0.2},
             {"source": "Crystal3", "quantity": 3, "chance": 0.1},
             {"source": "Boss4A", "quantity": 6, "chance": 0.2},
             {"source": "Boss4B", "quantity": 6, "chance": 0.2},
@@ -3380,6 +3638,7 @@
             {"source": "w4b3", "quantity": 3, "chance": 0.00058},
             {"source": "w4b4", "quantity": 3, "chance": 0.00062},
             {"source": "w4b5", "quantity": 3, "chance": 0.00066},
+            {"source": "ChestB4", "quantity": 3, "chance": 0.2},
             {"source": "Crystal3", "quantity": 3, "chance": 0.08},
             {"source": "Boss4A", "quantity": 6, "chance": 0.2},
             {"source": "Boss4B", "quantity": 6, "chance": 0.2},
@@ -3388,6 +3647,7 @@
             {"source": "w4c2", "quantity": 3, "chance": 0.00056},
             {"source": "w4c3", "quantity": 3, "chance": 0.0006},
             {"source": "w4c4", "quantity": 3, "chance": 0.00064},
+            {"source": "ChestC4", "quantity": 3, "chance": 0.2},
             {"source": "Crystal4", "quantity": 3, "chance": 0.06},
             {"source": "w5a1", "quantity": 3, "chance": 0.0005},
             {"source": "w5a2", "quantity": 3, "chance": 0.00056},
@@ -3397,6 +3657,7 @@
             {"source": "Boss5A", "quantity": 6, "chance": 0.2},
             {"source": "Boss5B", "quantity": 6, "chance": 0.2},
             {"source": "Boss5C", "quantity": 6, "chance": 0.2},
+            {"source": "ChestA5", "quantity": 3, "chance": 0.2},
             {"source": "Bug9", "quantity": 3, "chance": 0.003},
             {"source": "Crystal4", "quantity": 3, "chance": 0.04},
             {"source": "w5b1", "quantity": 3, "chance": 0.0005},
@@ -3407,6 +3668,7 @@
             {"source": "w5b6", "quantity": 3, "chance": 0.0007},
             {"source": "Boss5A", "quantity": 6, "chance": 0.2},
             {"source": "Boss5B", "quantity": 6, "chance": 0.2},
+            {"source": "ChestB5", "quantity": 3, "chance": 0.2},
             {"source": "Bug10", "quantity": 3, "chance": 0.003},
             {"source": "Bug11", "quantity": 3, "chance": 2e-09},
             {"source": "Crystal4", "quantity": 3, "chance": 0.034},
@@ -3414,12 +3676,16 @@
             {"source": "w5c2", "quantity": 3, "chance": 0.0007},
             {"source": "Boss5A", "quantity": 6, "chance": 0.2},
             {"source": "Boss5B", "quantity": 6, "chance": 0.2},
+            {"source": "ChestC5", "quantity": 3, "chance": 0.2},
             {"source": "Crystal5", "quantity": 3, "chance": 0.06},
             {"source": "w6a1", "quantity": 3, "chance": 0.0005},
             {"source": "w6a2", "quantity": 3, "chance": 0.00056},
             {"source": "w6a3", "quantity": 3, "chance": 0.00062},
             {"source": "w6a4", "quantity": 3, "chance": 0.00068},
             {"source": "w6a5", "quantity": 3, "chance": 0.00074},
+            {"source": "ChestA6", "quantity": 3, "chance": 0.2},
+            {"source": "ChestB6", "quantity": 3, "chance": 0.2},
+            {"source": "ChestC6", "quantity": 3, "chance": 0.2},
             {"source": "Bug12", "quantity": 3, "chance": 0.003},
             {"source": "Crystal5", "quantity": 3, "chance": 0.04},
             {"source": "w6b1", "quantity": 3, "chance": 0.0005},
@@ -3446,7 +3712,8 @@
             {"source": "flake", "quantity": 1, "chance": 2.646e-06},
             {"source": "stache", "quantity": 1, "chance": 2.9295e-06},
             {"source": "skele", "quantity": 1, "chance": 9.45e-06},
-            {"source": "Boss3A", "quantity": 2, "chance": 0.000945}
+            {"source": "Boss3A", "quantity": 2, "chance": 0.000945},
+            {"source": "ChestA3", "quantity": 1, "chance": 0.000945}
         ]
     },
     "SuperDropTable3": {
@@ -3457,6 +3724,7 @@
             {"source": "stache", "quantity": 1, "chance": 1.86e-05},
             {"source": "skele", "quantity": 1, "chance": 6e-05},
             {"source": "Boss3A", "quantity": 2, "chance": 0.006},
+            {"source": "ChestA3", "quantity": 1, "chance": 0.006},
             {"source": "Crystal2", "quantity": 1, "chance": 0.003},
             {"source": "bloque", "quantity": 1, "chance": 1.5e-05},
             {"source": "mamoth", "quantity": 1, "chance": 1.62e-05},
@@ -3465,6 +3733,7 @@
             {"source": "thermostat", "quantity": 1, "chance": 1.98e-05},
             {"source": "Boss3A", "quantity": 2, "chance": 0.006},
             {"source": "Boss3B", "quantity": 2, "chance": 0.006},
+            {"source": "ChestB3", "quantity": 1, "chance": 0.006},
             {"source": "Crystal2", "quantity": 1, "chance": 0.0024},
             {"source": "ram", "quantity": 1, "chance": 2.04e-05},
             {"source": "glass", "quantity": 1, "chance": 1.5e-05},
@@ -3475,6 +3744,7 @@
             {"source": "Boss3A", "quantity": 2, "chance": 0.006},
             {"source": "Boss3B", "quantity": 2, "chance": 0.006},
             {"source": "Boss3C", "quantity": 2, "chance": 0.006},
+            {"source": "ChestC3", "quantity": 1, "chance": 0.006},
             {"source": "Crystal2", "quantity": 1, "chance": 0.0036},
             {"source": "SaharanFoal", "quantity": 1, "chance": 5.34e-05},
             {"source": "Tree7", "quantity": 1, "chance": 5.34e-05},
@@ -3492,7 +3762,8 @@
             {"source": "penguin", "quantity": 1, "chance": 9.3e-07},
             {"source": "thermostat", "quantity": 1, "chance": 9.9e-07},
             {"source": "Boss3A", "quantity": 2, "chance": 0.0003},
-            {"source": "Boss3B", "quantity": 2, "chance": 0.0003}
+            {"source": "Boss3B", "quantity": 2, "chance": 0.0003},
+            {"source": "ChestB3", "quantity": 1, "chance": 0.0003}
         ]
     },
     "StampA20": {
@@ -3504,7 +3775,8 @@
             {"source": "penguin", "quantity": 1, "chance": 4.65e-07},
             {"source": "thermostat", "quantity": 1, "chance": 4.95e-07},
             {"source": "Boss3A", "quantity": 2, "chance": 0.00015},
-            {"source": "Boss3B", "quantity": 2, "chance": 0.00015}
+            {"source": "Boss3B", "quantity": 2, "chance": 0.00015},
+            {"source": "ChestB3", "quantity": 1, "chance": 0.00015}
         ]
     },
     "FoodHealth10": {
@@ -3517,6 +3789,7 @@
             {"source": "thermostat", "quantity": 15, "chance": 0.00165},
             {"source": "Boss3A", "quantity": 30, "chance": 0.5},
             {"source": "Boss3B", "quantity": 30, "chance": 0.5},
+            {"source": "ChestB3", "quantity": 15, "chance": 0.5},
             {"source": "snowball", "quantity": 1, "chance": 0.009}
         ]
     },
@@ -3530,6 +3803,7 @@
             {"source": "thermostat", "quantity": 63, "chance": 6.6e-06},
             {"source": "Boss3A", "quantity": 126, "chance": 0.002},
             {"source": "Boss3B", "quantity": 126, "chance": 0.002},
+            {"source": "ChestB3", "quantity": 63, "chance": 0.002},
             {"source": "mini3a", "quantity": 20, "chance": 0.06},
             {"source": "mini4a", "quantity": 21, "chance": 0.02}
         ]
@@ -3543,7 +3817,8 @@
             {"source": "penguin", "quantity": 1, "chance": 2.9295e-06},
             {"source": "thermostat", "quantity": 1, "chance": 3.1185e-06},
             {"source": "Boss3A", "quantity": 2, "chance": 0.000945},
-            {"source": "Boss3B", "quantity": 2, "chance": 0.000945}
+            {"source": "Boss3B", "quantity": 2, "chance": 0.000945},
+            {"source": "ChestB3", "quantity": 1, "chance": 0.000945}
         ]
     },
     "StampB34": {
@@ -3557,7 +3832,8 @@
             {"source": "skele2", "quantity": 1, "chance": 5e-07},
             {"source": "Boss3A", "quantity": 2, "chance": 0.0001},
             {"source": "Boss3B", "quantity": 2, "chance": 0.0001},
-            {"source": "Boss3C", "quantity": 2, "chance": 0.0001}
+            {"source": "Boss3C", "quantity": 2, "chance": 0.0001},
+            {"source": "ChestC3", "quantity": 1, "chance": 0.0001}
         ]
     },
     "StampA27": {
@@ -3571,7 +3847,8 @@
             {"source": "skele2", "quantity": 1, "chance": 4e-07},
             {"source": "Boss3A", "quantity": 2, "chance": 8e-05},
             {"source": "Boss3B", "quantity": 2, "chance": 8e-05},
-            {"source": "Boss3C", "quantity": 2, "chance": 8e-05}
+            {"source": "Boss3C", "quantity": 2, "chance": 8e-05},
+            {"source": "ChestC3", "quantity": 1, "chance": 8e-05}
         ]
     },
     "FoodPotYe2": {
@@ -3585,7 +3862,8 @@
             {"source": "skele2", "quantity": 25, "chance": 0.0005},
             {"source": "Boss3A", "quantity": 50, "chance": 0.1},
             {"source": "Boss3B", "quantity": 50, "chance": 0.1},
-            {"source": "Boss3C", "quantity": 50, "chance": 0.1}
+            {"source": "Boss3C", "quantity": 50, "chance": 0.1},
+            {"source": "ChestC3", "quantity": 25, "chance": 0.1}
         ]
     },
     "ObolBronzeCons": {
@@ -3599,7 +3877,8 @@
             {"source": "skele2", "quantity": 1, "chance": 4.725e-06},
             {"source": "Boss3A", "quantity": 2, "chance": 0.000945},
             {"source": "Boss3B", "quantity": 2, "chance": 0.000945},
-            {"source": "Boss3C", "quantity": 2, "chance": 0.000945}
+            {"source": "Boss3C", "quantity": 2, "chance": 0.000945},
+            {"source": "ChestC3", "quantity": 1, "chance": 0.000945}
         ]
     },
     "Leaf3": {
@@ -3631,6 +3910,7 @@
             {"source": "stache", "quantity": 1, "chance": 2.79e-07},
             {"source": "skele", "quantity": 1, "chance": 9e-07},
             {"source": "Boss3A", "quantity": 2, "chance": 9e-05},
+            {"source": "ChestA3", "quantity": 1, "chance": 9e-05},
             {"source": "Crystal2", "quantity": 1, "chance": 4.5e-05},
             {"source": "bloque", "quantity": 1, "chance": 2.25e-07},
             {"source": "mamoth", "quantity": 1, "chance": 2.43e-07},
@@ -3639,6 +3919,7 @@
             {"source": "thermostat", "quantity": 1, "chance": 2.97e-07},
             {"source": "Boss3A", "quantity": 2, "chance": 9e-05},
             {"source": "Boss3B", "quantity": 2, "chance": 9e-05},
+            {"source": "ChestB3", "quantity": 1, "chance": 9e-05},
             {"source": "Crystal2", "quantity": 1, "chance": 3.6e-05},
             {"source": "ram", "quantity": 1, "chance": 3.06e-07},
             {"source": "glass", "quantity": 1, "chance": 2.25e-07},
@@ -3649,6 +3930,7 @@
             {"source": "Boss3A", "quantity": 2, "chance": 9e-05},
             {"source": "Boss3B", "quantity": 2, "chance": 9e-05},
             {"source": "Boss3C", "quantity": 2, "chance": 9e-05},
+            {"source": "ChestC3", "quantity": 1, "chance": 9e-05},
             {"source": "Crystal2", "quantity": 1, "chance": 5.4e-05},
             {"source": "SaharanFoal", "quantity": 1, "chance": 8.01e-07},
             {"source": "Tree7", "quantity": 1, "chance": 8.01e-07},
@@ -3665,6 +3947,7 @@
             {"source": "stache", "quantity": 1, "chance": 9.3e-06},
             {"source": "skele", "quantity": 1, "chance": 3e-05},
             {"source": "Boss3A", "quantity": 2, "chance": 0.003},
+            {"source": "ChestA3", "quantity": 1, "chance": 0.003},
             {"source": "Crystal2", "quantity": 1, "chance": 0.0015},
             {"source": "bloque", "quantity": 1, "chance": 7.5e-06},
             {"source": "mamoth", "quantity": 1, "chance": 8.1e-06},
@@ -3673,6 +3956,7 @@
             {"source": "thermostat", "quantity": 1, "chance": 9.9e-06},
             {"source": "Boss3A", "quantity": 2, "chance": 0.003},
             {"source": "Boss3B", "quantity": 2, "chance": 0.003},
+            {"source": "ChestB3", "quantity": 1, "chance": 0.003},
             {"source": "Crystal2", "quantity": 1, "chance": 0.0012},
             {"source": "ram", "quantity": 1, "chance": 1.02e-05},
             {"source": "glass", "quantity": 1, "chance": 7.5e-06},
@@ -3683,12 +3967,14 @@
             {"source": "Boss3A", "quantity": 2, "chance": 0.003},
             {"source": "Boss3B", "quantity": 2, "chance": 0.003},
             {"source": "Boss3C", "quantity": 2, "chance": 0.003},
+            {"source": "ChestC3", "quantity": 1, "chance": 0.003},
             {"source": "Crystal2", "quantity": 1, "chance": 0.0018},
             {"source": "SaharanFoal", "quantity": 1, "chance": 2.67e-05},
             {"source": "Tree7", "quantity": 1, "chance": 2.67e-05},
             {"source": "Crystal2", "quantity": 1, "chance": 0.0015},
             {"source": "Bug5", "quantity": 1, "chance": 4.5e-05},
-            {"source": "Bug6", "quantity": 1, "chance": 4.5e-05}
+            {"source": "Bug6", "quantity": 1, "chance": 4.5e-05},
+            {"source": "ChestB3", "quantity": 1, "chance": 0.5}
         ]
     },
     "FoodG8": {
@@ -3699,6 +3985,7 @@
             {"source": "stache", "quantity": 1, "chance": 7.44e-06},
             {"source": "skele", "quantity": 1, "chance": 2.4e-05},
             {"source": "Boss3A", "quantity": 2, "chance": 0.0024},
+            {"source": "ChestA3", "quantity": 1, "chance": 0.0024},
             {"source": "Crystal2", "quantity": 1, "chance": 0.0012},
             {"source": "bloque", "quantity": 1, "chance": 6e-06},
             {"source": "mamoth", "quantity": 1, "chance": 6.48e-06},
@@ -3707,6 +3994,7 @@
             {"source": "thermostat", "quantity": 1, "chance": 7.92e-06},
             {"source": "Boss3A", "quantity": 2, "chance": 0.0024},
             {"source": "Boss3B", "quantity": 2, "chance": 0.0024},
+            {"source": "ChestB3", "quantity": 1, "chance": 0.0024},
             {"source": "Crystal2", "quantity": 1, "chance": 0.00096},
             {"source": "ram", "quantity": 1, "chance": 8.16e-06},
             {"source": "glass", "quantity": 1, "chance": 6e-06},
@@ -3717,6 +4005,7 @@
             {"source": "Boss3A", "quantity": 2, "chance": 0.0024},
             {"source": "Boss3B", "quantity": 2, "chance": 0.0024},
             {"source": "Boss3C", "quantity": 2, "chance": 0.0024},
+            {"source": "ChestC3", "quantity": 1, "chance": 0.0024},
             {"source": "Crystal2", "quantity": 1, "chance": 0.00144},
             {"source": "SaharanFoal", "quantity": 1, "chance": 2.136e-05},
             {"source": "Tree7", "quantity": 1, "chance": 2.136e-05},
@@ -3733,6 +4022,7 @@
             {"source": "stache", "quantity": 1, "chance": 5.6637e-07},
             {"source": "skele", "quantity": 1, "chance": 1.827e-06},
             {"source": "Boss3A", "quantity": 2, "chance": 0.0001827},
+            {"source": "ChestA3", "quantity": 1, "chance": 0.0001827},
             {"source": "Crystal2", "quantity": 1, "chance": 9.135e-05},
             {"source": "bloque", "quantity": 1, "chance": 4.5675e-07},
             {"source": "mamoth", "quantity": 1, "chance": 4.9329e-07},
@@ -3741,6 +4031,7 @@
             {"source": "thermostat", "quantity": 1, "chance": 6.0291e-07},
             {"source": "Boss3A", "quantity": 2, "chance": 0.0001827},
             {"source": "Boss3B", "quantity": 2, "chance": 0.0001827},
+            {"source": "ChestB3", "quantity": 1, "chance": 0.0001827},
             {"source": "Crystal2", "quantity": 1, "chance": 7.308e-05},
             {"source": "ram", "quantity": 1, "chance": 6.2118e-07},
             {"source": "glass", "quantity": 1, "chance": 4.5675e-07},
@@ -3751,6 +4042,7 @@
             {"source": "Boss3A", "quantity": 2, "chance": 0.0001827},
             {"source": "Boss3B", "quantity": 2, "chance": 0.0001827},
             {"source": "Boss3C", "quantity": 2, "chance": 0.0001827},
+            {"source": "ChestC3", "quantity": 1, "chance": 0.0001827},
             {"source": "Crystal2", "quantity": 1, "chance": 0.00010962},
             {"source": "SaharanFoal", "quantity": 1, "chance": 1.62603e-06},
             {"source": "Tree7", "quantity": 1, "chance": 1.62603e-06},
@@ -3767,6 +4059,7 @@
             {"source": "stache", "quantity": 3, "chance": 1.302e-05},
             {"source": "skele", "quantity": 3, "chance": 4.2e-05},
             {"source": "Boss3A", "quantity": 6, "chance": 0.0042},
+            {"source": "ChestA3", "quantity": 3, "chance": 0.0042},
             {"source": "Crystal2", "quantity": 3, "chance": 0.0021},
             {"source": "bloque", "quantity": 3, "chance": 1.05e-05},
             {"source": "mamoth", "quantity": 3, "chance": 1.134e-05},
@@ -3775,6 +4068,7 @@
             {"source": "thermostat", "quantity": 3, "chance": 1.386e-05},
             {"source": "Boss3A", "quantity": 6, "chance": 0.0042},
             {"source": "Boss3B", "quantity": 6, "chance": 0.0042},
+            {"source": "ChestB3", "quantity": 3, "chance": 0.0042},
             {"source": "Crystal2", "quantity": 3, "chance": 0.00168},
             {"source": "ram", "quantity": 3, "chance": 1.428e-05},
             {"source": "glass", "quantity": 3, "chance": 1.05e-05},
@@ -3785,6 +4079,7 @@
             {"source": "Boss3A", "quantity": 6, "chance": 0.0042},
             {"source": "Boss3B", "quantity": 6, "chance": 0.0042},
             {"source": "Boss3C", "quantity": 6, "chance": 0.0042},
+            {"source": "ChestC3", "quantity": 3, "chance": 0.0042},
             {"source": "Crystal2", "quantity": 3, "chance": 0.00252},
             {"source": "SaharanFoal", "quantity": 3, "chance": 3.738e-05},
             {"source": "Tree7", "quantity": 3, "chance": 3.738e-05},
@@ -3799,6 +4094,7 @@
             {"source": "w4a2", "quantity": 3, "chance": 1.176e-05},
             {"source": "w4a3", "quantity": 3, "chance": 1.302e-05},
             {"source": "demonP", "quantity": 3, "chance": 1.428e-05},
+            {"source": "ChestA4", "quantity": 3, "chance": 0.0042},
             {"source": "Crystal3", "quantity": 3, "chance": 0.0021},
             {"source": "Boss4A", "quantity": 6, "chance": 0.0042},
             {"source": "Boss4B", "quantity": 6, "chance": 0.0042},
@@ -3808,6 +4104,7 @@
             {"source": "w4b3", "quantity": 3, "chance": 1.218e-05},
             {"source": "w4b4", "quantity": 3, "chance": 1.302e-05},
             {"source": "w4b5", "quantity": 3, "chance": 1.386e-05},
+            {"source": "ChestB4", "quantity": 3, "chance": 0.0042},
             {"source": "Crystal3", "quantity": 3, "chance": 0.00168},
             {"source": "Boss4A", "quantity": 6, "chance": 0.0042},
             {"source": "Boss4B", "quantity": 6, "chance": 0.0042},
@@ -3816,6 +4113,7 @@
             {"source": "w4c2", "quantity": 3, "chance": 1.176e-05},
             {"source": "w4c3", "quantity": 3, "chance": 1.26e-05},
             {"source": "w4c4", "quantity": 3, "chance": 1.344e-05},
+            {"source": "ChestC4", "quantity": 3, "chance": 0.0042},
             {"source": "Crystal3", "quantity": 3, "chance": 0.00168},
             {"source": "AlienTree", "quantity": 6, "chance": 3.423e-05},
             {"source": "Tree8", "quantity": 3, "chance": 3.738e-05},
@@ -3834,7 +4132,8 @@
             {"source": "mushP", "quantity": 1, "chance": 6.25e-05},
             {"source": "w4a2", "quantity": 1, "chance": 7e-05},
             {"source": "w4a3", "quantity": 1, "chance": 7.75e-05},
-            {"source": "demonP", "quantity": 1, "chance": 8.5e-05}
+            {"source": "demonP", "quantity": 1, "chance": 8.5e-05},
+            {"source": "ChestA4", "quantity": 1, "chance": 0.025}
         ]
     },
     "StampA31": {
@@ -3846,7 +4145,8 @@
             {"source": "mushP", "quantity": 1, "chance": 6.75e-07},
             {"source": "w4a2", "quantity": 1, "chance": 7.56e-07},
             {"source": "w4a3", "quantity": 1, "chance": 8.37e-07},
-            {"source": "demonP", "quantity": 1, "chance": 9.18e-07}
+            {"source": "demonP", "quantity": 1, "chance": 9.18e-07},
+            {"source": "ChestA4", "quantity": 1, "chance": 0.00027}
         ]
     },
     "Weight7": {
@@ -3858,7 +4158,8 @@
             {"source": "mushP", "quantity": 1, "chance": 5.75e-07},
             {"source": "w4a2", "quantity": 1, "chance": 6.44e-07},
             {"source": "w4a3", "quantity": 1, "chance": 7.13e-07},
-            {"source": "demonP", "quantity": 1, "chance": 7.82e-07}
+            {"source": "demonP", "quantity": 1, "chance": 7.82e-07},
+            {"source": "ChestA4", "quantity": 1, "chance": 0.00023}
         ]
     },
     "SuperDropTable4": {
@@ -3871,6 +4172,7 @@
             {"source": "w4a2", "quantity": 1, "chance": 1.68e-05},
             {"source": "w4a3", "quantity": 1, "chance": 1.86e-05},
             {"source": "demonP", "quantity": 1, "chance": 2.04e-05},
+            {"source": "ChestA4", "quantity": 1, "chance": 0.006},
             {"source": "Crystal3", "quantity": 1, "chance": 0.003},
             {"source": "Boss4A", "quantity": 2, "chance": 0.006},
             {"source": "Boss4B", "quantity": 2, "chance": 0.006},
@@ -3880,6 +4182,7 @@
             {"source": "w4b3", "quantity": 1, "chance": 1.74e-05},
             {"source": "w4b4", "quantity": 1, "chance": 1.86e-05},
             {"source": "w4b5", "quantity": 1, "chance": 1.98e-05},
+            {"source": "ChestB4", "quantity": 1, "chance": 0.006},
             {"source": "Crystal3", "quantity": 1, "chance": 0.0024},
             {"source": "Boss4A", "quantity": 2, "chance": 0.006},
             {"source": "Boss4B", "quantity": 2, "chance": 0.006},
@@ -3888,6 +4191,7 @@
             {"source": "w4c2", "quantity": 1, "chance": 1.68e-05},
             {"source": "w4c3", "quantity": 1, "chance": 1.8e-05},
             {"source": "w4c4", "quantity": 1, "chance": 1.92e-05},
+            {"source": "ChestC4", "quantity": 1, "chance": 0.006},
             {"source": "Crystal3", "quantity": 1, "chance": 0.0024},
             {"source": "AlienTree", "quantity": 2, "chance": 4.89e-05},
             {"source": "Tree8", "quantity": 1, "chance": 5.34e-05},
@@ -3905,7 +4209,8 @@
             {"source": "w4b1", "quantity": 1, "chance": 6.25e-05},
             {"source": "w4b3", "quantity": 1, "chance": 7.25e-05},
             {"source": "w4b4", "quantity": 1, "chance": 7.75e-05},
-            {"source": "w4b5", "quantity": 1, "chance": 8.25e-05}
+            {"source": "w4b5", "quantity": 1, "chance": 8.25e-05},
+            {"source": "ChestB4", "quantity": 1, "chance": 0.025}
         ]
     },
     "Line8": {
@@ -3918,7 +4223,8 @@
             {"source": "w4b1", "quantity": 1, "chance": 3.75e-07},
             {"source": "w4b3", "quantity": 1, "chance": 4.35e-07},
             {"source": "w4b4", "quantity": 1, "chance": 4.65e-07},
-            {"source": "w4b5", "quantity": 1, "chance": 4.95e-07}
+            {"source": "w4b5", "quantity": 1, "chance": 4.95e-07},
+            {"source": "ChestB4", "quantity": 1, "chance": 0.00015}
         ]
     },
     "FoodPotMana4": {
@@ -3931,7 +4237,8 @@
             {"source": "w4b1", "quantity": 50, "chance": 0.000375},
             {"source": "w4b3", "quantity": 50, "chance": 0.000435},
             {"source": "w4b4", "quantity": 50, "chance": 0.000465},
-            {"source": "w4b5", "quantity": 50, "chance": 0.000495}
+            {"source": "w4b5", "quantity": 50, "chance": 0.000495},
+            {"source": "ChestB4", "quantity": 50, "chance": 0.15}
         ]
     },
     "EquipmentStatues22": {
@@ -3943,7 +4250,8 @@
             {"source": "w4c1", "quantity": 1, "chance": 6.25e-05},
             {"source": "w4c2", "quantity": 1, "chance": 7e-05},
             {"source": "w4c3", "quantity": 1, "chance": 7.5e-05},
-            {"source": "w4c4", "quantity": 1, "chance": 8e-05}
+            {"source": "w4c4", "quantity": 1, "chance": 8e-05},
+            {"source": "ChestC4", "quantity": 1, "chance": 0.025}
         ]
     },
     "StampA32": {
@@ -3955,7 +4263,8 @@
             {"source": "w4c1", "quantity": 1, "chance": 4.5e-07},
             {"source": "w4c2", "quantity": 1, "chance": 5.04e-07},
             {"source": "w4c3", "quantity": 1, "chance": 5.4e-07},
-            {"source": "w4c4", "quantity": 1, "chance": 5.76e-07}
+            {"source": "w4c4", "quantity": 1, "chance": 5.76e-07},
+            {"source": "ChestC4", "quantity": 1, "chance": 0.00018}
         ]
     },
     "Weight13": {
@@ -3967,7 +4276,8 @@
             {"source": "w4c1", "quantity": 1, "chance": 1.25e-07},
             {"source": "w4c2", "quantity": 1, "chance": 1.4e-07},
             {"source": "w4c3", "quantity": 1, "chance": 1.5e-07},
-            {"source": "w4c4", "quantity": 1, "chance": 1.6e-07}
+            {"source": "w4c4", "quantity": 1, "chance": 1.6e-07},
+            {"source": "ChestC4", "quantity": 1, "chance": 5e-05}
         ]
     },
     "Leaf4": {
@@ -4000,6 +4310,7 @@
             {"source": "w4a2", "quantity": 1, "chance": 8.4e-06},
             {"source": "w4a3", "quantity": 1, "chance": 9.3e-06},
             {"source": "demonP", "quantity": 1, "chance": 1.02e-05},
+            {"source": "ChestA4", "quantity": 1, "chance": 0.003},
             {"source": "Crystal3", "quantity": 1, "chance": 0.0015},
             {"source": "Boss4A", "quantity": 2, "chance": 0.003},
             {"source": "Boss4B", "quantity": 2, "chance": 0.003},
@@ -4009,6 +4320,7 @@
             {"source": "w4b3", "quantity": 1, "chance": 8.7e-06},
             {"source": "w4b4", "quantity": 1, "chance": 9.3e-06},
             {"source": "w4b5", "quantity": 1, "chance": 9.9e-06},
+            {"source": "ChestB4", "quantity": 1, "chance": 0.003},
             {"source": "Crystal3", "quantity": 1, "chance": 0.0012},
             {"source": "Boss4A", "quantity": 2, "chance": 0.003},
             {"source": "Boss4B", "quantity": 2, "chance": 0.003},
@@ -4017,11 +4329,14 @@
             {"source": "w4c2", "quantity": 1, "chance": 8.4e-06},
             {"source": "w4c3", "quantity": 1, "chance": 9e-06},
             {"source": "w4c4", "quantity": 1, "chance": 9.6e-06},
+            {"source": "ChestC4", "quantity": 1, "chance": 0.003},
             {"source": "Crystal3", "quantity": 1, "chance": 0.0012},
             {"source": "AlienTree", "quantity": 2, "chance": 2.445e-05},
             {"source": "Tree8", "quantity": 1, "chance": 2.67e-05},
             {"source": "Bug7", "quantity": 1, "chance": 4.5e-05},
-            {"source": "Bug8", "quantity": 1, "chance": 4.5e-05}
+            {"source": "Bug8", "quantity": 1, "chance": 4.5e-05},
+            {"source": "ChestB4", "quantity": 1, "chance": 0.5},
+            {"source": "ChestC4", "quantity": 2, "chance": 0.025}
         ]
     },
     "EquipmentStatues23": {
@@ -4035,6 +4350,7 @@
             {"source": "Boss5A", "quantity": 2, "chance": 0.015},
             {"source": "Boss5B", "quantity": 2, "chance": 0.015},
             {"source": "Boss5C", "quantity": 2, "chance": 0.015},
+            {"source": "ChestA5", "quantity": 1, "chance": 0.015},
             {"source": "Bug9", "quantity": 1, "chance": 0.000225}
         ]
     },
@@ -4049,6 +4365,7 @@
             {"source": "Boss5A", "quantity": 2, "chance": 0.00017},
             {"source": "Boss5B", "quantity": 2, "chance": 0.00017},
             {"source": "Boss5C", "quantity": 2, "chance": 0.00017},
+            {"source": "ChestA5", "quantity": 1, "chance": 0.00017},
             {"source": "Bug9", "quantity": 1, "chance": 2.55e-06}
         ]
     },
@@ -4063,12 +4380,14 @@
             {"source": "Boss5A", "quantity": 2, "chance": 0.0063},
             {"source": "Boss5B", "quantity": 2, "chance": 0.0063},
             {"source": "Boss5C", "quantity": 2, "chance": 0.0063},
+            {"source": "ChestA5", "quantity": 1, "chance": 0.0063},
             {"source": "Bug9", "quantity": 1, "chance": 9.45e-05},
             {"source": "Crystal4", "quantity": 1, "chance": 0.001411},
             {"source": "w5c1", "quantity": 1, "chance": 2.324e-05},
             {"source": "w5c2", "quantity": 1, "chance": 2.905e-05},
             {"source": "Boss5A", "quantity": 2, "chance": 0.0083},
-            {"source": "Boss5B", "quantity": 2, "chance": 0.0083}
+            {"source": "Boss5B", "quantity": 2, "chance": 0.0083},
+            {"source": "ChestC5", "quantity": 1, "chance": 0.0083}
         ]
     },
     "FoodPotYe5": {
@@ -4082,6 +4401,7 @@
             {"source": "Boss5A", "quantity": 40, "chance": 0.1},
             {"source": "Boss5B", "quantity": 40, "chance": 0.1},
             {"source": "Boss5C", "quantity": 40, "chance": 0.1},
+            {"source": "ChestA5", "quantity": 20, "chance": 0.1},
             {"source": "Bug9", "quantity": 20, "chance": 0.0015},
             {"source": "Crystal4", "quantity": 20, "chance": 0.028},
             {"source": "w5b1", "quantity": 20, "chance": 0.00035},
@@ -4092,13 +4412,15 @@
             {"source": "w5b6", "quantity": 20, "chance": 0.00049},
             {"source": "Boss5A", "quantity": 40, "chance": 0.14},
             {"source": "Boss5B", "quantity": 40, "chance": 0.14},
+            {"source": "ChestB5", "quantity": 20, "chance": 0.14},
             {"source": "Bug10", "quantity": 20, "chance": 0.0021},
             {"source": "Bug11", "quantity": 20, "chance": 1.4e-09},
             {"source": "Crystal4", "quantity": 20, "chance": 0.0323},
             {"source": "w5c1", "quantity": 20, "chance": 0.000532},
             {"source": "w5c2", "quantity": 20, "chance": 0.000665},
             {"source": "Boss5A", "quantity": 40, "chance": 0.19},
-            {"source": "Boss5B", "quantity": 40, "chance": 0.19}
+            {"source": "Boss5B", "quantity": 40, "chance": 0.19},
+            {"source": "ChestC5", "quantity": 20, "chance": 0.19}
         ]
     },
     "InvStorage24": {
@@ -4112,6 +4434,7 @@
             {"source": "Boss5A", "quantity": 2, "chance": 0.0012},
             {"source": "Boss5B", "quantity": 2, "chance": 0.0012},
             {"source": "Boss5C", "quantity": 2, "chance": 0.0012},
+            {"source": "ChestA5", "quantity": 1, "chance": 0.0012},
             {"source": "Bug9", "quantity": 1, "chance": 1.8e-05}
         ]
     },
@@ -4126,6 +4449,7 @@
             {"source": "Boss5A", "quantity": 2, "chance": 0.005},
             {"source": "Boss5B", "quantity": 2, "chance": 0.005},
             {"source": "Boss5C", "quantity": 2, "chance": 0.005},
+            {"source": "ChestA5", "quantity": 1, "chance": 0.005},
             {"source": "Bug9", "quantity": 1, "chance": 7.5e-05},
             {"source": "Crystal4", "quantity": 1, "chance": 0.001},
             {"source": "w5b1", "quantity": 1, "chance": 1.25e-05},
@@ -4136,6 +4460,7 @@
             {"source": "w5b6", "quantity": 1, "chance": 1.75e-05},
             {"source": "Boss5A", "quantity": 2, "chance": 0.005},
             {"source": "Boss5B", "quantity": 2, "chance": 0.005},
+            {"source": "ChestB5", "quantity": 1, "chance": 0.005},
             {"source": "Bug10", "quantity": 1, "chance": 7.5e-05},
             {"source": "Bug11", "quantity": 1, "chance": 5e-11},
             {"source": "Crystal4", "quantity": 1, "chance": 0.00085},
@@ -4143,6 +4468,7 @@
             {"source": "w5c2", "quantity": 1, "chance": 1.75e-05},
             {"source": "Boss5A", "quantity": 2, "chance": 0.005},
             {"source": "Boss5B", "quantity": 2, "chance": 0.005},
+            {"source": "ChestC5", "quantity": 1, "chance": 0.005},
             {"source": "Crystal4", "quantity": 1, "chance": 0.00102},
             {"source": "Tree10", "quantity": 1, "chance": 5.34e-05},
             {"source": "Tree11", "quantity": 1, "chance": 5.34e-05}
@@ -4159,6 +4485,7 @@
             {"source": "w5b6", "quantity": 1, "chance": 5.25e-05},
             {"source": "Boss5A", "quantity": 2, "chance": 0.015},
             {"source": "Boss5B", "quantity": 2, "chance": 0.015},
+            {"source": "ChestB5", "quantity": 1, "chance": 0.015},
             {"source": "Bug10", "quantity": 1, "chance": 0.000225},
             {"source": "Bug11", "quantity": 1, "chance": 1.5e-10}
         ]
@@ -4174,6 +4501,7 @@
             {"source": "w5b6", "quantity": 1, "chance": 5.25e-07},
             {"source": "Boss5A", "quantity": 2, "chance": 0.00015},
             {"source": "Boss5B", "quantity": 2, "chance": 0.00015},
+            {"source": "ChestB5", "quantity": 1, "chance": 0.00015},
             {"source": "Bug10", "quantity": 1, "chance": 2.25e-06},
             {"source": "Bug11", "quantity": 1, "chance": 1.5e-12}
         ]
@@ -4189,6 +4517,7 @@
             {"source": "w5b6", "quantity": 1, "chance": 5.25e-05},
             {"source": "Boss5A", "quantity": 2, "chance": 0.015},
             {"source": "Boss5B", "quantity": 2, "chance": 0.015},
+            {"source": "ChestB5", "quantity": 1, "chance": 0.015},
             {"source": "Bug10", "quantity": 1, "chance": 0.000225},
             {"source": "Bug11", "quantity": 1, "chance": 1.5e-10},
             {"source": "Crystal4", "quantity": 1, "chance": 0.00425},
@@ -4196,6 +4525,7 @@
             {"source": "w5c2", "quantity": 1, "chance": 8.75e-05},
             {"source": "Boss5A", "quantity": 2, "chance": 0.025},
             {"source": "Boss5B", "quantity": 2, "chance": 0.025},
+            {"source": "ChestC5", "quantity": 1, "chance": 0.025},
             {"source": "Crystal4", "quantity": 1, "chance": 0.00075},
             {"source": "w5a1", "quantity": 1, "chance": 6.25e-06},
             {"source": "w5a2", "quantity": 1, "chance": 7e-06},
@@ -4205,6 +4535,7 @@
             {"source": "Boss5A", "quantity": 2, "chance": 0.0025},
             {"source": "Boss5B", "quantity": 2, "chance": 0.0025},
             {"source": "Boss5C", "quantity": 2, "chance": 0.0025},
+            {"source": "ChestA5", "quantity": 1, "chance": 0.0025},
             {"source": "Bug9", "quantity": 1, "chance": 3.75e-05},
             {"source": "Crystal4", "quantity": 1, "chance": 0.0005},
             {"source": "w5b1", "quantity": 1, "chance": 6.25e-06},
@@ -4215,6 +4546,7 @@
             {"source": "w5b6", "quantity": 1, "chance": 8.75e-06},
             {"source": "Boss5A", "quantity": 2, "chance": 0.0025},
             {"source": "Boss5B", "quantity": 2, "chance": 0.0025},
+            {"source": "ChestB5", "quantity": 1, "chance": 0.0025},
             {"source": "Bug10", "quantity": 1, "chance": 3.75e-05},
             {"source": "Bug11", "quantity": 1, "chance": 2.5e-11},
             {"source": "Crystal4", "quantity": 1, "chance": 0.000425},
@@ -4222,9 +4554,11 @@
             {"source": "w5c2", "quantity": 1, "chance": 8.75e-06},
             {"source": "Boss5A", "quantity": 2, "chance": 0.0025},
             {"source": "Boss5B", "quantity": 2, "chance": 0.0025},
+            {"source": "ChestC5", "quantity": 1, "chance": 0.0025},
             {"source": "Crystal4", "quantity": 1, "chance": 0.00051},
             {"source": "Tree10", "quantity": 1, "chance": 2.67e-05},
-            {"source": "Tree11", "quantity": 1, "chance": 2.67e-05}
+            {"source": "Tree11", "quantity": 1, "chance": 2.67e-05},
+            {"source": "ChestA5", "quantity": 15, "chance": 0.25}
         ]
     },
     "InvStorage25": {
@@ -4238,6 +4572,7 @@
             {"source": "w5b6", "quantity": 1, "chance": 1.05e-06},
             {"source": "Boss5A", "quantity": 2, "chance": 0.0003},
             {"source": "Boss5B", "quantity": 2, "chance": 0.0003},
+            {"source": "ChestB5", "quantity": 1, "chance": 0.0003},
             {"source": "Bug10", "quantity": 1, "chance": 4.5e-06},
             {"source": "Bug11", "quantity": 1, "chance": 3e-12}
         ]
@@ -4248,7 +4583,8 @@
             {"source": "w5c1", "quantity": 1, "chance": 4.2e-05},
             {"source": "w5c2", "quantity": 1, "chance": 5.25e-05},
             {"source": "Boss5A", "quantity": 2, "chance": 0.015},
-            {"source": "Boss5B", "quantity": 2, "chance": 0.015}
+            {"source": "Boss5B", "quantity": 2, "chance": 0.015},
+            {"source": "ChestC5", "quantity": 1, "chance": 0.015}
         ]
     },
     "Weight9": {
@@ -4257,7 +4593,8 @@
             {"source": "w5c1", "quantity": 1, "chance": 6.44e-07},
             {"source": "w5c2", "quantity": 1, "chance": 8.05e-07},
             {"source": "Boss5A", "quantity": 2, "chance": 0.00023},
-            {"source": "Boss5B", "quantity": 2, "chance": 0.00023}
+            {"source": "Boss5B", "quantity": 2, "chance": 0.00023},
+            {"source": "ChestC5", "quantity": 1, "chance": 0.00023}
         ]
     },
     "Leaf5": {
@@ -4286,6 +4623,7 @@
             {"source": "Boss5A", "quantity": 2, "chance": 0.00125},
             {"source": "Boss5B", "quantity": 2, "chance": 0.00125},
             {"source": "Boss5C", "quantity": 2, "chance": 0.00125},
+            {"source": "ChestA5", "quantity": 1, "chance": 0.00125},
             {"source": "Bug9", "quantity": 1, "chance": 1.875e-05},
             {"source": "Crystal4", "quantity": 1, "chance": 0.00025},
             {"source": "w5b1", "quantity": 1, "chance": 3.125e-06},
@@ -4296,6 +4634,7 @@
             {"source": "w5b6", "quantity": 1, "chance": 4.375e-06},
             {"source": "Boss5A", "quantity": 2, "chance": 0.00125},
             {"source": "Boss5B", "quantity": 2, "chance": 0.00125},
+            {"source": "ChestB5", "quantity": 1, "chance": 0.00125},
             {"source": "Bug10", "quantity": 1, "chance": 1.875e-05},
             {"source": "Bug11", "quantity": 1, "chance": 1.25e-11},
             {"source": "Crystal4", "quantity": 1, "chance": 0.0002125},
@@ -4303,6 +4642,7 @@
             {"source": "w5c2", "quantity": 1, "chance": 4.375e-06},
             {"source": "Boss5A", "quantity": 2, "chance": 0.00125},
             {"source": "Boss5B", "quantity": 2, "chance": 0.00125},
+            {"source": "ChestC5", "quantity": 1, "chance": 0.00125},
             {"source": "Crystal4", "quantity": 1, "chance": 0.000255},
             {"source": "Tree10", "quantity": 1, "chance": 1.335e-05},
             {"source": "Tree11", "quantity": 1, "chance": 1.335e-05}
@@ -4316,6 +4656,9 @@
             {"source": "w6a3", "quantity": 1, "chance": 1.24e-05},
             {"source": "w6a4", "quantity": 1, "chance": 1.36e-05},
             {"source": "w6a5", "quantity": 1, "chance": 1.48e-05},
+            {"source": "ChestA6", "quantity": 1, "chance": 0.004},
+            {"source": "ChestB6", "quantity": 1, "chance": 0.004},
+            {"source": "ChestC6", "quantity": 1, "chance": 0.004},
             {"source": "Bug12", "quantity": 1, "chance": 6e-05},
             {"source": "Crystal5", "quantity": 1, "chance": 0.001105},
             {"source": "w6d1", "quantity": 1, "chance": 1.82e-05},
@@ -4331,6 +4674,9 @@
             {"source": "w6a3", "quantity": 1, "chance": 4.03e-07},
             {"source": "w6a4", "quantity": 1, "chance": 4.42e-07},
             {"source": "w6a5", "quantity": 1, "chance": 4.81e-07},
+            {"source": "ChestA6", "quantity": 1, "chance": 0.00013},
+            {"source": "ChestB6", "quantity": 1, "chance": 0.00013},
+            {"source": "ChestC6", "quantity": 1, "chance": 0.00013},
             {"source": "Bug12", "quantity": 1, "chance": 1.95e-06}
         ]
     },
@@ -4342,6 +4688,9 @@
             {"source": "w6a3", "quantity": 1, "chance": 3.1e-05},
             {"source": "w6a4", "quantity": 1, "chance": 3.4e-05},
             {"source": "w6a5", "quantity": 1, "chance": 3.7e-05},
+            {"source": "ChestA6", "quantity": 1, "chance": 0.01},
+            {"source": "ChestB6", "quantity": 1, "chance": 0.01},
+            {"source": "ChestC6", "quantity": 1, "chance": 0.01},
             {"source": "Bug12", "quantity": 1, "chance": 0.00015}
         ]
     },
@@ -4353,6 +4702,9 @@
             {"source": "w6a3", "quantity": 1, "chance": 7.75e-07},
             {"source": "w6a4", "quantity": 1, "chance": 8.5e-07},
             {"source": "w6a5", "quantity": 1, "chance": 9.25e-07},
+            {"source": "ChestA6", "quantity": 1, "chance": 0.00025},
+            {"source": "ChestB6", "quantity": 1, "chance": 0.00025},
+            {"source": "ChestC6", "quantity": 1, "chance": 0.00025},
             {"source": "Bug12", "quantity": 1, "chance": 3.75e-06}
         ]
     },
@@ -4364,6 +4716,9 @@
             {"source": "w6a3", "quantity": 1, "chance": 1.55e-05},
             {"source": "w6a4", "quantity": 1, "chance": 1.7e-05},
             {"source": "w6a5", "quantity": 1, "chance": 1.85e-05},
+            {"source": "ChestA6", "quantity": 1, "chance": 0.005},
+            {"source": "ChestB6", "quantity": 1, "chance": 0.005},
+            {"source": "ChestC6", "quantity": 1, "chance": 0.005},
             {"source": "Bug12", "quantity": 1, "chance": 7.5e-05},
             {"source": "Crystal5", "quantity": 1, "chance": 0.001},
             {"source": "w6b1", "quantity": 1, "chance": 1.25e-05},
@@ -4400,7 +4755,8 @@
             {"source": "w6b2", "quantity": 1, "chance": 1.575e-05},
             {"source": "w6b3", "quantity": 1, "chance": 1.827e-05},
             {"source": "w6b4", "quantity": 1, "chance": 1.953e-05},
-            {"source": "Bug13", "quantity": 1, "chance": 9.45e-05}
+            {"source": "Bug13", "quantity": 1, "chance": 9.45e-05},
+            {"source": "ChestA6", "quantity": 60, "chance": 0.25}
         ]
     },
     "StampB49": {
@@ -4450,6 +4806,9 @@
             {"source": "w6a3", "quantity": 1, "chance": 1.395e-08},
             {"source": "w6a4", "quantity": 1, "chance": 1.53e-08},
             {"source": "w6a5", "quantity": 1, "chance": 1.665e-08},
+            {"source": "ChestA6", "quantity": 1, "chance": 4.5e-06},
+            {"source": "ChestB6", "quantity": 1, "chance": 4.5e-06},
+            {"source": "ChestC6", "quantity": 1, "chance": 4.5e-06},
             {"source": "Bug12", "quantity": 1, "chance": 6.75e-08},
             {"source": "Crystal5", "quantity": 1, "chance": 9e-07},
             {"source": "w6b1", "quantity": 1, "chance": 1.125e-08},
@@ -4477,6 +4836,9 @@
             {"source": "w6a3", "quantity": 1, "chance": 2.325e-07},
             {"source": "w6a4", "quantity": 1, "chance": 2.55e-07},
             {"source": "w6a5", "quantity": 1, "chance": 2.775e-07},
+            {"source": "ChestA6", "quantity": 1, "chance": 7.5e-05},
+            {"source": "ChestB6", "quantity": 1, "chance": 7.5e-05},
+            {"source": "ChestC6", "quantity": 1, "chance": 7.5e-05},
             {"source": "Bug12", "quantity": 1, "chance": 1.125e-06},
             {"source": "Crystal5", "quantity": 1, "chance": 1.5e-05},
             {"source": "w6b1", "quantity": 1, "chance": 1.875e-07},
@@ -4553,7 +4915,8 @@
             {"source": "beanG", "quantity": 1, "chance": 0.0045},
             {"source": "babayaga", "quantity": 2, "chance": 1},
             {"source": "wolfA", "quantity": 2, "chance": 1},
-            {"source": "wolfB", "quantity": 4, "chance": 1}
+            {"source": "wolfB", "quantity": 4, "chance": 1},
+            {"source": "ChestA1", "quantity": 1, "chance": 1}
         ]
     },
     "DropTable2": {
@@ -4564,7 +4927,8 @@
             {"source": "carrotO", "quantity": 1, "chance": 0.006},
             {"source": "babayaga", "quantity": 1, "chance": 1},
             {"source": "wolfA", "quantity": 2, "chance": 1},
-            {"source": "wolfB", "quantity": 4, "chance": 1}
+            {"source": "wolfB", "quantity": 4, "chance": 1},
+            {"source": "ChestB1", "quantity": 1, "chance": 1}
         ]
     },
     "DropTable3": {
@@ -4578,7 +4942,8 @@
             {"source": "slimeB", "quantity": 2, "chance": 1},
             {"source": "wolfA", "quantity": 2, "chance": 1},
             {"source": "wolfB", "quantity": 4, "chance": 1},
-            {"source": "wolfC", "quantity": 2, "chance": 1}
+            {"source": "wolfC", "quantity": 2, "chance": 1},
+            {"source": "ChestC1", "quantity": 1, "chance": 1}
         ]
     },
     "DropTable4": {
@@ -4630,7 +4995,8 @@
             {"source": "mimicA", "quantity": 1, "chance": 0.0032},
             {"source": "crabcake", "quantity": 1, "chance": 0.0036},
             {"source": "babaHour", "quantity": 1, "chance": 0.5},
-            {"source": "Boss2A", "quantity": 2, "chance": 1}
+            {"source": "Boss2A", "quantity": 2, "chance": 1},
+            {"source": "ChestA2", "quantity": 1, "chance": 1}
         ]
     },
     "DropTable7": {
@@ -4642,7 +5008,8 @@
             {"source": "pincermin", "quantity": 1, "chance": 0.0037},
             {"source": "potato", "quantity": 1, "chance": 0.0039},
             {"source": "Boss2A", "quantity": 2, "chance": 1},
-            {"source": "Boss2B", "quantity": 2, "chance": 1}
+            {"source": "Boss2B", "quantity": 2, "chance": 1},
+            {"source": "ChestB2", "quantity": 1, "chance": 1}
         ]
     },
     "DropTable8": {
@@ -4654,7 +5021,8 @@
             {"source": "snailZ", "quantity": 1, "chance": 0.0039},
             {"source": "Boss2A", "quantity": 2, "chance": 1},
             {"source": "Boss2B", "quantity": 2, "chance": 1},
-            {"source": "Boss2C", "quantity": 2, "chance": 1}
+            {"source": "Boss2C", "quantity": 2, "chance": 1},
+            {"source": "ChestC2", "quantity": 1, "chance": 1}
         ]
     },
     "DropTable9": {
@@ -4696,7 +5064,8 @@
             {"source": "flake", "quantity": 1, "chance": 0.0028},
             {"source": "stache", "quantity": 1, "chance": 0.0031},
             {"source": "skele", "quantity": 1, "chance": 0.01},
-            {"source": "Boss3A", "quantity": 2, "chance": 1}
+            {"source": "Boss3A", "quantity": 2, "chance": 1},
+            {"source": "ChestA3", "quantity": 1, "chance": 1}
         ]
     },
     "DropTable15": {
@@ -4708,7 +5077,8 @@
             {"source": "penguin", "quantity": 1, "chance": 0.0031},
             {"source": "thermostat", "quantity": 1, "chance": 0.0033},
             {"source": "Boss3A", "quantity": 2, "chance": 1},
-            {"source": "Boss3B", "quantity": 2, "chance": 1}
+            {"source": "Boss3B", "quantity": 2, "chance": 1},
+            {"source": "ChestB3", "quantity": 1, "chance": 1}
         ]
     },
     "DropTable16": {
@@ -4722,7 +5092,8 @@
             {"source": "skele2", "quantity": 1, "chance": 0.005},
             {"source": "Boss3A", "quantity": 2, "chance": 1},
             {"source": "Boss3B", "quantity": 2, "chance": 1},
-            {"source": "Boss3C", "quantity": 2, "chance": 1}
+            {"source": "Boss3C", "quantity": 2, "chance": 1},
+            {"source": "ChestC3", "quantity": 1, "chance": 1}
         ]
     },
     "DropTable17": {
@@ -4751,7 +5122,8 @@
             {"source": "mushP", "quantity": 1, "chance": 0.0025},
             {"source": "w4a2", "quantity": 1, "chance": 0.0028},
             {"source": "w4a3", "quantity": 1, "chance": 0.0031},
-            {"source": "demonP", "quantity": 1, "chance": 0.0034}
+            {"source": "demonP", "quantity": 1, "chance": 0.0034},
+            {"source": "ChestA4", "quantity": 1, "chance": 1}
         ]
     },
     "DropTable20": {
@@ -4764,7 +5136,8 @@
             {"source": "w4b1", "quantity": 1, "chance": 0.0025},
             {"source": "w4b3", "quantity": 1, "chance": 0.0029},
             {"source": "w4b4", "quantity": 1, "chance": 0.0031},
-            {"source": "w4b5", "quantity": 1, "chance": 0.0033}
+            {"source": "w4b5", "quantity": 1, "chance": 0.0033},
+            {"source": "ChestB4", "quantity": 1, "chance": 1}
         ]
     },
     "DropTable21": {
@@ -4776,7 +5149,8 @@
             {"source": "w4c1", "quantity": 1, "chance": 0.0025},
             {"source": "w4c2", "quantity": 1, "chance": 0.0028},
             {"source": "w4c3", "quantity": 1, "chance": 0.003},
-            {"source": "w4c4", "quantity": 1, "chance": 0.0032}
+            {"source": "w4c4", "quantity": 1, "chance": 0.0032},
+            {"source": "ChestC4", "quantity": 1, "chance": 1}
         ]
     },
     "DropTable22": {
@@ -4800,6 +5174,7 @@
             {"source": "Boss5A", "quantity": 2, "chance": 1},
             {"source": "Boss5B", "quantity": 2, "chance": 1},
             {"source": "Boss5C", "quantity": 2, "chance": 1},
+            {"source": "ChestA5", "quantity": 1, "chance": 1},
             {"source": "Bug9", "quantity": 1, "chance": 0.015}
         ]
     },
@@ -4814,6 +5189,7 @@
             {"source": "w5b6", "quantity": 1, "chance": 0.0035},
             {"source": "Boss5A", "quantity": 2, "chance": 1},
             {"source": "Boss5B", "quantity": 2, "chance": 1},
+            {"source": "ChestB5", "quantity": 1, "chance": 1},
             {"source": "Bug10", "quantity": 1, "chance": 0.015},
             {"source": "Bug11", "quantity": 1, "chance": 1e-08}
         ]
@@ -4824,7 +5200,8 @@
             {"source": "w5c1", "quantity": 1, "chance": 0.0028},
             {"source": "w5c2", "quantity": 1, "chance": 0.0035},
             {"source": "Boss5A", "quantity": 2, "chance": 1},
-            {"source": "Boss5B", "quantity": 2, "chance": 1}
+            {"source": "Boss5B", "quantity": 2, "chance": 1},
+            {"source": "ChestC5", "quantity": 1, "chance": 1}
         ]
     },
     "DropTable28": {
@@ -4845,6 +5222,9 @@
             {"source": "w6a3", "quantity": 1, "chance": 0.0031},
             {"source": "w6a4", "quantity": 1, "chance": 0.0034},
             {"source": "w6a5", "quantity": 1, "chance": 0.0037},
+            {"source": "ChestA6", "quantity": 1, "chance": 1},
+            {"source": "ChestB6", "quantity": 1, "chance": 1},
+            {"source": "ChestC6", "quantity": 1, "chance": 1},
             {"source": "Bug12", "quantity": 1, "chance": 0.015}
         ]
     },
@@ -4957,9 +5337,13 @@
     "CardsA3": {"sources": [
         {"source": "beanG", "quantity": 1, "chance": 0.001}
     ]},
-    "StoneA2": {"sources": [
-        {"source": "beanG", "quantity": 1, "chance": 5e-05}
-    ]},
+    "StoneA2": {
+        "sources": [
+            {"source": "beanG", "quantity": 1, "chance": 5e-05},
+            {"source": "ChestB1", "quantity": 1, "chance": 0.1},
+            {"source": "ChestA2", "quantity": 1, "chance": 0.09}
+        ]
+    },
     "EquipmentHats25": {"sources": [
         {"source": "beanG", "quantity": 1, "chance": 3.5e-05}
     ]},
@@ -5318,9 +5702,14 @@
     "CardsZ6": {"sources": [
         {"source": "babaMummy", "quantity": 1, "chance": 0.04}
     ]},
-    "Key2": {"sources": [
-        {"source": "babaMummy", "quantity": 1, "chance": 0.8}
-    ]},
+    "Key2": {
+        "sources": [
+            {"source": "babaMummy", "quantity": 1, "chance": 0.8},
+            {"source": "ChestA2", "quantity": 1, "chance": 0.04},
+            {"source": "ChestB2", "quantity": 1, "chance": 0.1},
+            {"source": "ChestC2", "quantity": 1, "chance": 0.18}
+        ]
+    },
     "EquipmentPants19": {"sources": [
         {"source": "babaMummy", "quantity": 1, "chance": 0.04}
     ]},
@@ -5390,9 +5779,12 @@
     "StampB7": {"sources": [
         {"source": "flake", "quantity": 1, "chance": 6e-05}
     ]},
-    "SnowA2a": {"sources": [
-        {"source": "flake", "quantity": 1, "chance": 5e-05}
-    ]},
+    "SnowA2a": {
+        "sources": [
+            {"source": "flake", "quantity": 1, "chance": 5e-05},
+            {"source": "ChestA3", "quantity": 1, "chance": 0.01}
+        ]
+    },
     "SnowA3": {"sources": [
         {"source": "stache", "quantity": 1, "chance": 0.16}
     ]},
@@ -5568,9 +5960,14 @@
     "ObolSlush": {"sources": [
         {"source": "mini3a", "quantity": 1, "chance": 0.004}
     ]},
-    "Key3": {"sources": [
-        {"source": "mini3a", "quantity": 2, "chance": 0.8}
-    ]},
+    "Key3": {
+        "sources": [
+            {"source": "mini3a", "quantity": 2, "chance": 0.8},
+            {"source": "ChestA3", "quantity": 1, "chance": 0.04},
+            {"source": "ChestB3", "quantity": 1, "chance": 0.1},
+            {"source": "ChestC3", "quantity": 1, "chance": 0.18}
+        ]
+    },
     "CardsZ10": {"sources": [
         {"source": "Boss4A", "quantity": 1, "chance": 0.004}
     ]},
@@ -5603,7 +6000,10 @@
     "Key4": {
         "sources": [
             {"source": "mini4a", "quantity": 1, "chance": 0.5},
-            {"source": "w4c4", "quantity": 1, "chance": 6.667e-05}
+            {"source": "w4c4", "quantity": 1, "chance": 6.667e-05},
+            {"source": "ChestA4", "quantity": 1, "chance": 0.006},
+            {"source": "ChestB4", "quantity": 1, "chance": 0.012},
+            {"source": "ChestC4", "quantity": 1, "chance": 0.04}
         ]
     },
     "PetEgg": {"sources": [
@@ -5686,9 +6086,12 @@
     "GalaxyA2": {"sources": [
         {"source": "w4a2", "quantity": 1, "chance": 0.16}
     ]},
-    "GalaxyA2b": {"sources": [
-        {"source": "w4a2", "quantity": 1, "chance": 2e-05}
-    ]},
+    "GalaxyA2b": {
+        "sources": [
+            {"source": "w4a2", "quantity": 1, "chance": 2e-05},
+            {"source": "ChestA4", "quantity": 1, "chance": 0.02}
+        ]
+    },
     "Line12": {"sources": [
         {"source": "w4a2", "quantity": 1, "chance": 2.2e-06}
     ]},
@@ -5797,9 +6200,12 @@
     "LavaA1": {"sources": [
         {"source": "w5a1", "quantity": 1, "chance": 0.16}
     ]},
-    "LavaA1b": {"sources": [
-        {"source": "w5a1", "quantity": 1, "chance": 2e-05}
-    ]},
+    "LavaA1b": {
+        "sources": [
+            {"source": "w5a1", "quantity": 1, "chance": 2e-05},
+            {"source": "ChestA5", "quantity": 1, "chance": 0.02}
+        ]
+    },
     "CardsH1": {"sources": [
         {"source": "w5a1", "quantity": 1, "chance": 2e-05}
     ]},
@@ -5966,9 +6372,12 @@
     "SpiA2": {"sources": [
         {"source": "w6a2", "quantity": 1, "chance": 0.15}
     ]},
-    "SpiA2b": {"sources": [
-        {"source": "w6a2", "quantity": 1, "chance": 1e-05}
-    ]},
+    "SpiA2b": {
+        "sources": [
+            {"source": "w6a2", "quantity": 1, "chance": 1e-05},
+            {"source": "ChestA6", "quantity": 3, "chance": 0.1}
+        ]
+    },
     "CardsI2": {"sources": [
         {"source": "w6a2", "quantity": 1, "chance": 2e-05}
     ]},
@@ -6102,6 +6511,293 @@
     ]},
     "StampC25": {"sources": [
         {"source": "caveC", "quantity": 1, "chance": 5e-08}
+    ]},
+    "OakTree": {"sources": [
+        {"source": "ChestA1", "quantity": 40, "chance": 0.6}
+    ]},
+    "Copper": {"sources": [
+        {"source": "ChestA1", "quantity": 30, "chance": 0.6}
+    ]},
+    "CopperBar": {
+        "sources": [
+            {"source": "ChestA1", "quantity": 20, "chance": 0.2},
+            {"source": "ChestB1", "quantity": 50, "chance": 0.35}
+        ]
+    },
+    "Key1": {
+        "sources": [
+            {"source": "ChestA1", "quantity": 1, "chance": 0.04},
+            {"source": "ChestB1", "quantity": 1, "chance": 0.1},
+            {"source": "ChestC1", "quantity": 1, "chance": 0.18}
+        ]
+    },
+    "EquipmentHats17": {"sources": [
+        {"source": "ChestB1", "quantity": 1, "chance": 0.02}
+    ]},
+    "Iron": {"sources": [
+        {"source": "ChestB1", "quantity": 50, "chance": 0.6}
+    ]},
+    "JungleTree": {"sources": [
+        {"source": "ChestB1", "quantity": 15, "chance": 0.4}
+    ]},
+    "BirchTree": {"sources": [
+        {"source": "ChestB1", "quantity": 25, "chance": 0.1}
+    ]},
+    "FoodG1": {
+        "sources": [
+            {"source": "ChestC1", "quantity": 1, "chance": 0.5},
+            {"source": "ChestC6", "quantity": 320, "chance": 0.25}
+        ]
+    },
+    "IronBar": {"sources": [
+        {"source": "ChestC1", "quantity": 15, "chance": 0.1}
+    ]},
+    "Gold": {
+        "sources": [
+            {"source": "ChestC1", "quantity": 20, "chance": 0.1},
+            {"source": "ChestA2", "quantity": 75, "chance": 0.6}
+        ]
+    },
+    "ToiletTree": {"sources": [
+        {"source": "ChestC1", "quantity": 50, "chance": 0.5}
+    ]},
+    "StumpTree": {"sources": [
+        {"source": "ChestC1", "quantity": 50, "chance": 0.5}
+    ]},
+    "EquipmentShirts12": {"sources": [
+        {"source": "ChestC1", "quantity": 1, "chance": 0.04}
+    ]},
+    "Fish1": {"sources": [
+        {"source": "ChestA2", "quantity": 50, "chance": 0.6}
+    ]},
+    "Fish2": {"sources": [
+        {"source": "ChestA2", "quantity": 50, "chance": 0.4}
+    ]},
+    "Bug1": {"sources": [
+        {"source": "ChestA2", "quantity": 65, "chance": 0.6}
+    ]},
+    "GoldBar": {
+        "sources": [
+            {"source": "ChestA2", "quantity": 20, "chance": 0.2},
+            {"source": "ChestB2", "quantity": 60, "chance": 0.35}
+        ]
+    },
+    "EquipmentHats18": {"sources": [
+        {"source": "ChestB2", "quantity": 1, "chance": 0.02}
+    ]},
+    "StoneW3": {
+        "sources": [
+            {"source": "ChestB2", "quantity": 1, "chance": 0.04},
+            {"source": "ChestA3", "quantity": 1, "chance": 0.025},
+            {"source": "ChestB3", "quantity": 1, "chance": 0.2}
+        ]
+    },
+    "StoneA3": {
+        "sources": [
+            {"source": "ChestB2", "quantity": 1, "chance": 0.09},
+            {"source": "ChestA3", "quantity": 1, "chance": 0.09},
+            {"source": "ChestB3", "quantity": 1, "chance": 0.3}
+        ]
+    },
+    "Fish3": {"sources": [
+        {"source": "ChestB2", "quantity": 100, "chance": 0.4}
+    ]},
+    "Bug3": {"sources": [
+        {"source": "ChestB2", "quantity": 125, "chance": 0.4}
+    ]},
+    "FoodG2": {
+        "sources": [
+            {"source": "ChestB2", "quantity": 1, "chance": 0.5},
+            {"source": "ChestB5", "quantity": 40, "chance": 0.25},
+            {"source": "ChestC5", "quantity": 40, "chance": 0.25},
+            {"source": "ChestB6", "quantity": 200, "chance": 0.25},
+            {"source": "ChestC6", "quantity": 150, "chance": 0.25}
+        ]
+    },
+    "Plat": {"sources": [
+        {"source": "ChestB2", "quantity": 50, "chance": 0.6}
+    ]},
+    "PalmTree": {"sources": [
+        {"source": "ChestB2", "quantity": 100, "chance": 0.5}
+    ]},
+    "PlatBar": {
+        "sources": [
+            {"source": "ChestC2", "quantity": 20, "chance": 0.2},
+            {"source": "ChestA3", "quantity": 60, "chance": 0.35},
+            {"source": "ChestA3", "quantity": 20, "chance": 0.2}
+        ]
+    },
+    "Dementia": {
+        "sources": [
+            {"source": "ChestC2", "quantity": 80, "chance": 0.1},
+            {"source": "ChestB3", "quantity": 100, "chance": 0.6}
+        ]
+    },
+    "Fish4": {"sources": [
+        {"source": "ChestC2", "quantity": 150, "chance": 0.2}
+    ]},
+    "Bug4": {"sources": [
+        {"source": "ChestC2", "quantity": 169, "chance": 0.2}
+    ]},
+    "EquipmentPants4": {"sources": [
+        {"source": "ChestC2", "quantity": 1, "chance": 0.04}
+    ]},
+    "Soul1": {"sources": [
+        {"source": "ChestA3", "quantity": 50, "chance": 0.6}
+    ]},
+    "Critter1": {"sources": [
+        {"source": "ChestA3", "quantity": 65, "chance": 0.6}
+    ]},
+    "EquipmentHats28": {"sources": [
+        {"source": "ChestB3", "quantity": 1, "chance": 0.02}
+    ]},
+    "Critter2": {"sources": [
+        {"source": "ChestB3", "quantity": 350, "chance": 0.4}
+    ]},
+    "Bug5": {"sources": [
+        {"source": "ChestB3", "quantity": 150, "chance": 0.4}
+    ]},
+    "SaharanFoal": {"sources": [
+        {"source": "ChestB3", "quantity": 100, "chance": 0.5}
+    ]},
+    "DementiaBar": {"sources": [
+        {"source": "ChestC3", "quantity": 80, "chance": 0.2}
+    ]},
+    "Soul2": {"sources": [
+        {"source": "ChestC3", "quantity": 400, "chance": 0.4}
+    ]},
+    "Void": {"sources": [
+        {"source": "ChestC3", "quantity": 120, "chance": 0.1}
+    ]},
+    "Bug6": {"sources": [
+        {"source": "ChestC3", "quantity": 150, "chance": 0.2}
+    ]},
+    "EquipmentPants5": {"sources": [
+        {"source": "ChestC3", "quantity": 1, "chance": 0.04}
+    ]},
+    "FoodG6": {
+        "sources": [
+            {"source": "ChestC3", "quantity": 1, "chance": 0.3},
+            {"source": "ChestC5", "quantity": 100, "chance": 0.25}
+        ]
+    },
+    "StoneW4": {
+        "sources": [
+            {"source": "ChestA4", "quantity": 1, "chance": 0.015},
+            {"source": "ChestB4", "quantity": 1, "chance": 0.04}
+        ]
+    },
+    "StoneA4": {
+        "sources": [
+            {"source": "ChestA4", "quantity": 1, "chance": 0.04},
+            {"source": "ChestB4", "quantity": 1, "chance": 0.07}
+        ]
+    },
+    "Soul3": {"sources": [
+        {"source": "ChestA4", "quantity": 250, "chance": 0.6}
+    ]},
+    "Critter6": {"sources": [
+        {"source": "ChestA4", "quantity": 200, "chance": 0.6}
+    ]},
+    "VoidBar": {"sources": [
+        {"source": "ChestA4", "quantity": 100, "chance": 0.35}
+    ]},
+    "Critter8": {"sources": [
+        {"source": "ChestB4", "quantity": 600, "chance": 0.4}
+    ]},
+    "Bug7": {"sources": [
+        {"source": "ChestB4", "quantity": 1500, "chance": 0.4}
+    ]},
+    "Lustre": {"sources": [
+        {"source": "ChestB4", "quantity": 1000, "chance": 0.6}
+    ]},
+    "AlienTree": {"sources": [
+        {"source": "ChestB4", "quantity": 750, "chance": 0.5}
+    ]},
+    "LustreBar": {"sources": [
+        {"source": "ChestC4", "quantity": 150, "chance": 0.05}
+    ]},
+    "Starfire": {
+        "sources": [
+            {"source": "ChestC4", "quantity": 2000, "chance": 0.03},
+            {"source": "ChestB5", "quantity": 5000, "chance": 0.6}
+        ]
+    },
+    "Bug8": {"sources": [
+        {"source": "ChestC4", "quantity": 1500, "chance": 0.02}
+    ]},
+    "StoneW5": {
+        "sources": [
+            {"source": "ChestA5", "quantity": 1, "chance": 0.015},
+            {"source": "ChestB5", "quantity": 1, "chance": 0.04}
+        ]
+    },
+    "StoneA5": {
+        "sources": [
+            {"source": "ChestA5", "quantity": 1, "chance": 0.04},
+            {"source": "ChestB5", "quantity": 1, "chance": 0.07}
+        ]
+    },
+    "Gfoodcoupon": {
+        "sources": [
+            {"source": "ChestA5", "quantity": 4, "chance": 0.99},
+            {"source": "ChestB5", "quantity": 9, "chance": 0.99},
+            {"source": "ChestC5", "quantity": 12, "chance": 0.99},
+            {"source": "ChestA6", "quantity": 15, "chance": 0.99},
+            {"source": "ChestB6", "quantity": 30, "chance": 0.99},
+            {"source": "ChestC6", "quantity": 50, "chance": 0.99}
+        ]
+    },
+    "Soul4": {"sources": [
+        {"source": "ChestA5", "quantity": 450, "chance": 0.6}
+    ]},
+    "Bug9": {"sources": [
+        {"source": "ChestB5", "quantity": 1500, "chance": 0.4}
+    ]},
+    "Tree9": {"sources": [
+        {"source": "ChestB5", "quantity": 2500, "chance": 0.5}
+    ]},
+    "DreadloBar": {"sources": [
+        {"source": "ChestC5", "quantity": 300, "chance": 0.05}
+    ]},
+    "Dreadlo": {"sources": [
+        {"source": "ChestC5", "quantity": 3000, "chance": 0.03}
+    ]},
+    "Bug10": {"sources": [
+        {"source": "ChestC5", "quantity": 1500, "chance": 0.02}
+    ]},
+    "StoneW8": {
+        "sources": [
+            {"source": "ChestA6", "quantity": 1, "chance": 0.015},
+            {"source": "ChestB6", "quantity": 1, "chance": 0.04}
+        ]
+    },
+    "StoneA7": {
+        "sources": [
+            {"source": "ChestA6", "quantity": 1, "chance": 0.04},
+            {"source": "ChestB6", "quantity": 1, "chance": 0.07}
+        ]
+    },
+    "Soul5": {"sources": [
+        {"source": "ChestA6", "quantity": 1450, "chance": 0.6}
+    ]},
+    "Soul6": {"sources": [
+        {"source": "ChestA6", "quantity": 1450, "chance": 0.6}
+    ]},
+    "Bug12": {"sources": [
+        {"source": "ChestB6", "quantity": 1500, "chance": 0.4}
+    ]},
+    "Tree12": {"sources": [
+        {"source": "ChestB6", "quantity": 12500, "chance": 0.5}
+    ]},
+    "GodshardBar": {"sources": [
+        {"source": "ChestC6", "quantity": 1000, "chance": 0.05}
+    ]},
+    "Godshard": {"sources": [
+        {"source": "ChestC6", "quantity": 30000, "chance": 0.03}
+    ]},
+    "Bug13": {"sources": [
+        {"source": "ChestC6", "quantity": 1500, "chance": 0.02}
     ]},
     "CardsY0": {
         "sources": [

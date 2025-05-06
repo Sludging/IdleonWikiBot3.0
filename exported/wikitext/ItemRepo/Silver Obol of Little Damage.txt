@@ -20,6 +20,7 @@
 {{detdrops|[[Baba Yaga]]|0.00013020000000000002|2}}
 {{detdrops|[[Amarok]]|0.00013020000000000002|2}}
 {{detdrops|[[Chaotic Amarok]]|0.00013020000000000002|4}}
+{{detdrops|[[Dewdrop Bronze Chest(W1)]]|0.00013020000000000002|1}}
 {{detdrops|[[Crystal Carrot]]|0.0000732375|1}}
 {{detdrops|[[Slime]]|0.0000005859000000000001|1}}
 {{detdrops|[[Baby Boa]]|0.000000732375|1}}
@@ -27,6 +28,7 @@
 {{detdrops|[[Baba Yaga]]|0.000146475|1}}
 {{detdrops|[[Amarok]]|0.000146475|2}}
 {{detdrops|[[Chaotic Amarok]]|0.000146475|4}}
+{{detdrops|[[Dewdrop Silver Chest(W1)]]|0.000146475|1}}
 {{detdrops|[[Crystal Carrot]]|0.00006510000000000001|1}}
 {{detdrops|[[Glublin]]|0.0000006510000000000001|1}}
 {{detdrops|[[Wode Board]]|0.000000732375|1}}
@@ -37,6 +39,7 @@
 {{detdrops|[[Amarok]]|0.00016275000000000003|2}}
 {{detdrops|[[Chaotic Amarok]]|0.00016275000000000003|4}}
 {{detdrops|[[Radiant Amarok]]|0.00016275000000000003|2}}
+{{detdrops|[[Dewdrop Golden Chest(W1)]]|0.00016275000000000003|1}}
 {{detdrops|[[Poop]]|0.00000107415|1}}
 {{detdrops|[[Rat]]|0.00000107415|1}}
 {{detdrops|[[Wood Mushroom]]|0.000001253175|1}}

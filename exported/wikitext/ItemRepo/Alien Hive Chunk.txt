@@ -4,3 +4,6 @@
 |sellprice=55
 |notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Astro Silver Chest(W4)]]|0.5|750}}
+|}

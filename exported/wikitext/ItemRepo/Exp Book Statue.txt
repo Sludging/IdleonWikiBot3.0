@@ -14,5 +14,6 @@
 {{detdrops|[[Mashed Potato]]|0.000156|1}}
 {{detdrops|[[Efaunt]]|0.04|2}}
 {{detdrops|[[Chaotic Efaunt]]|0.04|2}}
+{{detdrops|[[Sandstone Silver Chest(W2)]]|0.04|1}}
 |}
 {{Statuedata|0.1|%@Class Exp}}

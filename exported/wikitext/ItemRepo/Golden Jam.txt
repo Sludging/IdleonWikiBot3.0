@@ -4,4 +4,8 @@
 |sellprice=50
 |notes=ot to be confused with {{CraftReq|Picnic Stowaway's Jam}} which is needed for the [[Scripticus]] quest The Unoccupied Picnic.
 }}
+{{detdrops/head}}
+{{detdrops|[[Dewdrop Golden Chest(W1)]]|0.5|1}}
+{{detdrops|[[Whimsical Golden Chest(W6)]]|0.25|320}}
+|}
 {{gfoodbonus|30|Increases your Max Health by [%.}}

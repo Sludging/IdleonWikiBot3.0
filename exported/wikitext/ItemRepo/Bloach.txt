@@ -5,3 +5,6 @@
 |sellprice=18
 |notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Sandstone Golden Chest(W2)]]|0.2|150}}
+|}

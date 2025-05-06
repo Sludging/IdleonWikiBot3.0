@@ -12,6 +12,7 @@
 {{detdrops|[[Sir Stache]]|0.000013019999999999997|3}}
 {{detdrops|[[Xylobone]]|0.000042|3}}
 {{detdrops|[[Chizoar]]|0.0042|6}}
+{{detdrops|[[Chillsnap Bronze Chest(W3)]]|0.0042|3}}
 {{detdrops|[[Crystal Cattle]]|0.0021|3}}
 {{detdrops|[[Bloque]]|0.0000105|3}}
 {{detdrops|[[Mamooth]]|0.00001134|3}}
@@ -20,6 +21,7 @@
 {{detdrops|[[Thermister]]|0.00001386|3}}
 {{detdrops|[[Chizoar]]|0.0042|6}}
 {{detdrops|[[Chaotic Chizoar]]|0.0042|6}}
+{{detdrops|[[Chillsnap Silver Chest(W3)]]|0.0042|3}}
 {{detdrops|[[Crystal Cattle]]|0.00168|3}}
 {{detdrops|[[Dedotated Ram]]|0.000014279999999999997|3}}
 {{detdrops|[[Quenchie]]|0.0000105|3}}
@@ -30,6 +32,7 @@
 {{detdrops|[[Chizoar]]|0.0042|6}}
 {{detdrops|[[Chaotic Chizoar]]|0.0042|6}}
 {{detdrops|[[Blighted Chizoar]]|0.0042|6}}
+{{detdrops|[[Chillsnap Golden Chest(W3)]]|0.0042|3}}
 {{detdrops|[[Crystal Cattle]]|0.0025199999999999997|3}}
 {{detdrops|[[Choppin#Drops|Choppin Saharan Foal]]|0.00003738|3}}
 {{detdrops|[[Choppin#Drops|Choppin Wispy Tree]]|0.00003738|3}}
@@ -44,6 +47,7 @@
 {{detdrops|[[TV]]|0.000011760000000000001|3}}
 {{detdrops|[[Donut]]|0.000013019999999999997|3}}
 {{detdrops|[[Demon Genie]]|0.000014279999999999997|3}}
+{{detdrops|[[Astro Bronze Chest(W4)]]|0.0042|3}}
 {{detdrops|[[Crystal Custard]]|0.0021|3}}
 {{detdrops|[[Massive Troll]]|0.0042|6}}
 {{detdrops|[[Chaotic Troll]]|0.0042|6}}
@@ -53,6 +57,7 @@
 {{detdrops|[[Gelatinous Cuboid]]|0.000012179999999999999|3}}
 {{detdrops|[[Choccie]]|0.000013019999999999997|3}}
 {{detdrops|[[Biggole Wurm]]|0.00001386|3}}
+{{detdrops|[[Astro Silver Chest(W4)]]|0.0042|3}}
 {{detdrops|[[Crystal Custard]]|0.00168|3}}
 {{detdrops|[[Massive Troll]]|0.0042|6}}
 {{detdrops|[[Chaotic Troll]]|0.0042|6}}
@@ -61,6 +66,7 @@
 {{detdrops|[[Octodar]]|0.000011760000000000001|3}}
 {{detdrops|[[Flombeige]]|0.0000126|3}}
 {{detdrops|[[Stilted Seeker]]|0.00001344|3}}
+{{detdrops|[[Astro Golden Chest(W4)]]|0.0042|3}}
 {{detdrops|[[Crystal Custard]]|0.00168|3}}
 {{detdrops|[[Choppin#Drops|Choppin Alien Tree]]|0.000034229999999999996|6}}
 {{detdrops|[[Choppin#Drops|Choppin Cubed Tree]]|0.00003738|3}}

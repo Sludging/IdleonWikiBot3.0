@@ -5,4 +5,5 @@
 }}
 {{detdrops/head}}
 {{detdrops|[[TV]]|0.00002|1}}
+{{detdrops|[[Astro Bronze Chest(W4)]]|0.02|1}}
 |}
