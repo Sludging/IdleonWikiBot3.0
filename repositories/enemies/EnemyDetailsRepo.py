@@ -38,7 +38,7 @@ class EnemyDetailsRepo(Repository[EnemyDetails]):
 					val = Constants.nameConflicts.get(val, val)
 				val = strToArray(val) if "[" in val else formatStr(val, [","], replaceUnderscores = True)
 				enemy[atr.strip()] = val
-			if enemy.get("Name") == "Error":
+			if enemy.get("Name") == "Error" or enemy.get("AFKtype") == "error":
 				continue
 			enemy["Type"] = enemy.get("Type").split(".")[1].title()
 			enemy["AFKtype"] = enemy.get("AFKtype").title()
