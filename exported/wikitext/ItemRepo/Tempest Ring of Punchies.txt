@@ -1,0 +1,9 @@
+{{InfoItem
+|type=Ring
+|class=Archer
+|level=1
+|misc=5% Tempest Atk Spd
+|upgrade=1
+|sellprice=1
+|setname = Tempest
+}}

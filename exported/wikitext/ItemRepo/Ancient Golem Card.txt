@@ -1,0 +1,13 @@
+{{InfoCard
+|title=Ancient Golem Card
+|dropchance=5e-05
+|order=15
+|category=Smolderin' Plateau
+|effect=+% Total Drop Rate (Passive)
+|bonus=4
+|reqtier=10000.0
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Ancient Golem]]|0.00005|1}}
+|}

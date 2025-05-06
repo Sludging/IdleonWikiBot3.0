@@ -1,0 +1,14 @@
+{{InfoItem
+|type=Premium Helmet
+|class=All
+|level=1
+|str=1
+|agi=1
+|wis=1
+|misc=10% Damage Multi
+|upgrade=5
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[IdleOn 4th Anniversary]]|0.001|1}}
+|}

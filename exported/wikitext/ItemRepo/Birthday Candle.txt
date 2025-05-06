@@ -1,0 +1,8 @@
+{{InfoItem
+|type=Event Wish
+|description=I hope your wish came true! 
+|sellprice=100
+}}
+{{detdrops/head}}
+{{detdrops|[[Samurai Guardian]]|0.0001|1}}
+|}

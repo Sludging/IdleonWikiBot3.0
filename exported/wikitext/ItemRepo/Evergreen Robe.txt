@@ -1,0 +1,14 @@
+{{InfoItem
+|type=Attire
+|class=All
+|level=1
+|weaponpower=10
+|str=8
+|agi=8
+|wis=8
+|luck=8
+|misc=100% Bonus Class Exp
+|misc2=75% Drop Chance
+|defence=40
+|sellprice=1
+}}

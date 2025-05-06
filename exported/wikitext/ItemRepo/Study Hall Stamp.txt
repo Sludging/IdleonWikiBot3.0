@@ -1,0 +1,11 @@
+{{InfoStamp
+|type=Misc Stamp
+|bonus=+% Study rate for Bolaia
+|number=25
+|material=Villager Statue
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Ancient Golem]]|0.00000005|1}}
+|}
+{{stampdata|stype=VillageStudy|ftype=decay|x1=30|x2=160|i4=15|material=Villager Statue|i6=30|i7=20|i8=2000000000|i9=1.72|i10=0|i11={}% faster Study Rate for Bolaia|i12=0}}

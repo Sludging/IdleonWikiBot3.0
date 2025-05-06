@@ -2,9 +2,9 @@
 |world=Unknown
 |location=Unknown
 |npcType=Unknown
-|birthweight=7.38
-|starsign=Cancer
-|mmm=Sweeney
+|birthweight=4.1
+|starsign=Scorpio
+|mmm=Thompson
 |notes= 
 }}
 {{Quest/head}}

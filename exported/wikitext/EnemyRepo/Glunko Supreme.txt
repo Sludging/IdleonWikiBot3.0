@@ -1,0 +1,10 @@
+{{InfoEnemy
+|image=Glunko Supreme Walking.gif
+|attack=100
+|health=10000
+|defence=5
+|speed=3
+|exp=1000
+|respawn=1200
+|defence0=94.54
+}}

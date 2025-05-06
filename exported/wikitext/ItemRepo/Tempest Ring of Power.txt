@@ -1,0 +1,10 @@
+{{InfoItem
+|type=Ring
+|class=Archer
+|level=1
+|weaponpower=5
+|misc=20% Tempest Damage
+|upgrade=3
+|sellprice=1
+|setname = Tempest
+}}

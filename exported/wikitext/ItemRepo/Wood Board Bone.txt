@@ -1,0 +1,9 @@
+{{InfoItem
+|type=Quest Item
+|description=Dog Bone will give you Boss Keys once you collect a few of these! Idk why they named a ghost after these bones... or were these bones named after the ghost? 
+|sellprice=7
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Wode Board]]|0.3|1}}
+|}

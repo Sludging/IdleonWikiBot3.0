@@ -1,0 +1,21 @@
+{{InfoEnemy
+|image=IdleOn 4th Anniversary Walking.gif
+|attack=1000
+|health=750000
+|defence=600
+|speed=3
+|exp=12000
+|respawn=86400
+|defence0=1223.26
+}}
+{{DropTable/head|Droptable for IdleOn 4th Anniversary}}
+{{DropTable/coin|69|0.5}}
+{{DropTable/card|0}}
+{{DropTable|Gem|0.2|1}}
+{{DropTable|Spooky Time Candy|0.1|1}}
+{{DropTable|3rd Anniversary Ice Cream Topper|0.001|1}}
+{{DropTable|Goldberry|0.001|1}}
+{{DropTable|Celebration Mane|0.001|1}}
+{{DropTable|Farmer Brimest|0.001|1}}
+{{DropTable|Orange Beanie|0.001|1}}
+{{DropTable|Pop Cat|0.001|1}}

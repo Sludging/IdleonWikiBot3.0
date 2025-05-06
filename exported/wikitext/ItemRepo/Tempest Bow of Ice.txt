@@ -1,0 +1,12 @@
+{{InfoItem
+|type=Bow
+|class=Archer
+|level=1
+|weaponpower=20
+|misc=25% Ice Element Dmg
+|upgrade=5
+|speed=5
+|reach=220
+|sellprice=1
+|setname = Tempest
+}}
