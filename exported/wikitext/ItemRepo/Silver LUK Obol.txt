@@ -17,5 +17,4 @@
 {{detdrops|[[Efaunt]]|0.000735|2}}
 {{detdrops|[[Chaotic Efaunt]]|0.000735|2}}
 {{detdrops|[[Gilded Efaunt]]|0.000735|2}}
-{{detdrops|[[Sandstone Golden Chest]]|0.000735|1}}
 |}

@@ -6404,14 +6404,14 @@
         "intID": "EquipmentTools8",
         "recipe": [
             {"item": "EquipmentTools11", "quantity": 1},
-            {"item": "LustreBar", "quantity": 1000},
+            {"item": "LustreBar", "quantity": 250},
             {"item": "Refinery4", "quantity": 600}
         ],
         "levelReqToCraft": 52,
         "expGiven": 1000000,
         "no": 9,
         "tab": 4,
-        "sellPrice": 21054320,
+        "sellPrice": 11679320,
         "recipeFrom": [],
         "detailedRecipe": {
             "detRecipe": [
@@ -6430,11 +6430,11 @@
                 {"indent": 2, "item": "SnowA3", "quantity": 15000},
                 {"indent": 1, "item": "VoidBar", "quantity": 400},
                 {"indent": 1, "item": "PureWater2", "quantity": 5},
-                {"indent": 0, "item": "LustreBar", "quantity": 1000},
+                {"indent": 0, "item": "LustreBar", "quantity": 250},
                 {"indent": 0, "item": "Refinery4", "quantity": 600}
             ],
             "detRecipeTotals": [
-                {"item": "LustreBar", "quantity": 1000},
+                {"item": "LustreBar", "quantity": 250},
                 {"item": "Refinery4", "quantity": 600},
                 {"item": "VoidBar", "quantity": 400},
                 {"item": "PureWater2", "quantity": 5},
@@ -7537,14 +7537,14 @@
         "intID": "EquipmentTools12",
         "recipe": [
             {"item": "EquipmentTools8", "quantity": 1},
-            {"item": "LustreBar", "quantity": 3000},
+            {"item": "StarfireBar", "quantity": 500},
             {"item": "GalaxyC1b", "quantity": 5}
         ],
         "levelReqToCraft": 60,
         "expGiven": 1000000,
         "no": 37,
         "tab": 4,
-        "sellPrice": 58569320,
+        "sellPrice": 11694820,
         "recipeFrom": [],
         "detailedRecipe": {
             "detRecipe": [
@@ -7564,14 +7564,15 @@
                 {"indent": 3, "item": "SnowA3", "quantity": 15000},
                 {"indent": 2, "item": "VoidBar", "quantity": 400},
                 {"indent": 2, "item": "PureWater2", "quantity": 5},
-                {"indent": 1, "item": "LustreBar", "quantity": 1000},
+                {"indent": 1, "item": "LustreBar", "quantity": 250},
                 {"indent": 1, "item": "Refinery4", "quantity": 600},
-                {"indent": 0, "item": "LustreBar", "quantity": 3000},
+                {"indent": 0, "item": "StarfireBar", "quantity": 500},
                 {"indent": 0, "item": "GalaxyC1b", "quantity": 5}
             ],
             "detRecipeTotals": [
-                {"item": "LustreBar", "quantity": 4000},
+                {"item": "StarfireBar", "quantity": 500},
                 {"item": "GalaxyC1b", "quantity": 5},
+                {"item": "LustreBar", "quantity": 250},
                 {"item": "Refinery4", "quantity": 600},
                 {"item": "VoidBar", "quantity": 400},
                 {"item": "PureWater2", "quantity": 5},
@@ -8634,15 +8635,12 @@
     },
     "EquipmentTools9": {
         "intID": "EquipmentTools9",
-        "recipe": [
-            {"item": "EquipmentTools12", "quantity": 1},
-            {"item": "StarfireBar", "quantity": 10000}
-        ],
+        "recipe": [{"item": "EquipmentTools12", "quantity": 1}, {"item": "DreadloBar", "quantity": 600}],
         "levelReqToCraft": 70,
         "expGiven": 1000000,
         "no": 9,
         "tab": 5,
-        "sellPrice": 58579320,
+        "sellPrice": 11695420,
         "recipeFrom": [],
         "detailedRecipe": {
             "detRecipe": [
@@ -8663,16 +8661,17 @@
                 {"indent": 4, "item": "SnowA3", "quantity": 15000},
                 {"indent": 3, "item": "VoidBar", "quantity": 400},
                 {"indent": 3, "item": "PureWater2", "quantity": 5},
-                {"indent": 2, "item": "LustreBar", "quantity": 1000},
+                {"indent": 2, "item": "LustreBar", "quantity": 250},
                 {"indent": 2, "item": "Refinery4", "quantity": 600},
-                {"indent": 1, "item": "LustreBar", "quantity": 3000},
+                {"indent": 1, "item": "StarfireBar", "quantity": 500},
                 {"indent": 1, "item": "GalaxyC1b", "quantity": 5},
-                {"indent": 0, "item": "StarfireBar", "quantity": 10000}
+                {"indent": 0, "item": "DreadloBar", "quantity": 600}
             ],
             "detRecipeTotals": [
-                {"item": "StarfireBar", "quantity": 10000},
-                {"item": "LustreBar", "quantity": 4000},
+                {"item": "DreadloBar", "quantity": 600},
+                {"item": "StarfireBar", "quantity": 500},
                 {"item": "GalaxyC1b", "quantity": 5},
+                {"item": "LustreBar", "quantity": 250},
                 {"item": "Refinery4", "quantity": 600},
                 {"item": "VoidBar", "quantity": 400},
                 {"item": "PureWater2", "quantity": 5},
@@ -10168,7 +10167,7 @@
         "expGiven": 1000000,
         "no": 9,
         "tab": 6,
-        "sellPrice": 58586820,
+        "sellPrice": 11702920,
         "recipeFrom": [],
         "detailedRecipe": {
             "detRecipe": [
@@ -10190,18 +10189,19 @@
                 {"indent": 5, "item": "SnowA3", "quantity": 15000},
                 {"indent": 4, "item": "VoidBar", "quantity": 400},
                 {"indent": 4, "item": "PureWater2", "quantity": 5},
-                {"indent": 3, "item": "LustreBar", "quantity": 1000},
+                {"indent": 3, "item": "LustreBar", "quantity": 250},
                 {"indent": 3, "item": "Refinery4", "quantity": 600},
-                {"indent": 2, "item": "LustreBar", "quantity": 3000},
+                {"indent": 2, "item": "StarfireBar", "quantity": 500},
                 {"indent": 2, "item": "GalaxyC1b", "quantity": 5},
-                {"indent": 1, "item": "StarfireBar", "quantity": 10000},
+                {"indent": 1, "item": "DreadloBar", "quantity": 600},
                 {"indent": 0, "item": "MarbleBar", "quantity": 7500}
             ],
             "detRecipeTotals": [
                 {"item": "MarbleBar", "quantity": 7500},
-                {"item": "StarfireBar", "quantity": 10000},
-                {"item": "LustreBar", "quantity": 4000},
+                {"item": "DreadloBar", "quantity": 600},
+                {"item": "StarfireBar", "quantity": 500},
                 {"item": "GalaxyC1b", "quantity": 5},
+                {"item": "LustreBar", "quantity": 250},
                 {"item": "Refinery4", "quantity": 600},
                 {"item": "VoidBar", "quantity": 400},
                 {"item": "PureWater2", "quantity": 5},
@@ -11168,7 +11168,7 @@
         "expGiven": 1000000,
         "no": 33,
         "tab": 6,
-        "sellPrice": 750058596820,
+        "sellPrice": 750011712920,
         "recipeFrom": [],
         "detailedRecipe": {
             "detRecipe": [
@@ -11191,11 +11191,11 @@
                 {"indent": 6, "item": "SnowA3", "quantity": 15000},
                 {"indent": 5, "item": "VoidBar", "quantity": 400},
                 {"indent": 5, "item": "PureWater2", "quantity": 5},
-                {"indent": 4, "item": "LustreBar", "quantity": 1000},
+                {"indent": 4, "item": "LustreBar", "quantity": 250},
                 {"indent": 4, "item": "Refinery4", "quantity": 600},
-                {"indent": 3, "item": "LustreBar", "quantity": 3000},
+                {"indent": 3, "item": "StarfireBar", "quantity": 500},
                 {"indent": 3, "item": "GalaxyC1b", "quantity": 5},
-                {"indent": 2, "item": "StarfireBar", "quantity": 10000},
+                {"indent": 2, "item": "DreadloBar", "quantity": 600},
                 {"indent": 1, "item": "MarbleBar", "quantity": 7500},
                 {"indent": 0, "item": "SpiD1", "quantity": 5000000},
                 {"indent": 0, "item": "GodshardBar", "quantity": 10000}
@@ -11204,9 +11204,10 @@
                 {"item": "SpiD1", "quantity": 5000000},
                 {"item": "GodshardBar", "quantity": 10000},
                 {"item": "MarbleBar", "quantity": 7500},
-                {"item": "StarfireBar", "quantity": 10000},
-                {"item": "LustreBar", "quantity": 4000},
+                {"item": "DreadloBar", "quantity": 600},
+                {"item": "StarfireBar", "quantity": 500},
                 {"item": "GalaxyC1b", "quantity": 5},
+                {"item": "LustreBar", "quantity": 250},
                 {"item": "Refinery4", "quantity": 600},
                 {"item": "VoidBar", "quantity": 400},
                 {"item": "PureWater2", "quantity": 5},

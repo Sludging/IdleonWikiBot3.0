@@ -9,8 +9,7 @@
 |crystal=no
 |crystalname=Crystal Capybara
 |hascard=yes
-|nextenemy=Blank
-|prevenemy=Gloomie Mushroom
+|prevenemy=Ancient Golem
 }}
 {{DropTable/head|Droptable for Crystal Capybara}}
 {{DropTable/coin|3|0.5}}

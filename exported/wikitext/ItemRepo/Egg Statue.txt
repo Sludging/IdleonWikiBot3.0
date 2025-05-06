@@ -13,6 +13,5 @@
 {{detdrops|[[Octodar]]|0.00007000000000000001|1}}
 {{detdrops|[[Flombeige]]|0.00007500000000000001|1}}
 {{detdrops|[[Stilted Seeker]]|0.00008|1}}
-{{detdrops|[[Astro Golden Chest]]|0.025|1}}
 |}
 {{Statuedata|0.4|%@Breeding Exp}}

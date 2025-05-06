@@ -13,6 +13,5 @@
 {{detdrops|[[TV]]|0.00007000000000000001|1}}
 {{detdrops|[[Donut]]|0.0000775|1}}
 {{detdrops|[[Demon Genie]]|0.000085|1}}
-{{detdrops|[[Astro Bronze Chest]]|0.025|1}}
 |}
 {{Statuedata|1|%@Coins}}

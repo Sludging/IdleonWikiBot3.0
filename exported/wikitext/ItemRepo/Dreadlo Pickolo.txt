@@ -10,7 +10,7 @@
 |skill=Mining
 |skillpower=42
 |speed=7
-|sellprice=58579320
+|sellprice=11695420
 |setname = Magma
 |notes= 
 }}
@@ -33,15 +33,16 @@
 {{detrecipe|160|Moustache Comb|15000}}
 {{detrecipe|120|Void Bar|400}}
 {{detrecipe|120|Dense Water|5}}
-{{detrecipe|80|Lustre Bar|1000}}
+{{detrecipe|80|Lustre Bar|250}}
 {{detrecipe|80|Dioxide Synthesis|600}}
-{{detrecipe|40|Lustre Bar|3000}}
+{{detrecipe|40|Starfire Bar|500}}
 {{detrecipe|40|Pearler Shell|5}}
-{{detrecipe|3|Starfire Bar|10000}}
+{{detrecipe|3|Dreadlo Bar|600}}
 |tot=
-{{detrecipe/totals|Starfire Bar|10000}}
-{{detrecipe/totals|Lustre Bar|4000}}
+{{detrecipe/totals|Dreadlo Bar|600}}
+{{detrecipe/totals|Starfire Bar|500}}
 {{detrecipe/totals|Pearler Shell|5}}
+{{detrecipe/totals|Lustre Bar|250}}
 {{detrecipe/totals|Dioxide Synthesis|600}}
 {{detrecipe/totals|Void Bar|400}}
 {{detrecipe/totals|Dense Water|5}}

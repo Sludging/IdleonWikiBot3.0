@@ -63,7 +63,7 @@ He introduces the player to the basics of completing quests, fighting monsters, 
 |difficulty=4
 |requirements=Reach Map 3: > 1, Get a Class: > 1, Buy Upgrades: > 25
 |consumed=No
-|rewards=1x{{ItemDisplay|Inventory Bag B}}, 1x{{ItemDisplay|Small Material Pouch}}, {{Coindisplay|100}}
+|rewards=1x{{ItemDisplay|Small Material Pouch}}, 1x{{ItemDisplay|Inventory Bag B}}, {{Coindisplay|100}}
 |notes= 
 }}
 {{Quest|name=Stiltzcho, the Leaf Scout

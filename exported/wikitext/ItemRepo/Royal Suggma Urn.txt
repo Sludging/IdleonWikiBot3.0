@@ -5,5 +5,4 @@
 }}
 {{detdrops/head}}
 {{detdrops|[[Suggma]]|0.00002|1}}
-{{detdrops|[[Molten Bronze Chest]]|0.02|1}}
 |}

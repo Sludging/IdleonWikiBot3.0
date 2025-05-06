@@ -1,7 +1,7 @@
 {{InfoCard
 |title=Magma Geode Card
 |dropchance=0.006
-|order=15
+|order=16
 |category=Smolderin' Plateau
 |effect=+% Skill Efficncy (Passive)
 |bonus=3

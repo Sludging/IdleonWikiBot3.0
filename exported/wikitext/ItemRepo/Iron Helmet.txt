@@ -11,9 +11,6 @@
 |setname = Iron
 |notes= 
 }}
-{{detdrops/head}}
-{{detdrops|[[Sandstone Silver Chest]]|0.02|1}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Iron Bar|40}}

@@ -95,7 +95,7 @@
 |expgiven=1000000
 |recipefrom=Start
 |resource1=Starfire Pickaxe|quantity1=1
-|resource2=Starfire Bar|quantity2=10000
+|resource2=Dreadlo Bar|quantity2=600
 }}
 {{ForgeSlot
 |name=Colossal Mining Pouch

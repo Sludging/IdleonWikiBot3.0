@@ -6,7 +6,4 @@
 {{detdrops/head}}
 {{detdrops|[[Mutated Mush]]|0.5|1}}
 {{detdrops|[[Stilted Seeker]]|0.00006667|1}}
-{{detdrops|[[Astro Bronze Chest]]|0.006|1}}
-{{detdrops|[[Astro Silver Chest]]|0.012|1}}
-{{detdrops|[[Astro Golden Chest]]|0.04|1}}
 |}

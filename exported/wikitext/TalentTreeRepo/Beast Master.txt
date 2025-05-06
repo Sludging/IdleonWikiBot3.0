@@ -33,7 +33,7 @@
 |form2=bigBase
 |y1=30
 |y2=1
-|cooldown=40
+|cooldown=45
 |actiontime=0.95
 |manacost=250
 }}

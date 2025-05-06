@@ -11,9 +11,6 @@
 |setname = Copper
 |notes= 
 }}
-{{detdrops/head}}
-{{detdrops|[[Dewdrop Silver Chest]]|0.02|1}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Copper Bar|20}}

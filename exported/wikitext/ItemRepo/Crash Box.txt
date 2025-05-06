@@ -15,5 +15,4 @@
 {{detdrops|[[Octodar]]|0.00000014|1}}
 {{detdrops|[[Flombeige]]|0.00000015000000000000002|1}}
 {{detdrops|[[Stilted Seeker]]|0.00000016|1}}
-{{detdrops|[[Astro Golden Chest]]|0.00005|1}}
 |}

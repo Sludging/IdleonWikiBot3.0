@@ -654,5 +654,109 @@
         "totalVal": 500,
         "decimalDisplay": null,
         "desc": null
+    },
+    "Total Gambit Time (in Seconds) \u819b": {
+        "name": "Total Gambit Time (in Seconds) 膛",
+        "keyQty": 3600,
+        "scalingType": "decay",
+        "totalVal": 400,
+        "decimalDisplay": null,
+        "desc": "Gambit is the 14th Cavern in The Hole."
+    },
+    "Total Digits of all Cavern Resources \u819b": {
+        "name": "Total Digits of all Cavern Resources 膛",
+        "keyQty": 500,
+        "scalingType": "decay",
+        "totalVal": 750,
+        "decimalDisplay": null,
+        "desc": "For example, if you had 1273 gravel and 422 gold dust, thats 7 Digits. If you then got 23 quaver notes from harp, thats another 2 digits, making your total 9 Digits."
+    },
+    "Total LV of Cavern Villagers": {
+        "name": "Total LV of Cavern Villagers",
+        "keyQty": 200,
+        "scalingType": "decay",
+        "totalVal": 350,
+        "decimalDisplay": null,
+        "desc": null
+    },
+    "Megafeathers Earned from Orion": {
+        "name": "Megafeathers Earned from Orion",
+        "keyQty": 12,
+        "scalingType": "decay",
+        "totalVal": 100,
+        "decimalDisplay": null,
+        "desc": null
+    },
+    "Megafish Earned from Poppy": {
+        "name": "Megafish Earned from Poppy",
+        "keyQty": 12,
+        "scalingType": "decay",
+        "totalVal": 100,
+        "decimalDisplay": null,
+        "desc": null
+    },
+    "Best Bravery Monument Round \u819b": {
+        "name": "Best Bravery Monument Round 膛",
+        "keyQty": 50,
+        "scalingType": "decay",
+        "totalVal": 250,
+        "decimalDisplay": null,
+        "desc": "Bravery Monument is the 4th Cavern in The Hole. The Hole is found in World 5."
+    },
+    "Best Justice Monument Round \u819b": {
+        "name": "Best Justice Monument Round 膛",
+        "keyQty": 200,
+        "scalingType": "decay",
+        "totalVal": 250,
+        "decimalDisplay": null,
+        "desc": "Justice Monument is the 10th Cavern in The Hole. 'Best Round' here means your highest Court Case reached in a run."
+    },
+    "Best Wisdom Monument Round \u819b": {
+        "name": "Best Wisdom Monument Round 膛",
+        "keyQty": 18,
+        "scalingType": "decay",
+        "totalVal": 250,
+        "decimalDisplay": null,
+        "desc": "Wisdom Monument is the 13th Cavern in The Hole."
+    },
+    "Best Deathbringer Max Damage in Wraith Mode \u819b": {
+        "name": "Best Deathbringer Max Damage in Wraith Mode 膛",
+        "keyQty": 9,
+        "scalingType": "decayLog",
+        "totalVal": 400,
+        "decimalDisplay": null,
+        "desc": "Deathbringer is the Blood Berserker's Master Class, given by Masterius NPC in World 6. You need to open your grimoire btw."
+    },
+    "Best Dawg Den score \u819b": {
+        "name": "Best Dawg Den score 膛",
+        "keyQty": 7,
+        "scalingType": "decayLog",
+        "totalVal": 250,
+        "decimalDisplay": null,
+        "desc": "The Dawg Den is the 3rd Cavern in The Hole. The Hole is found in World 5."
+    },
+    "Total Resource Layers Destroyed \u819b": {
+        "name": "Total Resource Layers Destroyed 膛",
+        "keyQty": 150,
+        "scalingType": "decay",
+        "totalVal": 350,
+        "decimalDisplay": null,
+        "desc": "Destroying Layers includes the following caverns... Motherlode, Eternal Hive, and Evertree Cavern, with more added later!"
+    },
+    "Total Opals Found": {
+        "name": "Total Opals Found",
+        "keyQty": 500,
+        "scalingType": "decay",
+        "totalVal": 400,
+        "decimalDisplay": null,
+        "desc": null
+    },
+    "Best Pure Memory Round Reached \u819b": {
+        "name": "Best Pure Memory Round Reached 膛",
+        "keyQty": 13,
+        "scalingType": "linearToMax",
+        "totalVal": 50,
+        "decimalDisplay": null,
+        "desc": "Yea nah, I aint snitchin'. This is a SECRET mode."
     }
 }

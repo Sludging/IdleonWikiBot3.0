@@ -13,7 +13,7 @@
 |prevenemy=Blitzkrieg Troll
 }}
 {{DropTable/head|Droptable for Domeo Magmus}}
-{{DropTable/coin|250000|1}}
+{{DropTable/coin|20000|1}}
 {{DropTable/card|0.001}}
 {{DropTable/recipe|5|Shiny Bored Beanie|0.001}}
 {{DropTable|Magma Obol of Big Time Domeo|0.0003|1}}

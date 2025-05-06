@@ -3,6 +3,3 @@
 |sellprice=1
 |notes= 
 }}
-{{detdrops/head}}
-{{detdrops|[[Whimsical Golden Chest]]|0.05|1000}}
-|}

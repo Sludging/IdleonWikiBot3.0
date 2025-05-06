@@ -13,15 +13,15 @@ His final quest awards the {{CraftReq|Dog Bone Token}}.
 }}
 {{Quest/head}}
 {{Quest|name=Why he Die???
-|text=Defeat Board Monsters below until you find the 3 Bones then return
+|text=Defeat Wooden Boards below and collect 3 Bones then return here!
 |difficulty=2
-|requirements=3x{{ItemDisplay|Dog Bone}}
+|requirements=3x{{ItemDisplay|Wood Board Bone}}
 |consumed=Yes
 |rewards=6x{{ItemDisplay|Forest Villa Key}}
 |notes= 
 }}
 {{Quest|name=Bow Wow going Dow..n!
-|text=Bring some stones back from Amarok to show to Dog Bone as a token of his revenge.
+|text=Bring back 25 amarok stones from defeating amarok.
 |difficulty=3
 |requirements=25x{{ItemDisplay|Amarok Slab}}
 |consumed=No
@@ -33,7 +33,7 @@ His final quest awards the {{CraftReq|Dog Bone Token}}.
 {{dialogue/row|text=OOoooooOOOOooOOOooO! Have yoooOOoouuu checked oooOoout ooOOOoour latest exhibit?}}
 {{dialogue/row|text=YoooOooou doOOoon't have a key toooOOOOooO get in? Well I can help yooOoou with that as loooOOoong as you doooOOoo soOOOoomething fooOOOor me first!}}
 {{dialogue/row|text=I dooOOoont knoOOoOow hoOoooww I died and I am cursed toOOOoo make this 'ooOOooooo' nOoooOOise until I find oOOoout...}}
-{{dialogue/row|text=Figure oOOoout hoOOow I died and I'll give yoOOOoou a key sOooo yoOooo can gooOooo behind that doooOOOor! <br> QUEST:Defeat Board Monsters below until you find the 3 Bones then return|quest=Why he Die???}}
+{{dialogue/row|text=DoOoo this and I will give yOooo a boOOooss Key!! <br> QUEST:Defeat Wooden Boards below and collect 3 Bones then return here!|quest=Why he Die???}}
 {{dialogue/row|text=Clear up ooOOooone InventooOooory Space foooOOor yoOOOoooOur key!}}
 {{dialogue/row|text=OoooOOOooh that's how I died... that wolf guy thought I was a bone and buried me here. What a way to go out. Oh well. So about those Boss Keys:}}
 {{dialogue/row|text=Come talk to me every day and I'll give you another key! I'll keep track up to 3 days so if you're gone for 3 days I'll give you 3 keys!}}
@@ -44,7 +44,7 @@ His final quest awards the {{CraftReq|Dog Bone Token}}.
 {{dialogue/row|text=In short... talk to me for more keys and complete my quests on your other players for MORE keys!}}
 {{dialogue/row|text=AND THATS THE END OF THE TOUR I HOOooOOOPE YOU ENJooOOoooOY YOUR STAY! <br> ... <br> ... psst while the chieftain isn't watching can I ask you for some help?}}
 {{dialogue/row|text=Look I'm not actually over the whole 'dying' thing and it's been terribly annoying to continually help promote that darn boss monster especially since they were the one who ate me!}}
-{{dialogue/row|text=I know they're just a pile of rocks somehow bound together by mystic world 8 energy but... could you just rough 'em up a bit? <br> QUEST:Bring some stones back from Amarok to show to Dog Bone as a token of his revenge.|quest=Bow Wow going Dow..n!}}
+{{dialogue/row|text=I know they're just a pile of rocks somehow bound together by mystic world 8 energy but... could you just rough 'em up a bit? <br> QUEST:Bring back 25 amarok stones from defeating amarok.|quest=Bow Wow going Dow..n!}}
 {{dialogue/row|text=You need 2 inventory spaces!}}
 {{dialogue/row|text=Ah are those from the boss? <br> I mean they're cool and all but to be honest I'm still sad I got eaten those rocks don't really help anything. Well thanks for helping anyway.}}
 {{dialogue/row|text=Keys... I think I gooOOooot some oooOOooon me somewhere lemme check.}}

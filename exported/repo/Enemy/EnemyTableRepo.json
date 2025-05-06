@@ -680,7 +680,7 @@
     },
     "babaHour": {
         "drops": [
-            {"item": "COIN", "quantity": 7000, "chance": 1, "questLink": "N/A"},
+            {"item": "COIN", "quantity": 3000, "chance": 1, "questLink": "N/A"},
             {"item": "Hgg", "quantity": 1, "chance": 0.3, "questLink": "N/A"},
             {"item": "StoneZ1", "quantity": 2, "chance": 0.4, "questLink": "N/A"},
             {"item": "SmithingRecipes2", "quantity": 66, "chance": 0.06, "questLink": "N/A"},
@@ -693,7 +693,7 @@
     },
     "babaMummy": {
         "drops": [
-            {"item": "COIN", "quantity": 25000, "chance": 1, "questLink": "N/A"},
+            {"item": "COIN", "quantity": 7500, "chance": 1, "questLink": "N/A"},
             {"item": "CardsZ6", "quantity": 1, "chance": 0.04, "questLink": "N/A"},
             {"item": "Key2", "quantity": 1, "chance": 0.8, "questLink": "N/A"},
             {"item": "SmithingRecipes2", "quantity": 65, "chance": 0.06, "questLink": "N/A"},
@@ -896,7 +896,7 @@
         "drops": [
             {"item": "COIN", "quantity": 2500, "chance": 0.5, "questLink": "N/A"},
             {"item": "SnowC5", "quantity": 1, "chance": 0.05, "questLink": "N/A"},
-            {"item": "Quest78", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "Quest78", "quantity": 1, "chance": 0.1, "questLink": "N/A"},
             {"item": "CardsE13", "quantity": 1, "chance": 0.0001, "questLink": "N/A"},
             {"item": "DropTable16", "quantity": 1, "chance": 0.005, "questLink": "N/A"}
         ]
@@ -940,7 +940,7 @@
     },
     "mini3a": {
         "drops": [
-            {"item": "COIN", "quantity": 25000, "chance": 1, "questLink": "N/A"},
+            {"item": "COIN", "quantity": 13000, "chance": 1, "questLink": "N/A"},
             {"item": "CardsZ12", "quantity": 1, "chance": 0.2, "questLink": "N/A"},
             {"item": "WorshipSkull8", "quantity": 1, "chance": 0.009, "questLink": "N/A"},
             {"item": "ObolSlush", "quantity": 1, "chance": 0.004, "questLink": "N/A"},
@@ -1001,7 +1001,7 @@
     },
     "mini5a": {
         "drops": [
-            {"item": "COIN", "quantity": 250000, "chance": 1, "questLink": "N/A"},
+            {"item": "COIN", "quantity": 20000, "chance": 1, "questLink": "N/A"},
             {"item": "CardsZ24", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
             {"item": "SmithingRecipes5", "quantity": 33, "chance": 0.001, "questLink": "N/A"},
             {"item": "ObolLava", "quantity": 1, "chance": 0.0003, "questLink": "N/A"},
@@ -1014,7 +1014,7 @@
     },
     "mini6a": {
         "drops": [
-            {"item": "COIN", "quantity": 2500000, "chance": 1, "questLink": "N/A"},
+            {"item": "COIN", "quantity": 100000, "chance": 1, "questLink": "N/A"},
             {"item": "CardsZ25", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
             {"item": "SmithingRecipes6", "quantity": 22, "chance": 0.0008, "questLink": "N/A"},
             {"item": "EquipmentKeychain29", "quantity": 1, "chance": 0.0004, "questLink": "N/A"},
@@ -1473,7 +1473,14 @@
             {"item": "SpiD3", "quantity": 1, "chance": 0.1, "questLink": "N/A"},
             {"item": "CardsI14", "quantity": 1, "chance": 4e-07, "questLink": "N/A"},
             {"item": "Line14", "quantity": 1, "chance": 3.3e-09, "questLink": "N/A"},
+            {"item": "Quest95", "quantity": 1, "chance": 0.0001, "questLink": "N/A"},
             {"item": "DropTable32", "quantity": 1, "chance": 0.0035, "questLink": "N/A"}
+        ]
+    },
+    "reindeer": {
+        "drops": [
+            {"item": "COIN", "quantity": 1, "chance": 0, "questLink": "N/A"},
+            {"item": "SpiD3", "quantity": 1, "chance": 0, "questLink": "N/A"}
         ]
     },
     "Boss6A": {
@@ -1510,13 +1517,17 @@
         "drops": [
             {"item": "COIN", "quantity": 1, "chance": 0, "questLink": "N/A"},
             {"item": "CardsH15", "quantity": 1, "chance": 5e-05, "questLink": "N/A"},
-            {"item": "EquipmentStatues29", "quantity": 1, "chance": 1e-05, "questLink": "N/A"}
+            {"item": "EquipmentStatues29", "quantity": 1, "chance": 0.0001, "questLink": "N/A"}
         ]
     },
     "caveC": {
         "drops": [
             {"item": "COIN", "quantity": 1, "chance": 0, "questLink": "N/A"},
-            {"item": "SpiD3", "quantity": 1, "chance": 0, "questLink": "N/A"}
+            {"item": "CardsH16", "quantity": 1, "chance": 5e-05, "questLink": "N/A"},
+            {"item": "EquipmentStatues30", "quantity": 1, "chance": 1e-05, "questLink": "N/A"},
+            {"item": "StampC24", "quantity": 1, "chance": 1e-06, "questLink": "N/A"},
+            {"item": "Quest94", "quantity": 1, "chance": 0.01, "questLink": "N/A"},
+            {"item": "StampC25", "quantity": 1, "chance": 5e-08, "questLink": "N/A"}
         ]
     },
     "caveD": {
@@ -1997,6 +2008,20 @@
             {"item": "EquipmentHats88", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
             {"item": "EquipmentHats31", "quantity": 1, "chance": 0.0007, "questLink": "N/A"},
             {"item": "EquipmentHats32", "quantity": 1, "chance": 0.0007, "questLink": "N/A"}
+        ]
+    },
+    "anni4Event1": {
+        "drops": [
+            {"item": "COIN", "quantity": 69, "chance": 0.5, "questLink": "N/A"},
+            {"item": "CardsY2", "quantity": 1, "chance": 0, "questLink": "N/A"},
+            {"item": "PremiumGem", "quantity": 1, "chance": 0.2, "questLink": "N/A"},
+            {"item": "Timecandy8", "quantity": 1, "chance": 0.1, "questLink": "N/A"},
+            {"item": "EquipmentHats108", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats116", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats115", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats24", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats117", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats47", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
         ]
     },
     "Copper": {

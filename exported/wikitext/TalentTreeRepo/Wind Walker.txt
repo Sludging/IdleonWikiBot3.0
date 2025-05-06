@@ -1,0 +1,126 @@
+{{Talent
+|name=Tempest Form
+|textArr=Enter/Exit Tempest Form to defeat abominations, while coping with new combat stats. Also gives +(Table 1)% Tempest DMG
+|form1=decay
+|x1=250
+|x2=250
+|cooldown=10
+|actiontime=1
+|manacost=1
+}}
+{{Talent
+|name=Compass
+|textArr=Opens the Compass, which upgrades Tempest Form and much more. Also gives a passive +(Table 1)% boost to Dust found.
+|form1=decay
+|x1=150
+|x2=300
+|cooldown=3
+|actiontime=0.5
+|manacost=1
+}}
+{{Talent
+|name=Spirit Ballista
+|textArr=Ballista now shoots 3 arrows, and has a (Table 1)% faster cooldown. You also shoot a ballista arrow every basic attack!
+|form1=decay
+|x1=175
+|x2=300
+}}
+{{Talent
+|name=Eternal Hunt
+|textArr=Spawns a Spirit Reindeer, whose death brings life and temporarily boosts dust found by +(Table 1)% per reindeer kill
+|form1=decay
+|x1=3
+|x2=200
+|cooldown=310
+|actiontime=1
+|manacost=1
+}}
+{{Talent
+|name=Some Commandments
+|textArr=Uwu Rawrrr lasts (Table 1)% longer, (Table 2)% chance to double summon boars & nachos, and (Table 2)% faster Whale cooldown
+|form1=decay
+|x1=600
+|x2=200
+|form2=decay
+|y1=250
+|y2=500
+}}
+{{Talent
+|name=Windborne
+|textArr=+(Table 1)% Tempest Defence and Accuracy per 100 Compass Upgrades total
+|form1=decay
+|x1=40
+|x2=250
+}}
+{{Talent
+|name=Elemental Mayhem
+|textArr=+(Table 1)% Tempest Elemental Damage & +(Table 2)% MultiShoot Chance per 100 Compass Upgrades total
+|form1=decay
+|x1=10
+|x2=250
+|form2=decay
+|y1=10
+|y2=250
+}}
+{{Talent
+|name=Pumpin' Power
+|textArr=+(Table 1)% Tempest Critical Hit chance per 25 Breedability LVs across all Breeding Pets
+|form1=decay
+|x1=2
+|x2=200
+}}
+{{Talent
+|name=Unreal Agility
+|textArr=+(Table 1) base AGI
+|form1=add
+|x1=5
+|x2=0
+}}
+{{Talent
+|name=Shiny Medallions
+|textArr=Mobs now give (Table 1)x Class EXP for ALL characters if you own their medallion! Use this talent to view collection!
+|form1=decayMulti
+|x1=2.5
+|x2=200
+|cooldown=5
+|actiontime=0.5
+|manacost=1
+}}
+{{Talent
+|name=Price Recession
+|textArr=All Ninja Knowledge Upgrades are (Table 1)% cheaper per 10 total upgrades you have!
+|form1=add
+|x1=1
+|x2=0
+}}
+{{Talent
+|name=Sneaky Skilling
+|textArr=For all ninjas, +(Table 1)% Sneaking EXP! Oh, additive not good enough? Fine, also (Table 2)x Sneaking EXP!
+|form1=add
+|x1=1
+|x2=0.1
+|form2=decayMulti
+|y1=10
+|y2=400
+}}
+{{Talent
+|name=Generational Gemstones
+|textArr=Adds 2 new Sneaking gemstones to find, and boosts all gemstone bonuses by (Table 1)x
+|form1=decayMulti
+|x1=3.0
+|x2=300
+}}
+{{Talent
+|name=Dustwalker
+|textArr=+(Table 1)% Coins dropped by mobs for every POW 10 dust ever collected, for all characters!
+|form1=decay
+|x1=30
+|x2=250
+}}
+{{Talent
+|name=Slayer Abominator
+|textArr=For every abomination you kill, all characters get a (Table 1)x Class EXP bonus... this will get MASSIVE...
+|form1=decayMulti
+|x1=0.05
+|x2=250
+}}

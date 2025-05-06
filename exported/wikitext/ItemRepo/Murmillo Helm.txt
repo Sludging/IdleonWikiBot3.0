@@ -5,7 +5,8 @@
 |weaponpower=1
 |str=20
 |wis=10
-|misc=10% Defence
+|misc=12% Defence
+|misc2=10% Str
 |upgrade=3
 |defence=55
 |sellprice=6730250

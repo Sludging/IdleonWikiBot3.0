@@ -4,5 +4,5 @@
 |sellprice=1
 }}
 {{detdrops/head}}
-{{detdrops|[[Bloodbone]]|0.001|1}}
+{{detdrops|[[Bloodbone]]|0.1|1}}
 |}

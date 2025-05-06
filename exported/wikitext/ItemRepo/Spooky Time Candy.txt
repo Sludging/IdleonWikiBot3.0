@@ -5,4 +5,5 @@
 }}
 {{detdrops/head}}
 {{detdrops|[[Falloween Pumpkin]]|0.1|1}}
+{{detdrops|[[IdleOn 4th Anniversary]]|0.1|1}}
 |}

@@ -10,7 +10,7 @@
 |skill=Mining
 |skillpower=30
 |speed=6
-|sellprice=21054320
+|sellprice=11679320
 |setname = Lustre
 |notes= 
 }}
@@ -31,10 +31,10 @@
 {{detrecipe|80|Moustache Comb|15000}}
 {{detrecipe|40|Void Bar|400}}
 {{detrecipe|40|Dense Water|5}}
-{{detrecipe|3|Lustre Bar|1000}}
+{{detrecipe|3|Lustre Bar|250}}
 {{detrecipe|3|Dioxide Synthesis|600}}
 |tot=
-{{detrecipe/totals|Lustre Bar|1000}}
+{{detrecipe/totals|Lustre Bar|250}}
 {{detrecipe/totals|Dioxide Synthesis|600}}
 {{detrecipe/totals|Void Bar|400}}
 {{detrecipe/totals|Dense Water|5}}

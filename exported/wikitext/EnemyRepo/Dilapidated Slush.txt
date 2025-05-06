@@ -12,7 +12,7 @@
 |prevenemy=Gilded Efaunt
 }}
 {{DropTable/head|Droptable for Dilapidated Slush}}
-{{DropTable/coin|25000|1}}
+{{DropTable/coin|13000|1}}
 {{DropTable/card|0.2}}
 {{DropTable|Slush Skull|0.009|1}}
 {{DropTable|Slushy Obol of Much Dilapidation|0.004|1}}

@@ -20,4 +20,5 @@
 {{DropTable|Royal Headpiece|0.1|1}}
 {{DropTable/card|0.0000004}}
 {{DropTable|Its Alright Celebration|0.0000000033|1}}
+{{DropTable|Birthday Candle|0.0001|1}}
 {{DropTable/append|DropTable32|0.0035|1}}

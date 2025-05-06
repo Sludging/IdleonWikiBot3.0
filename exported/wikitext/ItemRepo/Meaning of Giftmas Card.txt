@@ -11,4 +11,5 @@
 {{detdrops|[[Bubbulyte]]|0|1}}
 {{detdrops|[[Spring Splendor]]|0|1}}
 {{detdrops|[[Falloween Pumpkin]]|0|1}}
+{{detdrops|[[IdleOn 4th Anniversary]]|0|1}}
 |}

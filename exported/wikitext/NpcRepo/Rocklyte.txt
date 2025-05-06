@@ -30,7 +30,7 @@
 |difficulty=1
 |requirements=Become a Journeyman: > 1
 |consumed=No
-|rewards={{Talentbook|Beginner Best Class}}, 1x{{ItemDisplay|Club Member}}
+|rewards={{Talentbook|Toilet Paper Postage}}, 1x{{ItemDisplay|Club Member}}
 |notes=This quest can only be completed by a beginner (no class chosen)
 }}
 |}

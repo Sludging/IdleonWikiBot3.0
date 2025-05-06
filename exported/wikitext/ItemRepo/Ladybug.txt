@@ -4,6 +4,3 @@
 |description=The black polkadot pattern is there to scare away predators. Fortunately for you, you're not scared of black dots! 
 |sellprice=320
 }}
-{{detdrops/head}}
-{{detdrops|[[Whimsical Silver Chest]]|0.4|1500}}
-|}

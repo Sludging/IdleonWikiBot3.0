@@ -5,6 +5,3 @@
 |sellprice=130
 |notes= 
 }}
-{{detdrops/head}}
-{{detdrops|[[Molten Golden Chest]]|0.03|3000}}
-|}

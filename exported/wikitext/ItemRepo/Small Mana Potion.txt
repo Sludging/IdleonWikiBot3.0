@@ -13,7 +13,6 @@
 {{detdrops|[[Baba Yaga]]|0.1|10}}
 {{detdrops|[[Amarok]]|0.1|10}}
 {{detdrops|[[Chaotic Amarok]]|0.1|20}}
-{{detdrops|[[Dewdrop Bronze Chest]]|0.1|5}}
 {{detdrops|[[Poop]]|0.0024000000000000002|25}}
 {{detdrops|[[Rat]]|0.0024000000000000002|25}}
 {{detdrops|[[Wood Mushroom]]|0.0028000000000000004|25}}

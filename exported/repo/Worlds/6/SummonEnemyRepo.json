@@ -1050,10 +1050,10 @@
         "yOff": 37,
         "width": 24,
         "territoryName": "ENIGMA INFINITE and their Rift Spookers",
-        "bonusId": 0,
-        "bonus": null,
+        "bonusId": 20,
+        "bonus": {"bonusId": 20, "bonus": "+{ Library Max"},
         "bonusQty": 0,
-        "difficulty": 0
+        "difficulty": 20
     },
     "rift2": {
         "enemyId": "rift2",
@@ -1061,10 +1061,10 @@
         "yOff": 59,
         "width": 18,
         "territoryName": "ENIGMA INFINITE and their Rift Slugs",
-        "bonusId": 0,
-        "bonus": null,
+        "bonusId": 20,
+        "bonus": {"bonusId": 20, "bonus": "+{ Library Max"},
         "bonusQty": 0,
-        "difficulty": 0
+        "difficulty": 20
     },
     "rift3": {
         "enemyId": "rift3",
@@ -1072,10 +1072,10 @@
         "yOff": 34,
         "width": 28,
         "territoryName": "ENIGMA INFINITE and their Rift Jocunds",
-        "bonusId": 0,
-        "bonus": null,
+        "bonusId": 20,
+        "bonus": {"bonusId": 20, "bonus": "+{ Library Max"},
         "bonusQty": 0,
-        "difficulty": 0
+        "difficulty": 20
     },
     "rift4": {
         "enemyId": "rift4",
@@ -1083,10 +1083,10 @@
         "yOff": 37,
         "width": 22,
         "territoryName": "ENIGMA INFINITE and their Rift Hiveminds",
-        "bonusId": 0,
-        "bonus": null,
+        "bonusId": 20,
+        "bonus": {"bonusId": 20, "bonus": "+{ Library Max"},
         "bonusQty": 0,
-        "difficulty": 0
+        "difficulty": 20
     },
     "rift5": {
         "enemyId": "rift5",
@@ -1094,6 +1094,72 @@
         "yOff": 39,
         "width": 32,
         "territoryName": "ENIGMA INFINITE and their Rift Stalkers",
+        "bonusId": 20,
+        "bonus": {"bonusId": 20, "bonus": "+{ Library Max"},
+        "bonusQty": 0,
+        "difficulty": 20
+    },
+    "Crystal1": {
+        "enemyId": "Crystal1",
+        "xOff": 35,
+        "yOff": 42,
+        "width": 20,
+        "territoryName": "King's Gambit",
+        "bonusId": 20,
+        "bonus": {"bonusId": 20, "bonus": "+{ Library Max"},
+        "bonusQty": 0,
+        "difficulty": 20
+    },
+    "Crystal2": {
+        "enemyId": "Crystal2",
+        "xOff": 35,
+        "yOff": 35,
+        "width": 15,
+        "territoryName": "Horsey's Gambit",
+        "bonusId": 0,
+        "bonus": null,
+        "bonusQty": 0,
+        "difficulty": 0
+    },
+    "Crystal3": {
+        "enemyId": "Crystal3",
+        "xOff": 36,
+        "yOff": 38,
+        "width": 20,
+        "territoryName": "Bishop's Gambit",
+        "bonusId": 0,
+        "bonus": null,
+        "bonusQty": 0,
+        "difficulty": 0
+    },
+    "Crystal4": {
+        "enemyId": "Crystal4",
+        "xOff": 35,
+        "yOff": 35,
+        "width": 30,
+        "territoryName": "Queen's Gambit",
+        "bonusId": 0,
+        "bonus": null,
+        "bonusQty": 0,
+        "difficulty": 0
+    },
+    "Crystal0": {
+        "enemyId": "Crystal0",
+        "xOff": 44,
+        "yOff": 44,
+        "width": 22,
+        "territoryName": "Castle's Gambit",
+        "bonusId": 0,
+        "bonus": null,
+        "bonusQty": 0,
+        "difficulty": 0
+    },
+    "Crystal5": {
+        "enemyId": "Crystal5",
+        "xOff": 30,
+        "yOff": 30,
+        "width": 23,
+        "territoryName": "Noob's Gambit",
         "bonusId": 0,
         "bonus": null,
         "bonusQty": 0,

@@ -19,5 +19,4 @@
 {{detdrops|[[Amarok]]|0.0011550000000000002|2}}
 {{detdrops|[[Chaotic Amarok]]|0.0011550000000000002|4}}
 {{detdrops|[[Radiant Amarok]]|0.0011550000000000002|2}}
-{{detdrops|[[Dewdrop Golden Chest]]|0.0011550000000000002|1}}
 |}

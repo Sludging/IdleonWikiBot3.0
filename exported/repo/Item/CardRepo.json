@@ -1143,13 +1143,21 @@
         "bonus": 4,
         "order": 14
     },
+    "caveC": {
+        "cardID": "H16",
+        "category": "Smolderin' Plateau",
+        "perTier": 10000,
+        "effect": "+{% Total Drop Rate (Passive)",
+        "bonus": 4,
+        "order": 15
+    },
     "Crystal4": {
         "cardID": "H14",
         "category": "Smolderin' Plateau",
         "perTier": 15,
         "effect": "+{% Skill Efficncy (Passive)",
         "bonus": 3,
-        "order": 15
+        "order": 16
     },
     "w6a1": {
         "cardID": "I1",
@@ -1830,5 +1838,13 @@
         "effect": "+{ Star Talent Pts (Passive)",
         "bonus": 4,
         "order": 19
+    },
+    "anni4Event1": {
+        "cardID": "Y19",
+        "category": "Event",
+        "perTier": 4,
+        "effect": "+{% Drop Rate (Passive)",
+        "bonus": 2,
+        "order": 20
     }
 }

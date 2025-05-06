@@ -5,6 +5,3 @@
 |sellprice=15
 |notes= 
 }}
-{{detdrops/head}}
-{{detdrops|[[Sandstone Silver Chest]]|0.4|125}}
-|}

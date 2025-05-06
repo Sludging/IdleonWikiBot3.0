@@ -16,5 +16,4 @@
 {{detdrops|[[Baba Yaga]]|0.0011550000000000002|1}}
 {{detdrops|[[Amarok]]|0.0011550000000000002|2}}
 {{detdrops|[[Chaotic Amarok]]|0.0011550000000000002|4}}
-{{detdrops|[[Dewdrop Silver Chest]]|0.0011550000000000002|1}}
 |}

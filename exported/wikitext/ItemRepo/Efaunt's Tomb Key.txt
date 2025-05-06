@@ -6,7 +6,4 @@
 }}
 {{detdrops/head}}
 {{detdrops|[[King Doot]]|0.8|1}}
-{{detdrops|[[Sandstone Bronze Chest]]|0.04|1}}
-{{detdrops|[[Sandstone Silver Chest]]|0.1|1}}
-{{detdrops|[[Sandstone Golden Chest]]|0.18|1}}
 |}

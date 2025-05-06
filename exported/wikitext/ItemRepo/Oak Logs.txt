@@ -4,6 +4,3 @@
 |sellprice=2
 |notes= 
 }}
-{{detdrops/head}}
-{{detdrops|[[Dewdrop Bronze Chest]]|0.6|40}}
-|}

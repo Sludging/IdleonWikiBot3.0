@@ -8,7 +8,8 @@
 {{Vendoritem|number=7|item=Armor Upgrade Stone VI|vendor=Spirit Village|stock=30|buyprice=180000000}}
 {{Vendoritem|number=8|item=Tool Upgrade Stone VI|vendor=Spirit Village|stock=21|buyprice=120000000}}
 {{Vendoritem|number=9|item=Forge Stamp|vendor=Spirit Village|stock=1|buyprice=4000000000000}}
-{{Vendoritem|number=10|item=Storage Chest 26|vendor=Spirit Village|stock=1|buyprice=400000000000000000}}
-{{Vendoritem|number=11|item=Storage Chest 27|vendor=Spirit Village|stock=1|buyprice=10000000000000000000}}
-{{Vendoritem|number=12|item=Storage Chest 28|vendor=Spirit Village|stock=1|buyprice=28000000000000000000000}}
+{{Vendoritem|number=10|item=Rucksack of Riches|vendor=Spirit Village|stock=1|buyprice=100000000000000000000000000}}
+{{Vendoritem|number=11|item=Storage Chest 26|vendor=Spirit Village|stock=1|buyprice=400000000000000000}}
+{{Vendoritem|number=12|item=Storage Chest 27|vendor=Spirit Village|stock=1|buyprice=10000000000000000000}}
+{{Vendoritem|number=13|item=Storage Chest 28|vendor=Spirit Village|stock=1|buyprice=28000000000000000000000}}
 |}

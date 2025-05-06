@@ -13,7 +13,7 @@
 |prevenemy=Biggie Hours
 }}
 {{DropTable/head|Droptable for King Doot}}
-{{DropTable/coin|25000|1}}
+{{DropTable/coin|7500|1}}
 {{DropTable/card|0.04}}
 {{DropTable|Efaunt's Tomb Key|0.8|1}}
 {{DropTable/recipe|2|Protectors Pride|0.06}}

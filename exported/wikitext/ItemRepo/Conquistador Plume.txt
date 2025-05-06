@@ -5,7 +5,8 @@
 |weaponpower=1
 |str=7
 |agi=23
-|misc=6% Movement Speed
+|misc=8% Movement Speed
+|misc2=10% Agi
 |upgrade=3
 |defence=47
 |sellprice=6730250

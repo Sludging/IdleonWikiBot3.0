@@ -27,5 +27,6 @@
     "25": {"name": "Compost", "effect": "%@Farming Exp", "dk": 75, "bonus": 0.4},
     "26": {"name": "Stealth", "effect": "%@Stealth", "dk": 185, "bonus": 0.3},
     "27": {"name": "Essence", "effect": "%@White Ess", "dk": 160, "bonus": 0.6},
-    "28": {"name": "Dragon", "effect": "%@Statues Bonus", "dk": 270, "bonus": 0.2}
+    "28": {"name": "Villager", "effect": "%@Villager Exp", "dk": 120, "bonus": 0.3},
+    "29": {"name": "Dragon", "effect": "%@Statues Bonus", "dk": 270, "bonus": 0.2}
 }

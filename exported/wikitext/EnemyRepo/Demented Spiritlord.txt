@@ -13,7 +13,7 @@
 |prevenemy=Sacrilegious Kattlekruk
 }}
 {{DropTable/head|Droptable for Demented Spiritlord}}
-{{DropTable/coin|2500000|1}}
+{{DropTable/coin|100000|1}}
 {{DropTable/card|0.001}}
 {{DropTable/recipe|6|Demented Emperor Opal|0.0008}}
 {{DropTable|Spiritlord Horn Chain|0.0004|1}}

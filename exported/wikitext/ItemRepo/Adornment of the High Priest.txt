@@ -6,6 +6,7 @@
 |agi=5
 |wis=25
 |misc=30% Crit Damage
+|misc2=10% Wis
 |upgrade=5
 |defence=40
 |sellprice=6730250

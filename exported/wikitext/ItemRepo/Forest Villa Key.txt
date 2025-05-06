@@ -4,8 +4,3 @@
 |sellprice=50
 |notes= 
 }}
-{{detdrops/head}}
-{{detdrops|[[Dewdrop Bronze Chest]]|0.04|1}}
-{{detdrops|[[Dewdrop Silver Chest]]|0.1|1}}
-{{detdrops|[[Dewdrop Golden Chest]]|0.18|1}}
-|}

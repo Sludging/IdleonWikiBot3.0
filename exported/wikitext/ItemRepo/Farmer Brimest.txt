@@ -1,13 +1,12 @@
 {{InfoItem
-|type=Helmet
+|type=Premium Helmet
 |class=All
-|level=5
-|str=3
-|agi=3
-|wis=3
-|luck=3
-|upgrade=3
-|defence=6
+|level=1
+|misc=5% Class Exp Multi
+|upgrade=5
 |sellprice=400
 |notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[IdleOn 4th Anniversary]]|0.001|1}}
+|}

@@ -5,7 +5,3 @@
 |sellprice=35
 |notes= 
 }}
-{{detdrops/head}}
-{{detdrops|[[Sandstone Golden Chest]]|0.1|80}}
-{{detdrops|[[Chillsnap Silver Chest]]|0.6|100}}
-|}

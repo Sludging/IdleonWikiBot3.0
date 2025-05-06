@@ -61,7 +61,7 @@
 }}
 {{Talent
 |name=Skilliest Statue
-|textArr='EhExPee', 'Kapow', and 'Feasty' statues give (Table 1)% higher bonuses
+|textArr='EhExPee', 'Kachow', and 'Feasty' statues give (Table 1)% higher bonuses
 |form1=decay
 |x1=100
 |x2=50

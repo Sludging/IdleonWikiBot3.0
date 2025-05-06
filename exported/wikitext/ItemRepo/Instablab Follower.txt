@@ -11,7 +11,6 @@
 {{detdrops|[[Crabcake]]|0.00108|3}}
 {{detdrops|[[Biggie Hours]]|0.15|3}}
 {{detdrops|[[Efaunt]]|0.3|6}}
-{{detdrops|[[Sandstone Bronze Chest]]|0.3|3}}
 {{detdrops|[[Crystal Crabal]]|0.15|3}}
 {{detdrops|[[Dig Doug]]|0.00096|3}}
 {{detdrops|[[Mafioso]]|0.00096|3}}
@@ -20,7 +19,6 @@
 {{detdrops|[[Mashed Potato]]|0.0011699999999999998|3}}
 {{detdrops|[[Efaunt]]|0.3|6}}
 {{detdrops|[[Chaotic Efaunt]]|0.3|6}}
-{{detdrops|[[Sandstone Silver Chest]]|0.3|3}}
 {{detdrops|[[Crystal Crabal]]|0.12|3}}
 {{detdrops|[[Tyson]]|0.00096|3}}
 {{detdrops|[[Moonmoon]]|0.00105|3}}
@@ -29,14 +27,12 @@
 {{detdrops|[[Efaunt]]|0.3|6}}
 {{detdrops|[[Chaotic Efaunt]]|0.3|6}}
 {{detdrops|[[Gilded Efaunt]]|0.3|6}}
-{{detdrops|[[Sandstone Golden Chest]]|0.3|3}}
 {{detdrops|[[Crystal Cattle]]|0.18|5}}
 {{detdrops|[[Sheepie]]|0.00075|5}}
 {{detdrops|[[Frost Flake]]|0.0008399999999999999|5}}
 {{detdrops|[[Sir Stache]]|0.0009299999999999999|5}}
 {{detdrops|[[Xylobone]]|0.003|5}}
 {{detdrops|[[Chizoar]]|0.3|10}}
-{{detdrops|[[Chillsnap Bronze Chest]]|0.3|5}}
 {{detdrops|[[Crystal Cattle]]|0.15|5}}
 {{detdrops|[[Bloque]]|0.00075|5}}
 {{detdrops|[[Mamooth]]|0.0008100000000000001|5}}
@@ -45,7 +41,6 @@
 {{detdrops|[[Thermister]]|0.00099|5}}
 {{detdrops|[[Chizoar]]|0.3|10}}
 {{detdrops|[[Chaotic Chizoar]]|0.3|10}}
-{{detdrops|[[Chillsnap Silver Chest]]|0.3|5}}
 {{detdrops|[[Crystal Cattle]]|0.12|5}}
 {{detdrops|[[Dedotated Ram]]|0.0010199999999999999|5}}
 {{detdrops|[[Quenchie]]|0.00075|5}}
@@ -56,7 +51,6 @@
 {{detdrops|[[Chizoar]]|0.3|10}}
 {{detdrops|[[Chaotic Chizoar]]|0.3|10}}
 {{detdrops|[[Blighted Chizoar]]|0.3|10}}
-{{detdrops|[[Chillsnap Golden Chest]]|0.3|5}}
 {{detdrops|[[Rat]]|0.16|1}}
 {{detdrops|[[Rat]]|0.16|1}}
 |}

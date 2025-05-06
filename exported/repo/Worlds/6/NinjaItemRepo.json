@@ -259,7 +259,7 @@
         "name": "Ninja Log",
         "x1": 8,
         "bonus": "If detected, +{% chance to not be knocked out",
-        "x3": 30
+        "x3": 13
     },
     "NjTr1": {
         "internalId": "NjTr1",
@@ -379,7 +379,7 @@
         "name": "Gold Scroll",
         "x1": 3,
         "bonus": "If in Inventory, most charms give }x higher bonus than displayed. Doesn't stack with other Gold Scrolls",
-        "x3": 200
+        "x3": 125
     },
     "NjTr13": {
         "internalId": "NjTr13",
@@ -516,7 +516,7 @@
         "itemTypeId": 4,
         "itemType": "Gemstone",
         "itemId": 70,
-        "name": "Emerald",
+        "name": "Malachite",
         "x1": 15,
         "bonus": "Hold down to add this Gemstone to your collection. View collection and bonuses in Ninja Knowledge.",
         "x3": 5000
@@ -560,6 +560,26 @@
         "x1": 3,
         "bonus": "Hold down to add this Gemstone to your collection. View collection and bonuses in Ninja Knowledge.",
         "x3": 300
+    },
+    "NjGem6": {
+        "internalId": "NjGem6",
+        "itemTypeId": 4,
+        "itemType": "Gemstone",
+        "itemId": 70,
+        "name": "Emerald",
+        "x1": 1,
+        "bonus": "Hold down to add this Gemstone to your collection. View collection and bonuses in Ninja Knowledge.",
+        "x3": 2500
+    },
+    "NjGem7": {
+        "internalId": "NjGem7",
+        "itemTypeId": 4,
+        "itemType": "Gemstone",
+        "itemId": 290,
+        "name": "Firefrost",
+        "x1": 1,
+        "bonus": "Hold down to add this Gemstone to your collection. View collection and bonuses in Ninja Knowledge.",
+        "x3": 30
     },
     "NjTrP0": {
         "internalId": "NjTrP0",
@@ -740,5 +760,55 @@
         "x1": 25,
         "desc": "Hold down to add this Pristine Charm to your collection in the Lobby. Click it there to see its bonus.",
         "bonus": "}x Bigger Bonuses of Non Misc Stamps"
+    },
+    "NjTrP18": {
+        "internalId": "NjTrP18",
+        "itemTypeId": 3,
+        "itemType": "PristineCharm",
+        "itemId": 18,
+        "name": "Glimmerchain",
+        "x1": 30,
+        "desc": "Hold down to add this Pristine Charm to your collection in the Lobby. Click it there to see its bonus.",
+        "bonus": "}x Extra Deathbringer Bones"
+    },
+    "NjTrP19": {
+        "internalId": "NjTrP19",
+        "itemTypeId": 3,
+        "itemType": "PristineCharm",
+        "itemId": 19,
+        "name": "Twinkle Taffy",
+        "x1": 30,
+        "desc": "Hold down to add this Pristine Charm to your collection in the Lobby. Click it there to see its bonus.",
+        "bonus": "}x Extra Windwalker Dust"
+    },
+    "NjTrP20": {
+        "internalId": "NjTrP20",
+        "itemTypeId": 3,
+        "itemType": "PristineCharm",
+        "itemId": 20,
+        "name": "Jellypick",
+        "x1": 20,
+        "desc": "Hold down to add this Pristine Charm to your collection in the Lobby. Click it there to see its bonus.",
+        "bonus": "+{% Stamp Doubler Bonus"
+    },
+    "NjTrP21": {
+        "internalId": "NjTrP21",
+        "itemTypeId": 3,
+        "itemType": "PristineCharm",
+        "itemId": 21,
+        "name": "Candy Cache",
+        "x1": 40,
+        "desc": "Hold down to add this Pristine Charm to your collection in the Lobby. Click it there to see its bonus.",
+        "bonus": "}x Villager EXP"
+    },
+    "NjTrP22": {
+        "internalId": "NjTrP22",
+        "itemTypeId": 3,
+        "itemType": "PristineCharm",
+        "itemId": 22,
+        "name": "Mystery Fizz",
+        "x1": 30,
+        "desc": "Hold down to add this Pristine Charm to your collection in the Lobby. Click it there to see its bonus.",
+        "bonus": "}x 3rd Masterclass Resources"
     }
 }

@@ -10,3 +10,6 @@
 |sellprice=1
 |notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[IdleOn 4th Anniversary]]|0.001|1}}
+|}

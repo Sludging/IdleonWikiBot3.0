@@ -318,5 +318,85 @@
         "func": "add",
         "type": "%",
         "lvlUpText": "+{% Balls"
+    },
+    "Bonus 40": {
+        "effect": "+{% Deathbringer Bones",
+        "x1": 1,
+        "x2": 0,
+        "func": "add",
+        "type": "%",
+        "lvlUpText": "+{% Bones"
+    },
+    "Bonus 41": {
+        "effect": "+{% Equinox Fill Rate",
+        "x1": 0.75,
+        "x2": 0,
+        "func": "add",
+        "type": "%",
+        "lvlUpText": "+{% Fill Rate"
+    },
+    "Bonus 42": {
+        "effect": "+{% Monument AFK",
+        "x1": 0.5,
+        "x2": 0,
+        "func": "add",
+        "type": "%",
+        "lvlUpText": "+{% AFK"
+    },
+    "Bonus 43": {
+        "effect": "+{% Sigil Speed",
+        "x1": 1,
+        "x2": 0,
+        "func": "add",
+        "type": "%",
+        "lvlUpText": "+{% Speed"
+    },
+    "Bonus 44": {
+        "effect": "+{% Construction Build",
+        "x1": 2,
+        "x2": 0,
+        "func": "add",
+        "type": "%",
+        "lvlUpText": "+{% Build Rate"
+    },
+    "Bonus 45": {
+        "effect": "+{% Burger",
+        "x1": 1,
+        "x2": 0,
+        "func": "add",
+        "type": "%",
+        "lvlUpText": "+{% Burger"
+    },
+    "Bonus 46": {
+        "effect": "+{% Total Damage",
+        "x1": 2,
+        "x2": 0,
+        "func": "add",
+        "type": "%",
+        "lvlUpText": "+{% Damage"
+    },
+    "Bonus 47": {
+        "effect": "+{% Windwalker Dust",
+        "x1": 1,
+        "x2": 0,
+        "func": "add",
+        "type": "%",
+        "lvlUpText": "+{% Dust"
+    },
+    "Bonus 48": {
+        "effect": "+{% Medallion Chance",
+        "x1": 0.5,
+        "x2": 0,
+        "func": "add",
+        "type": "%",
+        "lvlUpText": "+{% Chance"
+    },
+    "Bonus 49": {
+        "effect": "+{% Breedability Rate",
+        "x1": 100,
+        "x2": 100,
+        "func": "decay",
+        "type": "%",
+        "lvlUpText": "+{% Breed Rate"
     }
 }

@@ -10,3 +10,6 @@
 |sellprice=1
 |setname = 3rd Anniversary
 }}
+{{detdrops/head}}
+{{detdrops|[[IdleOn 4th Anniversary]]|0.001|1}}
+|}

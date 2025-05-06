@@ -318,5 +318,85 @@
         "func": "add",
         "type": "%",
         "lvlUpText": "+{% Balls"
+    },
+    {
+        "effect": "+{% Deathbringer Bones",
+        "x1": 1,
+        "x2": 0,
+        "func": "add",
+        "type": "%",
+        "lvlUpText": "+{% Bones"
+    },
+    {
+        "effect": "+{% Equinox Fill Rate",
+        "x1": 0.75,
+        "x2": 0,
+        "func": "add",
+        "type": "%",
+        "lvlUpText": "+{% Fill Rate"
+    },
+    {
+        "effect": "+{% Monument AFK",
+        "x1": 0.5,
+        "x2": 0,
+        "func": "add",
+        "type": "%",
+        "lvlUpText": "+{% AFK"
+    },
+    {
+        "effect": "+{% Sigil Speed",
+        "x1": 1,
+        "x2": 0,
+        "func": "add",
+        "type": "%",
+        "lvlUpText": "+{% Speed"
+    },
+    {
+        "effect": "+{% Construction Build",
+        "x1": 2,
+        "x2": 0,
+        "func": "add",
+        "type": "%",
+        "lvlUpText": "+{% Build Rate"
+    },
+    {
+        "effect": "+{% Burger",
+        "x1": 1,
+        "x2": 0,
+        "func": "add",
+        "type": "%",
+        "lvlUpText": "+{% Burger"
+    },
+    {
+        "effect": "+{% Total Damage",
+        "x1": 2,
+        "x2": 0,
+        "func": "add",
+        "type": "%",
+        "lvlUpText": "+{% Damage"
+    },
+    {
+        "effect": "+{% Windwalker Dust",
+        "x1": 1,
+        "x2": 0,
+        "func": "add",
+        "type": "%",
+        "lvlUpText": "+{% Dust"
+    },
+    {
+        "effect": "+{% Medallion Chance",
+        "x1": 0.5,
+        "x2": 0,
+        "func": "add",
+        "type": "%",
+        "lvlUpText": "+{% Chance"
+    },
+    {
+        "effect": "+{% Breedability Rate",
+        "x1": 100,
+        "x2": 100,
+        "func": "decay",
+        "type": "%",
+        "lvlUpText": "+{% Breed Rate"
     }
 ]

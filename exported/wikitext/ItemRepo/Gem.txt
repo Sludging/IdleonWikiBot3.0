@@ -12,26 +12,8 @@
 {{detdrops|[[Domeo Magmus]]|0.5|4}}
 {{detdrops|[[Demented Spiritlord]]|0.5|4}}
 {{detdrops|[[King Doot]]|0.75|5}}
-{{detdrops|[[Dewdrop Bronze Chest]]|0.05|1}}
-{{detdrops|[[Dewdrop Silver Chest]]|0.12|1}}
-{{detdrops|[[Dewdrop Golden Chest]]|0.3|1}}
-{{detdrops|[[Dewdrop Golden Chest]]|0.8|1}}
-{{detdrops|[[Sandstone Bronze Chest]]|0.1|1}}
-{{detdrops|[[Sandstone Silver Chest]]|0.2|1}}
-{{detdrops|[[Sandstone Golden Chest]]|0.4|1}}
-{{detdrops|[[Chillsnap Bronze Chest]]|0.12|1}}
-{{detdrops|[[Chillsnap Silver Chest]]|0.23|1}}
-{{detdrops|[[Chillsnap Golden Chest]]|0.45|1}}
-{{detdrops|[[Astro Bronze Chest]]|0.12|1}}
-{{detdrops|[[Astro Silver Chest]]|0.23|1}}
-{{detdrops|[[Astro Golden Chest]]|0.45|1}}
-{{detdrops|[[Molten Bronze Chest]]|0.12|1}}
-{{detdrops|[[Molten Silver Chest]]|0.23|1}}
-{{detdrops|[[Molten Golden Chest]]|0.45|1}}
-{{detdrops|[[Whimsical Bronze Chest]]|0.12|1}}
-{{detdrops|[[Whimsical Silver Chest]]|0.23|1}}
-{{detdrops|[[Whimsical Golden Chest]]|0.45|1}}
 {{detdrops|[[Egg Capsule]]|0.3|1}}
 {{detdrops|[[Spring Splendor]]|0.2|1}}
 {{detdrops|[[Falloween Pumpkin]]|0.2|1}}
+{{detdrops|[[IdleOn 4th Anniversary]]|0.2|1}}
 |}

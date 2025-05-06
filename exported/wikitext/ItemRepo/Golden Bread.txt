@@ -4,8 +4,4 @@
 |sellprice=100
 |notes= 
 }}
-{{detdrops/head}}
-{{detdrops|[[Chillsnap Golden Chest]]|0.3|1}}
-{{detdrops|[[Molten Golden Chest]]|0.25|100}}
-|}
 {{gfoodbonus|30|Boosts coins dropped by mobs by [%.}}

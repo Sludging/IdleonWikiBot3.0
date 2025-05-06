@@ -338,8 +338,8 @@
     "Cavernous Nook": {
         "name": "Cavernous Nook",
         "qty": 1,
-        "desc": "-",
-        "rewards": "*Knowledge of the &Cavern Secret Location",
+        "desc": "SECRET ACHIEVEMENT ------------------------ Find the SECRET mining area!",
+        "rewards": "*Nothing!",
         "world": "Blunder Hills"
     },
     "Seriousleaf-ast!": {
@@ -850,7 +850,7 @@
         "name": "A Family of Me!",
         "qty": 1,
         "desc": "Create your 8th character, who will never get the love you gave to your earlier characters when making new ones was still special.",
-        "rewards": "*STEAM EXCLUSIVE &*25 gems",
+        "rewards": "*STEAM EXCLUSIVE &*20 gems",
         "world": "Frostbite Tundra"
     },
     "Croakin' Froge": {
@@ -1367,7 +1367,7 @@
     "Hibernating Gamer": {
         "name": "Hibernating Gamer",
         "qty": 1,
-        "desc": "Glaim 111,000 hours of AFK time. Jeez, thats like an entire year of all characters idling to the max.",
+        "desc": "Claim 111,000 hours of AFK time. Jeez, thats like an entire year of all characters idling to the max.",
         "rewards": "*STEAM EXCLUSIVE &*100 gems &*1 '72hr time candy'",
         "world": "Hyperion Nebula"
     },
@@ -1630,6 +1630,13 @@
         "rewards": "20% Captain EXP &for sailing",
         "world": "Smolderin' Plateau"
     },
+    "Hug from Timmy": {
+        "name": "Hug from Timmy",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ The lil' fella REALLY likes icecream!",
+        "rewards": "10% Monument AFK",
+        "world": "Smolderin' Plateau"
+    },
     "Valley Visitor": {
         "name": "Valley Visitor",
         "qty": 1,
@@ -1801,7 +1808,7 @@
     "This, is, Summoning!": {
         "name": "This, is, Summoning!",
         "qty": 1,
-        "desc": "Survive for 200 seconds in The Gambit cavern, which isn't out yet.",
+        "desc": "Survive for 5 minutes in The King's Gambit. Find this feature in Cavern 14 of the Hole in world 5.",
         "rewards": "*1.05x All Essence &Gain",
         "world": "Spirited Valley"
     },
