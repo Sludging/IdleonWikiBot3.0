@@ -214,6 +214,7 @@ class IdleonReader:
 		# Misc
 		self.codeReader.addSection("UpgradeVault = function ()", "UpgradeVault")
 		self.codeReader.addSection("GrimoireUpg = function ()", "GrimoireUpg")
+		self.codeReader.addSection("CompassUpg = function ()", "CompassUpg")
 
 
 		self.codeReader.readCode()
