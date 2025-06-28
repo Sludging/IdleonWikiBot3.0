@@ -13290,9 +13290,9 @@ export const initNpcRepo = () => {
                     "world": "Unknown",
                     "noQuest": 0,
                     "type": "Unknown",
-                    "birthWeight": 3.43,
+                    "birthWeight": 9.7,
                     "starSign": "Leo",
-                    "mothersMaidenName": "Vogal",
+                    "mothersMaidenName": "Deitz",
                     "notes": " "
                 },
                 "quests": {
