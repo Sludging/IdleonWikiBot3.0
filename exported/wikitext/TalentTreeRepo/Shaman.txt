@@ -10,10 +10,10 @@
 }}
 {{Talent
 |name=Auspicious Aura
-|textArr=Casts (Table 2) aura which heals you and damages monsters. The strength of the aura is (Table 1)%
+|textArr=Casts (Table 2) aura which heals you and damages monsters. The aura deals (Table 1)% DMG
 |form1=bigBase
 |x1=10
-|x2=3
+|x2=0.6
 |form2=intervalAdd
 |y1=1
 |y2=35

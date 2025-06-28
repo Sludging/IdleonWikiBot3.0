@@ -1598,7 +1598,7 @@
     {
         "enemy": "w6d3",
         "world": "Spirited Valley",
-        "map": {"intName": "vSpiritCBOSS", "name": "Castle Interior", "id": 266},
+        "map": {"intName": "vSpiritCBOSS", "name": "Emperor's Castle", "id": 266},
         "portalRequirements": [0]
     },
     {

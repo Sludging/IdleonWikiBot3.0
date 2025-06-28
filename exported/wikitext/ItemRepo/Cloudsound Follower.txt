@@ -153,6 +153,7 @@
 {{detdrops|[[River Spirit]]|0.00155|8}}
 {{detdrops|[[Baby Troll]]|0.0017|8}}
 {{detdrops|[[Woodlin Spirit]]|0.00185|8}}
+{{detdrops|[[RIP Tide]]|0.00125|8}}
 {{detdrops|[[Whimsical Bronze Chest(W6)]]|0.5|8}}
 {{detdrops|[[Whimsical Silver Chest(W6)]]|0.5|8}}
 {{detdrops|[[Whimsical Golden Chest(W6)]]|0.5|8}}
@@ -162,12 +163,21 @@
 {{detdrops|[[Lantern Spirit]]|0.00125|8}}
 {{detdrops|[[Mama Troll]]|0.00145|8}}
 {{detdrops|[[Leek Spirit]]|0.00155|8}}
+{{detdrops|[[Emperor]]|0.5|16}}
+{{detdrops|[[Chaotic Emperor]]|0.5|16}}
+{{detdrops|[[Sovereign Emperor]]|0.5|16}}
 {{detdrops|[[Catching#Drops|Catching Firefly]]|0.0075|8}}
 {{detdrops|[[Crystal Candalight]]|0.085|8}}
 {{detdrops|[[Ceramic Spirit]]|0.00165|8}}
 {{detdrops|[[Skydoggie Spirit]]|0.00175|8}}
+{{detdrops|[[Emperor]]|0.5|16}}
+{{detdrops|[[Chaotic Emperor]]|0.5|16}}
+{{detdrops|[[Sovereign Emperor]]|0.5|16}}
 {{detdrops|[[Crystal Candalight]]|0.085|8}}
 {{detdrops|[[Royal Egg]]|0.0014|8}}
 {{detdrops|[[Minichief Spirit]]|0.00175|8}}
 {{detdrops|[[Samurai Guardian]]|0.00175|8}}
+{{detdrops|[[Emperor]]|0.5|16}}
+{{detdrops|[[Chaotic Emperor]]|0.5|16}}
+{{detdrops|[[Sovereign Emperor]]|0.5|16}}
 |}

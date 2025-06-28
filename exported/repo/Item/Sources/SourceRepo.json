@@ -746,14 +746,6 @@
     "FillerMaterial": {
         "sources": [
             {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
-            {"wikiName": "[[Emperor]]", "txtName": "Emperor"},
-            {"wikiName": "[[Emperor]]", "txtName": "Emperor"},
-            {"wikiName": "[[Chaotic Emperor]]", "txtName": "Chaotic Emperor"},
-            {"wikiName": "[[Chaotic Emperor]]", "txtName": "Chaotic Emperor"},
-            {"wikiName": "[[Chaotic Emperor]]", "txtName": "Chaotic Emperor"},
-            {"wikiName": "[[Sovereign Emperor]]", "txtName": "Sovereign Emperor"},
-            {"wikiName": "[[Sovereign Emperor]]", "txtName": "Sovereign Emperor"},
-            {"wikiName": "[[Sovereign Emperor]]", "txtName": "Sovereign Emperor"},
             {"wikiName": "[[Fishing]]", "txtName": "Fishing"}
         ],
         "recipeFrom": [],
@@ -3743,10 +3735,12 @@
     "EquipmentPunching10": {
         "sources": [
             {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
-            {"wikiName": "[[Sprout Spirit|Recipe from Sprout Spirit]]", "txtName": "Sprout Spirit"}
+            {"wikiName": "[[Sprout Spirit|Recipe from Sprout Spirit]]", "txtName": "Sprout Spirit"},
+            {"wikiName": "[[RIP Tide|Recipe from RIP Tide]]", "txtName": "RIP Tide"}
         ],
         "recipeFrom": [
-            {"wikiName": "[[Sprout Spirit]]", "txtName": "Sprout Spirit"}
+            {"wikiName": "[[Sprout Spirit]]", "txtName": "Sprout Spirit"},
+            {"wikiName": "[[RIP Tide]]", "txtName": "RIP Tide"}
         ],
         "questAss": []
     },
@@ -4109,6 +4103,34 @@
         "recipeFrom": [],
         "questAss": []
     },
+    "EquipmentHats119": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentShirts39": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentPants31": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentShoes40": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
     "COIN": {
         "sources": [
             {"wikiName": "[[Eldritch Croaker]]", "txtName": "Eldritch Croaker"},
@@ -4253,6 +4275,7 @@
             {"wikiName": "[[Gloomie Mushroom]]", "txtName": "Gloomie Mushroom"},
             {"wikiName": "[[Ancient Golem]]", "txtName": "Ancient Golem"},
             {"wikiName": "[[Shimmer Glunko]]", "txtName": "Shimmer Glunko"},
+            {"wikiName": "[[RIP Tide]]", "txtName": "RIP Tide"},
             {
                 "wikiName": "[[Colosseum/Dewdrop#Bronze Chest(W1)|Dewdrop Bronze Chest(W1)]]",
                 "txtName": "Colosseum: Dewdrop Bronze Chest(W1)"
@@ -5053,6 +5076,7 @@
             {"wikiName": "[[River Spirit]]", "txtName": "River Spirit"},
             {"wikiName": "[[Baby Troll]]", "txtName": "Baby Troll"},
             {"wikiName": "[[Woodlin Spirit]]", "txtName": "Woodlin Spirit"},
+            {"wikiName": "[[RIP Tide]]", "txtName": "RIP Tide"},
             {
                 "wikiName": "[[Colosseum/Whimsical#Bronze Chest(W6)|Whimsical Bronze Chest(W6)]]",
                 "txtName": "Colosseum: Whimsical Bronze Chest(W6)"
@@ -5077,6 +5101,9 @@
             {"wikiName": "[[Lantern Spirit]]", "txtName": "Lantern Spirit"},
             {"wikiName": "[[Mama Troll]]", "txtName": "Mama Troll"},
             {"wikiName": "[[Leek Spirit]]", "txtName": "Leek Spirit"},
+            {"wikiName": "[[Emperor]]", "txtName": "Emperor"},
+            {"wikiName": "[[Chaotic Emperor]]", "txtName": "Chaotic Emperor"},
+            {"wikiName": "[[Sovereign Emperor]]", "txtName": "Sovereign Emperor"},
             {"wikiName": "[[Firefly]]", "txtName": "Firefly"}
         ],
         "recipeFrom": [],
@@ -5086,7 +5113,10 @@
         "sources": [
             {"wikiName": "[[Crystal Candalight]]", "txtName": "Crystal Candalight"},
             {"wikiName": "[[Ceramic Spirit]]", "txtName": "Ceramic Spirit"},
-            {"wikiName": "[[Skydoggie Spirit]]", "txtName": "Skydoggie Spirit"}
+            {"wikiName": "[[Skydoggie Spirit]]", "txtName": "Skydoggie Spirit"},
+            {"wikiName": "[[Emperor]]", "txtName": "Emperor"},
+            {"wikiName": "[[Chaotic Emperor]]", "txtName": "Chaotic Emperor"},
+            {"wikiName": "[[Sovereign Emperor]]", "txtName": "Sovereign Emperor"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -5096,7 +5126,10 @@
             {"wikiName": "[[Crystal Candalight]]", "txtName": "Crystal Candalight"},
             {"wikiName": "[[Royal Egg]]", "txtName": "Royal Egg"},
             {"wikiName": "[[Minichief Spirit]]", "txtName": "Minichief Spirit"},
-            {"wikiName": "[[Samurai Guardian]]", "txtName": "Samurai Guardian"}
+            {"wikiName": "[[Samurai Guardian]]", "txtName": "Samurai Guardian"},
+            {"wikiName": "[[Emperor]]", "txtName": "Emperor"},
+            {"wikiName": "[[Chaotic Emperor]]", "txtName": "Chaotic Emperor"},
+            {"wikiName": "[[Sovereign Emperor]]", "txtName": "Sovereign Emperor"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -8067,8 +8100,7 @@
     },
     "CardsZ18": {
         "sources": [
-            {"wikiName": "[[Kattlekruk]]", "txtName": "Kattlekruk"},
-            {"wikiName": "[[Emperor]]", "txtName": "Emperor"}
+            {"wikiName": "[[Kattlekruk]]", "txtName": "Kattlekruk"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -8162,14 +8194,16 @@
     },
     "SpiA1": {
         "sources": [
-            {"wikiName": "[[Sprout Spirit]]", "txtName": "Sprout Spirit"}
+            {"wikiName": "[[Sprout Spirit]]", "txtName": "Sprout Spirit"},
+            {"wikiName": "[[RIP Tide]]", "txtName": "RIP Tide"}
         ],
         "recipeFrom": [],
         "questAss": []
     },
     "CardsI1": {
         "sources": [
-            {"wikiName": "[[Sprout Spirit]]", "txtName": "Sprout Spirit"}
+            {"wikiName": "[[Sprout Spirit]]", "txtName": "Sprout Spirit"},
+            {"wikiName": "[[RIP Tide]]", "txtName": "RIP Tide"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -8427,6 +8461,60 @@
     "Quest95": {
         "sources": [
             {"wikiName": "[[Samurai Guardian]]", "txtName": "Samurai Guardian"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EmpPart": {
+        "sources": [
+            {"wikiName": "[[Emperor]]", "txtName": "Emperor"},
+            {"wikiName": "[[Chaotic Emperor]]", "txtName": "Chaotic Emperor"},
+            {"wikiName": "[[Sovereign Emperor]]", "txtName": "Sovereign Emperor"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsZ21": {
+        "sources": [
+            {"wikiName": "[[Emperor]]", "txtName": "Emperor"},
+            {"wikiName": "[[Chaotic Emperor]]", "txtName": "Chaotic Emperor"},
+            {"wikiName": "[[Sovereign Emperor]]", "txtName": "Sovereign Emperor"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsZ22": {
+        "sources": [
+            {"wikiName": "[[Emperor]]", "txtName": "Emperor"},
+            {"wikiName": "[[Chaotic Emperor]]", "txtName": "Chaotic Emperor"},
+            {"wikiName": "[[Sovereign Emperor]]", "txtName": "Sovereign Emperor"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsZ23": {
+        "sources": [
+            {"wikiName": "[[Emperor]]", "txtName": "Emperor"},
+            {"wikiName": "[[Chaotic Emperor]]", "txtName": "Chaotic Emperor"},
+            {"wikiName": "[[Sovereign Emperor]]", "txtName": "Sovereign Emperor"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentCape17": {
+        "sources": [
+            {"wikiName": "[[Emperor]]", "txtName": "Emperor"},
+            {"wikiName": "[[Chaotic Emperor]]", "txtName": "Chaotic Emperor"},
+            {"wikiName": "[[Sovereign Emperor]]", "txtName": "Sovereign Emperor"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "ObolEmp": {
+        "sources": [
+            {"wikiName": "[[Emperor]]", "txtName": "Emperor"},
+            {"wikiName": "[[Chaotic Emperor]]", "txtName": "Chaotic Emperor"},
+            {"wikiName": "[[Sovereign Emperor]]", "txtName": "Sovereign Emperor"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -15690,6 +15778,13 @@
         "recipeFrom": [],
         "questAss": []
     },
+    "ClassSwapC": {
+        "sources": [
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
     "CardPack2": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
@@ -15782,28 +15877,35 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "EquipmentHats118": {
+    "EquipmentHats122": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
         "recipeFrom": [],
         "questAss": []
     },
-    "Quest96": {
+    "Quest101": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
         "recipeFrom": [],
         "questAss": []
     },
-    "EquipmentRings34": {
+    "ClassSwapB": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
         "recipeFrom": [],
         "questAss": []
     },
-    "EquipmentRings32": {
+    "GemP35": {
+        "sources": [
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "GemP25": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],

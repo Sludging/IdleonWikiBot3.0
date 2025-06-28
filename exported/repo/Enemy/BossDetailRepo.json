@@ -194,5 +194,47 @@
             {"name": "Attack6", "damage": 50000},
             {"name": "Attack7", "damage": 33000}
         ]
+    },
+    "Boss6A": {
+        "health": 1000000000,
+        "defence": 2500,
+        "exp": 20000000,
+        "keys": 1,
+        "attacks": [
+            {"name": "Spinning Blades!", "damage": 1000},
+            {"name": "Toxic Deluge!", "damage": 1500},
+            {"name": "Guards, sieze him!", "damage": 800},
+            {"name": "Mudslide!", "damage": 450},
+            {"name": "Energy Surge!", "damage": 5000},
+            {"name": "filler", "damage": 400}
+        ]
+    },
+    "Boss6B": {
+        "health": 1000000000,
+        "defence": 5,
+        "exp": 700000000,
+        "keys": 5,
+        "attacks": [
+            {"name": "Spinning Blades!", "damage": 1800},
+            {"name": "Toxic Deluge!", "damage": 4000},
+            {"name": "Guards, sieze him!", "damage": 2000},
+            {"name": "Mudslide!", "damage": 1500},
+            {"name": "Energy Surge!", "damage": 2500},
+            {"name": "filler", "damage": 3300}
+        ]
+    },
+    "Boss6C": {
+        "health": 1000000000,
+        "defence": 25,
+        "exp": 2000000000,
+        "keys": 70,
+        "attacks": [
+            {"name": "Spinning Blades!", "damage": 18000},
+            {"name": "Toxic Deluge!", "damage": 40000},
+            {"name": "Guards, sieze him!", "damage": 20000},
+            {"name": "Mudslide!", "damage": 15000},
+            {"name": "Energy Surge!", "damage": 25000},
+            {"name": "filler", "damage": 33000}
+        ]
     }
 }

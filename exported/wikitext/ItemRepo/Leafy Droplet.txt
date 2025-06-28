@@ -5,4 +5,5 @@
 }}
 {{detdrops/head}}
 {{detdrops|[[Sprout Spirit]]|0.16|1}}
+{{detdrops|[[RIP Tide]]|0.16|1}}
 |}

@@ -12,6 +12,7 @@
 {{detdrops|[[River Spirit]]|0.000000775|1}}
 {{detdrops|[[Baby Troll]]|0.00000085|1}}
 {{detdrops|[[Woodlin Spirit]]|0.000000925|1}}
+{{detdrops|[[RIP Tide]]|0.000000625|1}}
 {{detdrops|[[Whimsical Bronze Chest(W6)]]|0.00025|1}}
 {{detdrops|[[Whimsical Silver Chest(W6)]]|0.00025|1}}
 {{detdrops|[[Whimsical Golden Chest(W6)]]|0.00025|1}}

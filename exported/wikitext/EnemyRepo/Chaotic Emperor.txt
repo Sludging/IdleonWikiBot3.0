@@ -13,7 +13,13 @@
 |prevenemy=Emperor
 }}
 {{DropTable/head|Droptable for Chaotic Emperor}}
-{{DropTable/coin|5000000|1}}
-{{DropTable|Not Yet|0.1|1}}
-{{DropTable|Not Yet|0.01|1}}
-{{DropTable|Not Yet|0.000035|1}}
+{{DropTable/coin|1000000|1}}
+{{DropTable|Emperor Ribbon|0.04|1}}
+{{DropTable/card|0.001}}
+{{DropTable/card|0.001}}
+{{DropTable/card|0.001}}
+{{DropTable|Gilded Emperor Wings|0.000025|1}}
+{{DropTable|Gilded Obol of the Emperor|0.00004|1}}
+{{DropTable/append|DropTable30|1|2}}
+{{DropTable/append|DropTable31|1|2}}
+{{DropTable/append|DropTable32|1|2}}

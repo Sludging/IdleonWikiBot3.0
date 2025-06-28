@@ -2,9 +2,9 @@
 |world=Unknown
 |location=Unknown
 |npcType=Unknown
-|birthweight=3.14
-|starsign=Libra
-|mmm=Trussel
+|birthweight=3.43
+|starsign=Leo
+|mmm=Vogal
 |notes= 
 }}
 {{Quest/head}}

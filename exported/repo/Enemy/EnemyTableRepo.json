@@ -1483,28 +1483,60 @@
             {"item": "SpiD3", "quantity": 1, "chance": 0, "questLink": "N/A"}
         ]
     },
+    "Boss6": {
+        "drops": [
+            {"item": "COIN", "quantity": 1000000, "chance": 1, "questLink": "N/A"},
+            {"item": "EmpPart", "quantity": 1, "chance": 0.04, "questLink": "N/A"},
+            {"item": "CardsZ21", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "CardsZ22", "quantity": 1, "chance": 0.0005, "questLink": "N/A"},
+            {"item": "CardsZ23", "quantity": 1, "chance": 0.0001, "questLink": "N/A"},
+            {"item": "EquipmentCape17", "quantity": 1, "chance": 2.5e-05, "questLink": "N/A"},
+            {"item": "ObolEmp", "quantity": 1, "chance": 4e-05, "questLink": "N/A"},
+            {"item": "DropTable30", "quantity": 2, "chance": 1, "questLink": "N/A"},
+            {"item": "DropTable31", "quantity": 2, "chance": 1, "questLink": "N/A"},
+            {"item": "DropTable32", "quantity": 2, "chance": 1, "questLink": "N/A"}
+        ]
+    },
     "Boss6A": {
         "drops": [
             {"item": "COIN", "quantity": 1000000, "chance": 1, "questLink": "N/A"},
-            {"item": "FillerMaterial", "quantity": 1, "chance": 0.04, "questLink": "N/A"},
-            {"item": "CardsZ18", "quantity": 1, "chance": 0.0008, "questLink": "N/A"},
-            {"item": "FillerMaterial", "quantity": 1, "chance": 1e-05, "questLink": "N/A"}
+            {"item": "EmpPart", "quantity": 1, "chance": 0.04, "questLink": "N/A"},
+            {"item": "CardsZ21", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "CardsZ22", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "CardsZ23", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentCape17", "quantity": 1, "chance": 2.5e-05, "questLink": "N/A"},
+            {"item": "ObolEmp", "quantity": 1, "chance": 4e-05, "questLink": "N/A"},
+            {"item": "DropTable30", "quantity": 2, "chance": 1, "questLink": "N/A"},
+            {"item": "DropTable31", "quantity": 2, "chance": 1, "questLink": "N/A"},
+            {"item": "DropTable32", "quantity": 2, "chance": 1, "questLink": "N/A"}
         ]
     },
     "Boss6B": {
         "drops": [
-            {"item": "COIN", "quantity": 5000000, "chance": 1, "questLink": "N/A"},
-            {"item": "FillerMaterial", "quantity": 1, "chance": 0.1, "questLink": "N/A"},
-            {"item": "FillerMaterial", "quantity": 1, "chance": 0.01, "questLink": "N/A"},
-            {"item": "FillerMaterial", "quantity": 1, "chance": 3.5e-05, "questLink": "N/A"}
+            {"item": "COIN", "quantity": 1000000, "chance": 1, "questLink": "N/A"},
+            {"item": "EmpPart", "quantity": 1, "chance": 0.04, "questLink": "N/A"},
+            {"item": "CardsZ21", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "CardsZ22", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "CardsZ23", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentCape17", "quantity": 1, "chance": 2.5e-05, "questLink": "N/A"},
+            {"item": "ObolEmp", "quantity": 1, "chance": 4e-05, "questLink": "N/A"},
+            {"item": "DropTable30", "quantity": 2, "chance": 1, "questLink": "N/A"},
+            {"item": "DropTable31", "quantity": 2, "chance": 1, "questLink": "N/A"},
+            {"item": "DropTable32", "quantity": 2, "chance": 1, "questLink": "N/A"}
         ]
     },
     "Boss6C": {
         "drops": [
-            {"item": "COIN", "quantity": 20000000, "chance": 1, "questLink": "N/A"},
-            {"item": "FillerMaterial", "quantity": 2, "chance": 0.4, "questLink": "N/A"},
-            {"item": "FillerMaterial", "quantity": 1, "chance": 0.08, "questLink": "N/A"},
-            {"item": "FillerMaterial", "quantity": 1, "chance": 0.0004, "questLink": "N/A"}
+            {"item": "COIN", "quantity": 1000000, "chance": 1, "questLink": "N/A"},
+            {"item": "EmpPart", "quantity": 1, "chance": 0.04, "questLink": "N/A"},
+            {"item": "CardsZ21", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "CardsZ22", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "CardsZ23", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentCape17", "quantity": 1, "chance": 2.5e-05, "questLink": "N/A"},
+            {"item": "ObolEmp", "quantity": 1, "chance": 4e-05, "questLink": "N/A"},
+            {"item": "DropTable30", "quantity": 2, "chance": 1, "questLink": "N/A"},
+            {"item": "DropTable31", "quantity": 2, "chance": 1, "questLink": "N/A"},
+            {"item": "DropTable32", "quantity": 2, "chance": 1, "questLink": "N/A"}
         ]
     },
     "caveA": {
@@ -1534,6 +1566,15 @@
         "drops": [
             {"item": "COIN", "quantity": 1, "chance": 0, "questLink": "N/A"},
             {"item": "SpiD3", "quantity": 1, "chance": 0, "questLink": "N/A"}
+        ]
+    },
+    "w7d1": {
+        "drops": [
+            {"item": "COIN", "quantity": 65000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "SpiA1", "quantity": 1, "chance": 0.16, "questLink": "N/A"},
+            {"item": "CardsI1", "quantity": 1, "chance": 2.5e-05, "questLink": "N/A"},
+            {"item": "SmithingRecipes6", "quantity": 4, "chance": 2e-08, "questLink": "N/A"},
+            {"item": "DropTable29", "quantity": 1, "chance": 0.0025, "questLink": "N/A"}
         ]
     },
     "ChestA1": {

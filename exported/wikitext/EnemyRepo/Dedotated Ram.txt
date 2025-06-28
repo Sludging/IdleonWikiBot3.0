@@ -2,7 +2,7 @@
 |image=Dedotated Ram Walking.gif
 |attack=2500
 |health=1250000
-|defence=1500
+|defence=2500
 |speed=6
 |exp=3500
 |respawn=35

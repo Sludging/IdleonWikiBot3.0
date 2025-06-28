@@ -137,5 +137,5 @@
     "vSpiritD2": {"intName": "vSpiritD2", "name": "Chieftain Stairway", "id": 263},
     "vSpiritD3": {"intName": "vSpiritD3", "name": "Emperor's Castle Doorstep", "id": 264},
     "ColosseumF": {"intName": "ColosseumF", "name": "Whimsical Colosseum", "id": 265},
-    "vSpiritCBOSS": {"intName": "vSpiritCBOSS", "name": "Castle Interior", "id": 266}
+    "vSpiritCBOSS": {"intName": "vSpiritCBOSS", "name": "Emperor's Castle", "id": 266}
 }

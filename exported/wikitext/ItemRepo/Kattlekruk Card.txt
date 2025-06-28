@@ -10,5 +10,4 @@
 }}
 {{detdrops/head}}
 {{detdrops|[[Kattlekruk]]|0.0008|1}}
-{{detdrops|[[Emperor]]|0.0008|1}}
 |}

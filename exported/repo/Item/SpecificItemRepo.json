@@ -1568,6 +1568,27 @@
         "Skill": "",
         "Skill_Power": 0
     },
+    "EquipmentHats119": {
+        "internalName": "EquipmentHats119",
+        "displayName": "Emperor Kabuto",
+        "sellPrice": 1,
+        "typeGen": "aHelmet",
+        "Type": "Helmet",
+        "lvReqToCraft": 5,
+        "lvReqToEquip": 650,
+        "Class": "All",
+        "Weapon_Power": 25,
+        "STR": 80,
+        "AGI": 80,
+        "WIS": 80,
+        "LUK": 80,
+        "Defence": 270,
+        "miscUp1": "25% Drop Chance",
+        "miscUp2": "30% Multikill Per Tier",
+        "Upgrade_Slots_Left": 12,
+        "Skill": "",
+        "Skill_Power": 0
+    },
     "EquipmentHats84": {
         "internalName": "EquipmentHats84",
         "displayName": "The Crow Perch",
@@ -4319,6 +4340,27 @@
         "Skill": "",
         "Skill_Power": 0
     },
+    "EquipmentShirts39": {
+        "internalName": "EquipmentShirts39",
+        "displayName": "Emperor Sokutai Ho",
+        "sellPrice": 200,
+        "typeGen": "aShirt",
+        "Type": "Shirt",
+        "lvReqToCraft": 55,
+        "lvReqToEquip": 600,
+        "Class": "All",
+        "Weapon_Power": 20,
+        "STR": 75,
+        "AGI": 75,
+        "WIS": 75,
+        "LUK": 75,
+        "Defence": 300,
+        "miscUp1": "40% Drop Chance",
+        "miscUp2": "25% Multikill Per Tier",
+        "Upgrade_Slots_Left": 11,
+        "Skill": "",
+        "Skill_Power": 0
+    },
     "EquipmentPants1": {
         "internalName": "EquipmentPants1",
         "displayName": "Torn Jeans",
@@ -4925,6 +4967,27 @@
         "miscUp1": "25% Drop Chance",
         "miscUp2": "14% Multikill Per Tier",
         "Upgrade_Slots_Left": 10,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "EquipmentPants31": {
+        "internalName": "EquipmentPants31",
+        "displayName": "Emperor Zubon",
+        "sellPrice": 200,
+        "typeGen": "aPants",
+        "Type": "Pants",
+        "lvReqToCraft": 55,
+        "lvReqToEquip": 600,
+        "Class": "All",
+        "Weapon_Power": 13,
+        "STR": 65,
+        "AGI": 65,
+        "WIS": 65,
+        "LUK": 65,
+        "Defence": 250,
+        "miscUp1": "35% Drop Chance",
+        "miscUp2": "20% Multikill Per Tier",
+        "Upgrade_Slots_Left": 11,
         "Skill": "",
         "Skill_Power": 0
     },
@@ -5719,7 +5782,7 @@
         "AGI": 43,
         "WIS": 43,
         "LUK": 43,
-        "Defence": 100,
+        "Defence": 110,
         "miscUp1": "7% All Stats",
         "miscUp2": "25% Money",
         "Upgrade_Slots_Left": 8,
@@ -5740,10 +5803,31 @@
         "AGI": 57,
         "WIS": 57,
         "LUK": 57,
-        "Defence": 100,
+        "Defence": 120,
         "miscUp1": "30% Drop Chance",
         "miscUp2": "12% Multikill Per Tier",
         "Upgrade_Slots_Left": 9,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "EquipmentShoes40": {
+        "internalName": "EquipmentShoes40",
+        "displayName": "Emperor Geta",
+        "sellPrice": 200,
+        "typeGen": "aShoes",
+        "Type": "Shoes",
+        "lvReqToCraft": 55,
+        "lvReqToEquip": 600,
+        "Class": "All",
+        "Weapon_Power": 5,
+        "STR": 70,
+        "AGI": 70,
+        "WIS": 70,
+        "LUK": 70,
+        "Defence": 150,
+        "miscUp1": "40% Drop Chance",
+        "miscUp2": "20% Multikill Per Tier",
+        "Upgrade_Slots_Left": 10,
         "Skill": "",
         "Skill_Power": 0
     },
@@ -7189,7 +7273,7 @@
         "AGI": 0,
         "WIS": 0,
         "LUK": 0,
-        "Defence": 3,
+        "Defence": 5,
         "miscUp1": "30% Kills In World 5",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
@@ -7235,6 +7319,27 @@
         "miscUp1": "10% All Stats",
         "miscUp2": "1% Damage Multi",
         "Upgrade_Slots_Left": 1,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "EquipmentRings37": {
+        "internalName": "EquipmentRings37",
+        "displayName": "Spirit Killer Ring",
+        "sellPrice": 1,
+        "typeGen": "aRing",
+        "Type": "Ring",
+        "lvReqToCraft": 55,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 6,
+        "STR": 0,
+        "AGI": 0,
+        "WIS": 0,
+        "LUK": 0,
+        "Defence": 6,
+        "miscUp1": "30% Kills In World 6",
+        "miscUp2": "00",
+        "Upgrade_Slots_Left": 0,
         "Skill": "",
         "Skill_Power": 0
     },
@@ -7801,6 +7906,48 @@
         "Defence": 0,
         "miscUp1": "40% All Afk Gain",
         "miscUp2": "00",
+        "Upgrade_Slots_Left": 0,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "EquipmentCape17": {
+        "internalName": "EquipmentCape17",
+        "displayName": "Gilded Emperor Wings",
+        "sellPrice": 1,
+        "typeGen": "aCape",
+        "Type": "Cape",
+        "lvReqToCraft": 55,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 8,
+        "STR": 15,
+        "AGI": 15,
+        "WIS": 15,
+        "LUK": 15,
+        "Defence": 0,
+        "miscUp1": "25% Class Exp Multi",
+        "miscUp2": "10% Drop Chance",
+        "Upgrade_Slots_Left": 0,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "EquipmentCape18": {
+        "internalName": "EquipmentCape18",
+        "displayName": "Chains of the Gilded Vaultguard",
+        "sellPrice": 1,
+        "typeGen": "aCape",
+        "Type": "Cape",
+        "lvReqToCraft": 55,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 30,
+        "STR": 10,
+        "AGI": 10,
+        "WIS": 10,
+        "LUK": 30,
+        "Defence": 25,
+        "miscUp1": "100% Class Exp Multi",
+        "miscUp2": "40% Drop Rate Multi",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
         "Skill_Power": 0
@@ -12137,6 +12284,16 @@
         "order": -1,
         "level": 1
     },
+    "InvStorageZ": {
+        "internalName": "InvStorageZ",
+        "displayName": "Buried Treasure Chest",
+        "sellPrice": 1000,
+        "typeGen": "aStorageChest",
+        "Type": "Storage",
+        "description": "Hold down to permanently add +16 Slots to your Storage Chest. Can only be used once.",
+        "order": -1,
+        "level": 1
+    },
     "Line1": {
         "internalName": "Line1",
         "displayName": "Copper Twine",
@@ -14256,6 +14413,14 @@
         "typeGen": "bCraft",
         "Type": "Monster Drop",
         "description": "I guess proper dental hygiene isn't one of the requirements to becoming a Divinity. "
+    },
+    "EmpPart": {
+        "internalName": "EmpPart",
+        "displayName": "Emperor Ribbon",
+        "sellPrice": 1000,
+        "typeGen": "bCraft",
+        "Type": "Monster Drop",
+        "description": "So, instead of taking his equipment directly, you take his ribbon... so that you can... make his equipment? Huh? "
     },
     "LavaA1": {
         "internalName": "LavaA1",
@@ -17028,6 +17193,29 @@
         "Skill": "",
         "Skill_Power": 0
     },
+    "ObolEmp": {
+        "internalName": "ObolEmp",
+        "displayName": "Gilded Obol of the Emperor",
+        "sellPrice": 50,
+        "typeGen": "aObolSparkle",
+        "Type": "Sparkle Obol",
+        "lvReqToCraft": 0,
+        "lvReqToEquip": 0,
+        "Class": "All",
+        "Weapon_Power": 30,
+        "STR": 100,
+        "AGI": 100,
+        "WIS": 100,
+        "LUK": 100,
+        "Defence": 50,
+        "miscUp1": "10% All Stats",
+        "miscUp2": "10% Skill Efficiency",
+        "Upgrade_Slots_Left": 0,
+        "family": "Emp",
+        "rarity": "Gilded",
+        "Skill": "",
+        "Skill_Power": 0
+    },
     "MaxCapBagT2": {
         "internalName": "MaxCapBagT2",
         "displayName": "Miniature Mining Pouch",
@@ -18140,11 +18328,11 @@
     },
     "Quest28": {
         "internalName": "Quest28",
-        "displayName": "IOU one Sky Crystal",
+        "displayName": "IOU one W7 Crystal",
         "sellPrice": 100,
         "typeGen": "dQuest",
         "Type": "Quest Item",
-        "description": "Mere mortal, your meager intellect doesn't leave you with enough patience! Wait until powers even greater than myself allow me to drop the crystal to World 6. The time will come, I assure you. "
+        "description": "Victorious as you are, I cannot give you the crystal to unlock World 7 at this time. Come fight me later, and I will give to you the W7 crystal. "
     },
     "GoldricP1": {
         "internalName": "GoldricP1",
@@ -18306,6 +18494,27 @@
         "Defence": 40,
         "miscUp1": "100% Bonus Class Exp",
         "miscUp2": "75% Drop Chance",
+        "Upgrade_Slots_Left": 0,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "EquipmentGown4": {
+        "internalName": "EquipmentGown4",
+        "displayName": "Silkshard Robe",
+        "sellPrice": 1,
+        "typeGen": "aGown",
+        "Type": "Attire",
+        "lvReqToCraft": 55,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 15,
+        "STR": 5,
+        "AGI": 5,
+        "WIS": 5,
+        "LUK": 5,
+        "Defence": 10,
+        "miscUp1": "100% Bonus Kills",
+        "miscUp2": "25% Afk Gains Multi",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
         "Skill_Power": 0
@@ -18705,6 +18914,48 @@
         "Defence": 30,
         "miscUp1": "80% All Afk Gain",
         "miscUp2": "10% Drop Chance",
+        "Upgrade_Slots_Left": 0,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "EquipmentNametag20": {
+        "internalName": "EquipmentNametag20",
+        "displayName": "Deadbones Nametag",
+        "sellPrice": 1,
+        "typeGen": "aNametag",
+        "Type": "Nametag",
+        "lvReqToCraft": 55,
+        "lvReqToEquip": 4,
+        "Class": "All",
+        "Weapon_Power": 7,
+        "STR": 0,
+        "AGI": 0,
+        "WIS": 0,
+        "LUK": 10,
+        "Defence": 15,
+        "miscUp1": "25% Drop Rate Multi",
+        "miscUp2": "35% Drop Chance",
+        "Upgrade_Slots_Left": 0,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "EquipmentNametag21": {
+        "internalName": "EquipmentNametag21",
+        "displayName": "Treasure Nametag",
+        "sellPrice": 1,
+        "typeGen": "aNametag",
+        "Type": "Nametag",
+        "lvReqToCraft": 55,
+        "lvReqToEquip": 4,
+        "Class": "All",
+        "Weapon_Power": 7,
+        "STR": 0,
+        "AGI": 0,
+        "WIS": 0,
+        "LUK": 10,
+        "Defence": 15,
+        "miscUp1": "25% Drop Chance",
+        "miscUp2": "25% Money",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
         "Skill_Power": 0
@@ -22187,6 +22438,14 @@
         "Type": "Usable",
         "description": "Hold down on this item to change elite class within your class. Divine Knight to Blood Berserker, Beast Master to Siege Breaker, etc. "
     },
+    "ClassSwapC": {
+        "internalName": "ClassSwapC",
+        "displayName": "Complete Class Redo Token",
+        "sellPrice": 1,
+        "typeGen": "dQuest",
+        "Type": "Usable",
+        "description": "YOU MUST TAKE OFF EQUIPMENT TO USE THIS. Hold down on this item to become a Lv 1 beginner again. You can then redo the promotion quests to choose a new class! "
+    },
     "ResetBox": {
         "internalName": "ResetBox",
         "displayName": "Post Office Box Reseto Magnifico",
@@ -22346,6 +22605,14 @@
         "typeGen": "dQuest",
         "Type": "Quest Item",
         "description": "Restores power to the Spirit Portal in the magma rivertown, allowing travel to World 6! "
+    },
+    "Crystal6": {
+        "internalName": "Crystal6",
+        "displayName": "Gem to W7",
+        "sellPrice": 1,
+        "typeGen": "dQuest",
+        "Type": "Quest Item",
+        "description": "Restores power to the W7 Portal in the spirit village, allowing travel to World 7! "
     },
     "PeanutS": {
         "internalName": "PeanutS",
@@ -23083,6 +23350,30 @@
         "Type": "Usable",
         "description": "Collect 1000 of these to unlock AFK Bones for Deathbringer! Once you have 1000, hold down on this item. You will then earn 1 Charred Bone per 1hr AFK claimed on your Deathbringer. "
     },
+    "Quest99": {
+        "internalName": "Quest99",
+        "displayName": "Prisma Bubble",
+        "sellPrice": 50,
+        "typeGen": "dQuest",
+        "Type": "Dungeon Evaporate",
+        "description": "You shouldn't be reading this... "
+    },
+    "Quest100": {
+        "internalName": "Quest100",
+        "displayName": "Aether Fragment",
+        "sellPrice": 100,
+        "typeGen": "dQuest",
+        "Type": "Usable",
+        "description": "Collect 1000 of these to unlock AFK Dust for Windwalker! Once you have 1000, hold down on this item. You will then earn 1 Aethermoon per 2hr AFK claimed on your Windwalker. "
+    },
+    "Quest101": {
+        "internalName": "Quest101",
+        "displayName": "Arcane Rock",
+        "sellPrice": 100,
+        "typeGen": "dQuest",
+        "Type": "Usable",
+        "description": "Hold down to instantly get 1 Hours of Tachyons added to the Tesseract! The amount is based on the current hourly rate shown in AFK info. You must be on your Arcane Cultist to use this. "
+    },
     "EquipmentSmithingTabs2": {
         "internalName": "EquipmentSmithingTabs2",
         "displayName": "Anvil Tab 2",
@@ -23543,6 +23834,54 @@
         "Type": "Dungeon Evaporate",
         "description": "You shouldnt be reading this... "
     },
+    "Tach0": {
+        "internalName": "Tach0",
+        "displayName": "Singulon",
+        "sellPrice": 50,
+        "typeGen": "dQuest",
+        "Type": "Dungeon Evaporate",
+        "description": "You shouldnt be reading this... "
+    },
+    "Tach1": {
+        "internalName": "Tach1",
+        "displayName": "Doubulon",
+        "sellPrice": 50,
+        "typeGen": "dQuest",
+        "Type": "Dungeon Evaporate",
+        "description": "You shouldnt be reading this... "
+    },
+    "Tach2": {
+        "internalName": "Tach2",
+        "displayName": "Verdon",
+        "sellPrice": 50,
+        "typeGen": "dQuest",
+        "Type": "Dungeon Evaporate",
+        "description": "You shouldnt be reading this... "
+    },
+    "Tach3": {
+        "internalName": "Tach3",
+        "displayName": "Bludon",
+        "sellPrice": 50,
+        "typeGen": "dQuest",
+        "Type": "Dungeon Evaporate",
+        "description": "You shouldnt be reading this... "
+    },
+    "Tach4": {
+        "internalName": "Tach4",
+        "displayName": "Massivon",
+        "sellPrice": 50,
+        "typeGen": "dQuest",
+        "Type": "Dungeon Evaporate",
+        "description": "You shouldnt be reading this... "
+    },
+    "Tach5": {
+        "internalName": "Tach5",
+        "displayName": "Aurion",
+        "sellPrice": 50,
+        "typeGen": "dQuest",
+        "Type": "Dungeon Evaporate",
+        "description": "You shouldnt be reading this... "
+    },
     "FoodHealth1d": {
         "internalName": "FoodHealth1d",
         "displayName": "Nomwich",
@@ -23566,6 +23905,48 @@
         "typeGen": "cFood",
         "Type": "Dungeon Food",
         "description": "Auto-Used when your health goes below 50%. Restores 20 HP. Has a 30 second Cooldown. "
+    },
+    "EquipmentWandsArc0": {
+        "internalName": "EquipmentWandsArc0",
+        "displayName": "Arcanist Staff",
+        "sellPrice": 1,
+        "typeGen": "aWeapon",
+        "Type": "Wand",
+        "lvReqToCraft": 22,
+        "lvReqToEquip": 1,
+        "Class": "Mage",
+        "Weapon_Power": 20,
+        "STR": 0,
+        "AGI": 0,
+        "WIS": 0,
+        "LUK": 0,
+        "Defence": 0,
+        "miscUp1": "10% Arcanist Dmg",
+        "miscUp2": "1% Extra Tachyons",
+        "Upgrade_Slots_Left": 0,
+        "Speed": 5,
+        "Reach": 80
+    },
+    "EquipmentRingsArc0": {
+        "internalName": "EquipmentRingsArc0",
+        "displayName": "Cultist Ring",
+        "sellPrice": 1,
+        "typeGen": "aRing",
+        "Type": "Ring",
+        "lvReqToCraft": 22,
+        "lvReqToEquip": 1,
+        "Class": "Mage",
+        "Weapon_Power": 0,
+        "STR": 0,
+        "AGI": 0,
+        "WIS": 0,
+        "LUK": 0,
+        "Defence": 0,
+        "miscUp1": "5% Arcanist Acc",
+        "miscUp2": "1% Extra Tachyons",
+        "Upgrade_Slots_Left": 0,
+        "Skill": "",
+        "Skill_Power": 0
     },
     "EquipmentBowsTempest0": {
         "internalName": "EquipmentBowsTempest0",
@@ -27128,6 +27509,14 @@
         "Skill": "",
         "Skill_Power": 0
     },
+    "GemP36": {
+        "internalName": "GemP36",
+        "displayName": "Funny 2hr Fishy",
+        "sellPrice": 1,
+        "typeGen": "dQuest",
+        "Type": "Usable",
+        "description": "Hold down to gain 2 hours of fish gains at Poppy The Kangaroo Mouse's Fish Pond! You should wait until you know what that is before using this... "
+    },
     "GemP9": {
         "internalName": "GemP9",
         "displayName": "Quality Obol Stack",
@@ -28303,6 +28692,69 @@
         "LUK": 0,
         "Defence": 0,
         "miscUp1": "25% Dust Multi",
+        "miscUp2": "00",
+        "Upgrade_Slots_Left": 5,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "EquipmentHats120": {
+        "internalName": "EquipmentHats120",
+        "displayName": "Umbrella Brim",
+        "sellPrice": 1,
+        "typeGen": "aHelmetMTX",
+        "Type": "Premium Helmet",
+        "lvReqToCraft": 5,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 0,
+        "STR": 1,
+        "AGI": 1,
+        "WIS": 1,
+        "LUK": 0,
+        "Defence": 0,
+        "miscUp1": "10% Bonus Money",
+        "miscUp2": "00",
+        "Upgrade_Slots_Left": 5,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "EquipmentHats121": {
+        "internalName": "EquipmentHats121",
+        "displayName": "Bloo Creamer",
+        "sellPrice": 1,
+        "typeGen": "aHelmetMTX",
+        "Type": "Premium Helmet",
+        "lvReqToCraft": 5,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 0,
+        "STR": 1,
+        "AGI": 1,
+        "WIS": 1,
+        "LUK": 0,
+        "Defence": 0,
+        "miscUp1": "15% Skill Exp",
+        "miscUp2": "00",
+        "Upgrade_Slots_Left": 5,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "EquipmentHats122": {
+        "internalName": "EquipmentHats122",
+        "displayName": "Arcanist Crown",
+        "sellPrice": 1,
+        "typeGen": "aHelmetMTX",
+        "Type": "Premium Helmet",
+        "lvReqToCraft": 5,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 0,
+        "STR": 1,
+        "AGI": 1,
+        "WIS": 1,
+        "LUK": 0,
+        "Defence": 0,
+        "miscUp1": "25% Extra Tachyons",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 5,
         "Skill": "",
@@ -31960,7 +32412,7 @@
             "bonus": 12,
             "order": 26
         },
-        "dropChance": 1
+        "dropChance": 0.001
     },
     "CardsZ22": {
         "internalName": "CardsZ22",
@@ -31976,7 +32428,7 @@
             "bonus": 8,
             "order": 27
         },
-        "dropChance": 1
+        "dropChance": 0.001
     },
     "CardsZ23": {
         "internalName": "CardsZ23",
@@ -31992,7 +32444,7 @@
             "bonus": 20,
             "order": 28
         },
-        "dropChance": 1
+        "dropChance": 0.001
     },
     "CardsZ24": {
         "internalName": "CardsZ24",

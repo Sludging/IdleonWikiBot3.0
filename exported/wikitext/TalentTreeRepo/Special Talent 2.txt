@@ -52,7 +52,7 @@
 }}
 {{Talent
 |name=Printer Sampling
-|textArr=Cast to sample (Table 1)% of your current AFK gains rate, which is used by the 3d Printer.
+|textArr=Use from the Attack Bar to sample (Table 1)% of the resource you're AFKing, produced at the 3d Printer!
 |form1=bigBase
 |x1=10
 |x2=0.075

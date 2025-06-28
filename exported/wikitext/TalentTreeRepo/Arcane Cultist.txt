@@ -1,0 +1,126 @@
+{{Talent
+|name=Arcanist Form
+|textArr=Enter/Exit Arcanist Form to collect Tachyons, while coping with new combat stats. Also gives +(Table 1)% Arcanist DMG
+|form1=decay
+|x1=200
+|x2=300
+|cooldown=5
+|actiontime=1
+|manacost=1
+}}
+{{Talent
+|name=Tesseract
+|textArr=Opens the Tesseract, which upgrades Arcanist Form and more. Also gives a +(Table 1)% boost to Tachyons found.
+|form1=decay
+|x1=150
+|x2=300
+|cooldown=3
+|actiontime=1
+|manacost=1
+}}
+{{Talent
+|name=Arcane Skulls
+|textArr=Sizzling skulls are now Arcane, can hit Arcane mobs, and last (Table 1)% longer. You also cast skulls every basic attack.
+|form1=decay
+|x1=300
+|x2=300
+}}
+{{Talent
+|name=Arcane Crystals
+|textArr=When fully charged by normal kills, spawns (Table 1) Arcane mobs immune to non-arcane dmg. Use again to change colour!
+|form1=intervalAdd
+|x1=3
+|x2=50
+|cooldown=2
+|actiontime=1
+|manacost=1
+}}
+{{Talent
+|name=Overwhelming Energy
+|textArr=During Arcanist Form, defeating arcane mobs perma-buffs EXP, DR, or AFK for the current map up to (Table 1)x, shown in AFK Info
+|form1=decayMulti
+|x1=1
+|x2=500
+}}
+{{Talent
+|name=Ghastly Power
+|textArr=+(Table 1)% Arcanist DMG and +(Table 2)% Attack Speed per 100 Tesseract Upgrades total
+|form1=decay
+|x1=40
+|x2=250
+|form2=decay
+|y1=3
+|y2=300
+}}
+{{Talent
+|name=Ghoulish Power
+|textArr=+(Table 1)% Arcanist Accuracy and Defence per 100 Tesseract Upgrades total
+|form1=decay
+|x1=10
+|x2=250
+|form2=decay
+|y1=10
+|y2=250
+}}
+{{Talent
+|name=Labotomizer
+|textArr=+(Table 1)% Arcanist Critical Hit chance per 10 Laboratory LV
+|form1=decay
+|x1=1.5
+|x2=200
+}}
+{{Talent
+|name=Individuality
+|textArr=+(Table 1) base WIS
+|form1=add
+|x1=5
+|x2=0
+}}
+{{Talent
+|name=Primo Prisma
+|textArr=Arcane mobs have a (Table 1)x higher chance of dropping Prisma bubbles.
+|form1=decayMulti
+|x1=6
+|x2=250
+}}
+{{Talent
+|name=Essential Essence
+|textArr=All Summoning Upgrades are (Table 1)% cheaper per 100 total upgrades you have!
+|form1=decay
+|x1=500
+|x2=220
+}}
+{{Talent
+|name=Passion Of The Summon
+|textArr=(Table 1)x Summoning EXP gain, and (Table 2)% chance to get a DOUBLE Summoning Familiar! Works on all players.
+|form1=decayMulti
+|x1=6
+|x2=300
+|form2=decay
+|y1=100
+|y2=150
+}}
+{{Talent
+|name=Absolute Stardom
+|textArr=Summoning Doublers from Gambit Cavern give the upgrade +(Table 1)% multi, instead of just +100% multi.
+|form1=bigBase
+|x1=100
+|x2=0.15
+}}
+{{Talent
+|name=Tachyon Truth
+|textArr=No Bubble Left Behind has a +(Table 1)% chance to give +3 LV per POW 10 Tachyons collected
+|form1=decay
+|x1=12
+|x2=250
+}}
+{{Talent
+|name=Backup Energy
+|textArr=Backup needed? How about (Table 1)x Tachyon Gain and -(Table 2) kills needed to charge Arcane Crystals
+|form1=decayMulti
+|x1=0.5
+|x2=250
+|form2=intervalAdd
+|y1=0
+|y2=50
+}}

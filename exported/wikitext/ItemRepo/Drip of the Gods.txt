@@ -10,7 +10,7 @@
 |misc=30% Drop Chance
 |misc2=12% Multikill Per Tier
 |upgrade=9
-|defence=100
+|defence=120
 |sellprice=1574050234000
 |setname = Gods
 }}

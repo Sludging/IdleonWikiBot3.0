@@ -292,5 +292,47 @@
         ],
         "name": "Pure Opal Rhombol",
         "bonusGiven": 10
+    },
+    "Deadly Wrath Jewel": {
+        "x": 1815,
+        "y": 96,
+        "range": 100,
+        "effect": "+}% extra Deathbringer Bones. @ This bonus always has a 100px connection range no matter what!",
+        "description": "Boosts entire Lab",
+        "requirements": [
+            {"item": "SpiB2b", "quantity": 1000},
+            {"mealNo": "58", "quantity": 10000000},
+            {"spiceNo": "21", "quantity": 10000}
+        ],
+        "name": "Deadly Wrath Jewel",
+        "bonusGiven": 50
+    },
+    "North Winds Jewel": {
+        "x": 1728,
+        "y": 421,
+        "range": 100,
+        "effect": "+}% extra Windwalker Dust. @ This bonus always has a 100px connection range no matter what!",
+        "description": "Boosts entire Lab",
+        "requirements": [
+            {"item": "SpiB2b", "quantity": 1000},
+            {"mealNo": "58", "quantity": 10000000},
+            {"spiceNo": "21", "quantity": 10000}
+        ],
+        "name": "North Winds Jewel",
+        "bonusGiven": 50
+    },
+    "Eternal Energy Jewel": {
+        "x": 2042,
+        "y": 410,
+        "range": 100,
+        "effect": "+}% extra Arcane Cultist Tachyons. @ This bonus always has a 100px connection range no matter what!",
+        "description": "Boosts entire Lab",
+        "requirements": [
+            {"item": "SpiB2b", "quantity": 1000},
+            {"mealNo": "58", "quantity": 10000000},
+            {"spiceNo": "21", "quantity": 10000}
+        ],
+        "name": "Eternal Energy Jewel",
+        "bonusGiven": 50
     }
 }

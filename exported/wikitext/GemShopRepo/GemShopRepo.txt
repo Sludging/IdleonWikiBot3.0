@@ -256,6 +256,15 @@
 |maxPurchases=1
 }}
 {{GemshopData
+|section=Dailies N' Resets
+|name=ClassSwapC
+|mtxName=Complete Class Redo
+|itemDisplayName=Complete Class Redo Token
+|description=Sets you back to being a Level 1 Beginner. Nothing else resets. You can then redo the Class quests and become whatever you like. And yea, you can only buy ONE of these.
+|cost=999
+|maxPurchases=1
+}}
+{{GemshopData
 |section=Cards
 |name=CardPack1
 |mtxName=Newbie Card Pack
@@ -393,54 +402,28 @@
 }}
 {{GemshopData
 |section=Limited Specials
-|name=EquipmentHats118
-|mtxName=Windwalker Hood
-|itemDisplayName=Windwalker Hood
-|description=Comes with a 1.25x Extra Dust multiplier, which will help upgrade The Compass while playing on your Windwalker!
-|cost=890
+|name=EquipmentHats122
+|mtxName=Arcanist Crown
+|itemDisplayName=Arcanist Crown
+|description=Comes with a +25% Extra Tachyon multiplier, which will help upgrade the Tesseract while playing on your Arcane Cultist!
+|cost=790
 |maxPurchases=1
 }}
 {{GemshopData
 |section=Limited Specials
-|name=Quest96
-|mtxName=Freebie
-|itemDisplayName=Aethermoon
-|description=Did you really think I wouldn't have a freebie here for you? Remember, the new Windwalker class comes from the Beastmaster class, so go to Masterius in world 6 on your Beastmaster!
-|cost=1
-|maxPurchases=2
-}}
-{{GemshopData
-|section=Limited Specials
-|name=GemP39
-|mtxName=Exalted Stamps
-|description=Lets you turn a stamp of your choice into an Exalted Stamp! These gives 2.00x their bonus, or even up to 3.00x and beyond using your Windwalker's Compass!
-|cost=535
-|maxPurchases=7
-}}
-{{GemshopData
-|section=Limited Specials
-|name=EquipmentRings34
-|mtxName=World 5 Kill Ring
-|itemDisplayName=Magma Killer Ring
-|description=All kills in World 5 count for 1.30x for opening portals to the next map. Helps you get to World 6 faster! 30% Faster to be exact!
-|cost=750
-|maxPurchases=2
-}}
-{{GemshopData
-|section=Limited Specials
-|name=EquipmentRings32
-|mtxName=World 4 Kill Ring
-|itemDisplayName=Nebula Killer Ring
-|description=All kills in World 4 count for 1.30x for opening portals to the next map. Helps you get to World 5 faster! 30% Faster to be exact!
-|cost=844
-|maxPurchases=1
+|name=Quest101
+|mtxName=Arcane Rock
+|itemDisplayName=Arcane Rock
+|description=Use this on your Arcane Cultist to instantly get 1hr of Tachyons. This item will restock every day.
+|cost=195
+|maxPurchases=5
 }}
 {{GemshopData
 |section=Limited Specials
 |name=RibbonBig14
 |mtxName=Super Tier Ribbon
-|description=Gives you a random ribbon for your Ribbon Shelf, found at the Meals Menu in World 4! 40% chance for Tier 10, 30% chance for Tier 11, 20% for Tier 12, 7% for Tier 13, and 3% for Tier 15!
-|cost=490
+|description=15% OFF NORMAL PRICE! Gives you a random ribbon for your Ribbon Shelf, found at the Meals Menu in World 4! 40% chance for Tier 10, 30% for T11, 20% for T12, 7% for T13, 3% for T15!
+|cost=495
 |maxPurchases=20
 }}
 {{GemshopData
@@ -448,9 +431,44 @@
 |name=Timecandy9
 |mtxName=Cosmic Time Candy
 |itemDisplayName=Cosmic Time Candy
-|description=25% OFF NORMAL PRICE!! These unique Time Candies give up to 500 HOURS of AFK time! Click the item in game to see the chances...
-|cost=295
-|maxPurchases=20
+|description=40% OFF NORMAL PRICE! A mythical candy that gives a random amount of time! @ These candies can give up to 500 HOURS of AFK time, with an avg of 24hr.
+|cost=237
+|maxPurchases=30
+}}
+{{GemshopData
+|section=Limited Specials
+|name=ClassSwapB
+|mtxName=Elite Class Swap
+|itemDisplayName=Elite Class Swap Token
+|description=Gives 1 Elite Class Swap token. Use this to swap between elite classes of a certain category, like Blood Berserker to Divine Knight. Does NOT let you swap master class.
+|cost=900
+|maxPurchases=1
+}}
+{{GemshopData
+|section=Limited Specials
+|name=GemQ18
+|mtxName=5 Star Cardifier
+|description=Use this on a 4 star card to upgrade it to 5 stars! It works like 4 star cardifiers do, you get to choose which card gets upgraded, no randomness involved!! Yippie!!!
+|cost=486
+|maxPurchases=10
+}}
+{{GemshopData
+|section=Limited Specials
+|name=GemP35
+|mtxName=Square Hyper Obol
+|itemDisplayName=Hyper Obol Stack Square Edition
+|description=Gives you a random Square Hyper Obol! The four equal possibilites are +10% DROP RATE, +5% ALL STAT, +12% DAMAGE, and +6% MULTIKILL PER TIER!
+|cost=575
+|maxPurchases=6
+}}
+{{GemshopData
+|section=Limited Specials
+|name=GemP25
+|mtxName=Random Hyper Obol
+|itemDisplayName=Hyper Obol Stack
+|description=Gives you a random Circle Hyper Obol! The four equal possibilites are +4% DROP RATE, +2% ALL STAT, +3% DAMAGE, and +2% MULTIKILL PER TIER!
+|cost=475
+|maxPurchases=12
 }}
 {{GemshopData
 |section=Premium Stones

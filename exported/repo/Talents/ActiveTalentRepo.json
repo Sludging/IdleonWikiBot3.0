@@ -1039,6 +1039,45 @@
         "AFKtype": "auto",
         "AFKactivity": 0
     },
+    "Arcanist Form": {
+        "name": "Arcanist Form",
+        "K": 1,
+        "D": 1,
+        "s": 1,
+        "cooldown": 5,
+        "castTime": 1,
+        "manaCost": 1,
+        "inputReq": 0,
+        "AFKrange": 230,
+        "AFKtype": "buff",
+        "AFKactivity": -2
+    },
+    "Tesseract": {
+        "name": "Tesseract",
+        "K": 1,
+        "D": 1,
+        "s": 1,
+        "cooldown": 3,
+        "castTime": 1,
+        "manaCost": 1,
+        "inputReq": 0,
+        "AFKrange": 230,
+        "AFKtype": "buff",
+        "AFKactivity": -2
+    },
+    "Arcane Crystals": {
+        "name": "Arcane Crystals",
+        "K": 1,
+        "D": 1,
+        "s": 1,
+        "cooldown": 2,
+        "castTime": 1,
+        "manaCost": 1,
+        "inputReq": 0,
+        "AFKrange": 230,
+        "AFKtype": "buff",
+        "AFKactivity": -2
+    },
     "Roll Da Dice": {
         "name": "Roll Da Dice",
         "K": 1,

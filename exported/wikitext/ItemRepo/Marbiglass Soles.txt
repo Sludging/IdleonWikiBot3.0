@@ -10,7 +10,7 @@
 |misc=7% All Stats
 |misc2=25% Money
 |upgrade=8
-|defence=100
+|defence=110
 |sellprice=70850134000
 |setname = Marbiglass
 }}

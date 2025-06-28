@@ -714,8 +714,8 @@
     {
         "name": "Best Wisdom Monument Round 膛",
         "keyQty": 18,
-        "scalingType": "decay",
-        "totalVal": 250,
+        "scalingType": "linearToMax",
+        "totalVal": 350,
         "decimalDisplay": null,
         "desc": "Wisdom Monument is the 13th Cavern in The Hole."
     },
@@ -758,5 +758,13 @@
         "totalVal": 50,
         "decimalDisplay": null,
         "desc": "Yea nah, I aint snitchin'. This is a SECRET mode."
+    },
+    {
+        "name": "Spirited Valley Emperor Boss Kills 膛",
+        "keyQty": 100,
+        "scalingType": "linearToMax",
+        "totalVal": 400,
+        "decimalDisplay": null,
+        "desc": "This counts your current Showdown for the Emperor boss in World 6, not the total amount of kills."
     }
 ]

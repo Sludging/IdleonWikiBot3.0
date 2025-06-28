@@ -5,7 +5,8 @@
         "x2": 0,
         "func": "add",
         "type": "",
-        "lvlUpText": "+{ Dmg"
+        "lvlUpText": "+{ Dmg",
+        "barType": -1
     },
     {
         "effect": "+{ Base Defence",
@@ -13,7 +14,8 @@
         "x2": 0,
         "func": "add",
         "type": "",
-        "lvlUpText": "+{ Def"
+        "lvlUpText": "+{ Def",
+        "barType": -1
     },
     {
         "effect": "+{% Total Accuracy",
@@ -21,7 +23,8 @@
         "x2": 100,
         "func": "decay",
         "type": "",
-        "lvlUpText": "+{% Acc"
+        "lvlUpText": "+{% Acc",
+        "barType": -1
     },
     {
         "effect": "+{% Mining EXP gain",
@@ -29,7 +32,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% Min EXP"
+        "lvlUpText": "+{% Min EXP",
+        "barType": -1
     },
     {
         "effect": "+{% Fishing EXP gain",
@@ -37,7 +41,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% Fish EXP"
+        "lvlUpText": "+{% Fish EXP",
+        "barType": -1
     },
     {
         "effect": "+{% Sample Size",
@@ -45,7 +50,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% Size"
+        "lvlUpText": "+{% Size",
+        "barType": -1
     },
     {
         "effect": "+{% AFK Gains Rate",
@@ -53,7 +59,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% Rate"
+        "lvlUpText": "+{% Rate",
+        "barType": -1
     },
     {
         "effect": "+{ Cap for all Liquids",
@@ -61,7 +68,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{ Cap"
+        "lvlUpText": "+{ Cap",
+        "barType": -1
     },
     {
         "effect": "+{% Multikill per Tier",
@@ -69,7 +77,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% Multikill"
+        "lvlUpText": "+{% Multikill",
+        "barType": -1
     },
     {
         "effect": "+{% Catching EXP gain",
@@ -77,7 +86,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% Catch EXP"
+        "lvlUpText": "+{% Catch EXP",
+        "barType": -1
     },
     {
         "effect": "+{% Cash from Mobs",
@@ -85,7 +95,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% Cash"
+        "lvlUpText": "+{% Cash",
+        "barType": -1
     },
     {
         "effect": "+{% Cash from Mobs",
@@ -93,7 +104,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% Cash"
+        "lvlUpText": "+{% Cash",
+        "barType": -1
     },
     {
         "effect": "+{% Class EXP gain",
@@ -101,7 +113,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% EXP"
+        "lvlUpText": "+{% EXP",
+        "barType": -1
     },
     {
         "effect": "+{% Shiny Chance",
@@ -109,7 +122,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% Chance"
+        "lvlUpText": "+{% Chance",
+        "barType": -1
     },
     {
         "effect": "+{% Trapping EXP",
@@ -117,7 +131,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% Trap EXP"
+        "lvlUpText": "+{% Trap EXP",
+        "barType": -1
     },
     {
         "effect": "+{ Starting TD Pts",
@@ -125,7 +140,8 @@
         "x2": 0,
         "func": "add",
         "type": "",
-        "lvlUpText": "+{ Worship Pts"
+        "lvlUpText": "+{ Worship Pts",
+        "barType": -1
     },
     {
         "effect": "+{ Tab 1 Talent Pt",
@@ -133,7 +149,8 @@
         "x2": 10,
         "func": "intervalAdd",
         "type": "",
-        "lvlUpText": "+1 Pt per 10 LVs"
+        "lvlUpText": "+1 Pt per 10 LVs",
+        "barType": -1
     },
     {
         "effect": "+{ Weapon Power",
@@ -141,7 +158,8 @@
         "x2": 0,
         "func": "add",
         "type": "",
-        "lvlUpText": "+{ Wep POW"
+        "lvlUpText": "+{ Wep POW",
+        "barType": -1
     },
     {
         "effect": "+{% Skill EXP gain",
@@ -149,7 +167,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% EXP"
+        "lvlUpText": "+{% EXP",
+        "barType": -1
     },
     {
         "effect": "+{ Base STR",
@@ -157,7 +176,8 @@
         "x2": 0,
         "func": "add",
         "type": "",
-        "lvlUpText": "+{ STR"
+        "lvlUpText": "+{ STR",
+        "barType": -1
     },
     {
         "effect": "+{ Base AGI",
@@ -165,7 +185,8 @@
         "x2": 0,
         "func": "add",
         "type": "",
-        "lvlUpText": "+{ AGI"
+        "lvlUpText": "+{ AGI",
+        "barType": -1
     },
     {
         "effect": "+{ Base WIS",
@@ -173,7 +194,8 @@
         "x2": 0,
         "func": "add",
         "type": "",
-        "lvlUpText": "+{ WIS"
+        "lvlUpText": "+{ WIS",
+        "barType": -1
     },
     {
         "effect": "+{ Base LUK",
@@ -181,7 +203,8 @@
         "x2": 0,
         "func": "add",
         "type": "",
-        "lvlUpText": "+{ LUK"
+        "lvlUpText": "+{ LUK",
+        "barType": -1
     },
     {
         "effect": "+{% Trapping Critters",
@@ -189,7 +212,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% Critters"
+        "lvlUpText": "+{% Critters",
+        "barType": -1
     },
     {
         "effect": "+{% Worship Souls",
@@ -197,7 +221,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% Souls"
+        "lvlUpText": "+{% Souls",
+        "barType": -1
     },
     {
         "effect": "+{% Refinery Speed",
@@ -205,7 +230,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% Speed"
+        "lvlUpText": "+{% Speed",
+        "barType": -1
     },
     {
         "effect": "+{% Forge Capacity",
@@ -213,7 +239,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% Cap"
+        "lvlUpText": "+{% Cap",
+        "barType": -1
     },
     {
         "effect": "+{% Drop Rate",
@@ -221,7 +248,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% Drop"
+        "lvlUpText": "+{% Drop",
+        "barType": -1
     },
     {
         "effect": "+{% Cook SPD multi",
@@ -229,7 +257,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% SPD"
+        "lvlUpText": "+{% SPD",
+        "barType": -1
     },
     {
         "effect": "+{% Lab EXP gain",
@@ -237,7 +266,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% EXP"
+        "lvlUpText": "+{% EXP",
+        "barType": -1
     },
     {
         "effect": "+{% Breed Pet DMG",
@@ -245,7 +275,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% DMG"
+        "lvlUpText": "+{% DMG",
+        "barType": -1
     },
     {
         "effect": "+{% Nugget Regen",
@@ -253,7 +284,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% Regen"
+        "lvlUpText": "+{% Regen",
+        "barType": -1
     },
     {
         "effect": "+{% Arti Find",
@@ -261,7 +293,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% Chance"
+        "lvlUpText": "+{% Chance",
+        "barType": -1
     },
     {
         "effect": "+{% Sailing Loot",
@@ -269,7 +302,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% Loot"
+        "lvlUpText": "+{% Loot",
+        "barType": -1
     },
     {
         "effect": "+{% W Ess gain",
@@ -277,7 +311,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% W Ess"
+        "lvlUpText": "+{% W Ess",
+        "barType": -1
     },
     {
         "effect": "+{% Jade gain",
@@ -285,7 +320,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% Jade"
+        "lvlUpText": "+{% Jade",
+        "barType": -1
     },
     {
         "effect": "+{% Farming EXP",
@@ -293,7 +329,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% EXP"
+        "lvlUpText": "+{% EXP",
+        "barType": -1
     },
     {
         "effect": "+{% Divinity EXP",
@@ -301,7 +338,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% EXP"
+        "lvlUpText": "+{% EXP",
+        "barType": -1
     },
     {
         "effect": "+{% Villager XP multi",
@@ -309,7 +347,8 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% XP multi"
+        "lvlUpText": "+{% XP multi",
+        "barType": -1
     },
     {
         "effect": "+{% Gold Ball Gain",
@@ -317,7 +356,8 @@
         "x2": 0,
         "func": "add",
         "type": "%",
-        "lvlUpText": "+{% Balls"
+        "lvlUpText": "+{% Balls",
+        "barType": -1
     },
     {
         "effect": "+{% Deathbringer Bones",
@@ -325,7 +365,8 @@
         "x2": 0,
         "func": "add",
         "type": "%",
-        "lvlUpText": "+{% Bones"
+        "lvlUpText": "+{% Bones",
+        "barType": -1
     },
     {
         "effect": "+{% Equinox Fill Rate",
@@ -333,7 +374,8 @@
         "x2": 0,
         "func": "add",
         "type": "%",
-        "lvlUpText": "+{% Fill Rate"
+        "lvlUpText": "+{% Fill Rate",
+        "barType": -1
     },
     {
         "effect": "+{% Monument AFK",
@@ -341,7 +383,8 @@
         "x2": 0,
         "func": "add",
         "type": "%",
-        "lvlUpText": "+{% AFK"
+        "lvlUpText": "+{% AFK",
+        "barType": -1
     },
     {
         "effect": "+{% Sigil Speed",
@@ -349,7 +392,8 @@
         "x2": 0,
         "func": "add",
         "type": "%",
-        "lvlUpText": "+{% Speed"
+        "lvlUpText": "+{% Speed",
+        "barType": -1
     },
     {
         "effect": "+{% Construction Build",
@@ -357,7 +401,8 @@
         "x2": 0,
         "func": "add",
         "type": "%",
-        "lvlUpText": "+{% Build Rate"
+        "lvlUpText": "+{% Build Rate",
+        "barType": -1
     },
     {
         "effect": "+{% Burger",
@@ -365,7 +410,8 @@
         "x2": 0,
         "func": "add",
         "type": "%",
-        "lvlUpText": "+{% Burger"
+        "lvlUpText": "+{% Burger",
+        "barType": -1
     },
     {
         "effect": "+{% Total Damage",
@@ -373,7 +419,8 @@
         "x2": 0,
         "func": "add",
         "type": "%",
-        "lvlUpText": "+{% Damage"
+        "lvlUpText": "+{% Damage",
+        "barType": -1
     },
     {
         "effect": "+{% Windwalker Dust",
@@ -381,7 +428,8 @@
         "x2": 0,
         "func": "add",
         "type": "%",
-        "lvlUpText": "+{% Dust"
+        "lvlUpText": "+{% Dust",
+        "barType": -1
     },
     {
         "effect": "+{% Medallion Chance",
@@ -389,7 +437,8 @@
         "x2": 0,
         "func": "add",
         "type": "%",
-        "lvlUpText": "+{% Chance"
+        "lvlUpText": "+{% Chance",
+        "barType": -1
     },
     {
         "effect": "+{% Breedability Rate",
@@ -397,6 +446,52 @@
         "x2": 100,
         "func": "decay",
         "type": "%",
-        "lvlUpText": "+{% Breed Rate"
+        "lvlUpText": "+{% Breed Rate",
+        "barType": -1
+    },
+    {
+        "effect": "+{% Arcane Tachyons",
+        "x1": 1,
+        "x2": 0,
+        "func": "add",
+        "type": "%",
+        "lvlUpText": "+{% Tachyons",
+        "barType": 17
+    },
+    {
+        "effect": "+{% Emperor Bonuses",
+        "x1": 0.2,
+        "x2": 0,
+        "func": "add",
+        "type": "%",
+        "lvlUpText": "+{% Bonus",
+        "barType": 42
+    },
+    {
+        "effect": "+{% Sneaking XP multi",
+        "x1": 100,
+        "x2": 100,
+        "func": "decay",
+        "type": "%",
+        "lvlUpText": "+{% XP multi",
+        "barType": 29
+    },
+    {
+        "effect": "+{% Summon XP multi",
+        "x1": 100,
+        "x2": 100,
+        "func": "decay",
+        "type": "%",
+        "lvlUpText": "+{% XP multi",
+        "barType": 23
+    },
+    {
+        "effect": "+{% Prisma Bonuses",
+        "x1": 10,
+        "x2": 100,
+        "func": "decay",
+        "type": "%",
+        "lvlUpText": "+{% Bonus",
+        "barType": 21
     }
 ]

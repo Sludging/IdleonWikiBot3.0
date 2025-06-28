@@ -8,5 +8,8 @@
 {{detdrops|[[Crystal Candalight]]|0.00119|1}}
 {{detdrops|[[Ceramic Spirit]]|0.0000231|1}}
 {{detdrops|[[Skydoggie Spirit]]|0.000024500000000000003|1}}
+{{detdrops|[[Emperor]]|0.007|2}}
+{{detdrops|[[Chaotic Emperor]]|0.007|2}}
+{{detdrops|[[Sovereign Emperor]]|0.007|2}}
 |}
 {{Statuedata|0.6|%@White Ess}}

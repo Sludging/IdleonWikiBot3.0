@@ -3368,7 +3368,7 @@
             "SpecialType": "",
             "ExpGiven": 3500,
             "ExpType": 0,
-            "Defence": 1500,
+            "Defence": 2500,
             "MoveSPEED": 6,
             "Damages": [2500, 1],
             "DefFor0": 3001.06
@@ -5775,6 +5775,39 @@
         "navigation": null,
         "bossData": null
     },
+    "w7d1": {
+        "details": {
+            "Name": "RIP Tide",
+            "AFKtype": "Fighting",
+            "MonsterFace": 89,
+            "MonsterOffsetX": 34,
+            "MonsterOffsetY": 49,
+            "HeightOfMonster": 88,
+            "MonsterMoving": 1,
+            "MovingFrame": 8,
+            "RespawnTime": 45,
+            "DeathFrame": 19,
+            "MonsterHPTotal": 1e+13,
+            "Type": "monsterType",
+            "SpecialType": "",
+            "ExpGiven": 250000000,
+            "ExpType": 0,
+            "Defence": 2500000,
+            "MoveSPEED": 3,
+            "Damages": [600000, 1],
+            "DefFor0": 333313
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 65000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "SpiA1", "quantity": 1, "chance": 0.16, "questLink": "N/A"},
+            {"item": "CardsI1", "quantity": 1, "chance": 2.5e-05, "questLink": "N/A"},
+            {"item": "SmithingRecipes6", "quantity": 4, "chance": 2e-08, "questLink": "N/A"},
+            {"item": "DropTable29", "quantity": 1, "chance": 0.0025, "questLink": "N/A"}
+        ],
+        "mapData": null,
+        "navigation": null,
+        "bossData": null
+    },
     "mushR": {
         "details": {
             "Name": "Red Mushroom",
@@ -5899,7 +5932,7 @@
             "MonsterFace": 48,
             "MonsterOffsetX": 38,
             "MonsterOffsetY": 47,
-            "HeightOfMonster": 68,
+            "HeightOfMonster": 56,
             "MonsterMoving": 1,
             "MovingFrame": 8,
             "RespawnTime": 60,
@@ -5909,7 +5942,7 @@
             "SpecialType": "",
             "ExpGiven": 6000,
             "ExpType": 0,
-            "Defence": 100,
+            "Defence": 2600,
             "MoveSPEED": 4,
             "Damages": [3000, 1],
             "DefFor0": 3563.92
@@ -6787,9 +6820,15 @@
         },
         "drops": [
             {"item": "COIN", "quantity": 1000000, "chance": 1, "questLink": "N/A"},
-            {"item": "FillerMaterial", "quantity": 1, "chance": 0.04, "questLink": "N/A"},
-            {"item": "CardsZ18", "quantity": 1, "chance": 0.0008, "questLink": "N/A"},
-            {"item": "FillerMaterial", "quantity": 1, "chance": 1e-05, "questLink": "N/A"}
+            {"item": "EmpPart", "quantity": 1, "chance": 0.04, "questLink": "N/A"},
+            {"item": "CardsZ21", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "CardsZ22", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "CardsZ23", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentCape17", "quantity": 1, "chance": 2.5e-05, "questLink": "N/A"},
+            {"item": "ObolEmp", "quantity": 1, "chance": 4e-05, "questLink": "N/A"},
+            {"item": "DropTable30", "quantity": 2, "chance": 1, "questLink": "N/A"},
+            {"item": "DropTable31", "quantity": 2, "chance": 1, "questLink": "N/A"},
+            {"item": "DropTable32", "quantity": 2, "chance": 1, "questLink": "N/A"}
         ],
         "mapData": null,
         "navigation": {
@@ -6799,7 +6838,20 @@
             "crystalName": null,
             "hasCard": true
         },
-        "bossData": null
+        "bossData": {
+            "health": 1000000000,
+            "defence": 2500,
+            "exp": 20000000,
+            "keys": 1,
+            "attacks": [
+                {"name": "Spinning Blades!", "damage": 1000},
+                {"name": "Toxic Deluge!", "damage": 1500},
+                {"name": "Guards, sieze him!", "damage": 800},
+                {"name": "Mudslide!", "damage": 450},
+                {"name": "Energy Surge!", "damage": 5000},
+                {"name": "filler", "damage": 400}
+            ]
+        }
     },
     "Boss6B": {
         "details": {
@@ -6824,10 +6876,16 @@
             "DefFor0": 1223.26
         },
         "drops": [
-            {"item": "COIN", "quantity": 5000000, "chance": 1, "questLink": "N/A"},
-            {"item": "FillerMaterial", "quantity": 1, "chance": 0.1, "questLink": "N/A"},
-            {"item": "FillerMaterial", "quantity": 1, "chance": 0.01, "questLink": "N/A"},
-            {"item": "FillerMaterial", "quantity": 1, "chance": 3.5e-05, "questLink": "N/A"}
+            {"item": "COIN", "quantity": 1000000, "chance": 1, "questLink": "N/A"},
+            {"item": "EmpPart", "quantity": 1, "chance": 0.04, "questLink": "N/A"},
+            {"item": "CardsZ21", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "CardsZ22", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "CardsZ23", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentCape17", "quantity": 1, "chance": 2.5e-05, "questLink": "N/A"},
+            {"item": "ObolEmp", "quantity": 1, "chance": 4e-05, "questLink": "N/A"},
+            {"item": "DropTable30", "quantity": 2, "chance": 1, "questLink": "N/A"},
+            {"item": "DropTable31", "quantity": 2, "chance": 1, "questLink": "N/A"},
+            {"item": "DropTable32", "quantity": 2, "chance": 1, "questLink": "N/A"}
         ],
         "mapData": null,
         "navigation": {
@@ -6837,7 +6895,20 @@
             "crystalName": null,
             "hasCard": true
         },
-        "bossData": null
+        "bossData": {
+            "health": 1000000000,
+            "defence": 5,
+            "exp": 700000000,
+            "keys": 5,
+            "attacks": [
+                {"name": "Spinning Blades!", "damage": 1800},
+                {"name": "Toxic Deluge!", "damage": 4000},
+                {"name": "Guards, sieze him!", "damage": 2000},
+                {"name": "Mudslide!", "damage": 1500},
+                {"name": "Energy Surge!", "damage": 2500},
+                {"name": "filler", "damage": 3300}
+            ]
+        }
     },
     "Boss6C": {
         "details": {
@@ -6862,10 +6933,16 @@
             "DefFor0": 1223.26
         },
         "drops": [
-            {"item": "COIN", "quantity": 20000000, "chance": 1, "questLink": "N/A"},
-            {"item": "FillerMaterial", "quantity": 2, "chance": 0.4, "questLink": "N/A"},
-            {"item": "FillerMaterial", "quantity": 1, "chance": 0.08, "questLink": "N/A"},
-            {"item": "FillerMaterial", "quantity": 1, "chance": 0.0004, "questLink": "N/A"}
+            {"item": "COIN", "quantity": 1000000, "chance": 1, "questLink": "N/A"},
+            {"item": "EmpPart", "quantity": 1, "chance": 0.04, "questLink": "N/A"},
+            {"item": "CardsZ21", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "CardsZ22", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "CardsZ23", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentCape17", "quantity": 1, "chance": 2.5e-05, "questLink": "N/A"},
+            {"item": "ObolEmp", "quantity": 1, "chance": 4e-05, "questLink": "N/A"},
+            {"item": "DropTable30", "quantity": 2, "chance": 1, "questLink": "N/A"},
+            {"item": "DropTable31", "quantity": 2, "chance": 1, "questLink": "N/A"},
+            {"item": "DropTable32", "quantity": 2, "chance": 1, "questLink": "N/A"}
         ],
         "mapData": null,
         "navigation": {
@@ -6875,7 +6952,20 @@
             "crystalName": null,
             "hasCard": true
         },
-        "bossData": null
+        "bossData": {
+            "health": 1000000000,
+            "defence": 25,
+            "exp": 2000000000,
+            "keys": 70,
+            "attacks": [
+                {"name": "Spinning Blades!", "damage": 18000},
+                {"name": "Toxic Deluge!", "damage": 40000},
+                {"name": "Guards, sieze him!", "damage": 20000},
+                {"name": "Mudslide!", "damage": 15000},
+                {"name": "Energy Surge!", "damage": 25000},
+                {"name": "filler", "damage": 33000}
+            ]
+        }
     },
     "poopBig": {
         "details": {

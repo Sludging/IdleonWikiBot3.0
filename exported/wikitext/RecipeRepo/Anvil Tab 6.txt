@@ -59,7 +59,7 @@
 |craftnum=5
 |levelreq=75
 |expgiven=1000000
-|recipefrom=[[Sprout Spirit]]
+|recipefrom=[[Sprout Spirit]], [[RIP Tide]]
 |resource1=Crackled Skull Destroyer|quantity1=1
 |resource2=Dream Particulate|quantity2=10000000
 |resource3=Stacked Rice Cake|quantity3=5000
@@ -502,5 +502,45 @@
 |recipefrom=Start
 |resource1=Not Yet|quantity1=1
 |resource2=Not Yet|quantity2=1
+}}
+{{ForgeSlot
+|name=Emperor Kabuto
+|anvtab=Anvil Tab 6
+|craftnum=49
+|levelreq=85
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Crown of the Gods|quantity1=1
+|resource2=Emperor Ribbon|quantity2=50
+}}
+{{ForgeSlot
+|name=Emperor Sokutai Ho
+|anvtab=Anvil Tab 6
+|craftnum=50
+|levelreq=84
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Robe of the Gods|quantity1=1
+|resource2=Emperor Ribbon|quantity2=30
+}}
+{{ForgeSlot
+|name=Emperor Zubon
+|anvtab=Anvil Tab 6
+|craftnum=51
+|levelreq=83
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Tatters of the Gods|quantity1=1
+|resource2=Emperor Ribbon|quantity2=20
+}}
+{{ForgeSlot
+|name=Emperor Geta
+|anvtab=Anvil Tab 6
+|craftnum=52
+|levelreq=82
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Drip of the Gods|quantity1=1
+|resource2=Emperor Ribbon|quantity2=10
 }}
 |}

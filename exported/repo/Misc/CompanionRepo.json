@@ -100,7 +100,7 @@
     },
     "slimeBz": {
         "id": "slimeBz",
-        "desc": "You really have one of only 92 in the game...",
+        "desc": "Only 100 of these exist in IdleOn...",
         "bonus": 10,
         "x1": -48,
         "x2": 0,
@@ -250,5 +250,86 @@
         "x2": 0,
         "x3": -33,
         "x4": 500
+    },
+    "w7d1": {
+        "id": "w7d1",
+        "desc": "Bababooey!",
+        "bonus": 1,
+        "x1": -30,
+        "x2": 0,
+        "x3": -48,
+        "x4": 500
+    },
+    "Pet0": {
+        "id": "Pet0",
+        "desc": "Bababooey!",
+        "bonus": 3,
+        "x1": 6,
+        "x2": 0,
+        "x3": -8,
+        "x4": 100
+    },
+    "Pet1": {
+        "id": "Pet1",
+        "desc": "Bababooey!",
+        "bonus": 3,
+        "x1": 4,
+        "x2": 0,
+        "x3": -5,
+        "x4": 100
+    },
+    "Pet2": {
+        "id": "Pet2",
+        "desc": "Bababooey!",
+        "bonus": 3,
+        "x1": 2,
+        "x2": 0,
+        "x3": -8,
+        "x4": 100
+    },
+    "Pet4": {
+        "id": "Pet4",
+        "desc": "Bababooey!",
+        "bonus": 3,
+        "x1": -2,
+        "x2": 0,
+        "x3": -13,
+        "x4": 100
+    },
+    "Pet5": {
+        "id": "Pet5",
+        "desc": "Bababooey!",
+        "bonus": 3,
+        "x1": -2,
+        "x2": 0,
+        "x3": -10,
+        "x4": 100
+    },
+    "Pet6": {
+        "id": "Pet6",
+        "desc": "Bababooey!",
+        "bonus": 3,
+        "x1": 2,
+        "x2": 0,
+        "x3": -9,
+        "x4": 100
+    },
+    "Pet8": {
+        "id": "Pet8",
+        "desc": "Bababooey!",
+        "bonus": 3,
+        "x1": -5,
+        "x2": 0,
+        "x3": -13,
+        "x4": 100
+    },
+    "Pet11": {
+        "id": "Pet11",
+        "desc": "Bababooey!",
+        "bonus": 3,
+        "x1": -4,
+        "x2": 0,
+        "x3": -11,
+        "x4": 100
     }
 }
