@@ -9,3 +9,4 @@ class ArcadeBonus(IdleonModel):
 	func: str
 	type: str
 	lvlUpText: str
+	barType: Numeric

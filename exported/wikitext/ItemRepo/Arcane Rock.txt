@@ -1,0 +1,5 @@
+{{InfoItem
+|type=Usable
+|description=Hold down to instantly get 1 Hours of Tachyons added to the Tesseract! The amount is based on the current hourly rate shown in AFK info. You must be on your Arcane Cultist to use this. 
+|sellprice=100
+}}

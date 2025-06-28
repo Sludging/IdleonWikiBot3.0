@@ -1,0 +1,8 @@
+{{InfoItem
+|type=Ring
+|class=Mage
+|level=1
+|misc=5% Arcanist Acc
+|misc2=1% Extra Tachyons
+|sellprice=1
+}}

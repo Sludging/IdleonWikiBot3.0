@@ -1,0 +1,51 @@
+{{InfoItem
+|type=Shoes
+|class=All
+|level=600
+|weaponpower=5
+|str=70
+|agi=70
+|wis=70
+|luck=70
+|misc=40% Drop Chance
+|misc2=20% Multikill Per Tier
+|upgrade=10
+|defence=150
+|sellprice=1574050244000
+|setname = Emperor
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Drip of the Gods|1}}
+{{detrecipe|40|Marbiglass Soles|1}}
+{{detrecipe|80|Devious Slippers of the Divine|1}}
+{{detrecipe|120|Magma Core Lavarunners|1}}
+{{detrecipe|160|Soles of the Troll|1}}
+{{detrecipe|200|Cooking Clogs|8}}
+{{detrecipe|200|Troll Scales|10}}
+{{detrecipe|200|Starfire Bar|3000}}
+{{detrecipe|200|Nullo Salt|750}}
+{{detrecipe|160|Orange Slice|1200000}}
+{{detrecipe|160|Dreadlo Bar|2000}}
+{{detrecipe|120|Kruk Tooth|10}}
+{{detrecipe|80|Bamboo Logs|2500000}}
+{{detrecipe|80|Marble Bar|10000}}
+{{detrecipe|40|Firefly|10000000}}
+{{detrecipe|40|Troll Flower|10000000}}
+{{detrecipe|40|Godshard Bar|100000}}
+{{detrecipe|3|Emperor Ribbon|10}}
+|tot=
+{{detrecipe/totals|Emperor Ribbon|10}}
+{{detrecipe/totals|Firefly|10000000}}
+{{detrecipe/totals|Troll Flower|10000000}}
+{{detrecipe/totals|Godshard Bar|100000}}
+{{detrecipe/totals|Bamboo Logs|2500000}}
+{{detrecipe/totals|Marble Bar|10000}}
+{{detrecipe/totals|Kruk Tooth|10}}
+{{detrecipe/totals|Orange Slice|1200000}}
+{{detrecipe/totals|Dreadlo Bar|2000}}
+{{detrecipe/totals|Cooking Clogs|8}}
+{{detrecipe/totals|Troll Scales|10}}
+{{detrecipe/totals|Starfire Bar|3000}}
+{{detrecipe/totals|Nullo Salt|750}}
+}}

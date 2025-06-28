@@ -1,0 +1,19 @@
+{{InfoItem
+|type=Cape
+|class=All
+|level=1
+|weaponpower=8
+|str=15
+|agi=15
+|wis=15
+|luck=15
+|misc=25% Class Exp Multi
+|misc2=10% Drop Chance
+|sellprice=1
+|setname = Gilded
+}}
+{{detdrops/head}}
+{{detdrops|[[Emperor]]|0.000025|1}}
+{{detdrops|[[Chaotic Emperor]]|0.000025|1}}
+{{detdrops|[[Sovereign Emperor]]|0.000025|1}}
+|}

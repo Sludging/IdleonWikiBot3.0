@@ -1,0 +1,6 @@
+{{InfoItem
+|type=Quest Item
+|description=Victorious as you are, I cannot give you the crystal to unlock World 7 at this time. Come fight me later, and I will give to you the W7 crystal. 
+|sellprice=100
+|notes=This is a replacement for W6's world crystal which will be added in a future update.
+}}

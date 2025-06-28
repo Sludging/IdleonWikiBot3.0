@@ -23,7 +23,7 @@ class BossDetailRepo(Repository[BossDetails]):
 
 	@classmethod
 	def generateRepo(cls) -> None:
-		bossIntNames = ["wolf", "Boss2", "Boss3", "Boss4", "Boss5"]
+		bossIntNames = ["wolf", "Boss2", "Boss3", "Boss4", "Boss5", "Boss6"]
 		tabs = ["health", "defence", "exp", "keys"]
 		letters = ["A", "B", "C"]
 
@@ -38,6 +38,7 @@ class BossDetailRepo(Repository[BossDetails]):
 			 "filler", "filler", "filler"],
 			["Attack1", "Attack2", "Attack3", "Attack4", "Attack5", "Attack6", "Attack7", "Attack8", "Attack9",
 			 "Attack10", "Attack11", "Attack12", "Attack13"],
+			["Spinning Blades!", "Toxic Deluge!", "Guards, sieze him!", "Mudslide!", "Energy Surge!", "filler", "filler"],
 		]
 
 		bossInformation = {}

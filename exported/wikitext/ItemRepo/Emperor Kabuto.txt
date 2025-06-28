@@ -1,0 +1,53 @@
+{{InfoItem
+|type=Helmet
+|class=All
+|level=650
+|weaponpower=25
+|str=80
+|agi=80
+|wis=80
+|luck=80
+|misc=25% Drop Chance
+|misc2=30% Multikill Per Tier
+|upgrade=12
+|defence=270
+|sellprice=1514076339650
+|setname = Emperor
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Crown of the Gods|1}}
+{{detrecipe|40|Marbiglass Headdress|1}}
+{{detrecipe|80|Skulled Helmet of the Divine|1}}
+{{detrecipe|120|Magma Core Headdress|1}}
+{{detrecipe|160|Thin Veil of The Troll|1}}
+{{detrecipe|200|Troll Scales|50}}
+{{detrecipe|200|Gold Twine|3}}
+{{detrecipe|200|Starfire Bar|20000}}
+{{detrecipe|200|Nullo Salt|4000}}
+{{detrecipe|160|Dust Mote|80000}}
+{{detrecipe|160|Dreadlo Bar|2500}}
+{{detrecipe|120|Kruk Tooth|50}}
+{{detrecipe|120|Kruk Cavity Tooth|2}}
+{{detrecipe|80|Willow Logs|3000000}}
+{{detrecipe|80|Marble Bar|15000}}
+{{detrecipe|40|Caulifish|10000000}}
+{{detrecipe|40|Royal Fabric|10000000}}
+{{detrecipe|40|Godshard Bar|150000}}
+{{detrecipe|3|Emperor Ribbon|50}}
+|tot=
+{{detrecipe/totals|Emperor Ribbon|50}}
+{{detrecipe/totals|Caulifish|10000000}}
+{{detrecipe/totals|Royal Fabric|10000000}}
+{{detrecipe/totals|Godshard Bar|150000}}
+{{detrecipe/totals|Willow Logs|3000000}}
+{{detrecipe/totals|Marble Bar|15000}}
+{{detrecipe/totals|Kruk Tooth|50}}
+{{detrecipe/totals|Kruk Cavity Tooth|2}}
+{{detrecipe/totals|Dust Mote|80000}}
+{{detrecipe/totals|Dreadlo Bar|2500}}
+{{detrecipe/totals|Troll Scales|50}}
+{{detrecipe/totals|Gold Twine|3}}
+{{detrecipe/totals|Starfire Bar|20000}}
+{{detrecipe/totals|Nullo Salt|4000}}
+}}
