@@ -2,9 +2,9 @@
 |world=Unknown
 |location=Unknown
 |npcType=Unknown
-|birthweight=9.7
-|starsign=Leo
-|mmm=Deitz
+|birthweight=5.56
+|starsign=Taurus
+|mmm=Zeaser
 |notes= 
 }}
 {{Quest/head}}

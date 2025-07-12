@@ -216,6 +216,7 @@ class IdleonReader:
 		self.codeReader.addSection("GrimoireUpg = function ()", "GrimoireUpg")
 		self.codeReader.addSection("CompassUpg = function ()", "CompassUpg")
 		self.codeReader.addSection("ArcaneUpg = function ()", "ArcaneUpg")
+		self.codeReader.addSection("EmperorBon = function ()", "EmperorBon")
 
 
 		self.codeReader.readCode()
