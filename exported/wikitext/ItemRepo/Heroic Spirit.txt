@@ -1,0 +1,14 @@
+{{InfoItem
+|type=Trophy
+|class=All
+|level=600
+|weaponpower=5
+|str=10
+|agi=10
+|wis=10
+|luck=10
+|misc=10% Afk Gains Multi
+|misc2=20% Damage Multi
+|defence=50
+|sellprice=777
+}}

@@ -328,5 +328,12 @@
     "Centurion28": {"name": "Legatus Rank", "difficulty": 7},
     "Centurion31": {"name": "Glorious Gladiator", "difficulty": 9},
     "Masterius2": {"name": "Mastering the Vibe Check", "difficulty": 5},
-    "Masterius4": {"name": "Mastering the Class", "difficulty": 5}
+    "Masterius4": {"name": "Mastering the Class", "difficulty": 5},
+    "Potti3": {"name": "First Showdown...", "difficulty": 5},
+    "Potti6": {"name": "Castle Cleanup", "difficulty": 6},
+    "Potti9": {"name": "Glory to the Crop Depot", "difficulty": 6},
+    "Potti12": {"name": "Star Master", "difficulty": 7},
+    "Potti15": {"name": "15 Time Champion", "difficulty": 8},
+    "Potti18": {"name": "Armor of the Gods", "difficulty": 9},
+    "Potti21": {"name": "Spirit of the Hero", "difficulty": 8}
 }

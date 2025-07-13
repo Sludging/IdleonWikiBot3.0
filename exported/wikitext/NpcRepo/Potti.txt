@@ -7,9 +7,86 @@
 |mmm=Dugelman
 }}
 {{Quest/head}}
+{{Quest|name=First Showdown...
+|text=Defeat The Emperor boss found at the end of World 6
+|difficulty=5
+|requirements=Emperor Defeated: > 1
+|consumed=No
+|rewards=2500x{{ItemDisplay|Compost Statue}}, 2000x{{ItemDisplay|Gold Food Coupon}}
+|notes= 
+}}
+{{Quest|name=Castle Cleanup
+|text=Make your way up to the Top Floor of the Ninja Castle
+|difficulty=6
+|requirements=Floor reached: > 12
+|consumed=No
+|rewards=2500x{{ItemDisplay|Stealth Statue}}, 3000x{{ItemDisplay|Gold Food Coupon}}
+|notes= 
+}}
+{{Quest|name=Glory to the Crop Depot
+|text=Collect 180 different Crops shown by the Crop Scientist
+|difficulty=6
+|requirements=Crops Found: > 180
+|consumed=No
+|rewards=2500x{{ItemDisplay|Essence Statue}}, 4000x{{ItemDisplay|Gold Food Coupon}}
+|notes= 
+}}
+{{Quest|name=Star Master
+|text=Complete all 9 Constellations found in World 6 maps.
+|difficulty=7
+|requirements=W6 Constellations: > 9
+|consumed=No
+|rewards=2500x{{ItemDisplay|Compost Statue}}, 5000x{{ItemDisplay|Gold Food Coupon}}
+|notes= 
+}}
+{{Quest|name=15 Time Champion
+|text=Defeat Summoning stone Bosses 15 times.
+|difficulty=8
+|requirements=Summoning Boss Wins: > 15
+|consumed=No
+|rewards=2500x{{ItemDisplay|Stealth Statue}}, 6000x{{ItemDisplay|Gold Food Coupon}}
+|notes= 
+}}
+{{Quest|name=Armor of the Gods
+|text=Complete the Godshard set
+|difficulty=9
+|requirements=Godshard Set Complete: > 1
+|consumed=No
+|rewards=2500x{{ItemDisplay|Essence Statue}}, 8000x{{ItemDisplay|Gold Food Coupon}}
+|notes= 
+}}
+{{Quest|name=Spirit of the Hero
+|text=Defeat The Emperor on 'Showdown L' which is the 50th showdown.
+|difficulty=8
+|requirements=Showdown Defeated: > 50
+|consumed=No
+|rewards=1x{{ItemDisplay|Heroic Spirit}}
+|notes= 
+}}
 |}
 {{dialogue/head}}
 {{dialogue/row|text='The happy pot hops up and down...'}}
 {{dialogue/row|text=... a permanent smile molded to her face.'}}
-{{dialogue/row|text=Her forced expression is one of true happiness. She would scream if only she knew how. <br> This is not a good time to talk to her... maybe later?}}
+{{dialogue/row|text=Her forced expression is one of true happiness. She would scream if only she knew how.}}
+{{dialogue/row|text=Pain eminates from her ceramic skin. A greater power presides over her every move. <br> QUEST:Defeat The Emperor boss found at the end of World 6|quest=First Showdown...}}
+{{dialogue/row|text=Clear some inventory Space!}}
+{{dialogue/row|text=Her fake smile remains but somehow feels more real...}}
+{{dialogue/row|text=Her hollow eyes have seen horrors. The once sacred Ninja Castle has been overrun. <br> QUEST:Make your way up to the Top Floor of the Ninja Castle|quest=Castle Cleanup}}
+{{dialogue/row|text=Clear some inventory Space!}}
+{{dialogue/row|text=Her fake smile remains but somehow feels more real...}}
+{{dialogue/row|text=Once full of the finest goods and crops she now sits empty. <br> QUEST:Collect 180 different Crops shown by the Crop Scientist|quest=Glory to the Crop Depot}}
+{{dialogue/row|text=Clear some inventory Space!}}
+{{dialogue/row|text=Her fake smile remains but somehow feels more real...}}
+{{dialogue/row|text=Forced to forever look straight forward she no longer gazes up at the stars. <br> QUEST:Complete all 9 Constellations found in World 6 maps.|quest=Star Master}}
+{{dialogue/row|text=Clear some inventory Space!}}
+{{dialogue/row|text=Her fake smile remains but somehow feels more real...}}
+{{dialogue/row|text=How could she sit still with those terrible Summoning Bosses looming large? <br> QUEST:Defeat Summoning stone Bosses 15 times.|quest=15 Time Champion}}
+{{dialogue/row|text=Clear some inventory Space!}}
+{{dialogue/row|text=Her fake smile remains but somehow feels more real...}}
+{{dialogue/row|text=You feel close to your true potential as the true hero she needs but a hero must look the part. <br> QUEST:Complete the Godshard set|quest=Armor of the Gods}}
+{{dialogue/row|text=Clear some inventory Space!}}
+{{dialogue/row|text=Her fake smile remains but you know that's about to change...}}
+{{dialogue/row|text=She may be stuck like this but you can still inspire and lift her spirit. Don't give up your fight against The Emperor! <br> QUEST:Defeat The Emperor on 'Showdown L' which is the 50th showdown.|quest=Spirit of the Hero}}
+{{dialogue/row|text=Clear some inventory Space!}}
+{{dialogue/row|text=Potti stares at you with a smile across her face.}}
 |}

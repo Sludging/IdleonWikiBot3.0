@@ -2,9 +2,9 @@
 |world=Unknown
 |location=Unknown
 |npcType=Unknown
-|birthweight=5.56
-|starsign=Taurus
-|mmm=Zeaser
+|birthweight=2.76
+|starsign=Scorpio
+|mmm=Boyd
 |notes= 
 }}
 {{Quest/head}}

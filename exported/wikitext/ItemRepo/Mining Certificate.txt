@@ -1,6 +1,6 @@
 {{InfoItem
 |type=Quest Item
-|description=It's proof that you can mine, and it's even signed by Glumlee himself! It says; 'You passed. Good for you. Ugh' 
+|description=Proof that you passed Glumlee's tutorial quests. It's worthless. 
 |sellprice=1
 |notes= 
 }}

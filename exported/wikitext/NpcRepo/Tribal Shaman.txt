@@ -12,5 +12,6 @@
 {{dialogue/row|text=Hark a fellow summoner! Don't think I couldn't tell I can see it in the way you walk the way you talk...}}
 {{dialogue/row|text=... the way you critiqued other player's strategies despite only having a few Total Career Wins yourself...}}
 {{dialogue/row|text=Well as a bonafied Summoner I'm sure you've noticed these Summoning Stones littered around the place and I'm sure you'd like to interact with them. You do right?}}
-{{dialogue/row|text=Of course you do! Well that's to bad. Knowing how to interact with them makes me feel special and telling you would diminish that feeling. <br> Come back later to learn the ways of the Summoning Stones}}
+{{dialogue/row|text=Of course you do!}}
+{{dialogue/row|text=Go ahead click the Summoning Stones! You have my full permission! <br> There are currently 7 stones I think I put a few in World 3 World 4 and maybe World 5...? Can't remember...}}
 |}

@@ -25,7 +25,7 @@
 |notes=
 }}
 {{Quest|name=Learn the Language of the Universe
-|text=Learn Divinity from Muhmuguh!
+|text=Unlock the 1st divinity by meditating at the Divinity alter on characters you don't play!
 |difficulty=2
 |requirements=Unlock 1st Divinity: > 1
 |consumed=No
@@ -44,7 +44,7 @@
 {{dialogue/row|text=You dont have enou <br> BLUBLURGH <br> guh... enough space in your inventory for my rewards!}}
 {{dialogue/row|text=Nice job that was super hot! Super hot! Super H... no? You don't get that reference? Eh never mind. Guess you ARE only a level 1 gamer after all right now.}}
 {{dialogue/row|text=Last skill! Divinity! It's my personal favorite.}}
-{{dialogue/row|text=So DIVINITY... ok basically you need to meditate on the altar to get Divinity Points which you spend and unlock new divinities! You can only be linked to 1 divinity at once but can change weekly! <br> QUEST:Learn Divinity from Muhmuguh!|quest=Learn the Language of the Universe}}
+{{dialogue/row|text=For DIVINITY you need to meditate on the altar to get Divinity Points! Spend these Points on offerings to unlock new divinities! <br> QUEST:Unlock the 1st divinity by meditating at the Divinity alter on characters you don't play!|quest=Learn the Language of the Universe}}
 {{dialogue/row|text=You dont have enou <br> BLUBLURGH <br> guh... enough space in your inventory for my rewards!}}
 {{dialogue/row|text=Daaang you've got skills!! Now get out there and teach everyone else how it's done! Literally! So I don't have to do it myself anymore! ...no? Eh fine just go have fun then and leave me to it!}}
 |}

@@ -9560,6 +9560,27 @@
                 "wikiName": "[[Sussy Gene#Loiterin' Around|Loiterin' Around]]",
                 "txtName": "Sussy Gene: Loiterin' Around"
             },
+            {
+                "wikiName": "[[Potti#First Showdown...|First Showdown...]]",
+                "txtName": "Potti: First Showdown..."
+            },
+            {
+                "wikiName": "[[Potti#Castle Cleanup|Castle Cleanup]]",
+                "txtName": "Potti: Castle Cleanup"
+            },
+            {
+                "wikiName": "[[Potti#Glory to the Crop Depot|Glory to the Crop Depot]]",
+                "txtName": "Potti: Glory to the Crop Depot"
+            },
+            {"wikiName": "[[Potti#Star Master|Star Master]]", "txtName": "Potti: Star Master"},
+            {
+                "wikiName": "[[Potti#15 Time Champion|15 Time Champion]]",
+                "txtName": "Potti: 15 Time Champion"
+            },
+            {
+                "wikiName": "[[Potti#Armor of the Gods|Armor of the Gods]]",
+                "txtName": "Potti: Armor of the Gods"
+            },
             {"wikiName": "[[Arcade]]", "txtName": "Arcade"}
         ],
         "recipeFrom": [],
@@ -13355,7 +13376,12 @@
     },
     "EquipmentStatues26": {
         "sources": [
-            {"wikiName": "[[DropTable29]]", "txtName": "DropTable29"}
+            {"wikiName": "[[DropTable29]]", "txtName": "DropTable29"},
+            {
+                "wikiName": "[[Potti#First Showdown...|First Showdown...]]",
+                "txtName": "Potti: First Showdown..."
+            },
+            {"wikiName": "[[Potti#Star Master|Star Master]]", "txtName": "Potti: Star Master"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -13380,7 +13406,15 @@
     },
     "EquipmentStatues27": {
         "sources": [
-            {"wikiName": "[[DropTable30]]", "txtName": "DropTable30"}
+            {"wikiName": "[[DropTable30]]", "txtName": "DropTable30"},
+            {
+                "wikiName": "[[Potti#Castle Cleanup|Castle Cleanup]]",
+                "txtName": "Potti: Castle Cleanup"
+            },
+            {
+                "wikiName": "[[Potti#15 Time Champion|15 Time Champion]]",
+                "txtName": "Potti: 15 Time Champion"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -13394,7 +13428,15 @@
     },
     "EquipmentStatues28": {
         "sources": [
-            {"wikiName": "[[DropTable31]]", "txtName": "DropTable31"}
+            {"wikiName": "[[DropTable31]]", "txtName": "DropTable31"},
+            {
+                "wikiName": "[[Potti#Glory to the Crop Depot|Glory to the Crop Depot]]",
+                "txtName": "Potti: Glory to the Crop Depot"
+            },
+            {
+                "wikiName": "[[Potti#Armor of the Gods|Armor of the Gods]]",
+                "txtName": "Potti: Armor of the Gods"
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -13587,7 +13629,12 @@
         "questAss": []
     },
     "Quest1": {
-        "sources": [],
+        "sources": [
+            {
+                "wikiName": "[[Glumlee#Literally Burning your Money|Literally Burning your Money]]",
+                "txtName": "Glumlee: Literally Burning your Money"
+            }
+        ],
         "recipeFrom": [],
         "questAss": [
             {
@@ -15043,8 +15090,7 @@
             {
                 "wikiName": "[[Royal Worm#Bossin' the Boss|Bossin' the Boss]]",
                 "txtName": "Royal Worm: Bossin' the Boss"
-            },
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -15687,6 +15733,16 @@
         "recipeFrom": [],
         "questAss": []
     },
+    "Trophy23": {
+        "sources": [
+            {
+                "wikiName": "[[Potti#Spirit of the Hero|Spirit of the Hero]]",
+                "txtName": "Potti: Spirit of the Hero"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
     "Quest90": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
@@ -15877,35 +15933,21 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "EquipmentHats122": {
+    "EquipmentPendant33": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
         "recipeFrom": [],
         "questAss": []
     },
-    "Quest101": {
+    "EquipmentHats112": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
         "recipeFrom": [],
         "questAss": []
     },
-    "ClassSwapB": {
-        "sources": [
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "GemP35": {
-        "sources": [
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "GemP25": {
+    "EquipmentHats118": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],

@@ -37,7 +37,7 @@
 }}
 {{Talent
 |name=Overwhelming Energy
-|textArr=During Arcanist Form, defeating arcane mobs perma-buffs EXP, DR, or AFK for the current map up to (Table 1)x, shown in AFK Info
+|textArr=During Arcanist Form, defeating arcane mobs perma-buffs DR, XP, or AFK for the current map up to (Table 1)x, shown in AFK Info
 |form1=decayMulti
 |x1=1
 |x2=500

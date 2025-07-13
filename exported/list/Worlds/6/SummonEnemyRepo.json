@@ -1117,9 +1117,9 @@
         "width": 15,
         "territoryName": "Horsey's Gambit",
         "bonusId": 0,
-        "bonus": null,
+        "bonus": {"bonusId": 32, "bonus": "<x Winner Bonuses"},
         "bonusQty": 0,
-        "difficulty": 0
+        "difficulty": 20
     },
     {
         "enemyId": "Crystal3",
@@ -1128,9 +1128,9 @@
         "width": 20,
         "territoryName": "Bishop's Gambit",
         "bonusId": 0,
-        "bonus": null,
+        "bonus": {"bonusId": 32, "bonus": "<x Winner Bonuses"},
         "bonusQty": 0,
-        "difficulty": 0
+        "difficulty": 20
     },
     {
         "enemyId": "Crystal4",
@@ -1139,9 +1139,9 @@
         "width": 30,
         "territoryName": "Queen's Gambit",
         "bonusId": 0,
-        "bonus": null,
+        "bonus": {"bonusId": 32, "bonus": "<x Winner Bonuses"},
         "bonusQty": 0,
-        "difficulty": 0
+        "difficulty": 20
     },
     {
         "enemyId": "Crystal0",
@@ -1150,9 +1150,9 @@
         "width": 22,
         "territoryName": "Castle's Gambit",
         "bonusId": 0,
-        "bonus": null,
+        "bonus": {"bonusId": 32, "bonus": "<x Winner Bonuses"},
         "bonusQty": 0,
-        "difficulty": 0
+        "difficulty": 20
     },
     {
         "enemyId": "Crystal5",
@@ -1160,6 +1160,105 @@
         "yOff": 30,
         "width": 23,
         "territoryName": "Noob's Gambit",
+        "bonusId": 0,
+        "bonus": {"bonusId": 32, "bonus": "<x Winner Bonuses"},
+        "bonusQty": 0,
+        "difficulty": 20
+    },
+    {
+        "enemyId": "babaMummy",
+        "xOff": 83,
+        "yOff": 0,
+        "width": 90,
+        "territoryName": "The Aetherdoot",
+        "bonusId": 0,
+        "bonus": {"bonusId": 32, "bonus": "<x Winner Bonuses"},
+        "bonusQty": 0,
+        "difficulty": 20
+    },
+    {
+        "enemyId": "slimeB",
+        "xOff": 50,
+        "yOff": 7,
+        "width": 90,
+        "territoryName": "The Grover Glunko",
+        "bonusId": 0,
+        "bonus": {"bonusId": 32, "bonus": "<x Winner Bonuses"},
+        "bonusQty": 0,
+        "difficulty": 20
+    },
+    {
+        "enemyId": "mini6a",
+        "xOff": 61,
+        "yOff": -12,
+        "width": 90,
+        "territoryName": "The Shimmerlord",
+        "bonusId": 0,
+        "bonus": {"bonusId": 32, "bonus": "<x Winner Bonuses"},
+        "bonusQty": 0,
+        "difficulty": 20
+    },
+    {
+        "enemyId": "mini3a",
+        "xOff": 42,
+        "yOff": -30,
+        "width": 90,
+        "territoryName": "The Freezerslush",
+        "bonusId": 0,
+        "bonus": {"bonusId": 32, "bonus": "<x Winner Bonuses"},
+        "bonusQty": 0,
+        "difficulty": 20
+    },
+    {
+        "enemyId": "mini4a",
+        "xOff": 84,
+        "yOff": 3,
+        "width": 90,
+        "territoryName": "The Hexermush",
+        "bonusId": 0,
+        "bonus": null,
+        "bonusQty": 0,
+        "difficulty": 0
+    },
+    {
+        "enemyId": "mini5a",
+        "xOff": 30,
+        "yOff": 10,
+        "width": 90,
+        "territoryName": "The Cinderdomeo",
+        "bonusId": 0,
+        "bonus": null,
+        "bonusQty": 0,
+        "difficulty": 0
+    },
+    {
+        "enemyId": "Boss6",
+        "xOff": 61,
+        "yOff": 45,
+        "width": 90,
+        "territoryName": "The Zephyeror",
+        "bonusId": 0,
+        "bonus": null,
+        "bonusQty": 0,
+        "difficulty": 0
+    },
+    {
+        "enemyId": "babayaga",
+        "xOff": 0,
+        "yOff": 0,
+        "width": 90,
+        "territoryName": "W7 boss",
+        "bonusId": 0,
+        "bonus": null,
+        "bonusQty": 0,
+        "difficulty": 0
+    },
+    {
+        "enemyId": "babayaga",
+        "xOff": 0,
+        "yOff": 0,
+        "width": 90,
+        "territoryName": "W8 boss",
         "bonusId": 0,
         "bonus": null,
         "bonusQty": 0,

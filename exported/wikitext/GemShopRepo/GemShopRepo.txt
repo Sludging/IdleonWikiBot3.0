@@ -91,12 +91,12 @@
 |maxPurchases=100000
 }}
 {{GemshopData
-|section=Chat Rings
+|section=Limited Specials
 |name=EquipmentRingsChat3
 |mtxName=Money Talks Chat Ring
 |itemDisplayName=Wealth Ring
 |cost=2500
-|maxPurchases=100000
+|maxPurchases=1
 }}
 {{GemshopData
 |section=Chat Rings
@@ -402,73 +402,62 @@
 }}
 {{GemshopData
 |section=Limited Specials
-|name=EquipmentHats122
-|mtxName=Arcanist Crown
-|itemDisplayName=Arcanist Crown
-|description=Comes with a +25% Extra Tachyon multiplier, which will help upgrade the Tesseract while playing on your Arcane Cultist!
+|name=GemP47
+|mtxName=Cosmic Balls
+|description=Gives you 5 Cosmic Balls, which is exactly enough to DOUBLE any of any Maxed Out bonuses you have in the Arcade's Gold Ball Shop!
 |cost=790
+|maxPurchases=4
+}}
+{{GemshopData
+|section=Limited Specials
+|name=EquipmentPendant33
+|mtxName=Emerald Bling Pendant
+|itemDisplayName=Emerald Bling Pendant
+|description=Whoever wears this pendant will get 3.00X more money from monsters! Max out that Upgrade Vault in... well, not no time, but in slightly less time!
+|cost=1150
+|maxPurchases=2
+}}
+{{GemshopData
+|section=Limited Specials
+|name=EquipmentHats112
+|mtxName=Deathbringer Hood
+|itemDisplayName=Deathbringer Hood of Death
+|description=The hood of the reaper himself! Comes with a 1.25x Extra Bones multiplier, which will help upgrade the GRIMOIRE while playing on your Deathbringer!
+|cost=890
 |maxPurchases=1
 }}
 {{GemshopData
 |section=Limited Specials
-|name=Quest101
-|mtxName=Arcane Rock
-|itemDisplayName=Arcane Rock
-|description=Use this on your Arcane Cultist to instantly get 1hr of Tachyons. This item will restock every day.
-|cost=195
-|maxPurchases=5
-}}
-{{GemshopData
-|section=Limited Specials
-|name=RibbonBig14
-|mtxName=Super Tier Ribbon
-|description=15% OFF NORMAL PRICE! Gives you a random ribbon for your Ribbon Shelf, found at the Meals Menu in World 4! 40% chance for Tier 10, 30% for T11, 20% for T12, 7% for T13, 3% for T15!
-|cost=495
-|maxPurchases=20
-}}
-{{GemshopData
-|section=Limited Specials
-|name=Timecandy9
-|mtxName=Cosmic Time Candy
-|itemDisplayName=Cosmic Time Candy
-|description=40% OFF NORMAL PRICE! A mythical candy that gives a random amount of time! @ These candies can give up to 500 HOURS of AFK time, with an avg of 24hr.
-|cost=237
-|maxPurchases=30
-}}
-{{GemshopData
-|section=Limited Specials
-|name=ClassSwapB
-|mtxName=Elite Class Swap
-|itemDisplayName=Elite Class Swap Token
-|description=Gives 1 Elite Class Swap token. Use this to swap between elite classes of a certain category, like Blood Berserker to Divine Knight. Does NOT let you swap master class.
-|cost=900
+|name=EquipmentHats118
+|mtxName=Windwalker Hood
+|itemDisplayName=Windwalker Hood
+|description=Comes with a 1.25x Extra Dust multiplier, which will help upgrade The Compass while playing on your Windwalker!
+|cost=890
 |maxPurchases=1
 }}
 {{GemshopData
 |section=Limited Specials
 |name=GemQ18
 |mtxName=5 Star Cardifier
-|description=Use this on a 4 star card to upgrade it to 5 stars! It works like 4 star cardifiers do, you get to choose which card gets upgraded, no randomness involved!! Yippie!!!
-|cost=486
-|maxPurchases=10
+|description=FREE!! FREEEE!!! Use this on a 4 star card to upgrade it to 5 stars! AND ITS FREE!!!
+|cost=1
+|maxPurchases=1
 }}
 {{GemshopData
 |section=Limited Specials
-|name=GemP35
-|mtxName=Square Hyper Obol
-|itemDisplayName=Hyper Obol Stack Square Edition
-|description=Gives you a random Square Hyper Obol! The four equal possibilites are +10% DROP RATE, +5% ALL STAT, +12% DAMAGE, and +6% MULTIKILL PER TIER!
-|cost=575
-|maxPurchases=6
+|name=GemP18
+|mtxName=Dragonic Cauldron
+|description=Turns the 1st liquid cauldron DRAGONIC (2nd, 3rd, or 4th if you already own previous dragonic cauldrons). These give 2x Liquid Capacity, and 1.3x liquid generation.
+|cost=969
+|maxPurchases=1
 }}
 {{GemshopData
 |section=Limited Specials
-|name=GemP25
-|mtxName=Random Hyper Obol
-|itemDisplayName=Hyper Obol Stack
-|description=Gives you a random Circle Hyper Obol! The four equal possibilites are +4% DROP RATE, +2% ALL STAT, +3% DAMAGE, and +2% MULTIKILL PER TIER!
-|cost=475
-|maxPurchases=12
+|name=RibbonBig14
+|mtxName=Super Tier Ribbon
+|description=FREEEE!!! Gives you a random ribbon for your Ribbon Shelf, found at the Meals Menu in World 4! 40% chance for Tier 10, 30% for Tier 11, 20% for T12, 7% for T13, and 3% for Tier 15!
+|cost=1
+|maxPurchases=2
 }}
 {{GemshopData
 |section=Premium Stones

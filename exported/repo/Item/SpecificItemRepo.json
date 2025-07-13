@@ -14688,7 +14688,7 @@
     },
     "ObolHyper0": {
         "internalName": "ObolHyper0",
-        "displayName": "Hyper Six Obol",
+        "displayName": "Hyper Obol of Lucky Rolls",
         "sellPrice": 1,
         "typeGen": "aObolCircle",
         "Type": "Circle Obol",
@@ -14711,7 +14711,7 @@
     },
     "ObolHyper1": {
         "internalName": "ObolHyper1",
-        "displayName": "Hyper Pyre Obol",
+        "displayName": "Hyper Obol of Stragiwisluk",
         "sellPrice": 1,
         "typeGen": "aObolCircle",
         "Type": "Circle Obol",
@@ -14734,7 +14734,7 @@
     },
     "ObolHyper2": {
         "internalName": "ObolHyper2",
-        "displayName": "Hyper DMG Obol",
+        "displayName": "Hyper Obol of Supa Damagio",
         "sellPrice": 1,
         "typeGen": "aObolCircle",
         "Type": "Circle Obol",
@@ -14757,7 +14757,7 @@
     },
     "ObolHyper3": {
         "internalName": "ObolHyper3",
-        "displayName": "Hyper Skull Obol",
+        "displayName": "Hyper Obol of Destruction",
         "sellPrice": 1,
         "typeGen": "aObolCircle",
         "Type": "Circle Obol",
@@ -14780,7 +14780,7 @@
     },
     "ObolHyperB0": {
         "internalName": "ObolHyperB0",
-        "displayName": "Hyper Six Obol",
+        "displayName": "Hyper Obol of Rare Drops",
         "sellPrice": 1,
         "typeGen": "aObolSquare",
         "Type": "Square Obol",
@@ -14803,7 +14803,7 @@
     },
     "ObolHyperB1": {
         "internalName": "ObolHyperB1",
-        "displayName": "Hyper Pyre Obol",
+        "displayName": "Hyper Obol of All Statisticals",
         "sellPrice": 1,
         "typeGen": "aObolSquare",
         "Type": "Square Obol",
@@ -14826,7 +14826,7 @@
     },
     "ObolHyperB2": {
         "internalName": "ObolHyperB2",
-        "displayName": "Hyper DMG Obol",
+        "displayName": "Hyper Obol of Mega Damagio",
         "sellPrice": 1,
         "typeGen": "aObolSquare",
         "Type": "Square Obol",
@@ -14849,7 +14849,7 @@
     },
     "ObolHyperB3": {
         "internalName": "ObolHyperB3",
-        "displayName": "Hyper Skull Obol",
+        "displayName": "Hyper Obol of Decimation",
         "sellPrice": 1,
         "typeGen": "aObolSquare",
         "Type": "Square Obol",
@@ -19992,6 +19992,27 @@
         "Skill": "",
         "Skill_Power": 0
     },
+    "Trophy23": {
+        "internalName": "Trophy23",
+        "displayName": "Heroic Spirit",
+        "sellPrice": 777,
+        "typeGen": "aTrophy",
+        "Type": "Trophy",
+        "lvReqToCraft": 1,
+        "lvReqToEquip": 600,
+        "Class": "All",
+        "Weapon_Power": 5,
+        "STR": 10,
+        "AGI": 10,
+        "WIS": 10,
+        "LUK": 10,
+        "Defence": 50,
+        "miscUp1": "10% Afk Gains Multi",
+        "miscUp2": "20% Damage Multi",
+        "Upgrade_Slots_Left": 0,
+        "Skill": "",
+        "Skill_Power": 0
+    },
     "EquipmentTools1": {
         "internalName": "EquipmentTools1",
         "displayName": "Junk Pickaxe",
@@ -22564,7 +22585,7 @@
         "sellPrice": 1,
         "typeGen": "dQuest",
         "Type": "Quest Item",
-        "description": "It's proof that you can mine, and it's even signed by Glumlee himself! It says; 'You passed. Good for you. Ugh' "
+        "description": "Proof that you passed Glumlee's tutorial quests. It's worthless. "
     },
     "Crystal1": {
         "internalName": "Crystal1",
