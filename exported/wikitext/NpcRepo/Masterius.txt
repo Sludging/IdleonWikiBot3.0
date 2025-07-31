@@ -2,9 +2,9 @@
 |world=Unknown
 |location=Unknown
 |npcType=Unknown
-|birthweight=2.76
-|starsign=Scorpio
-|mmm=Boyd
+|birthweight=8.6
+|starsign=Gemini
+|mmm=Lawicki
 |notes= 
 }}
 {{Quest/head}}

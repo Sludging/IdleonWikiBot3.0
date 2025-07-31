@@ -61,6 +61,16 @@ from repositories.misc.world5.GodInfoRepo import GodInfoRepo
 from repositories.misc.world5.IslandInfoRepo import IslandInfoRepo
 from repositories.misc.world5.SlabItemSortRepo import SlabItemSortRepo
 from repositories.misc.world5.hole.HoleBuildingRepo import HoleBuildingRepo
+from repositories.misc.world5.hole.MeasurementRepo import MeasurementRepo
+from repositories.misc.world5.hole.StudyRepo import StudyRepo
+from repositories.misc.world5.hole.BellActionRepo import BellActionRepo
+from repositories.misc.world5.hole.BellImprovementRepo import BellImprovementRepo
+from repositories.misc.world5.hole.BellBonusRepo import BellBonusRepo
+from repositories.misc.world5.hole.SedimentRepo import SedimentRepo
+from repositories.misc.world5.hole.GambitBonusRepo import GambitBonusRepo
+from repositories.misc.world5.hole.HarpStringsRepo import HarpStringsRepo
+from repositories.misc.world5.hole.HarpNotesRepo import HarpNotesRepo
+from repositories.misc.world5.hole.MonumentRepo import MonumentRepo
 from repositories.misc.world6.JadeUpgradeRepo import JadeUpgradeRepo
 from repositories.misc.world6.MarketInfoRepo import MarketInfoRepo
 from repositories.misc.world6.NinjaItemRepo import NinjaItemRepo
@@ -83,5 +93,6 @@ AllRepos = [SpecificItemRepo, EnemyRepo, DropTableRepo, NpcRepo, RecipeRepo, Bub
             SlabItemSortRepo, GamingSuperbitsRepo, CompanionRepo, AtomColliderRepo, WeeklyBossRepo, WeeklyActionRepo,
             WeeklyShopRepo, DreamChallengeRepo, DreamUpgradeRepo, SummonUpgradeRepo, NinjaUpgradeRepo, JadeUpgradeRepo,
             MarketInfoRepo, SeedInfoRepo, SummonEnemyRepo, SummonUnitRepo, NinjaItemRepo, FeatherRepo, TomeRepo,
-            HoleBuildingRepo
+            HoleBuildingRepo, MeasurementRepo, StudyRepo, BellActionRepo, BellImprovementRepo, BellBonusRepo, SedimentRepo, GambitBonusRepo,
+            HarpStringsRepo, HarpNotesRepo, MonumentRepo
             ]
