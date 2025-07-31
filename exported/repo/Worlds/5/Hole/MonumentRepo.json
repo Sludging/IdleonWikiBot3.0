@@ -1,0 +1,104 @@
+{
+    "bravery": {
+        "index": 0,
+        "name": "Bravery",
+        "unlocks": [
+            {"index": 0, "description": "Swords deal {~} damage", "hours_required": 1},
+            {"index": 1, "description": "+2 additional Sword", "hours_required": 80},
+            {
+                "index": 2,
+                "description": "You can Re-Throw 5 swords per story",
+                "hours_required": 300
+            },
+            {"index": 3, "description": "+1 additional Sword", "hours_required": 750},
+            {"index": 4, "description": "You get 1 Retelling per story", "hours_required": 2000},
+            {"index": 5, "description": "+1 additional Sword", "hours_required": 5000},
+            {"index": 6, "description": "+10 Re-Throws per story", "hours_required": 10000},
+            {"index": 7, "description": "+1 additional Sword", "hours_required": 24000}
+        ],
+        "bonuses": [
+            {"index": 0, "description": "+{% Mining Efficiency"},
+            {"index": 1, "description": "}x Bucket Fill Rate"},
+            {"index": 2, "description": "}x Cooking Speed"},
+            {"index": 3, "description": "+{% EXP Gain for Villagers"},
+            {"index": 4, "description": "}x Gaming Bits Gain"},
+            {"index": 5, "description": "+{% Chance for Bravery Opals"},
+            {"index": 6, "description": "+{% DMG for all Characters"},
+            {"index": 7, "description": "}x Bell Ring & Ping Rate"},
+            {"index": 8, "description": "+{% All Monument AFK Gain"},
+            {"index": 9, "description": "}x Bravery Bonuses Multi"}
+        ]
+    },
+    "justice": {
+        "index": 1,
+        "name": "Justice",
+        "unlocks": [
+            {"index": 0, "description": "Start with $ coins", "hours_required": 1},
+            {"index": 1, "description": "Start with 2 Mental Health", "hours_required": 80},
+            {"index": 2, "description": "You can Dismiss 1 case per story", "hours_required": 300},
+            {"index": 3, "description": "Start with 1.5x more coins", "hours_required": 750},
+            {"index": 4, "description": "+1 Mental Health and Dismissal", "hours_required": 2000},
+            {"index": 5, "description": "Start with 10 popularity", "hours_required": 5000},
+            {"index": 6, "description": "Start with 3x more coins", "hours_required": 10000},
+            {
+                "index": 7,
+                "description": "+2 Mental Health and Dismissals",
+                "hours_required": 24000
+            }
+        ],
+        "bonuses": [
+            {"index": 0, "description": "+{% Catching Efficiency"},
+            {"index": 1, "description": "}x Harp Note Gain"},
+            {"index": 2, "description": "}x Artifact Find Chance"},
+            {"index": 3, "description": "+{% EXP Gain for Villagers"},
+            {"index": 4, "description": "}x All Summoning Essence Gain"},
+            {"index": 5, "description": "+{% Chance for Justice Opals"},
+            {"index": 6, "description": "+{% Class EXP Gain"},
+            {"index": 7, "description": "+{% more daily Lamp Wishes"},
+            {"index": 8, "description": "+{% All Monument AFK Gain"},
+            {"index": 9, "description": "}x Justice Bonuses Multi"}
+        ]
+    },
+    "wisdom": {
+        "index": 2,
+        "name": "Wisdom",
+        "unlocks": [
+            {"index": 0, "description": "Start with # Attempts", "hours_required": 1},
+            {"index": 1, "description": "Get +2 Attempts per Board Clear", "hours_required": 80},
+            {
+                "index": 2,
+                "description": "1st attempt each Board reveals row",
+                "hours_required": 300
+            },
+            {
+                "index": 3,
+                "description": "Start with 4 Insta Matches per story",
+                "hours_required": 750
+            },
+            {"index": 4, "description": "+4 additional Starting Attempts", "hours_required": 2000},
+            {
+                "index": 5,
+                "description": "4th attempt each Board reveals square",
+                "hours_required": 5000
+            },
+            {
+                "index": 6,
+                "description": "Get +1 Attempts per Board Clear",
+                "hours_required": 10000
+            },
+            {"index": 7, "description": "+5 additional Insta Matches", "hours_required": 24000}
+        ],
+        "bonuses": [
+            {"index": 0, "description": "+{% Choppin Efficiency"},
+            {"index": 1, "description": "}x Jar Rupie Value"},
+            {"index": 2, "description": "}x Jade Coin Gain"},
+            {"index": 3, "description": "+{% EXP Gain for Villagers"},
+            {"index": 4, "description": "}x Farming Crop Evo Chance"},
+            {"index": 5, "description": "+{% Chance for Wisdom Opals"},
+            {"index": 6, "description": "+{% Player Drop Rate"},
+            {"index": 7, "description": "+{% Gambit Points"},
+            {"index": 8, "description": "+{% All Monument AFK Gain"},
+            {"index": 9, "description": "}x Wisdom Bonuses Multi"}
+        ]
+    }
+}

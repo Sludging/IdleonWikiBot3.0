@@ -1,0 +1,8 @@
+{
+    0: {"index": 0, "description": "+{% BUCKET FILL RATE", "value": "10"},
+    1: {"index": 1, "description": "+{% ALL VILLAGER EXP", "value": "0.5"},
+    2: {"index": 2, "description": "+{% HARP NOTE GAINS", "value": "10"},
+    3: {"index": 3, "description": "+{% DAILY LAMP WISHES", "value": "0.3"},
+    4: {"index": 4, "description": "+{% EXTRA RUPIE CHANCE", "value": "0.5"},
+    5: {"index": 5, "description": "+{% DOUBLE TORCH CHANCE", "value": "2.0"}
+}

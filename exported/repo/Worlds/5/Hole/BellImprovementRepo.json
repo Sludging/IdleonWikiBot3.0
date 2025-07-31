@@ -1,0 +1,33 @@
+{
+    0: {
+        "index": 0,
+        "baseValue": "15000000000",
+        "bonus": "+{% Bell Ring/hr",
+        "resource": "Coins"
+    },
+    1: {
+        "index": 1,
+        "baseValue": "100",
+        "bonus": "+{% Bell Clean/hr",
+        "resource": "Mythril"
+    },
+    2: {
+        "index": 2,
+        "baseValue": "1000000",
+        "bonus": "+{% Bell Ring/hr",
+        "resource": "Bits"
+    },
+    3: {
+        "index": 3,
+        "baseValue": "300",
+        "bonus": "+{% Bell Ping/hr",
+        "resource": "Eighth Note"
+    },
+    4: {"index": 4, "baseValue": "150", "bonus": "+{% Bell Ring/hr", "resource": "Atoms"},
+    5: {
+        "index": 5,
+        "baseValue": "1500",
+        "bonus": "+{% Bell Ring/hr",
+        "resource": "Turquoise Rupie"
+    }
+}
