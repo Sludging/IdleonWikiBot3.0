@@ -14,3 +14,5 @@ class Sigil(IdleonModel):
 	desc: str
 	x1: Optional[Integer]
 	x2: Optional[Integer]
+	x3: Optional[Integer]
+	x4: Optional[Integer]
