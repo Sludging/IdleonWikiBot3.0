@@ -42,6 +42,7 @@ class VendorRepo(Repository[Vendors]):
 		shopLocations = cls.getSection(2)
 		shopsLocations = [MapNameRepo.getList(int(x)).name for x in re.findall(
 			r"\[([a-zA-Z0-_ ,]*)]", shopLocations)[0].split(", ")]
+		
 		for i in range(len(shopsItems)):
 			currentLocation = replaceUnderscores(shopsLocations[i])
 			for j in range(len(shopsItems[i])):

@@ -8,9 +8,11 @@ from repositories.item.AnvilRepo import AnvilRepo
 from repositories.item.RecipeRepo import RecipeRepo
 from repositories.item.RefineryCostRepo import RefineryCostRepo
 from repositories.item.SpecificItemRepo import SpecificItemRepo
+from repositories.item.ItemDetailRepo import ItemDetailRepo
 from repositories.item.TrapBoxRepo import TrapBoxRepo
 from repositories.item.VendorRepo import VendorRepo
 from repositories.misc.AchievementRepo import AchievementRepo
+from repositories.misc.EquipmentSetsRepo import EquipmentSetsRepo
 from repositories.misc.CardSetRepo import CardSetRepo
 from repositories.misc.ColosseumRepo import ColosseumRepo
 from repositories.misc.CompanionRepo import CompanionRepo
@@ -41,6 +43,7 @@ from repositories.misc.world3.AtomColliderRepo import AtomColliderRepo
 from repositories.misc.world3.BuildingRepo import BuildingRepo
 from repositories.misc.world3.PrayerRepo import PrayerRepo
 from repositories.misc.world3.ShrineRepo import ShrineRepo
+from repositories.misc.world3.SaltLickRepo import SaltLickRepo
 from repositories.misc.world4.ArenaBonusRepo import ArenaBonusRepo
 from repositories.misc.world4.ChipRepo import ChipRepo
 from repositories.misc.world4.InfiniteTerritoryRepo import InfiniteTerritoryRepo
@@ -71,6 +74,7 @@ from repositories.misc.world5.hole.GambitBonusRepo import GambitBonusRepo
 from repositories.misc.world5.hole.HarpStringsRepo import HarpStringsRepo
 from repositories.misc.world5.hole.HarpNotesRepo import HarpNotesRepo
 from repositories.misc.world5.hole.MonumentRepo import MonumentRepo
+from repositories.misc.world5.hole.CosmoUpgradeRepo import CosmoUpgradeRepo
 from repositories.misc.world6.JadeUpgradeRepo import JadeUpgradeRepo
 from repositories.misc.world6.MarketInfoRepo import MarketInfoRepo
 from repositories.misc.world6.NinjaItemRepo import NinjaItemRepo
@@ -82,7 +86,7 @@ from repositories.misc.world6.SummonUpgradeRepo import SummonUpgradeRepo
 from repositories.npc.NpcRepo import NpcRepo
 from repositories.talents.TalentTreeRepo import TalentTreeRepo
 
-AllRepos = [SpecificItemRepo, EnemyRepo, DropTableRepo, NpcRepo, RecipeRepo, BubbleRepo, TalentTreeRepo,
+AllRepos = [ItemDetailRepo, EquipmentSetsRepo, CosmoUpgradeRepo, SpecificItemRepo, EnemyRepo, DropTableRepo, NpcRepo, RecipeRepo, BubbleRepo, TalentTreeRepo,
             UpgradeVaultRepo, GrimoireUpgradeRepo, CompassUpgradeRepo, TesseractUpgradeRepo, EmperorBonusRepo, PostOfficeUpgradesRepo, PostOfficeRepo, VendorRepo, PrayerRepo, GemShopRepo, BuildingRepo, ShrineRepo,
             RefineryCostRepo, BribeRepo, ConstellationsRepo, DungEnemyRepo, DungItemRepo, AchievementRepo,
             GuildBonusRepo,
@@ -94,5 +98,5 @@ AllRepos = [SpecificItemRepo, EnemyRepo, DropTableRepo, NpcRepo, RecipeRepo, Bub
             WeeklyShopRepo, DreamChallengeRepo, DreamUpgradeRepo, SummonUpgradeRepo, NinjaUpgradeRepo, JadeUpgradeRepo,
             MarketInfoRepo, SeedInfoRepo, SummonEnemyRepo, SummonUnitRepo, NinjaItemRepo, FeatherRepo, TomeRepo,
             HoleBuildingRepo, MeasurementRepo, StudyRepo, BellActionRepo, BellImprovementRepo, BellBonusRepo, SedimentRepo, GambitBonusRepo,
-            HarpStringsRepo, HarpNotesRepo, MonumentRepo
+            HarpStringsRepo, HarpNotesRepo, MonumentRepo, SaltLickRepo
             ]

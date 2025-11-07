@@ -10,14 +10,14 @@ from repositories.misc.world5.SlabItemSortRepo import SlabItemSortRepo
 from repositories.npc.NpcRepo import NpcRepo
 from repositories.talents.TalentTreeRepo import TalentTreeRepo
 
-idleonReader = IdleonReader("2.41", steam = True)
+idleonReader = IdleonReader("2.50", steam = True)
 
 for repo in AllRepos:
 	repo.initialise(idleonReader.codeReader)
 
 ItemRepo.initialise(idleonReader.codeReader)
 
-ItemRepo.exportWikiMult()
+""" ItemRepo.exportWikiMult()
 NpcRepo.exportWikiMult()
 EnemyRepo.exportWikiMult()
 TalentTreeRepo.exportWikiMult()
@@ -25,4 +25,4 @@ DropTableRepo.exportWikiMult()
 VendorRepo.exportWikiMult()
 RecipeRepo.exportWikiMult()
 GemShopRepo.exportWikiSingle()
-SlabItemSortRepo.exportWikiSingle()
+SlabItemSortRepo.exportWikiSingle() """

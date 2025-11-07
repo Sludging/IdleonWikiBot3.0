@@ -6,6 +6,7 @@ from definitions.misc.world6.ninjaitems.NinjaItem import NinjaItem
 from definitions.misc.world6.ninjaitems.NinjaPristineCharm import NinjaPristineCharm
 from definitions.misc.world6.ninjaitems.NinjaTrinket import NinjaTrinket
 from definitions.misc.world6.ninjaitems.NinjaWeapon import NinjaWeapon
+from definitions.misc.world6.ninjaitems.NinjaSymbol import NinjaSymbol
 from helpers.HelperFunctions import getFromSplit, replaceUnderscores, strToArray
 from repositories.master.Repository import Repository
 from repositories.misc.world6.SummonEnemyBonusRepo import SummonEnemyBonusRepo
@@ -96,6 +97,17 @@ class NinjaItemRepo(Repository[BaseNinjaItem]):
 					x1 = data[3],
 					desc = data[4],
 					bonus = data[5],
+				)
+			elif ninjaItemType == NinjaItemType.Symbol:
+				toAdd = NinjaSymbol(
+					internalId = internalId,
+					itemTypeId = data[0],
+					itemType = ninjaItemType,
+					itemId = data[1],
+					name = data[2],
+					bonus = data[3],
+					desc = data[4],
+					x1 = data[5]
 				)
 			else:
 				toAdd = None

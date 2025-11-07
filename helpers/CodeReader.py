@@ -36,7 +36,7 @@ class CodeReader:
 			self.sections.append(Section(start, re.escape(end), sectionName))
 			return
 		if self.steam:
-			self.sections.append(Section(start, r"\}\)[,;]", sectionName))
+			self.sections.append(Section(start, r"\}\)[),;]", sectionName))
 			return
 		self.sections.append(Section(start, r"\};", sectionName))
 
@@ -217,6 +217,7 @@ class IdleonReader:
 		self.codeReader.addSection("CompassUpg = function ()", "CompassUpg")
 		self.codeReader.addSection("ArcaneUpg = function ()", "ArcaneUpg")
 		self.codeReader.addSection("EmperorBon = function ()", "EmperorBon")
+		self.codeReader.addSection("EquipmentSets = function ()", "EquipmentSets")
 
 
 		self.codeReader.readCode()

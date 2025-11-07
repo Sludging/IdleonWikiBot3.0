@@ -5,4 +5,5 @@ from helpers.CustomTypes import Integer
 class HarpString(IdleonModel):
 	stringId: Integer
 	stringLetter: str
-	description: str 
+	description: str
+	multiplier: Integer

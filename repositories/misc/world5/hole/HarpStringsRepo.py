@@ -25,6 +25,7 @@ class HarpStringsRepo(Repository[HarpString]):
 		
 		# Get harp chord descriptions from index 45
 		chordDescriptionsData = data[HoleOrder.HarpStringDescriptions.value]
+		chordMultipliersData = data[HoleOrder.HarpStringMultipliers.value]
 		
 		# String letters
 		stringLetters = ["C", "D", "E", "F", "G", "A", "B"]
@@ -36,7 +37,8 @@ class HarpStringsRepo(Repository[HarpString]):
 			harpString = HarpString(
 				stringId=i,
 				stringLetter=stringLetters[i],
-				description=description
+				description=description,
+				multiplier=chordMultipliersData[i]
 			)
 			
 			cls.addList(harpString)

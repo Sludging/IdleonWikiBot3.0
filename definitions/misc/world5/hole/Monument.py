@@ -12,6 +12,7 @@ class MonumentUnlock(IdleonModel):
 class MonumentBonus(IdleonModel):
 	index: Integer
 	description: str
+	multiplier: Numeric
 
 
 class Monument(IdleonModel):

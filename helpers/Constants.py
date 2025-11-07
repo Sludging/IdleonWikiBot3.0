@@ -1,17 +1,18 @@
 class Constants:
-	numItemSections = 6
+	numItemSections = 7
 	newLineRep = "$$NEWLINE$$"
 	worldNames = {"Blunder Hills", "Yum-Yum Desert", "Frostbite Tundra", "Hyperion Nebula", "Smolderin' Plateau",
-	              "Spirited Valley"}
+	              "Spirited Valley", "Shimmerfin Deep"}
 
 	worlds = ["Blunder Hills", "Yum-Yum Desert", "Frostbite Tundra", "Hyperion Nebula", "Smolderin' Plateau",
-	          "Spirited Valley"]
+	          "Spirited Valley", "Shimmerfin Deep"]
 
 	navCategories = {"Blunder Hills", "Yum Yum Desert", "Frostbite Tundra", "Hyperion Nebula", "Smolderin' Plateau",
-	                 "Spirited Valley", "Bosses"}
+	                 "Spirited Valley", "Shimmerfin Deep", "Bosses"}
 
 	worldToCrystal = {"Blunder Hills": "Crystal0", "Yum Yum Desert": "Crystal1", "Frostbite Tundra": "Crystal2",
-	                  "Hyperion Nebula": "Crystal3", "Smolderin' Plateau": "Crystal4", "Spirited Valley": "Crystal5"}
+	                  "Hyperion Nebula": "Crystal3", "Smolderin' Plateau": "Crystal4", "Spirited Valley": "Crystal5",
+					  "Shimmerfin Deep": "Crystal6"}
 
 	ignoredEnemies = {"Error", "ForgeA", "ForgeB", "Bandit_Bob", "SoulCard1", "SoulCard2", "SoulCard3", "SoulCard4",
 	                  "SoulCard5", "SoulCard6", "CritterCard1", "CritterCard2", "CritterCard3", "CritterCard4",
@@ -34,7 +35,7 @@ class Constants:
 
 	cardNames = ["Blunder Hills", "Yum Yum Desert", "Easy Resources",
 	             "Medium Resources", "Frostbite Tundra", "Hard Resources", "Hyperion Nebula",
-	             "Smolderin' Plateau", "Spirited Valley",
+	             "Smolderin' Plateau", "Spirited Valley", "Shimmerfin Deep",
 	             "Dungeons", "Bosses", "Event"]
 
 	pouches = {
@@ -61,12 +62,12 @@ class Constants:
 
 	sailingIslands = ["Safari Island", "Beachy Coast", "Isolated Woods", "Rocky Peaks", "Stormy North",
 	                  "Snowy South", "Toxic Bay Inc", "Candied Island", "Fungi Meadows", "Cloudy Quay", "Dungeon Cove",
-	                  "Crystal Enclave", "Petulent Garage", "Isle of Note", "The Edge"]
+	                  "Crystal Enclave", "Petulent Garage", "Isle of Note", "The Edge", "World's End"]
 
 	gemShopSections = [
 		["Hats", "Chat Rings", "Blank", "Blank", "Blank", "Blank"],
 		["Time Candy", "Inventory & Storage", "Dailies N' Resets", "Cards", "Goods & Services", "Limited Specials"],
-		["Premium Stones", "World 1&2", "World 3", "World 4", "World 5", "World 6"]
+		["Premium Stones", "World 1&2", "World 3", "World 4", "World 5", "World 6", "World 7"]
 	]
 
 	ninjaInfo = 12

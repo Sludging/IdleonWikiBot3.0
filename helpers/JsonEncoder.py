@@ -3,6 +3,7 @@ from enum import Enum
 from typing import Union
 
 from definitions.master.IdleonModel import IdleonModel
+from helpers.CustomTypes import Boolean
 
 
 class CompactJSONEncoder(json.JSONEncoder):
@@ -46,6 +47,8 @@ class CompactJSONEncoder(json.JSONEncoder):
 				return "{}"
 		elif isinstance(o, IdleonModel):
 			return self.encode(o.toDict())
+		elif isinstance(o, Boolean):
+			return json.dumps(o.v)
 		elif isinstance(o, Enum):
 			return f'"{o.name}"'
 		elif isinstance(o, float):  # Use scientific notation for floats, where appropiate

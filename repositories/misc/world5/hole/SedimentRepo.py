@@ -41,7 +41,7 @@ class SedimentRepo(Repository[Sediment]):
 			sediment = Sediment(
 				index=i,
 				name=sedimentNames[i],
-				unlockRequirement=replaceUnderscores(unlockRequirements[i]) if i < len(unlockRequirements) else ""
+				unlockRequirement=unlockRequirements[i]
 			)
 			cls.addList(sediment)
 			cls.add(f"{i}", sediment) 

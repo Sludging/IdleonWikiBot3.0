@@ -1,6 +1,6 @@
 import re
 
-ver = "2.37"
+ver = "2.50"
 
 re_big_list = re.compile(r'var bigList=\{.*?\},')
 re_parse = re.compile(r"..\.parse\('\{.*?\),")
@@ -37,6 +37,12 @@ with open(f"codefiles/idleon{ver}.txt", mode = "w", encoding = 'utf-8') as outfi
 
 import subprocess
 
-subprocess.run(["powershell",
-                f"npx prettier --print-width 240 --tab-width 4 --trailing-comma es5 --write --parser babel codefiles/idleon{ver}.txt"],
-               cwd = ".")
+subprocess.run([
+    "npx", "prettier", 
+    "--print-width", "240", 
+    "--tab-width", "4", 
+    "--trailing-comma", "es5", 
+    "--write", 
+    "--parser", "babel", 
+    f"codefiles/idleon{ver}.txt"
+], cwd=".")

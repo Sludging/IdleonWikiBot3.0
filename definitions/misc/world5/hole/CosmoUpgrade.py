@@ -16,4 +16,5 @@ class CosmoUpgrade(IdleonModel):
 	zero: Integer
 	name: str
 	desc: str
-	cosmoType: CosmoType
+	cosmoType: CosmoType	
+	maxEnhance: Integer

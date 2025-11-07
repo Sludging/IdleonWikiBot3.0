@@ -24,6 +24,7 @@ class MonumentRepo(Repository[Monument]):
 		unlock_hours = data[HoleOrder.MonumentUnlockHours.value]
 		unlock_rewards = data[HoleOrder.MonumentUnlockRewards.value] 
 		bonus_descriptions = data[HoleOrder.MonumentBonuses.value]
+		bonus_multipliers = data[HoleOrder.MonumentBonusMultipliers.value]
 		
 		# Monument names in order
 		monument_names = ["Bravery", "Justice", "Wisdom"]
@@ -47,7 +48,8 @@ class MonumentRepo(Repository[Monument]):
 			monument_unlock_hours = unlock_hours[:unlocks_per_monument] if unlock_hours else []
 			monument_unlock_rewards = unlock_rewards[unlock_start_idx:unlock_end_idx] if unlock_rewards else []
 			monument_bonus_descriptions = bonus_descriptions[bonus_start_idx:bonus_end_idx] if bonus_descriptions else []
-			
+			monument_bonus_multipliers = bonus_multipliers[bonus_start_idx:bonus_end_idx] if bonus_multipliers else []
+
 			# Create unlocks (8 per monument)
 			unlocks = []
 			for i in range(8):
@@ -63,7 +65,8 @@ class MonumentRepo(Repository[Monument]):
 			for i in range(10):
 				bonus = MonumentBonus(
 					index=i,
-					description=replaceUnderscores(monument_bonus_descriptions[i]) if i < len(monument_bonus_descriptions) else ""
+					description=replaceUnderscores(monument_bonus_descriptions[i]) if i < len(monument_bonus_descriptions) else "",
+					multiplier=float(monument_bonus_multipliers[i]) if i < len(monument_bonus_multipliers) and monument_bonus_multipliers[i] else 0
 				)
 				bonuses.append(bonus)
 			
