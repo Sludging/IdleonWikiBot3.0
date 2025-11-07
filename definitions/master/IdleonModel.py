@@ -527,6 +527,8 @@ class TSEncoder(json.JSONEncoder):
 				return type_str + "{\n" + ",\n".join(output) + "\n" + self.indent_str + "}"
 			else:
 				return type_str + "{}"
+		elif hasattr(o, 'v') and hasattr(o, 'validate') and o.__class__.__name__ == 'Boolean':
+			return json.dumps(o.v)
 		elif isinstance(o, enum.Enum):
 			self.needToImport.add(f"{o.__class__.__name__}Enum")
 			return f"{o.__class__.__name__}Enum.{o.name}"
