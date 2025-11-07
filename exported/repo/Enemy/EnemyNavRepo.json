@@ -636,6 +636,97 @@
         "crystalName": "Crystal5",
         "hasCard": true
     },
+    "w7a1": {
+        "prev": null,
+        "next": "w7a2",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7a2": {
+        "prev": "w7a1",
+        "next": "w7a3",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7a3": {
+        "prev": "w7a2",
+        "next": "w7a4",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7a4": {
+        "prev": "w7a3",
+        "next": "w7a5",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7a5": {
+        "prev": "w7a4",
+        "next": "w7a6",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7a6": {
+        "prev": "w7a5",
+        "next": "w7a7",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7a7": {
+        "prev": "w7a6",
+        "next": "w7a8",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7a8": {
+        "prev": "w7a7",
+        "next": "w7a9",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7a9": {
+        "prev": "w7a8",
+        "next": "w7a10",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7a10": {
+        "prev": "w7a9",
+        "next": "w7a11",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7a11": {
+        "prev": "w7a10",
+        "next": "w7a12",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7a12": {
+        "prev": "w7a11",
+        "next": "Crystal6",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "Crystal6": {
+        "prev": "w7a12",
+        "next": "Blank",
+        "hasCrystal": false,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
     "slimeB": {
         "prev": null,
         "next": "babayaga",

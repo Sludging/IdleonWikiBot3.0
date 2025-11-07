@@ -137,5 +137,20 @@
     "vSpiritD2": {"intName": "vSpiritD2", "name": "Chieftain Stairway", "id": 263},
     "vSpiritD3": {"intName": "vSpiritD3", "name": "Emperor's Castle Doorstep", "id": 264},
     "ColosseumF": {"intName": "ColosseumF", "name": "Whimsical Colosseum", "id": 265},
-    "vSpiritCBOSS": {"intName": "vSpiritCBOSS", "name": "Emperor's Castle", "id": 266}
+    "vSpiritCBOSS": {"intName": "vSpiritCBOSS", "name": "Emperor's Castle", "id": 266},
+    "uAquaaTown": {"intName": "uAquaaTown", "name": "Shimmerfin Grove", "id": 300},
+    "uAquaA1": {"intName": "uAquaA1", "name": "Refraction Bend", "id": 301},
+    "uAquaA2": {"intName": "uAquaA2", "name": "Doodle Reef", "id": 302},
+    "uAquaA3": {"intName": "uAquaA3", "name": "Seaweed Street", "id": 303},
+    "uAquaA4": {"intName": "uAquaA4", "name": "Barnacle Curb", "id": 304},
+    "uAquaA5": {"intName": "uAquaA5", "name": "Balloon Bay", "id": 305},
+    "uAquaA6": {"intName": "uAquaA6", "name": "The Clamworks", "id": 306},
+    "uAquaA7": {"intName": "uAquaA7", "name": "Plastic Basin", "id": 307},
+    "uAquaA8": {"intName": "uAquaA8", "name": "Puffpuff Overpass", "id": 308},
+    "uAquaA9": {"intName": "uAquaA9", "name": "Pinpoint Summit", "id": 309},
+    "uAquaA10": {"intName": "uAquaA10", "name": "Middle of Nowhere", "id": 310},
+    "uAquaA11": {"intName": "uAquaA11", "name": "Coralcave Outskirts", "id": 311},
+    "uAquaA12": {"intName": "uAquaA12", "name": "Coralcave Perimeter", "id": 312},
+    "uAquaA13": {"intName": "uAquaA13", "name": "Unused", "id": 313},
+    "uAquaA14": {"intName": "uAquaA14", "name": "Unused", "id": 314}
 }

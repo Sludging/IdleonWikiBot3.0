@@ -28,5 +28,7 @@
     {"name": "Stealth", "effect": "%@Stealth", "dk": 185, "bonus": 0.3},
     {"name": "Essence", "effect": "%@White Ess", "dk": 160, "bonus": 0.6},
     {"name": "Villager", "effect": "%@Villager Exp", "dk": 120, "bonus": 0.3},
-    {"name": "Dragon", "effect": "%@Statues Bonus", "dk": 270, "bonus": 0.2}
+    {"name": "Dragon", "effect": "%@Statues Bonus", "dk": 270, "bonus": 0.2},
+    {"name": "Spelunky", "effect": "%@Spelunk Exp", "dk": 43, "bonus": 0.2},
+    {"name": "Coral", "effect": "%@Daily Coral", "dk": 181, "bonus": 0.02}
 ]

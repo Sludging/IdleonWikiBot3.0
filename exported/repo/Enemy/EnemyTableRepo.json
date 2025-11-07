@@ -287,12 +287,19 @@
             {"item": "DropTable33", "quantity": 1, "chance": 0.17, "questLink": "N/A"}
         ]
     },
+    "Crystal6": {
+        "drops": [
+            {"item": "COIN", "quantity": 3, "chance": 0.5, "questLink": "N/A"},
+            {"item": "CardsJ99", "quantity": 1, "chance": 1e-06, "questLink": "N/A"},
+            {"item": "StampC3", "quantity": 1, "chance": 0.1, "questLink": "Papua_Piggea2"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.01, "questLink": "N/A"}
+        ]
+    },
     "mushG": {
         "drops": [
             {"item": "COIN", "quantity": 5, "chance": 0.5, "questLink": "N/A"},
             {"item": "Grasslands1", "quantity": 1, "chance": 0.22, "questLink": "N/A"},
             {"item": "CardsA0", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
-            {"item": "FoodHealth1", "quantity": 3, "chance": 0.005, "questLink": "N/A"},
             {"item": "EquipmentShirts16", "quantity": 1, "chance": 0.00035, "questLink": "N/A"},
             {"item": "TalentBook1", "quantity": 3615100, "chance": 0.001, "questLink": "N/A"},
             {"item": "StoneW2", "quantity": 1, "chance": 5e-05, "questLink": "N/A"},
@@ -326,7 +333,7 @@
             {"item": "Quest3", "quantity": 1, "chance": 0.5, "questLink": "Picnic_Stowaway2"},
             {"item": "Quest4", "quantity": 1, "chance": 0.3, "questLink": "Picnic_Stowaway2"},
             {"item": "TalentBook1", "quantity": 3615100, "chance": 0.002, "questLink": "N/A"},
-            {"item": "FoodPotMana1", "quantity": 1, "chance": 0.002, "questLink": "N/A"},
+            {"item": "FoodPotOr1", "quantity": 1, "chance": 0.002, "questLink": "N/A"},
             {"item": "InvStorageF", "quantity": 1, "chance": 0.0001, "questLink": "N/A"},
             {"item": "EquipmentHats6", "quantity": 1, "chance": 0.00025, "questLink": "N/A"},
             {"item": "DropTable1", "quantity": 1, "chance": 0.0038, "questLink": "N/A"}
@@ -360,7 +367,8 @@
             {"item": "COIN", "quantity": 150, "chance": 0.43, "questLink": "N/A"},
             {"item": "Jungle2", "quantity": 1, "chance": 0.18, "questLink": "N/A"},
             {"item": "CardsA5", "quantity": 1, "chance": 0.0294, "questLink": "N/A"},
-            {"item": "FoodHealth2", "quantity": 3, "chance": 0.005, "questLink": "N/A"},
+            {"item": "SmithingRecipes1", "quantity": 70, "chance": 0.0005, "questLink": "N/A"},
+            {"item": "FoodHealth2", "quantity": 3, "chance": 0.0005, "questLink": "N/A"},
             {"item": "TalentBook1", "quantity": 3615100, "chance": 0.005, "questLink": "N/A"},
             {"item": "Quest7", "quantity": 1, "chance": 0.2, "questLink": "Stiltzcho2"},
             {"item": "StampA7", "quantity": 1, "chance": 5e-05, "questLink": "N/A"},
@@ -373,7 +381,6 @@
             {"item": "COIN", "quantity": 200, "chance": 0.41, "questLink": "N/A"},
             {"item": "Jungle3", "quantity": 1, "chance": 0.17, "questLink": "N/A"},
             {"item": "CardsA6", "quantity": 1, "chance": 0.019, "questLink": "N/A"},
-            {"item": "FoodHealth2", "quantity": 4, "chance": 0.006, "questLink": "N/A"},
             {"item": "EquipmentBows4", "quantity": 1, "chance": 4e-05, "questLink": "N/A"},
             {"item": "DropTable2", "quantity": 1, "chance": 0.006, "questLink": "N/A"}
         ]
@@ -496,9 +503,7 @@
             {"item": "CardsZ26", "quantity": 1, "chance": 0.99, "questLink": "N/A"},
             {"item": "EquipmentPendant32", "quantity": 1, "chance": 1, "questLink": "N/A"},
             {"item": "EquipmentShoes7", "quantity": 1, "chance": 0.3, "questLink": "N/A"},
-            {"item": "Jungle1", "quantity": 25, "chance": 1, "questLink": "N/A"},
-            {"item": "Jungle1", "quantity": 25, "chance": 1, "questLink": "N/A"},
-            {"item": "Jungle1", "quantity": 25, "chance": 1, "questLink": "N/A"},
+            {"item": "Jungle1", "quantity": 1, "chance": 1, "questLink": "N/A"},
             {"item": "DropTable3", "quantity": 2, "chance": 1, "questLink": "N/A"}
         ]
     },
@@ -616,6 +621,7 @@
             {"item": "DesertB2", "quantity": 1, "chance": 0.19, "questLink": "N/A"},
             {"item": "GoldricP3", "quantity": 1, "chance": 0.05, "questLink": "Goldric3"},
             {"item": "CardsB5", "quantity": 1, "chance": 0.0001, "questLink": "N/A"},
+            {"item": "SmithingRecipes2", "quantity": 38, "chance": 0.0008, "questLink": "N/A"},
             {"item": "DropTable7", "quantity": 1, "chance": 0.0035, "questLink": "N/A"}
         ]
     },
@@ -646,6 +652,7 @@
             {"item": "COIN", "quantity": 520, "chance": 0.36, "questLink": "N/A"},
             {"item": "DesertC1", "quantity": 1, "chance": 0.18, "questLink": "N/A"},
             {"item": "CardsB8", "quantity": 1, "chance": 0.0001, "questLink": "N/A"},
+            {"item": "SmithingRecipes2", "quantity": 79, "chance": 0.0001, "questLink": "N/A"},
             {"item": "DropTable8", "quantity": 1, "chance": 0.0032, "questLink": "N/A"}
         ]
     },
@@ -995,7 +1002,7 @@
             {"item": "StoneA3b", "quantity": 1, "chance": 0.04, "questLink": "N/A"},
             {"item": "PetEgg", "quantity": 1, "chance": 0.6, "questLink": "N/A"},
             {"item": "Ladle", "quantity": 3, "chance": 1, "questLink": "N/A"},
-            {"item": "SmithingRecipes4", "quantity": 56, "chance": 0.008, "questLink": "N/A"},
+            {"item": "SmithingRecipes4", "quantity": 50, "chance": 0.008, "questLink": "N/A"},
             {"item": "DropTable13", "quantity": 1, "chance": 0.5, "questLink": "N/A"}
         ]
     },
@@ -1568,13 +1575,119 @@
             {"item": "SpiD3", "quantity": 1, "chance": 0, "questLink": "N/A"}
         ]
     },
+    "w7a1": {
+        "drops": [
+            {"item": "COIN", "quantity": 1100000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "w7A1", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "CardsJ1", "quantity": 1, "chance": 1e-05, "questLink": "N/A"},
+            {"item": "SmithingRecipes7", "quantity": 0, "chance": 8e-07, "questLink": "N/A"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ]
+    },
+    "w7a2": {
+        "drops": [
+            {"item": "COIN", "quantity": 1600000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "w7A2", "quantity": 1, "chance": 0.0009, "questLink": "N/A"},
+            {"item": "CardsJ2", "quantity": 1, "chance": 6e-06, "questLink": "N/A"},
+            {"item": "SmithingRecipes7", "quantity": 5, "chance": 5e-07, "questLink": "N/A"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ]
+    },
+    "w7a3": {
+        "drops": [
+            {"item": "COIN", "quantity": 2500000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "w7A3", "quantity": 1, "chance": 0.0008, "questLink": "N/A"},
+            {"item": "CardsJ3", "quantity": 1, "chance": 2.5e-06, "questLink": "N/A"},
+            {"item": "SmithingRecipes7", "quantity": 6, "chance": 3e-07, "questLink": "N/A"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ]
+    },
+    "w7a4": {
+        "drops": [
+            {"item": "COIN", "quantity": 3500000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "w7A4", "quantity": 1, "chance": 0.00075, "questLink": "N/A"},
+            {"item": "CardsJ4", "quantity": 1, "chance": 1.5e-06, "questLink": "N/A"},
+            {"item": "Coral1", "quantity": 1, "chance": 4e-05, "questLink": "N/A"},
+            {"item": "SmithingRecipes7", "quantity": 7, "chance": 1e-07, "questLink": "N/A"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ]
+    },
+    "w7a5": {
+        "drops": [
+            {"item": "COIN", "quantity": 4700000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "w7A5", "quantity": 1, "chance": 0.0007, "questLink": "N/A"},
+            {"item": "CardsJ5", "quantity": 1, "chance": 1e-06, "questLink": "N/A"},
+            {"item": "SmithingRecipes7", "quantity": 2, "chance": 5e-08, "questLink": "N/A"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ]
+    },
+    "w7a6": {
+        "drops": [
+            {"item": "COIN", "quantity": 7000000, "chance": 1e-06, "questLink": "N/A"},
+            {"item": "w7A6", "quantity": 1, "chance": 1e-06, "questLink": "N/A"},
+            {"item": "CardsJ6", "quantity": 1, "chance": 1e-05, "questLink": "N/A"},
+            {"item": "ClamPearl0", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ]
+    },
+    "w7a7": {
+        "drops": [
+            {"item": "COIN", "quantity": 10000000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "w7A7", "quantity": 1, "chance": 0.00055, "questLink": "N/A"},
+            {"item": "CardsJ7", "quantity": 1, "chance": 5e-07, "questLink": "N/A"},
+            {"item": "Coral2", "quantity": 1, "chance": 2e-06, "questLink": "N/A"},
+            {"item": "SmithingRecipes7", "quantity": 1, "chance": 4e-08, "questLink": "N/A"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ]
+    },
+    "w7a8": {
+        "drops": [
+            {"item": "COIN", "quantity": 13000000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "w7A8", "quantity": 1, "chance": 0.0005, "questLink": "N/A"},
+            {"item": "CardsJ8", "quantity": 1, "chance": 4e-07, "questLink": "N/A"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ]
+    },
+    "w7a9": {
+        "drops": [
+            {"item": "COIN", "quantity": 17000000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "w7A9", "quantity": 1, "chance": 0.00045, "questLink": "N/A"},
+            {"item": "CardsJ9", "quantity": 1, "chance": 3e-07, "questLink": "N/A"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ]
+    },
+    "w7a10": {
+        "drops": [
+            {"item": "COIN", "quantity": 25300000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "w7A10", "quantity": 1, "chance": 0.0004, "questLink": "N/A"},
+            {"item": "CardsJ10", "quantity": 1, "chance": 2e-07, "questLink": "N/A"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ]
+    },
+    "w7a11": {
+        "drops": [
+            {"item": "COIN", "quantity": 35000000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "w7A11", "quantity": 1, "chance": 0.00033, "questLink": "N/A"},
+            {"item": "CardsJ11", "quantity": 1, "chance": 1.5e-07, "questLink": "N/A"},
+            {"item": "Coral3", "quantity": 1, "chance": 1e-07, "questLink": "N/A"},
+            {"item": "SmithingRecipes7", "quantity": 3, "chance": 1e-08, "questLink": "N/A"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ]
+    },
+    "w7a12": {
+        "drops": [
+            {"item": "COIN", "quantity": 50000000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "w7A12", "quantity": 1, "chance": 0.00025, "questLink": "N/A"},
+            {"item": "CardsJ12", "quantity": 1, "chance": 1e-07, "questLink": "N/A"},
+            {"item": "SmithingRecipes7", "quantity": 4, "chance": 5e-09, "questLink": "N/A"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ]
+    },
     "w7d1": {
         "drops": [
             {"item": "COIN", "quantity": 65000, "chance": 0.5, "questLink": "N/A"},
             {"item": "SpiA1", "quantity": 1, "chance": 0.16, "questLink": "N/A"},
             {"item": "CardsI1", "quantity": 1, "chance": 2.5e-05, "questLink": "N/A"},
-            {"item": "SmithingRecipes6", "quantity": 4, "chance": 2e-08, "questLink": "N/A"},
-            {"item": "DropTable29", "quantity": 1, "chance": 0.0025, "questLink": "N/A"}
+            {"item": "DropTable34", "quantity": 1, "chance": 0.0025, "questLink": "N/A"}
         ]
     },
     "ChestA1": {
@@ -2083,6 +2196,7 @@
         "drops": [
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
             {"item": "CardsC3", "quantity": 1, "chance": 0.00011, "questLink": "N/A"},
+            {"item": "SmithingRecipes2", "quantity": 48, "chance": 0.005, "questLink": "N/A"},
             {"item": "DropTable4", "quantity": 1, "chance": 0.0075, "questLink": "N/A"}
         ]
     },
@@ -2139,6 +2253,13 @@
         "drops": [
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
             {"item": "CardsF39", "quantity": 1, "chance": 2e-06, "questLink": "N/A"},
+            {"item": "DropTable4", "quantity": 2, "chance": 0.015, "questLink": "N/A"}
+        ]
+    },
+    "Prehistrium": {
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsF44", "quantity": 1, "chance": 1e-06, "questLink": "N/A"},
             {"item": "DropTable4", "quantity": 2, "chance": 0.015, "questLink": "N/A"}
         ]
     },
@@ -2279,6 +2400,13 @@
         "drops": [
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
             {"item": "CardsF35", "quantity": 1, "chance": 4e-08, "questLink": "N/A"},
+            {"item": "DropTable33", "quantity": 1, "chance": 0.0089, "questLink": "N/A"}
+        ]
+    },
+    "Tree14": {
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsF40", "quantity": 1, "chance": 1e-08, "questLink": "N/A"},
             {"item": "DropTable33", "quantity": 1, "chance": 0.0089, "questLink": "N/A"}
         ]
     },
@@ -2486,6 +2614,12 @@
             {"item": "Grasslands2", "quantity": 2, "chance": 0, "questLink": "N/A"}
         ]
     },
+    "BugNest15": {
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "Grasslands2", "quantity": 2, "chance": 0, "questLink": "N/A"}
+        ]
+    },
     "Bug1": {
         "drops": [
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
@@ -2497,6 +2631,7 @@
         "drops": [
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
             {"item": "CardsC12", "quantity": 1, "chance": 0.0003, "questLink": "N/A"},
+            {"item": "SmithingRecipes2", "quantity": 67, "chance": 0.005, "questLink": "N/A"},
             {"item": "ButterBar", "quantity": 1, "chance": 0.01, "questLink": "N/A"},
             {"item": "DropTable12", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
         ]
@@ -2578,6 +2713,13 @@
             {"item": "DropTable30", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
         ]
     },
+    "Bug15": {
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsF46", "quantity": 1, "chance": 1e-06, "questLink": "N/A"},
+            {"item": "DropTable30", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
+        ]
+    },
     "SoulCard1": {
         "drops": [
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
@@ -2648,6 +2790,16 @@
             {"item": "Soul7", "quantity": 1, "chance": 1, "questLink": "N/A"}
         ]
     },
+    "SoulCard8": {
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsD9", "quantity": 1, "chance": 0.00014, "questLink": "N/A"},
+            {"item": "Soul8", "quantity": 1, "chance": 1, "questLink": "N/A"},
+            {"item": "Soul8", "quantity": 1, "chance": 1, "questLink": "N/A"},
+            {"item": "Soul8", "quantity": 1, "chance": 1, "questLink": "N/A"},
+            {"item": "Soul8", "quantity": 1, "chance": 1, "questLink": "N/A"}
+        ]
+    },
     "CritterCard1": {
         "drops": [
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
@@ -2716,6 +2868,69 @@
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
             {"item": "CardsD10", "quantity": 1, "chance": 0.00014, "questLink": "N/A"},
             {"item": "Critter10", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
+        ]
+    },
+    "CritterCard11": {
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsD10", "quantity": 1, "chance": 0.00014, "questLink": "N/A"},
+            {"item": "Critter11", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
+        ]
+    },
+    "Spelunking0": {
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsF41", "quantity": 1, "chance": 0.0002, "questLink": "N/A"},
+            {"item": "DropTable4", "quantity": 1, "chance": 0, "questLink": "N/A"}
+        ]
+    },
+    "Spelunking1": {
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsF42", "quantity": 1, "chance": 8e-05, "questLink": "N/A"},
+            {"item": "DropTable4", "quantity": 1, "chance": 0, "questLink": "N/A"}
+        ]
+    },
+    "Spelunking2": {
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsF43", "quantity": 1, "chance": 3e-05, "questLink": "N/A"},
+            {"item": "DropTable4", "quantity": 1, "chance": 0, "questLink": "N/A"}
+        ]
+    },
+    "Spelunking3": {
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsF48", "quantity": 1, "chance": 5e-06, "questLink": "N/A"},
+            {"item": "DropTable4", "quantity": 1, "chance": 0, "questLink": "N/A"}
+        ]
+    },
+    "SpelunkingCard0": {
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsD10", "quantity": 1, "chance": 0, "questLink": "N/A"},
+            {"item": "Spelunking0", "quantity": 1, "chance": 1, "questLink": "N/A"}
+        ]
+    },
+    "SpelunkingCard1": {
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsD10", "quantity": 1, "chance": 0, "questLink": "N/A"},
+            {"item": "Spelunking1", "quantity": 1, "chance": 1, "questLink": "N/A"}
+        ]
+    },
+    "SpelunkingCard2": {
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsD10", "quantity": 1, "chance": 0, "questLink": "N/A"},
+            {"item": "Spelunking2", "quantity": 1, "chance": 1, "questLink": "N/A"}
+        ]
+    },
+    "SpelunkingCard3": {
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsD10", "quantity": 1, "chance": 0, "questLink": "N/A"},
+            {"item": "Spelunking3", "quantity": 1, "chance": 1, "questLink": "N/A"}
         ]
     }
 }

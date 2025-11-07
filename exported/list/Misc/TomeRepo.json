@@ -1,17 +1,9 @@
 [
     {
-        "name": "Stamp Total LV",
-        "keyQty": 10000,
-        "scalingType": "decay",
-        "totalVal": 800,
-        "decimalDisplay": null,
-        "desc": null
-    },
-    {
         "name": "Statue Total LV",
         "keyQty": 2300,
         "scalingType": "decay",
-        "totalVal": 350,
+        "totalVal": 600,
         "decimalDisplay": null,
         "desc": null
     },
@@ -19,7 +11,7 @@
         "name": "Cards Total LV",
         "keyQty": 1344,
         "scalingType": "linearToMax",
-        "totalVal": 350,
+        "totalVal": 1000,
         "decimalDisplay": null,
         "desc": null
     },
@@ -27,7 +19,7 @@
         "name": "Total Talent Max LV 膛 (Tap for more info)",
         "keyQty": 12000,
         "scalingType": "decay",
-        "totalVal": 400,
+        "totalVal": 600,
         "decimalDisplay": null,
         "desc": "For each talent, the tome counts the highest Max LV out of all your players."
     },
@@ -35,15 +27,15 @@
         "name": "Unique Quests Completed 膛",
         "keyQty": 323,
         "scalingType": "linearToMax",
-        "totalVal": 300,
+        "totalVal": 500,
         "decimalDisplay": null,
         "desc": "Doing the same quest on multiple players doesn't count for this."
     },
     {
         "name": "Account LV",
-        "keyQty": 5500,
+        "keyQty": 7000,
         "scalingType": "decay",
-        "totalVal": 900,
+        "totalVal": 1500,
         "decimalDisplay": null,
         "desc": null
     },
@@ -59,7 +51,7 @@
         "name": "Total Achievements Completed",
         "keyQty": 266,
         "scalingType": "linearToMax",
-        "totalVal": 750,
+        "totalVal": 850,
         "decimalDisplay": null,
         "desc": null
     },
@@ -67,7 +59,7 @@
         "name": "Most Money held in Storage",
         "keyQty": 25,
         "scalingType": "decayLog",
-        "totalVal": 300,
+        "totalVal": 500,
         "decimalDisplay": null,
         "desc": null
     },
@@ -81,17 +73,17 @@
     },
     {
         "name": "Trophies Found",
-        "keyQty": 21,
+        "keyQty": 22,
         "scalingType": "linearToMax",
-        "totalVal": 660,
+        "totalVal": 700,
         "decimalDisplay": null,
         "desc": null
     },
     {
         "name": "Account Skills LV",
-        "keyQty": 15000,
+        "keyQty": 18000,
         "scalingType": "decay",
-        "totalVal": 750,
+        "totalVal": 1200,
         "decimalDisplay": null,
         "desc": null
     },
@@ -179,7 +171,7 @@
         "name": "Total Bubble LV",
         "keyQty": 200000,
         "scalingType": "decay",
-        "totalVal": 1000,
+        "totalVal": 1200,
         "decimalDisplay": null,
         "desc": null
     },
@@ -337,15 +329,15 @@
     },
     {
         "name": "Total Construct Buildings LV",
-        "keyQty": 3000,
+        "keyQty": 4000,
         "scalingType": "decay",
-        "totalVal": 600,
+        "totalVal": 900,
         "decimalDisplay": null,
         "desc": null
     },
     {
         "name": "Most Tottoise in Storage 膛",
-        "keyQty": 7,
+        "keyQty": 5,
         "scalingType": "decayLog",
         "totalVal": 150,
         "decimalDisplay": null,
@@ -369,7 +361,7 @@
     },
     {
         "name": "Highest Power Pet",
-        "keyQty": 8,
+        "keyQty": 5,
         "scalingType": "decayLog",
         "totalVal": 150,
         "decimalDisplay": null,
@@ -481,9 +473,9 @@
     },
     {
         "name": "Total Artifacts Found 膛",
-        "keyQty": 132,
+        "keyQty": 185,
         "scalingType": "linearToMax",
-        "totalVal": 800,
+        "totalVal": 1000,
         "decimalDisplay": null,
         "desc": "Rarer versions of an artifact count for more, so Ancient would count as 2 Artifacts."
     },
@@ -505,9 +497,9 @@
     },
     {
         "name": "Highest Immortal Snail LV",
-        "keyQty": 25,
+        "keyQty": 50,
         "scalingType": "linearToMax",
-        "totalVal": 150,
+        "totalVal": 300,
         "decimalDisplay": null,
         "desc": null
     },
@@ -521,17 +513,17 @@
     },
     {
         "name": "Items Found",
-        "keyQty": 1590,
+        "keyQty": 1800,
         "scalingType": "linearToMax",
-        "totalVal": 1000,
+        "totalVal": 1300,
         "decimalDisplay": null,
         "desc": null
     },
     {
         "name": "Most Gaming Bits Owned",
-        "keyQty": 45,
+        "keyQty": 80,
         "scalingType": "decayLog",
-        "totalVal": 250,
+        "totalVal": 400,
         "decimalDisplay": null,
         "desc": null
     },
@@ -553,11 +545,11 @@
     },
     {
         "name": "Total Golden Food Beanstacks 膛",
-        "keyQty": 28,
+        "keyQty": 30,
         "scalingType": "linearToMax",
         "totalVal": 400,
         "decimalDisplay": null,
-        "desc": "Supersized Gold Food Beanstacks count as 2 Beanstacks."
+        "desc": "Supersized Gold Food Beanstacks count as 2 Beanstacks!"
     },
     {
         "name": "Total Summoning Upgrades LV",
@@ -593,9 +585,9 @@
     },
     {
         "name": "Jade Emporium Upgrades Purchased",
-        "keyQty": 38,
+        "keyQty": 50,
         "scalingType": "linearToMax",
-        "totalVal": 500,
+        "totalVal": 700,
         "decimalDisplay": null,
         "desc": null
     },
@@ -643,7 +635,7 @@
         "name": "Total Arcade Gold Ball Shop Upgrade LV",
         "keyQty": 3800,
         "scalingType": "linearToMax",
-        "totalVal": 300,
+        "totalVal": 800,
         "decimalDisplay": null,
         "desc": null
     },
@@ -683,7 +675,7 @@
         "name": "Megafeathers Earned from Orion",
         "keyQty": 12,
         "scalingType": "decay",
-        "totalVal": 100,
+        "totalVal": 250,
         "decimalDisplay": null,
         "desc": null
     },
@@ -691,7 +683,7 @@
         "name": "Megafish Earned from Poppy",
         "keyQty": 12,
         "scalingType": "decay",
-        "totalVal": 100,
+        "totalVal": 250,
         "decimalDisplay": null,
         "desc": null
     },
@@ -715,17 +707,17 @@
         "name": "Best Wisdom Monument Round 膛",
         "keyQty": 18,
         "scalingType": "linearToMax",
-        "totalVal": 350,
+        "totalVal": 250,
         "decimalDisplay": null,
         "desc": "Wisdom Monument is the 13th Cavern in The Hole."
     },
     {
         "name": "Best Deathbringer Max Damage in Wraith Mode 膛",
-        "keyQty": 9,
+        "keyQty": 10,
         "scalingType": "decayLog",
         "totalVal": 400,
         "decimalDisplay": null,
-        "desc": "Deathbringer is the Blood Berserker's Master Class, given by Masterius NPC in World 6. You need to open your grimoire btw."
+        "desc": "Deathbringer is the Blood Berserker's Master Class, given by Masterius NPC in World 6. You need to open your grimoire to register damage."
     },
     {
         "name": "Best Dawg Den score 膛",
@@ -774,5 +766,93 @@
         "totalVal": 300,
         "decimalDisplay": null,
         "desc": "This is the TOTAL wins you have against all Summoning Bosses combined. These are the bossfights from the stones, like the one next to Tribal Shaman NPC!"
+    },
+    {
+        "name": "Total Coral Reef upgrades 膛",
+        "keyQty": 37,
+        "scalingType": "linearToMax",
+        "totalVal": 400,
+        "decimalDisplay": null,
+        "desc": "The Coral Reef is a feature in World 7 town, unlocked by rescuing Humble Hugh's missing Fishies!"
+    },
+    {
+        "name": "Deepest Depth reached in a single Delve 膛",
+        "keyQty": 100,
+        "scalingType": "decay",
+        "totalVal": 300,
+        "decimalDisplay": null,
+        "desc": "This is for the Spelunking skill, it's just the deepest you've gone in a single attempt."
+    },
+    {
+        "name": "Total Ninja Knowledge Upgrades LV 膛",
+        "keyQty": 5000,
+        "scalingType": "decay",
+        "totalVal": 500,
+        "decimalDisplay": null,
+        "desc": "Ninja Knowledge is the upgrade tree accessed within Sneaking. This includes mini knowledge upgrades, but you'll unlock those later..."
+    },
+    {
+        "name": "Best Windwalker Max Damage in Tempest Mode 膛",
+        "keyQty": 10,
+        "scalingType": "decayLog",
+        "totalVal": 400,
+        "decimalDisplay": null,
+        "desc": "Windwalker is the Beast Masters's Master Class, given by Masterius NPC in World 6. You need to open your Compass to register damage."
+    },
+    {
+        "name": "Best Arcane Cultist Max Damage in Arcanist Mode 膛",
+        "keyQty": 10,
+        "scalingType": "decayLog",
+        "totalVal": 400,
+        "decimalDisplay": null,
+        "desc": "Arcane Cultist is the Bubonic Conjuror's Master Class, given by Masterius NPC in World 6. You need to open your Tesseract to register damage."
+    },
+    {
+        "name": "Biggest Haul in a single Delve 膛",
+        "keyQty": 25,
+        "scalingType": "decayLog",
+        "totalVal": 300,
+        "decimalDisplay": null,
+        "desc": "This is for the Spelunking skill, it's just the most amount of Amber you've gotten in a single attempt."
+    },
+    {
+        "name": "Total Spelunk Shop Upgrades LV",
+        "keyQty": 2000,
+        "scalingType": "decay",
+        "totalVal": 500,
+        "decimalDisplay": null,
+        "desc": null
+    },
+    {
+        "name": "Total Spelunk Discoveries made 膛",
+        "keyQty": 76,
+        "scalingType": "linearToMax",
+        "totalVal": 300,
+        "decimalDisplay": null,
+        "desc": "A Discovery is when you destroy a rock for the first time in a cave. It's basically how many unique 'things' you've encountered while spelunking!"
+    },
+    {
+        "name": "Highest leveled Spelunker 膛",
+        "keyQty": 200,
+        "scalingType": "decay",
+        "totalVal": 200,
+        "decimalDisplay": null,
+        "desc": "In other words, this is the Spelunking LV of the highest leveled spelunker in your account."
+    },
+    {
+        "name": "Lava Dev Streams watched 膛",
+        "keyQty": 10,
+        "scalingType": "linearToMax",
+        "totalVal": 250,
+        "decimalDisplay": null,
+        "desc": "Hey this one's about me! In order to get credit for watching one of my streams, you need to get a gem drop from me while I'm live on twitch at Twitch.tv/lava贫flame2"
+    },
+    {
+        "name": "Nametags Found 膛",
+        "keyQty": 20,
+        "scalingType": "linearToMax",
+        "totalVal": 700,
+        "decimalDisplay": null,
+        "desc": "This only counts the amount of unique nametags you found... but don't throw away your duplicate nametags! You'll need them for The Gallery in World 7!"
     }
 ]

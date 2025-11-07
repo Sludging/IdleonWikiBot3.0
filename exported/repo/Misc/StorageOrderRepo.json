@@ -17,8 +17,6 @@
     "InvBag16": {"order": 15, "obtainable": false, "bag": "InvBag16"},
     "InvBag17": {"order": 16, "obtainable": false, "bag": "InvBag17"},
     "InvBag18": {"order": 17, "obtainable": false, "bag": "InvBag18"},
-    "InvBag19": {"order": 18, "obtainable": false, "bag": "InvBag19"},
-    "InvBag20": {"order": 19, "obtainable": false, "bag": "InvBag20"},
     "InvBag21": {"order": 20, "obtainable": true, "bag": "InvBag21"},
     "InvBag22": {"order": 21, "obtainable": true, "bag": "InvBag22"},
     "InvBag23": {"order": 22, "obtainable": true, "bag": "InvBag23"},
@@ -39,6 +37,7 @@
     "InvBag108": {"order": 108, "obtainable": true, "bag": "InvBag108"},
     "InvBag113": {"order": 113, "obtainable": true, "bag": "InvBag113"},
     "InvBag114": {"order": 114, "obtainable": true, "bag": "InvBag114"},
+    "InvBag115": {"order": 115, "obtainable": true, "bag": "InvBag115"},
     "InvBag112": {"order": 112, "obtainable": true, "bag": "InvBag112"},
     "InvStorage1": {"order": 0, "obtainable": true, "bag": "InvStorage1"},
     "InvStorage2": {"order": 1, "obtainable": true, "bag": "InvStorage2"},
@@ -87,5 +86,7 @@
     "InvStorageC": {"order": 102, "obtainable": true, "bag": "InvStorageC"},
     "InvStorageD": {"order": 103, "obtainable": true, "bag": "InvStorageD"},
     "InvStorageN": {"order": 104, "obtainable": true, "bag": "InvStorageN"},
-    "InvStorageH": {"order": 105, "obtainable": true, "bag": "InvStorageH"}
+    "InvStorageH": {"order": 105, "obtainable": true, "bag": "InvStorageH"},
+    "InvStorageL": {"order": 106, "obtainable": true, "bag": "InvStorageL"},
+    "InvStorageZ": {"order": 107, "obtainable": true, "bag": "InvStorageZ"}
 }

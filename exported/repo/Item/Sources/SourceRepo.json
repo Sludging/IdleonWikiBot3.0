@@ -743,12 +743,14 @@
         ],
         "questAss": []
     },
-    "FillerMaterial": {
+    "EquipmentPendant34": {
         "sources": [
             {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
-            {"wikiName": "[[Fishing]]", "txtName": "Fishing"}
+            {"wikiName": "[[Baby Boa|Recipe from Baby Boa]]", "txtName": "Baby Boa"}
         ],
-        "recipeFrom": [],
+        "recipeFrom": [
+            {"wikiName": "[[Baby Boa]]", "txtName": "Baby Boa"}
+        ],
         "questAss": []
     },
     "EquipmentPendant17": {
@@ -1332,6 +1334,16 @@
         ],
         "questAss": []
     },
+    "EquipmentShoes14": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
+            {"wikiName": "[[Sand Castle|Recipe from Sand Castle]]", "txtName": "Sand Castle"}
+        ],
+        "recipeFrom": [
+            {"wikiName": "[[Sand Castle]]", "txtName": "Sand Castle"}
+        ],
+        "questAss": []
+    },
     "EquipmentSmithingTabs3": {
         "sources": [
             {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
@@ -1430,6 +1442,16 @@
         ],
         "recipeFrom": [
             {"wikiName": "[[Tasks/Unlocks|Task Unlocks Tab 2]]", "txtName": "Task Unlocks Tab 2"}
+        ],
+        "questAss": []
+    },
+    "EquipmentShirts40": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
+            {"wikiName": "[[Gold|Recipe from Gold]]", "txtName": "Gold"}
+        ],
+        "recipeFrom": [
+            {"wikiName": "[[Gold]]", "txtName": "Gold"}
         ],
         "questAss": []
     },
@@ -1653,6 +1675,16 @@
         ],
         "questAss": []
     },
+    "EquipmentPendant36": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
+            {"wikiName": "[[Butterflies|Recipe from Butterflies]]", "txtName": "Butterflies"}
+        ],
+        "recipeFrom": [
+            {"wikiName": "[[Butterflies]]", "txtName": "Butterflies"}
+        ],
+        "questAss": []
+    },
     "TrapBoxSet3": {
         "sources": [
             {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
@@ -1787,6 +1819,16 @@
                 "wikiName": "[[Cowbo_Jones#The_New_Sheriff|The New Sheriff]]",
                 "txtName": "Cowbo Jones: The New Sheriff"
             }
+        ],
+        "questAss": []
+    },
+    "EquipmentRings38": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
+            {"wikiName": "[[Tyson|Recipe from Tyson]]", "txtName": "Tyson"}
+        ],
+        "recipeFrom": [
+            {"wikiName": "[[Tyson]]", "txtName": "Tyson"}
         ],
         "questAss": []
     },
@@ -3312,6 +3354,16 @@
         ],
         "questAss": []
     },
+    "EquipmentRings30": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
+            {"wikiName": "[[Mutated Mush|Recipe from Mutated Mush]]", "txtName": "Mutated Mush"}
+        ],
+        "recipeFrom": [
+            {"wikiName": "[[Mutated Mush]]", "txtName": "Mutated Mush"}
+        ],
+        "questAss": []
+    },
     "EquipmentSmithingTabs5": {
         "sources": [
             {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
@@ -3362,13 +3414,279 @@
         ],
         "questAss": []
     },
-    "EquipmentRings30": {
+    "Timecandy2": {
         "sources": [
             {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
-            {"wikiName": "[[Mutated Mush|Recipe from Mutated Mush]]", "txtName": "Mutated Mush"}
+            {"wikiName": "[[Floofie]]", "txtName": "Floofie"},
+            {"wikiName": "[[Shell Snake]]", "txtName": "Shell Snake"},
+            {"wikiName": "[[DropTable13]]", "txtName": "DropTable13"},
+            {
+                "wikiName": "[[Stiltzcho#Time Crime Episode 1|Time Crime Episode 1]]",
+                "txtName": "Stiltzcho: Time Crime Episode 1"
+            },
+            {
+                "wikiName": "[[Speccius#More like 'Sleepius' lmao|More like 'Sleepius' lmao]]",
+                "txtName": "Speccius: More like 'Sleepius' lmao"
+            },
+            {
+                "wikiName": "[[Postboy Pablob#Signed, Sealed and Lost in the Post|Signed, Sealed and Lost in the Post]]",
+                "txtName": "Postboy Pablob: Signed, Sealed and Lost in the Post"
+            },
+            {
+                "wikiName": "[[Centurion#High Scorer|High Scorer]]",
+                "txtName": "Centurion: High Scorer"
+            },
+            {
+                "wikiName": "[[Centurion#Colosseum Champ!|Colosseum Champ!]]",
+                "txtName": "Centurion: Colosseum Champ!"
+            },
+            {
+                "wikiName": "[[Giftmas Blobulyte#Boo, Headshot!|Boo, Headshot!]]",
+                "txtName": "Giftmas Blobulyte: Boo, Headshot!"
+            },
+            {
+                "wikiName": "[[Telescope#I'm Seeing Stars!|I'm Seeing Stars!]]",
+                "txtName": "Telescope: I'm Seeing Stars!"
+            },
+            {
+                "wikiName": "[[Loveulyte#Heartbreaker|Heartbreaker]]",
+                "txtName": "Loveulyte: Heartbreaker"
+            },
+            {
+                "wikiName": "[[Hoggindaz#Voter Recognition|Voter Recognition]]",
+                "txtName": "Hoggindaz: Voter Recognition"
+            },
+            {
+                "wikiName": "[[Bill Brr#The Spores are a Bore|The Spores are a Bore]]",
+                "txtName": "Bill Brr: The Spores are a Bore"
+            },
+            {
+                "wikiName": "[[Crystalswine#Melting the Snakes|Melting the Snakes]]",
+                "txtName": "Crystalswine: Melting the Snakes"
+            },
+            {"wikiName": "[[Shuvelle#Diggy Hole!|Diggy Hole!]]", "txtName": "Shuvelle: Diggy Hole!"},
+            {
+                "wikiName": "[[Tasks/Unlocks|Recipe from Task Unlocks Tab 5]]",
+                "txtName": "Task Unlocks Tab 5"
+            },
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"},
+            {"wikiName": "[[Skull Shop]]", "txtName": "Killroy Shop"},
+            {
+                "wikiName": "[[Alchemy#Level up Gift|Level up Gift]]",
+                "txtName": "Alchemy: Level up Gift"
+            },
+            {"wikiName": "[[Guild Giftbox]]", "txtName": "Guild Giftbox"}
         ],
         "recipeFrom": [
-            {"wikiName": "[[Mutated Mush]]", "txtName": "Mutated Mush"}
+            {"wikiName": "[[Tasks/Unlocks|Task Unlocks Tab 5]]", "txtName": "Task Unlocks Tab 5"}
+        ],
+        "questAss": []
+    },
+    "Timecandy3": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
+            {"wikiName": "[[DropTable13]]", "txtName": "DropTable13"},
+            {
+                "wikiName": "[[Stiltzcho#Time Crime Episode 2|Time Crime Episode 2]]",
+                "txtName": "Stiltzcho: Time Crime Episode 2"
+            },
+            {
+                "wikiName": "[[Papua Piggea#Crystal Crime Stopper|Crystal Crime Stopper]]",
+                "txtName": "Papua Piggea: Crystal Crime Stopper"
+            },
+            {"wikiName": "[[Desert Davey#U Cool?|U Cool?]]", "txtName": "Desert Davey: U Cool?"},
+            {
+                "wikiName": "[[Centurion#Colosseum Champ!|Colosseum Champ!]]",
+                "txtName": "Centurion: Colosseum Champ!"
+            },
+            {
+                "wikiName": "[[Telescope#I'm Seeing Stars!|I'm Seeing Stars!]]",
+                "txtName": "Telescope: I'm Seeing Stars!"
+            },
+            {
+                "wikiName": "[[Iceland Irwin#Crikey, it's cold out!|Crikey, it's cold out!]]",
+                "txtName": "Iceland Irwin: Crikey, it's cold out!"
+            },
+            {
+                "wikiName": "[[Hoggindaz#Voter Appeasement|Voter Appeasement]]",
+                "txtName": "Hoggindaz: Voter Appeasement"
+            },
+            {
+                "wikiName": "[[Bill Brr#Have a Candy|Have a Candy]]",
+                "txtName": "Bill Brr: Have a Candy"
+            },
+            {
+                "wikiName": "[[Crystalswine#Sunrunning to Chizoar|Sunrunning to Chizoar]]",
+                "txtName": "Crystalswine: Sunrunning to Chizoar"
+            },
+            {
+                "wikiName": "[[Yondergreen#Stance on Big Tech|Stance on Big Tech]]",
+                "txtName": "Yondergreen: Stance on Big Tech"
+            },
+            {
+                "wikiName": "[[Yondergreen#No Snapping Contract|No Snapping Contract]]",
+                "txtName": "Yondergreen: No Snapping Contract"
+            },
+            {
+                "wikiName": "[[Shuvelle#Mayoral Sack Size|Mayoral Sack Size]]",
+                "txtName": "Shuvelle: Mayoral Sack Size"
+            },
+            {
+                "wikiName": "[[Shuvelle#Diggy Diggy Hole!|Diggy Diggy Hole!]]",
+                "txtName": "Shuvelle: Diggy Diggy Hole!"
+            },
+            {
+                "wikiName": "[[Shuvelle#Dig Diggily Diggy Dig Dig Hole!|Dig Diggily Diggy Dig Dig Hole!]]",
+                "txtName": "Shuvelle: Dig Diggily Diggy Dig Dig Hole!"
+            },
+            {
+                "wikiName": "[[Lord of the Hunt#Frogecoin to the MOON!|Frogecoin to the MOON!]]",
+                "txtName": "Lord of the Hunt: Frogecoin to the MOON!"
+            },
+            {
+                "wikiName": "[[Lord of the Hunt#Yet another Cartoon Reference|Yet another Cartoon Reference]]",
+                "txtName": "Lord of the Hunt: Yet another Cartoon Reference"
+            },
+            {
+                "wikiName": "[[Lord of the Hunt#Small Stingers, Big Owie|Small Stingers, Big Owie]]",
+                "txtName": "Lord of the Hunt: Small Stingers, Big Owie"
+            },
+            {"wikiName": "[[Snouts#Mana Plox|Mana Plox]]", "txtName": "Snouts: Mana Plox"},
+            {
+                "wikiName": "[[Tasks/Unlocks|Recipe from Task Unlocks Tab 5]]",
+                "txtName": "Task Unlocks Tab 5"
+            },
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"},
+            {"wikiName": "[[Skull Shop]]", "txtName": "Killroy Shop"},
+            {
+                "wikiName": "[[Alchemy#Level up Gift|Level up Gift]]",
+                "txtName": "Alchemy: Level up Gift"
+            },
+            {"wikiName": "[[Guild Giftbox]]", "txtName": "Guild Giftbox"}
+        ],
+        "recipeFrom": [
+            {"wikiName": "[[Tasks/Unlocks|Task Unlocks Tab 5]]", "txtName": "Task Unlocks Tab 5"}
+        ],
+        "questAss": []
+    },
+    "Timecandy4": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
+            {"wikiName": "[[Floofie]]", "txtName": "Floofie"},
+            {"wikiName": "[[DropTable13]]", "txtName": "DropTable13"},
+            {
+                "wikiName": "[[Cactolyte#Super Skillage|Super Skillage]]",
+                "txtName": "Cactolyte: Super Skillage"
+            },
+            {
+                "wikiName": "[[Snake Jar#Red Stuff Bad!|Red Stuff Bad!]]",
+                "txtName": "Snake Jar: Red Stuff Bad!"
+            },
+            {
+                "wikiName": "[[Centurion#Colosseum GDQ|Colosseum GDQ]]",
+                "txtName": "Centurion: Colosseum GDQ"
+            },
+            {
+                "wikiName": "[[Centurion#Centurio Rank|Centurio Rank]]",
+                "txtName": "Centurion: Centurio Rank"
+            },
+            {
+                "wikiName": "[[Hoggindaz#Voter Apathy|Voter Apathy]]",
+                "txtName": "Hoggindaz: Voter Apathy"
+            },
+            {
+                "wikiName": "[[Yondergreen#Keep Away Contract|Keep Away Contract]]",
+                "txtName": "Yondergreen: Keep Away Contract"
+            },
+            {
+                "wikiName": "[[Lord of the Hunt#Pelt for the Pelt God|Pelt for the Pelt God]]",
+                "txtName": "Lord of the Hunt: Pelt for the Pelt God"
+            },
+            {
+                "wikiName": "[[Lord of the Hunt#Happy Tree Friend|Happy Tree Friend]]",
+                "txtName": "Lord of the Hunt: Happy Tree Friend"
+            },
+            {
+                "wikiName": "[[Lord of the Hunt#Noot Noot!|Noot Noot!]]",
+                "txtName": "Lord of the Hunt: Noot Noot!"
+            },
+            {
+                "wikiName": "[[Walupiggy#Treasure Hunt 1|Treasure Hunt 1]]",
+                "txtName": "Walupiggy: Treasure Hunt 1"
+            },
+            {
+                "wikiName": "[[Tasks/Unlocks|Recipe from Task Unlocks Tab 5]]",
+                "txtName": "Task Unlocks Tab 5"
+            },
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"},
+            {"wikiName": "[[Skull Shop]]", "txtName": "Killroy Shop"},
+            {
+                "wikiName": "[[Alchemy#Level up Gift|Level up Gift]]",
+                "txtName": "Alchemy: Level up Gift"
+            },
+            {"wikiName": "[[Guild Giftbox]]", "txtName": "Guild Giftbox"}
+        ],
+        "recipeFrom": [
+            {"wikiName": "[[Tasks/Unlocks|Task Unlocks Tab 5]]", "txtName": "Task Unlocks Tab 5"}
+        ],
+        "questAss": []
+    },
+    "Timecandy5": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
+            {"wikiName": "[[DropTable13]]", "txtName": "DropTable13"},
+            {
+                "wikiName": "[[Cactolyte#Top Skillage|Top Skillage]]",
+                "txtName": "Cactolyte: Top Skillage"
+            },
+            {
+                "wikiName": "[[Stiltzcho#Time Crime Season Finale|Time Crime Season Finale]]",
+                "txtName": "Stiltzcho: Time Crime Season Finale"
+            },
+            {
+                "wikiName": "[[Goldric#Dont lay a finger on my Sheepies!!!|Dont lay a finger on my Sheepies!!!]]",
+                "txtName": "Goldric: Dont lay a finger on my Sheepies!!!"
+            },
+            {
+                "wikiName": "[[Loominadi#The Mummy of Mystery|The Mummy of Mystery]]",
+                "txtName": "Loominadi: The Mummy of Mystery"
+            },
+            {"wikiName": "[[Cowbo Jones#Tomb Raid|Tomb Raid]]", "txtName": "Cowbo Jones: Tomb Raid"},
+            {
+                "wikiName": "[[Centurion#Legatus Rank|Legatus Rank]]",
+                "txtName": "Centurion: Legatus Rank"
+            },
+            {
+                "wikiName": "[[Crystalswine#Global Warming|Global Warming]]",
+                "txtName": "Crystalswine: Global Warming"
+            },
+            {
+                "wikiName": "[[Yondergreen#Ad Solidarity Contract|Ad Solidarity Contract]]",
+                "txtName": "Yondergreen: Ad Solidarity Contract"
+            },
+            {
+                "wikiName": "[[Lord of the Hunt#Untitled Quest|Untitled Quest]]",
+                "txtName": "Lord of the Hunt: Untitled Quest"
+            },
+            {
+                "wikiName": "[[Walupiggy#Treasure Hunt 2|Treasure Hunt 2]]",
+                "txtName": "Walupiggy: Treasure Hunt 2"
+            },
+            {
+                "wikiName": "[[Monolith#Surface Level Jealousy|Surface Level Jealousy]]",
+                "txtName": "Monolith: Surface Level Jealousy"
+            },
+            {
+                "wikiName": "[[Tasks/Unlocks|Recipe from Task Unlocks Tab 5]]",
+                "txtName": "Task Unlocks Tab 5"
+            },
+            {
+                "wikiName": "[[Alchemy#Level up Gift|Level up Gift]]",
+                "txtName": "Alchemy: Level up Gift"
+            }
+        ],
+        "recipeFrom": [
+            {"wikiName": "[[Tasks/Unlocks|Task Unlocks Tab 5]]", "txtName": "Task Unlocks Tab 5"}
         ],
         "questAss": []
     },
@@ -3735,12 +4053,10 @@
     "EquipmentPunching10": {
         "sources": [
             {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
-            {"wikiName": "[[Sprout Spirit|Recipe from Sprout Spirit]]", "txtName": "Sprout Spirit"},
-            {"wikiName": "[[RIP Tide|Recipe from RIP Tide]]", "txtName": "RIP Tide"}
+            {"wikiName": "[[Sprout Spirit|Recipe from Sprout Spirit]]", "txtName": "Sprout Spirit"}
         ],
         "recipeFrom": [
-            {"wikiName": "[[Sprout Spirit]]", "txtName": "Sprout Spirit"},
-            {"wikiName": "[[RIP Tide]]", "txtName": "RIP Tide"}
+            {"wikiName": "[[Sprout Spirit]]", "txtName": "Sprout Spirit"}
         ],
         "questAss": []
     },
@@ -3882,6 +4198,19 @@
         ],
         "recipeFrom": [
             {"wikiName": "[[Demented Spiritlord]]", "txtName": "Demented Spiritlord"}
+        ],
+        "questAss": []
+    },
+    "EquipmentPendant35": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
+            {
+                "wikiName": "[[Tasks/Unlocks|Recipe from Task Unlocks Tab 6]]",
+                "txtName": "Task Unlocks Tab 6"
+            }
+        ],
+        "recipeFrom": [
+            {"wikiName": "[[Tasks/Unlocks|Task Unlocks Tab 6]]", "txtName": "Task Unlocks Tab 6"}
         ],
         "questAss": []
     },
@@ -4131,6 +4460,193 @@
         "recipeFrom": [],
         "questAss": []
     },
+    "EquipmentHats123": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
+            {
+                "wikiName": "[[Equinox Broadbass|Recipe from Equinox Broadbass]]",
+                "txtName": "Equinox Broadbass"
+            }
+        ],
+        "recipeFrom": [
+            {"wikiName": "[[Equinox Broadbass]]", "txtName": "Equinox Broadbass"}
+        ],
+        "questAss": []
+    },
+    "EquipmentShirts41": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
+            {"wikiName": "[[Litterfish|Recipe from Litterfish]]", "txtName": "Litterfish"}
+        ],
+        "recipeFrom": [
+            {"wikiName": "[[Litterfish]]", "txtName": "Litterfish"}
+        ],
+        "questAss": []
+    },
+    "EquipmentPants32": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
+            {"wikiName": "[[Balloonfish|Recipe from Balloonfish]]", "txtName": "Balloonfish"}
+        ],
+        "recipeFrom": [
+            {"wikiName": "[[Balloonfish]]", "txtName": "Balloonfish"}
+        ],
+        "questAss": []
+    },
+    "EquipmentShoes41": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
+            {
+                "wikiName": "[[Coralcave Crab|Recipe from Coralcave Crab]]",
+                "txtName": "Coralcave Crab"
+            }
+        ],
+        "recipeFrom": [
+            {"wikiName": "[[Coralcave Crab]]", "txtName": "Coralcave Crab"}
+        ],
+        "questAss": []
+    },
+    "EquipmentPunching12": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
+            {
+                "wikiName": "[[Coralcave Guardian|Recipe from Coralcave Guardian]]",
+                "txtName": "Coralcave Guardian"
+            }
+        ],
+        "recipeFrom": [
+            {"wikiName": "[[Coralcave Guardian]]", "txtName": "Coralcave Guardian"}
+        ],
+        "questAss": []
+    },
+    "EquipmentSword10": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
+            {"wikiName": "[[Doodlefish|Recipe from Doodlefish]]", "txtName": "Doodlefish"}
+        ],
+        "recipeFrom": [
+            {"wikiName": "[[Doodlefish]]", "txtName": "Doodlefish"}
+        ],
+        "questAss": []
+    },
+    "EquipmentBows15": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
+            {"wikiName": "[[Eamsy Earl|Recipe from Eamsy Earl]]", "txtName": "Eamsy Earl"}
+        ],
+        "recipeFrom": [
+            {"wikiName": "[[Eamsy Earl]]", "txtName": "Eamsy Earl"}
+        ],
+        "questAss": []
+    },
+    "EquipmentWands14": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"},
+            {"wikiName": "[[Shellslug|Recipe from Shellslug]]", "txtName": "Shellslug"}
+        ],
+        "recipeFrom": [
+            {"wikiName": "[[Shellslug]]", "txtName": "Shellslug"}
+        ],
+        "questAss": []
+    },
+    "EquipmentTools16": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "MaxCapBagMi12": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentToolsHatchet13": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "MaxCapBagT12": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "FishingRod13": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "MaxCapBagFi12": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CatchingNet13": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "MaxCapBagB12": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "TrapBoxSet11": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "MaxCapBagTr11": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "WorshipSkull12": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "MaxCapBagS11": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "MaxCapBagF12": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "MaxCapBagM13": {
+        "sources": [
+            {"wikiName": "[[Smithing]]", "txtName": "Smithing"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
     "COIN": {
         "sources": [
             {"wikiName": "[[Eldritch Croaker]]", "txtName": "Eldritch Croaker"},
@@ -4152,6 +4668,7 @@
             {"wikiName": "[[Crystal Custard]]", "txtName": "Crystal Custard"},
             {"wikiName": "[[Crystal Capybara]]", "txtName": "Crystal Capybara"},
             {"wikiName": "[[Crystal Candalight]]", "txtName": "Crystal Candalight"},
+            {"wikiName": "[[Crystal Cuttlefish]]", "txtName": "Crystal Cuttlefish"},
             {"wikiName": "[[Green Mushroom]]", "txtName": "Green Mushroom"},
             {"wikiName": "[[Red Mushroom]]", "txtName": "Red Mushroom"},
             {"wikiName": "[[Wood Mushroom]]", "txtName": "Wood Mushroom"},
@@ -4275,6 +4792,18 @@
             {"wikiName": "[[Gloomie Mushroom]]", "txtName": "Gloomie Mushroom"},
             {"wikiName": "[[Ancient Golem]]", "txtName": "Ancient Golem"},
             {"wikiName": "[[Shimmer Glunko]]", "txtName": "Shimmer Glunko"},
+            {"wikiName": "[[Equinox Broadbass]]", "txtName": "Equinox Broadbass"},
+            {"wikiName": "[[Doodlefish]]", "txtName": "Doodlefish"},
+            {"wikiName": "[[Eamsy Earl]]", "txtName": "Eamsy Earl"},
+            {"wikiName": "[[Shellslug]]", "txtName": "Shellslug"},
+            {"wikiName": "[[Balloonfish]]", "txtName": "Balloonfish"},
+            {"wikiName": "[[Noble Clam]]", "txtName": "Noble Clam"},
+            {"wikiName": "[[Litterfish]]", "txtName": "Litterfish"},
+            {"wikiName": "[[Pufferblob]]", "txtName": "Pufferblob"},
+            {"wikiName": "[[Demonblub]]", "txtName": "Demonblub"},
+            {"wikiName": "[[Spearfish]]", "txtName": "Spearfish"},
+            {"wikiName": "[[Coralcave Crab]]", "txtName": "Coralcave Crab"},
+            {"wikiName": "[[Coralcave Guardian]]", "txtName": "Coralcave Guardian"},
             {"wikiName": "[[RIP Tide]]", "txtName": "RIP Tide"},
             {
                 "wikiName": "[[Colosseum/Dewdrop#Bronze Chest(W1)|Dewdrop Bronze Chest(W1)]]",
@@ -4398,6 +4927,7 @@
             {"wikiName": "[[Dreadlo]]", "txtName": "Dreadlo"},
             {"wikiName": "[[Marble]]", "txtName": "Marble"},
             {"wikiName": "[[Godshard]]", "txtName": "Godshard"},
+            {"wikiName": "[[Prehistrium]]", "txtName": "Prehistrium"},
             {"wikiName": "[[Motherlode]]", "txtName": "Motherlode"},
             {"wikiName": "[[Fractalfly]]", "txtName": "Fractalfly"},
             {"wikiName": "[[Evertree]]", "txtName": "Evertree"},
@@ -4418,6 +4948,7 @@
             {"wikiName": "[[Equinox Willow]]", "txtName": "Equinox Willow"},
             {"wikiName": "[[Bamboo]]", "txtName": "Bamboo"},
             {"wikiName": "[[Effervescent Eucalyptus]]", "txtName": "Effervescent Eucalyptus"},
+            {"wikiName": "[[Ancient Seaweed]]", "txtName": "Ancient Seaweed"},
             {"wikiName": "[[Small Fish]]", "txtName": "Small Fish"},
             {"wikiName": "[[Medium Fish]]", "txtName": "Medium Fish"},
             {"wikiName": "[[Large Fish]]", "txtName": "Large Fish"},
@@ -4450,6 +4981,7 @@
             {"wikiName": "[[Ladybug Nest]]", "txtName": "Ladybug Nest"},
             {"wikiName": "[[Firefly Nest]]", "txtName": "Firefly Nest"},
             {"wikiName": "[[Fractal Nest]]", "txtName": "Fractal Nest"},
+            {"wikiName": "[[Litter Nest]]", "txtName": "Litter Nest"},
             {"wikiName": "[[Flies]]", "txtName": "Flies"},
             {"wikiName": "[[Butterflies]]", "txtName": "Butterflies"},
             {"wikiName": "[[Sentient Cereal]]", "txtName": "Sentient Cereal"},
@@ -4463,8 +4995,19 @@
             {"wikiName": "[[Dream Particulate]]", "txtName": "Dream Particulate"},
             {"wikiName": "[[Ladybug]]", "txtName": "Ladybug"},
             {"wikiName": "[[Firefly]]", "txtName": "Firefly"},
+            {"wikiName": "[[Litterbug]]", "txtName": "Litterbug"},
             {"wikiName": "[[Breezy Soul]]", "txtName": "Breezy Soul"},
+            {"wikiName": "[[Deepsea Soul]]", "txtName": "Deepsea Soul"},
             {"wikiName": "[[Blobfish]]", "txtName": "Blobfish"},
+            {"wikiName": "[[Tuttle]]", "txtName": "Tuttle"},
+            {"wikiName": "[[Fearful Tunnel]]", "txtName": "Fearful Tunnel"},
+            {"wikiName": "[[Decaying Crevasse]]", "txtName": "Decaying Crevasse"},
+            {"wikiName": "[[Buried Church]]", "txtName": "Buried Church"},
+            {"wikiName": "[[One Way Opening]]", "txtName": "One Way Opening"},
+            {"wikiName": "[[Fearful Tunnel]]", "txtName": "Fearful Tunnel"},
+            {"wikiName": "[[Decaying Crevasse]]", "txtName": "Decaying Crevasse"},
+            {"wikiName": "[[Buried Church]]", "txtName": "Buried Church"},
+            {"wikiName": "[[One Way Opening]]", "txtName": "One Way Opening"},
             {"wikiName": "[[DropTable1]]", "txtName": "DropTable1"},
             {"wikiName": "[[DropTable2]]", "txtName": "DropTable2"},
             {"wikiName": "[[DropTable3]]", "txtName": "DropTable3"},
@@ -4504,7 +5047,13 @@
             {"wikiName": "[[DropTable31]]", "txtName": "DropTable31"},
             {"wikiName": "[[DropTable32]]", "txtName": "DropTable32"},
             {"wikiName": "[[DropTable33]]", "txtName": "DropTable33"},
-            {"wikiName": "[[SuperDropTable6]]", "txtName": "SuperDropTable6"}
+            {"wikiName": "[[SuperDropTable6]]", "txtName": "SuperDropTable6"},
+            {"wikiName": "[[DropTable34]]", "txtName": "DropTable34"},
+            {"wikiName": "[[DropTable35]]", "txtName": "DropTable35"},
+            {"wikiName": "[[DropTable36]]", "txtName": "DropTable36"},
+            {"wikiName": "[[DropTable37]]", "txtName": "DropTable37"},
+            {"wikiName": "[[DropTable38]]", "txtName": "DropTable38"},
+            {"wikiName": "[[SuperDropTable7]]", "txtName": "SuperDropTable7"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -4588,7 +5137,8 @@
             {"wikiName": "[[Crystal Cattle]]", "txtName": "Crystal Cattle"},
             {"wikiName": "[[Crystal Custard]]", "txtName": "Crystal Custard"},
             {"wikiName": "[[Crystal Capybara]]", "txtName": "Crystal Capybara"},
-            {"wikiName": "[[Crystal Candalight]]", "txtName": "Crystal Candalight"}
+            {"wikiName": "[[Crystal Candalight]]", "txtName": "Crystal Candalight"},
+            {"wikiName": "[[Crystal Cuttlefish]]", "txtName": "Crystal Cuttlefish"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -4716,10 +5266,15 @@
             {"wikiName": "[[Dreadlo]]", "txtName": "Dreadlo"},
             {"wikiName": "[[Marble]]", "txtName": "Marble"},
             {"wikiName": "[[Godshard]]", "txtName": "Godshard"},
+            {"wikiName": "[[Prehistrium]]", "txtName": "Prehistrium"},
             {"wikiName": "[[Motherlode]]", "txtName": "Motherlode"},
             {"wikiName": "[[Fractalfly]]", "txtName": "Fractalfly"},
             {"wikiName": "[[Evertree]]", "txtName": "Evertree"},
-            {"wikiName": "[[Trench Fish]]", "txtName": "Trench Fish"}
+            {"wikiName": "[[Trench Fish]]", "txtName": "Trench Fish"},
+            {"wikiName": "[[Fearful Tunnel]]", "txtName": "Fearful Tunnel"},
+            {"wikiName": "[[Decaying Crevasse]]", "txtName": "Decaying Crevasse"},
+            {"wikiName": "[[Buried Church]]", "txtName": "Buried Church"},
+            {"wikiName": "[[One Way Opening]]", "txtName": "One Way Opening"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -5076,7 +5631,6 @@
             {"wikiName": "[[River Spirit]]", "txtName": "River Spirit"},
             {"wikiName": "[[Baby Troll]]", "txtName": "Baby Troll"},
             {"wikiName": "[[Woodlin Spirit]]", "txtName": "Woodlin Spirit"},
-            {"wikiName": "[[RIP Tide]]", "txtName": "RIP Tide"},
             {
                 "wikiName": "[[Colosseum/Whimsical#Bronze Chest(W6)|Whimsical Bronze Chest(W6)]]",
                 "txtName": "Colosseum: Whimsical Bronze Chest(W6)"
@@ -5104,7 +5658,8 @@
             {"wikiName": "[[Emperor]]", "txtName": "Emperor"},
             {"wikiName": "[[Chaotic Emperor]]", "txtName": "Chaotic Emperor"},
             {"wikiName": "[[Sovereign Emperor]]", "txtName": "Sovereign Emperor"},
-            {"wikiName": "[[Firefly]]", "txtName": "Firefly"}
+            {"wikiName": "[[Firefly]]", "txtName": "Firefly"},
+            {"wikiName": "[[Litterbug]]", "txtName": "Litterbug"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -5138,7 +5693,34 @@
         "sources": [
             {"wikiName": "[[Crystal Candalight]]", "txtName": "Crystal Candalight"},
             {"wikiName": "[[Bamboo]]", "txtName": "Bamboo"},
-            {"wikiName": "[[Effervescent Eucalyptus]]", "txtName": "Effervescent Eucalyptus"}
+            {"wikiName": "[[Effervescent Eucalyptus]]", "txtName": "Effervescent Eucalyptus"},
+            {"wikiName": "[[Ancient Seaweed]]", "txtName": "Ancient Seaweed"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ99": {
+        "sources": [
+            {"wikiName": "[[Crystal Cuttlefish]]", "txtName": "Crystal Cuttlefish"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "DropTable34": {
+        "sources": [
+            {"wikiName": "[[Crystal Cuttlefish]]", "txtName": "Crystal Cuttlefish"},
+            {"wikiName": "[[Equinox Broadbass]]", "txtName": "Equinox Broadbass"},
+            {"wikiName": "[[Doodlefish]]", "txtName": "Doodlefish"},
+            {"wikiName": "[[Eamsy Earl]]", "txtName": "Eamsy Earl"},
+            {"wikiName": "[[Shellslug]]", "txtName": "Shellslug"},
+            {"wikiName": "[[Balloonfish]]", "txtName": "Balloonfish"},
+            {"wikiName": "[[Litterfish]]", "txtName": "Litterfish"},
+            {"wikiName": "[[Pufferblob]]", "txtName": "Pufferblob"},
+            {"wikiName": "[[Demonblub]]", "txtName": "Demonblub"},
+            {"wikiName": "[[Spearfish]]", "txtName": "Spearfish"},
+            {"wikiName": "[[Coralcave Crab]]", "txtName": "Coralcave Crab"},
+            {"wikiName": "[[Coralcave Guardian]]", "txtName": "Coralcave Guardian"},
+            {"wikiName": "[[RIP Tide]]", "txtName": "RIP Tide"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -5157,18 +5739,6 @@
     "CardsA0": {
         "sources": [
             {"wikiName": "[[Green Mushroom]]", "txtName": "Green Mushroom"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "FoodHealth1": {
-        "sources": [
-            {"wikiName": "[[Green Mushroom]]", "txtName": "Green Mushroom"},
-            {
-                "wikiName": "[[Vendors#Blunder Hills|Blunder Hills Vendors]]",
-                "txtName": "Blunder Hills Vendor"
-            },
-            {"wikiName": "[[DropTable1]]", "txtName": "DropTable1"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -5295,6 +5865,7 @@
             {"wikiName": "[[Ladybug Nest]]", "txtName": "Ladybug Nest"},
             {"wikiName": "[[Firefly Nest]]", "txtName": "Firefly Nest"},
             {"wikiName": "[[Fractal Nest]]", "txtName": "Fractal Nest"},
+            {"wikiName": "[[Litter Nest]]", "txtName": "Litter Nest"},
             {
                 "wikiName": "[[Omar Da Ogar#Helping Omar|Helping Omar]]",
                 "txtName": "Omar Da Ogar: Helping Omar"
@@ -5334,16 +5905,16 @@
             }
         ]
     },
-    "FoodPotMana1": {
+    "FoodPotOr1": {
         "sources": [
             {"wikiName": "[[Frog]]", "txtName": "Frog"},
             {
                 "wikiName": "[[Vendors#Blunder Hills|Blunder Hills Vendors]]",
                 "txtName": "Blunder Hills Vendor"
             },
-            {"wikiName": "[[DropTable1]]", "txtName": "DropTable1"},
-            {"wikiName": "[[DropTable3b]]", "txtName": "DropTable3b"},
-            {"wikiName": "[[DropTable3c]]", "txtName": "DropTable3c"}
+            {"wikiName": "[[DropTable5]]", "txtName": "DropTable5"},
+            {"wikiName": "[[DropTable11]]", "txtName": "DropTable11"},
+            {"wikiName": "[[DropTable12]]", "txtName": "DropTable12"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -5439,8 +6010,6 @@
     "Jungle1": {
         "sources": [
             {"wikiName": "[[Slime]]", "txtName": "Slime"},
-            {"wikiName": "[[Glunko The Massive]]", "txtName": "Glunko The Massive"},
-            {"wikiName": "[[Glunko The Massive]]", "txtName": "Glunko The Massive"},
             {"wikiName": "[[Glunko The Massive]]", "txtName": "Glunko The Massive"}
         ],
         "recipeFrom": [],
@@ -5481,7 +6050,6 @@
     "FoodHealth2": {
         "sources": [
             {"wikiName": "[[Baby Boa]]", "txtName": "Baby Boa"},
-            {"wikiName": "[[Carrotman]]", "txtName": "Carrotman"},
             {
                 "wikiName": "[[Vendors#Blunder Hills|Blunder Hills Vendors]]",
                 "txtName": "Blunder Hills Vendor"
@@ -5489,8 +6057,7 @@
             {
                 "wikiName": "[[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendors]]",
                 "txtName": "Encroaching Forest Villas Vendor"
-            },
-            {"wikiName": "[[DropTable3]]", "txtName": "DropTable3"}
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -5746,7 +6313,11 @@
             {"wikiName": "[[DropTable29]]", "txtName": "DropTable29"},
             {"wikiName": "[[DropTable30]]", "txtName": "DropTable30"},
             {"wikiName": "[[DropTable31]]", "txtName": "DropTable31"},
-            {"wikiName": "[[DropTable32]]", "txtName": "DropTable32"}
+            {"wikiName": "[[DropTable32]]", "txtName": "DropTable32"},
+            {"wikiName": "[[DropTable34]]", "txtName": "DropTable34"},
+            {"wikiName": "[[DropTable35]]", "txtName": "DropTable35"},
+            {"wikiName": "[[DropTable36]]", "txtName": "DropTable36"},
+            {"wikiName": "[[DropTable37]]", "txtName": "DropTable37"}
         ],
         "recipeFrom": [],
         "questAss": [
@@ -6534,6 +7105,10 @@
             {
                 "wikiName": "[[Cactolyte#Super Skillage|Super Skillage]]",
                 "txtName": "Cactolyte: Super Skillage"
+            },
+            {
+                "wikiName": "[[Stiltzcho#Outta the Way Slimes|Outta the Way Slimes]]",
+                "txtName": "Stiltzcho: Outta the Way Slimes"
             },
             {
                 "wikiName": "[[Funguy#Party Crashin'|Party Crashin']]",
@@ -7443,7 +8018,6 @@
                 "wikiName": "[[Nebula Neddy#Task Requirement Affirmative|Task Requirement Affirmative]]",
                 "txtName": "Nebula Neddy: Task Requirement Affirmative"
             },
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"},
             {"wikiName": "[[Skull Shop]]", "txtName": "Killroy Shop"}
         ],
         "recipeFrom": [],
@@ -8568,6 +9142,202 @@
         "recipeFrom": [],
         "questAss": []
     },
+    "w7A1": {
+        "sources": [
+            {"wikiName": "[[Equinox Broadbass]]", "txtName": "Equinox Broadbass"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ1": {
+        "sources": [
+            {"wikiName": "[[Equinox Broadbass]]", "txtName": "Equinox Broadbass"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7A2": {
+        "sources": [
+            {"wikiName": "[[Doodlefish]]", "txtName": "Doodlefish"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ2": {
+        "sources": [
+            {"wikiName": "[[Doodlefish]]", "txtName": "Doodlefish"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7A3": {
+        "sources": [
+            {"wikiName": "[[Eamsy Earl]]", "txtName": "Eamsy Earl"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ3": {
+        "sources": [
+            {"wikiName": "[[Eamsy Earl]]", "txtName": "Eamsy Earl"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7A4": {
+        "sources": [
+            {"wikiName": "[[Shellslug]]", "txtName": "Shellslug"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ4": {
+        "sources": [
+            {"wikiName": "[[Shellslug]]", "txtName": "Shellslug"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Coral1": {
+        "sources": [
+            {"wikiName": "[[Shellslug]]", "txtName": "Shellslug"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7A5": {
+        "sources": [
+            {"wikiName": "[[Balloonfish]]", "txtName": "Balloonfish"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ5": {
+        "sources": [
+            {"wikiName": "[[Balloonfish]]", "txtName": "Balloonfish"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7A6": {
+        "sources": [
+            {"wikiName": "[[Noble Clam]]", "txtName": "Noble Clam"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ6": {
+        "sources": [
+            {"wikiName": "[[Noble Clam]]", "txtName": "Noble Clam"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "ClamPearl0": {
+        "sources": [
+            {"wikiName": "[[Noble Clam]]", "txtName": "Noble Clam"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7A7": {
+        "sources": [
+            {"wikiName": "[[Litterfish]]", "txtName": "Litterfish"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ7": {
+        "sources": [
+            {"wikiName": "[[Litterfish]]", "txtName": "Litterfish"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Coral2": {
+        "sources": [
+            {"wikiName": "[[Litterfish]]", "txtName": "Litterfish"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7A8": {
+        "sources": [
+            {"wikiName": "[[Pufferblob]]", "txtName": "Pufferblob"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ8": {
+        "sources": [
+            {"wikiName": "[[Pufferblob]]", "txtName": "Pufferblob"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7A9": {
+        "sources": [
+            {"wikiName": "[[Demonblub]]", "txtName": "Demonblub"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ9": {
+        "sources": [
+            {"wikiName": "[[Demonblub]]", "txtName": "Demonblub"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7A10": {
+        "sources": [
+            {"wikiName": "[[Spearfish]]", "txtName": "Spearfish"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ10": {
+        "sources": [
+            {"wikiName": "[[Spearfish]]", "txtName": "Spearfish"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7A11": {
+        "sources": [
+            {"wikiName": "[[Coralcave Crab]]", "txtName": "Coralcave Crab"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ11": {
+        "sources": [
+            {"wikiName": "[[Coralcave Crab]]", "txtName": "Coralcave Crab"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Coral3": {
+        "sources": [
+            {"wikiName": "[[Coralcave Crab]]", "txtName": "Coralcave Crab"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7A12": {
+        "sources": [
+            {"wikiName": "[[Coralcave Guardian]]", "txtName": "Coralcave Guardian"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ12": {
+        "sources": [
+            {"wikiName": "[[Coralcave Guardian]]", "txtName": "Coralcave Guardian"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
     "StoneW1": {
         "sources": [
             {
@@ -8595,10 +9365,6 @@
                 "txtName": "Blunder Hills Vendor"
             },
             {"wikiName": "[[DropTable5]]", "txtName": "DropTable5"},
-            {
-                "wikiName": "[[Promotheus#Three Right Answers|Three Right Answers]]",
-                "txtName": "Promotheus: Three Right Answers"
-            },
             {
                 "wikiName": "[[Alchemy#Liquid Shop|Weak UPG Stone]]",
                 "txtName": "Alchemy: Weak UPG Stone"
@@ -10015,122 +10781,6 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "Timecandy2": {
-        "sources": [
-            {"wikiName": "[[Floofie]]", "txtName": "Floofie"},
-            {"wikiName": "[[Shell Snake]]", "txtName": "Shell Snake"},
-            {"wikiName": "[[DropTable13]]", "txtName": "DropTable13"},
-            {
-                "wikiName": "[[Stiltzcho#Time Crime Episode 1|Time Crime Episode 1]]",
-                "txtName": "Stiltzcho: Time Crime Episode 1"
-            },
-            {
-                "wikiName": "[[Speccius#More like 'Sleepius' lmao|More like 'Sleepius' lmao]]",
-                "txtName": "Speccius: More like 'Sleepius' lmao"
-            },
-            {
-                "wikiName": "[[Postboy Pablob#Signed, Sealed and Lost in the Post|Signed, Sealed and Lost in the Post]]",
-                "txtName": "Postboy Pablob: Signed, Sealed and Lost in the Post"
-            },
-            {
-                "wikiName": "[[Centurion#High Scorer|High Scorer]]",
-                "txtName": "Centurion: High Scorer"
-            },
-            {
-                "wikiName": "[[Centurion#Colosseum Champ!|Colosseum Champ!]]",
-                "txtName": "Centurion: Colosseum Champ!"
-            },
-            {
-                "wikiName": "[[Giftmas Blobulyte#Boo, Headshot!|Boo, Headshot!]]",
-                "txtName": "Giftmas Blobulyte: Boo, Headshot!"
-            },
-            {
-                "wikiName": "[[Telescope#I'm Seeing Stars!|I'm Seeing Stars!]]",
-                "txtName": "Telescope: I'm Seeing Stars!"
-            },
-            {
-                "wikiName": "[[Loveulyte#Heartbreaker|Heartbreaker]]",
-                "txtName": "Loveulyte: Heartbreaker"
-            },
-            {
-                "wikiName": "[[Hoggindaz#Voter Recognition|Voter Recognition]]",
-                "txtName": "Hoggindaz: Voter Recognition"
-            },
-            {
-                "wikiName": "[[Bill Brr#The Spores are a Bore|The Spores are a Bore]]",
-                "txtName": "Bill Brr: The Spores are a Bore"
-            },
-            {
-                "wikiName": "[[Crystalswine#Melting the Snakes|Melting the Snakes]]",
-                "txtName": "Crystalswine: Melting the Snakes"
-            },
-            {"wikiName": "[[Shuvelle#Diggy Hole!|Diggy Hole!]]", "txtName": "Shuvelle: Diggy Hole!"},
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"},
-            {"wikiName": "[[Skull Shop]]", "txtName": "Killroy Shop"},
-            {
-                "wikiName": "[[Alchemy#Level up Gift|Level up Gift]]",
-                "txtName": "Alchemy: Level up Gift"
-            },
-            {"wikiName": "[[Guild Giftbox]]", "txtName": "Guild Giftbox"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Timecandy4": {
-        "sources": [
-            {"wikiName": "[[Floofie]]", "txtName": "Floofie"},
-            {"wikiName": "[[DropTable13]]", "txtName": "DropTable13"},
-            {
-                "wikiName": "[[Cactolyte#Super Skillage|Super Skillage]]",
-                "txtName": "Cactolyte: Super Skillage"
-            },
-            {
-                "wikiName": "[[Snake Jar#Red Stuff Bad!|Red Stuff Bad!]]",
-                "txtName": "Snake Jar: Red Stuff Bad!"
-            },
-            {
-                "wikiName": "[[Centurion#Colosseum GDQ|Colosseum GDQ]]",
-                "txtName": "Centurion: Colosseum GDQ"
-            },
-            {
-                "wikiName": "[[Centurion#Centurio Rank|Centurio Rank]]",
-                "txtName": "Centurion: Centurio Rank"
-            },
-            {
-                "wikiName": "[[Hoggindaz#Voter Apathy|Voter Apathy]]",
-                "txtName": "Hoggindaz: Voter Apathy"
-            },
-            {
-                "wikiName": "[[Yondergreen#Keep Away Contract|Keep Away Contract]]",
-                "txtName": "Yondergreen: Keep Away Contract"
-            },
-            {
-                "wikiName": "[[Lord of the Hunt#Pelt for the Pelt God|Pelt for the Pelt God]]",
-                "txtName": "Lord of the Hunt: Pelt for the Pelt God"
-            },
-            {
-                "wikiName": "[[Lord of the Hunt#Happy Tree Friend|Happy Tree Friend]]",
-                "txtName": "Lord of the Hunt: Happy Tree Friend"
-            },
-            {
-                "wikiName": "[[Lord of the Hunt#Noot Noot!|Noot Noot!]]",
-                "txtName": "Lord of the Hunt: Noot Noot!"
-            },
-            {
-                "wikiName": "[[Walupiggy#Treasure Hunt 1|Treasure Hunt 1]]",
-                "txtName": "Walupiggy: Treasure Hunt 1"
-            },
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"},
-            {"wikiName": "[[Skull Shop]]", "txtName": "Killroy Shop"},
-            {
-                "wikiName": "[[Alchemy#Level up Gift|Level up Gift]]",
-                "txtName": "Alchemy: Level up Gift"
-            },
-            {"wikiName": "[[Guild Giftbox]]", "txtName": "Guild Giftbox"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
     "StoneTe": {
         "sources": [
             {"wikiName": "[[Floofie]]", "txtName": "Floofie"},
@@ -10504,6 +11154,13 @@
         "recipeFrom": [],
         "questAss": []
     },
+    "CardsF44": {
+        "sources": [
+            {"wikiName": "[[Prehistrium]]", "txtName": "Prehistrium"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
     "CardsC4": {
         "sources": [
             {"wikiName": "[[Oak Tree]]", "txtName": "Oak Tree"}
@@ -10618,6 +11275,13 @@
         "recipeFrom": [],
         "questAss": []
     },
+    "CardsF40": {
+        "sources": [
+            {"wikiName": "[[Ancient Seaweed]]", "txtName": "Ancient Seaweed"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
     "CardsC11": {
         "sources": [
             {"wikiName": "[[Flies]]", "txtName": "Flies"}
@@ -10652,7 +11316,12 @@
     "CardsD10": {
         "sources": [
             {"wikiName": "[[Sentient Cereal]]", "txtName": "Sentient Cereal"},
-            {"wikiName": "[[Blobfish]]", "txtName": "Blobfish"}
+            {"wikiName": "[[Blobfish]]", "txtName": "Blobfish"},
+            {"wikiName": "[[Tuttle]]", "txtName": "Tuttle"},
+            {"wikiName": "[[Fearful Tunnel]]", "txtName": "Fearful Tunnel"},
+            {"wikiName": "[[Decaying Crevasse]]", "txtName": "Decaying Crevasse"},
+            {"wikiName": "[[Buried Church]]", "txtName": "Buried Church"},
+            {"wikiName": "[[One Way Opening]]", "txtName": "One Way Opening"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -10660,7 +11329,8 @@
     "CardsD9": {
         "sources": [
             {"wikiName": "[[Fruitflies]]", "txtName": "Fruitflies"},
-            {"wikiName": "[[Breezy Soul]]", "txtName": "Breezy Soul"}
+            {"wikiName": "[[Breezy Soul]]", "txtName": "Breezy Soul"},
+            {"wikiName": "[[Deepsea Soul]]", "txtName": "Deepsea Soul"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -10730,6 +11400,13 @@
         "recipeFrom": [],
         "questAss": []
     },
+    "CardsF46": {
+        "sources": [
+            {"wikiName": "[[Litterbug]]", "txtName": "Litterbug"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
     "Soul7": {
         "sources": [
             {"wikiName": "[[Breezy Soul]]", "txtName": "Breezy Soul"},
@@ -10741,10 +11418,85 @@
         "recipeFrom": [],
         "questAss": []
     },
+    "Soul8": {
+        "sources": [
+            {"wikiName": "[[Deepsea Soul]]", "txtName": "Deepsea Soul"},
+            {"wikiName": "[[Deepsea Soul]]", "txtName": "Deepsea Soul"},
+            {"wikiName": "[[Deepsea Soul]]", "txtName": "Deepsea Soul"},
+            {"wikiName": "[[Deepsea Soul]]", "txtName": "Deepsea Soul"},
+            {"wikiName": "[[Worship]]", "txtName": "Worship"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
     "Critter10": {
         "sources": [
             {"wikiName": "[[Blobfish]]", "txtName": "Blobfish"},
             {"wikiName": "[[Trapping]]", "txtName": "Trapping"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Critter11": {
+        "sources": [
+            {"wikiName": "[[Tuttle]]", "txtName": "Tuttle"},
+            {"wikiName": "[[Trapping]]", "txtName": "Trapping"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsF41": {
+        "sources": [
+            {"wikiName": "[[Fearful Tunnel]]", "txtName": "Fearful Tunnel"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsF42": {
+        "sources": [
+            {"wikiName": "[[Decaying Crevasse]]", "txtName": "Decaying Crevasse"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsF43": {
+        "sources": [
+            {"wikiName": "[[Buried Church]]", "txtName": "Buried Church"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsF48": {
+        "sources": [
+            {"wikiName": "[[One Way Opening]]", "txtName": "One Way Opening"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Spelunking0": {
+        "sources": [
+            {"wikiName": "[[Fearful Tunnel]]", "txtName": "Fearful Tunnel"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Spelunking1": {
+        "sources": [
+            {"wikiName": "[[Decaying Crevasse]]", "txtName": "Decaying Crevasse"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Spelunking2": {
+        "sources": [
+            {"wikiName": "[[Buried Church]]", "txtName": "Buried Church"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Spelunking3": {
+        "sources": [
+            {"wikiName": "[[One Way Opening]]", "txtName": "One Way Opening"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -10976,10 +11728,6 @@
             {
                 "wikiName": "[[Picnic Stowaway#Brunchin' with the Blobs|Brunchin' with the Blobs]]",
                 "txtName": "Picnic Stowaway: Brunchin' with the Blobs"
-            },
-            {
-                "wikiName": "[[Stiltzcho#Outta the Way Slimes|Outta the Way Slimes]]",
-                "txtName": "Stiltzcho: Outta the Way Slimes"
             }
         ],
         "recipeFrom": [],
@@ -11319,6 +12067,16 @@
         "recipeFrom": [],
         "questAss": []
     },
+    "FoodHealth1": {
+        "sources": [
+            {
+                "wikiName": "[[Vendors#Blunder Hills|Blunder Hills Vendors]]",
+                "txtName": "Blunder Hills Vendor"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
     "FoodHealth3": {
         "sources": [
             {
@@ -11328,8 +12086,7 @@
             {
                 "wikiName": "[[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendors]]",
                 "txtName": "Encroaching Forest Villas Vendor"
-            },
-            {"wikiName": "[[DropTable2]]", "txtName": "DropTable2"}
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -11344,15 +12101,14 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "FoodPotOr1": {
+    "FoodPotMana1": {
         "sources": [
             {
                 "wikiName": "[[Vendors#Blunder Hills|Blunder Hills Vendors]]",
                 "txtName": "Blunder Hills Vendor"
             },
-            {"wikiName": "[[DropTable5]]", "txtName": "DropTable5"},
-            {"wikiName": "[[DropTable11]]", "txtName": "DropTable11"},
-            {"wikiName": "[[DropTable12]]", "txtName": "DropTable12"}
+            {"wikiName": "[[DropTable3b]]", "txtName": "DropTable3b"},
+            {"wikiName": "[[DropTable3c]]", "txtName": "DropTable3c"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -11375,7 +12131,6 @@
                 "wikiName": "[[Vendors#Blunder Hills|Blunder Hills Vendors]]",
                 "txtName": "Blunder Hills Vendor"
             },
-            {"wikiName": "[[DropTable2]]", "txtName": "DropTable2"},
             {"wikiName": "[[DropTable4]]", "txtName": "DropTable4"},
             {"wikiName": "[[DropTable10]]", "txtName": "DropTable10"}
         ],
@@ -11496,6 +12251,24 @@
             {
                 "wikiName": "[[Vendors#Blunder Hills|Blunder Hills Vendors]]",
                 "txtName": "Blunder Hills Vendor"
+            },
+            {
+                "wikiName": "[[Promotheus#Three Right Answers|Three Right Answers]]",
+                "txtName": "Promotheus: Three Right Answers"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Quest104": {
+        "sources": [
+            {
+                "wikiName": "[[Vendors#Blunder Hills|Blunder Hills Vendors]]",
+                "txtName": "Blunder Hills Vendor"
+            },
+            {
+                "wikiName": "[[Funguy#Mushroom Munchies|Mushroom Munchies]]",
+                "txtName": "Funguy: Mushroom Munchies"
             }
         ],
         "recipeFrom": [],
@@ -12381,6 +13154,136 @@
         "recipeFrom": [],
         "questAss": []
     },
+    "TrophyReplica0": {
+        "sources": [
+            {
+                "wikiName": "[[Vendors#Shimmerfin Grove|Shimmerfin Grove Vendors]]",
+                "txtName": "Shimmerfin Grove Vendor"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentNametagReplica0": {
+        "sources": [
+            {
+                "wikiName": "[[Vendors#Shimmerfin Grove|Shimmerfin Grove Vendors]]",
+                "txtName": "Shimmerfin Grove Vendor"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "FoodHealth18": {
+        "sources": [
+            {
+                "wikiName": "[[Vendors#Shimmerfin Grove|Shimmerfin Grove Vendors]]",
+                "txtName": "Shimmerfin Grove Vendor"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "FoodHealth19": {
+        "sources": [
+            {
+                "wikiName": "[[Vendors#Shimmerfin Grove|Shimmerfin Grove Vendors]]",
+                "txtName": "Shimmerfin Grove Vendor"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Quest103": {
+        "sources": [
+            {
+                "wikiName": "[[Vendors#Shimmerfin Grove|Shimmerfin Grove Vendors]]",
+                "txtName": "Shimmerfin Grove Vendor"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StoneW9": {
+        "sources": [
+            {
+                "wikiName": "[[Vendors#Shimmerfin Grove|Shimmerfin Grove Vendors]]",
+                "txtName": "Shimmerfin Grove Vendor"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StoneA8": {
+        "sources": [
+            {
+                "wikiName": "[[Vendors#Shimmerfin Grove|Shimmerfin Grove Vendors]]",
+                "txtName": "Shimmerfin Grove Vendor"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StoneT8": {
+        "sources": [
+            {
+                "wikiName": "[[Vendors#Shimmerfin Grove|Shimmerfin Grove Vendors]]",
+                "txtName": "Shimmerfin Grove Vendor"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StampC26": {
+        "sources": [
+            {
+                "wikiName": "[[Vendors#Shimmerfin Grove|Shimmerfin Grove Vendors]]",
+                "txtName": "Shimmerfin Grove Vendor"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "InvBag115": {
+        "sources": [
+            {
+                "wikiName": "[[Vendors#Shimmerfin Grove|Shimmerfin Grove Vendors]]",
+                "txtName": "Shimmerfin Grove Vendor"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "InvStorage29": {
+        "sources": [
+            {
+                "wikiName": "[[Vendors#Shimmerfin Grove|Shimmerfin Grove Vendors]]",
+                "txtName": "Shimmerfin Grove Vendor"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "InvStorage30": {
+        "sources": [
+            {
+                "wikiName": "[[Vendors#Shimmerfin Grove|Shimmerfin Grove Vendors]]",
+                "txtName": "Shimmerfin Grove Vendor"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Quest105": {
+        "sources": [
+            {
+                "wikiName": "[[Vendors#Shimmerfin Grove|Shimmerfin Grove Vendors]]",
+                "txtName": "Shimmerfin Grove Vendor"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
     "EquipmentHats5": {
         "sources": [
             {"wikiName": "[[DropTable1]]", "txtName": "DropTable1"}
@@ -12424,7 +13327,11 @@
             {"wikiName": "[[DropTable29]]", "txtName": "DropTable29"},
             {"wikiName": "[[DropTable30]]", "txtName": "DropTable30"},
             {"wikiName": "[[DropTable31]]", "txtName": "DropTable31"},
-            {"wikiName": "[[DropTable32]]", "txtName": "DropTable32"}
+            {"wikiName": "[[DropTable32]]", "txtName": "DropTable32"},
+            {"wikiName": "[[DropTable34]]", "txtName": "DropTable34"},
+            {"wikiName": "[[DropTable35]]", "txtName": "DropTable35"},
+            {"wikiName": "[[DropTable36]]", "txtName": "DropTable36"},
+            {"wikiName": "[[DropTable37]]", "txtName": "DropTable37"}
         ],
         "recipeFrom": [],
         "questAss": [
@@ -12501,13 +13408,6 @@
                 "wikiName": "[[Alchemy#Level up Gift|Level up Gift]]",
                 "txtName": "Alchemy: Level up Gift"
             }
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "FoodPotMana2": {
-        "sources": [
-            {"wikiName": "[[DropTable3]]", "txtName": "DropTable3"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -12857,138 +13757,6 @@
     "StampB21": {
         "sources": [
             {"wikiName": "[[DropTable12]]", "txtName": "DropTable12"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Timecandy3": {
-        "sources": [
-            {"wikiName": "[[DropTable13]]", "txtName": "DropTable13"},
-            {
-                "wikiName": "[[Stiltzcho#Time Crime Episode 2|Time Crime Episode 2]]",
-                "txtName": "Stiltzcho: Time Crime Episode 2"
-            },
-            {
-                "wikiName": "[[Papua Piggea#Crystal Crime Stopper|Crystal Crime Stopper]]",
-                "txtName": "Papua Piggea: Crystal Crime Stopper"
-            },
-            {"wikiName": "[[Desert Davey#U Cool?|U Cool?]]", "txtName": "Desert Davey: U Cool?"},
-            {
-                "wikiName": "[[Centurion#Colosseum Champ!|Colosseum Champ!]]",
-                "txtName": "Centurion: Colosseum Champ!"
-            },
-            {
-                "wikiName": "[[Telescope#I'm Seeing Stars!|I'm Seeing Stars!]]",
-                "txtName": "Telescope: I'm Seeing Stars!"
-            },
-            {
-                "wikiName": "[[Iceland Irwin#Crikey, it's cold out!|Crikey, it's cold out!]]",
-                "txtName": "Iceland Irwin: Crikey, it's cold out!"
-            },
-            {
-                "wikiName": "[[Hoggindaz#Voter Appeasement|Voter Appeasement]]",
-                "txtName": "Hoggindaz: Voter Appeasement"
-            },
-            {
-                "wikiName": "[[Bill Brr#Have a Candy|Have a Candy]]",
-                "txtName": "Bill Brr: Have a Candy"
-            },
-            {
-                "wikiName": "[[Crystalswine#Sunrunning to Chizoar|Sunrunning to Chizoar]]",
-                "txtName": "Crystalswine: Sunrunning to Chizoar"
-            },
-            {
-                "wikiName": "[[Yondergreen#Stance on Big Tech|Stance on Big Tech]]",
-                "txtName": "Yondergreen: Stance on Big Tech"
-            },
-            {
-                "wikiName": "[[Yondergreen#No Snapping Contract|No Snapping Contract]]",
-                "txtName": "Yondergreen: No Snapping Contract"
-            },
-            {
-                "wikiName": "[[Shuvelle#Mayoral Sack Size|Mayoral Sack Size]]",
-                "txtName": "Shuvelle: Mayoral Sack Size"
-            },
-            {
-                "wikiName": "[[Shuvelle#Diggy Diggy Hole!|Diggy Diggy Hole!]]",
-                "txtName": "Shuvelle: Diggy Diggy Hole!"
-            },
-            {
-                "wikiName": "[[Shuvelle#Dig Diggily Diggy Dig Dig Hole!|Dig Diggily Diggy Dig Dig Hole!]]",
-                "txtName": "Shuvelle: Dig Diggily Diggy Dig Dig Hole!"
-            },
-            {
-                "wikiName": "[[Lord of the Hunt#Frogecoin to the MOON!|Frogecoin to the MOON!]]",
-                "txtName": "Lord of the Hunt: Frogecoin to the MOON!"
-            },
-            {
-                "wikiName": "[[Lord of the Hunt#Yet another Cartoon Reference|Yet another Cartoon Reference]]",
-                "txtName": "Lord of the Hunt: Yet another Cartoon Reference"
-            },
-            {
-                "wikiName": "[[Lord of the Hunt#Small Stingers, Big Owie|Small Stingers, Big Owie]]",
-                "txtName": "Lord of the Hunt: Small Stingers, Big Owie"
-            },
-            {"wikiName": "[[Snouts#Mana Plox|Mana Plox]]", "txtName": "Snouts: Mana Plox"},
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"},
-            {"wikiName": "[[Skull Shop]]", "txtName": "Killroy Shop"},
-            {
-                "wikiName": "[[Alchemy#Level up Gift|Level up Gift]]",
-                "txtName": "Alchemy: Level up Gift"
-            },
-            {"wikiName": "[[Guild Giftbox]]", "txtName": "Guild Giftbox"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Timecandy5": {
-        "sources": [
-            {"wikiName": "[[DropTable13]]", "txtName": "DropTable13"},
-            {
-                "wikiName": "[[Cactolyte#Top Skillage|Top Skillage]]",
-                "txtName": "Cactolyte: Top Skillage"
-            },
-            {
-                "wikiName": "[[Stiltzcho#Time Crime Season Finale|Time Crime Season Finale]]",
-                "txtName": "Stiltzcho: Time Crime Season Finale"
-            },
-            {
-                "wikiName": "[[Goldric#Dont lay a finger on my Sheepies!!!|Dont lay a finger on my Sheepies!!!]]",
-                "txtName": "Goldric: Dont lay a finger on my Sheepies!!!"
-            },
-            {
-                "wikiName": "[[Loominadi#The Mummy of Mystery|The Mummy of Mystery]]",
-                "txtName": "Loominadi: The Mummy of Mystery"
-            },
-            {"wikiName": "[[Cowbo Jones#Tomb Raid|Tomb Raid]]", "txtName": "Cowbo Jones: Tomb Raid"},
-            {
-                "wikiName": "[[Centurion#Legatus Rank|Legatus Rank]]",
-                "txtName": "Centurion: Legatus Rank"
-            },
-            {
-                "wikiName": "[[Crystalswine#Global Warming|Global Warming]]",
-                "txtName": "Crystalswine: Global Warming"
-            },
-            {
-                "wikiName": "[[Yondergreen#Ad Solidarity Contract|Ad Solidarity Contract]]",
-                "txtName": "Yondergreen: Ad Solidarity Contract"
-            },
-            {
-                "wikiName": "[[Lord of the Hunt#Untitled Quest|Untitled Quest]]",
-                "txtName": "Lord of the Hunt: Untitled Quest"
-            },
-            {
-                "wikiName": "[[Walupiggy#Treasure Hunt 2|Treasure Hunt 2]]",
-                "txtName": "Walupiggy: Treasure Hunt 2"
-            },
-            {
-                "wikiName": "[[Monolith#Surface Level Jealousy|Surface Level Jealousy]]",
-                "txtName": "Monolith: Surface Level Jealousy"
-            },
-            {
-                "wikiName": "[[Alchemy#Level up Gift|Level up Gift]]",
-                "txtName": "Alchemy: Level up Gift"
-            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -13399,7 +14167,8 @@
             {"wikiName": "[[DropTable30]]", "txtName": "DropTable30"},
             {"wikiName": "[[DropTable31]]", "txtName": "DropTable31"},
             {"wikiName": "[[DropTable32]]", "txtName": "DropTable32"},
-            {"wikiName": "[[DropTable33]]", "txtName": "DropTable33"}
+            {"wikiName": "[[DropTable33]]", "txtName": "DropTable33"},
+            {"wikiName": "[[DropTable38]]", "txtName": "DropTable38"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -13472,6 +14241,44 @@
     "StoneZ4": {
         "sources": [
             {"wikiName": "[[SuperDropTable6]]", "txtName": "SuperDropTable6"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "FoodG14": {
+        "sources": [
+            {"wikiName": "[[DropTable34]]", "txtName": "DropTable34"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentStatues31": {
+        "sources": [
+            {"wikiName": "[[DropTable34]]", "txtName": "DropTable34"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "SuperDropTable7": {
+        "sources": [
+            {"wikiName": "[[DropTable34]]", "txtName": "DropTable34"},
+            {"wikiName": "[[DropTable35]]", "txtName": "DropTable35"},
+            {"wikiName": "[[DropTable36]]", "txtName": "DropTable36"},
+            {"wikiName": "[[DropTable37]]", "txtName": "DropTable37"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentStatues32": {
+        "sources": [
+            {"wikiName": "[[SuperDropTable7]]", "txtName": "SuperDropTable7"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Trophy25": {
+        "sources": [
+            {"wikiName": "[[SuperDropTable7]]", "txtName": "SuperDropTable7"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -13848,10 +14655,6 @@
             {
                 "wikiName": "[[Promotheus#Slovakian Scare|Slovakian Scare]]",
                 "txtName": "Promotheus: Slovakian Scare"
-            },
-            {
-                "wikiName": "[[Funguy#Mushroom Munchies|Mushroom Munchies]]",
-                "txtName": "Funguy: Mushroom Munchies"
             },
             {
                 "wikiName": "[[Speccius#More like 'Sleepius' lmao|More like 'Sleepius' lmao]]",
@@ -15743,6 +16546,76 @@
         "recipeFrom": [],
         "questAss": []
     },
+    "Quest106": {
+        "sources": [
+            {
+                "wikiName": "[[Sad Urie#Urie Wants to be a Millionaire|Urie Wants to be a Millionaire]]",
+                "txtName": "Sad Urie: Urie Wants to be a Millionaire"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StampB56": {
+        "sources": [
+            {"wikiName": "[[Snootie#Lost Possum|Lost Possum]]", "txtName": "Snootie: Lost Possum"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StampB55": {
+        "sources": [
+            {"wikiName": "[[Snootie#Lost Amber|Lost Amber]]", "txtName": "Snootie: Lost Amber"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StampA44": {
+        "sources": [
+            {"wikiName": "[[Snootie#Lost Doll|Lost Doll]]", "txtName": "Snootie: Lost Doll"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StampB57": {
+        "sources": [
+            {
+                "wikiName": "[[Bloo Radley#To Guide a Shypig|To Guide a Shypig]]",
+                "txtName": "Bloo Radley: To Guide a Shypig"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StampC27": {
+        "sources": [
+            {
+                "wikiName": "[[Bloo Radley#The Hero's Journey|The Hero's Journey]]",
+                "txtName": "Bloo Radley: The Hero's Journey"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Quest108": {
+        "sources": [
+            {
+                "wikiName": "[[Toobus Goobus#TUNNEL EXPLORING|TUNNEL EXPLORING]]",
+                "txtName": "Toobus Goobus: TUNNEL EXPLORING"
+            },
+            {
+                "wikiName": "[[Toobus Goobus#FEAR HOLE! FEAR HOLE!|FEAR HOLE! FEAR HOLE!]]",
+                "txtName": "Toobus Goobus: FEAR HOLE! FEAR HOLE!"
+            },
+            {
+                "wikiName": "[[Toobus Goobus#READING CHALLENGE|READING CHALLENGE]]",
+                "txtName": "Toobus Goobus: READING CHALLENGE"
+            },
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
     "Quest90": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
@@ -15751,6 +16624,56 @@
         "questAss": []
     },
     "Blank": {
+        "sources": [
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StonePremSTR": {
+        "sources": [
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StonePremAGI": {
+        "sources": [
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StonePremWIS": {
+        "sources": [
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StonePremLUK": {
+        "sources": [
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"},
+            {"wikiName": "[[Guild Giftbox]]", "txtName": "Guild Giftbox"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Ht": {
+        "sources": [
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StonePremStatswap": {
+        "sources": [
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "StonePremRestore": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
@@ -15933,71 +16856,21 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "EquipmentPendant33": {
+    "EquipmentNametag12": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
         "recipeFrom": [],
         "questAss": []
     },
-    "EquipmentHats112": {
+    "EquipmentNametag3": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
         "recipeFrom": [],
         "questAss": []
     },
-    "EquipmentHats118": {
-        "sources": [
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "StonePremSTR": {
-        "sources": [
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "StonePremAGI": {
-        "sources": [
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "StonePremWIS": {
-        "sources": [
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "StonePremLUK": {
-        "sources": [
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"},
-            {"wikiName": "[[Guild Giftbox]]", "txtName": "Guild Giftbox"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Ht": {
-        "sources": [
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "StonePremStatswap": {
-        "sources": [
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "StonePremRestore": {
+    "Quest77": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
@@ -16172,7 +17045,21 @@
         "recipeFrom": [],
         "questAss": []
     },
+    "Prehistrium": {
+        "sources": [
+            {"wikiName": "[[Mining]]", "txtName": "Mining"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
     "StarfireBar": {
+        "sources": [
+            {"wikiName": "[[Forging]]", "txtName": "Forging"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "PrehistriumBar": {
         "sources": [
             {"wikiName": "[[Forging]]", "txtName": "Forging"}
         ],
@@ -16224,6 +17111,20 @@
     "Tree13": {
         "sources": [
             {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Tree14": {
+        "sources": [
+            {"wikiName": "[[Choppin]]", "txtName": "Choppin"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "FillerMaterial": {
+        "sources": [
+            {"wikiName": "[[Fishing]]", "txtName": "Fishing"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -16299,6 +17200,13 @@
         "questAss": []
     },
     "Bug11": {
+        "sources": [
+            {"wikiName": "[[Catching]]", "txtName": "Catching"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Bug15": {
         "sources": [
             {"wikiName": "[[Catching]]", "txtName": "Catching"}
         ],
@@ -16404,13 +17312,6 @@
         "questAss": []
     },
     "Critter10A": {
-        "sources": [
-            {"wikiName": "[[Trapping]]", "txtName": "Trapping"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Critter11": {
         "sources": [
             {"wikiName": "[[Trapping]]", "txtName": "Trapping"}
         ],

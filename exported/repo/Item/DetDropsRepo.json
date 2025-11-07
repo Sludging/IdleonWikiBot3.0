@@ -46,10 +46,15 @@
             {"source": "Dreadlo", "quantity": 2, "chance": 0},
             {"source": "Marble", "quantity": 2, "chance": 0},
             {"source": "Godshard", "quantity": 2, "chance": 0},
+            {"source": "Prehistrium", "quantity": 2, "chance": 0},
             {"source": "Motherlode", "quantity": 2, "chance": 0},
             {"source": "Bug14", "quantity": 2, "chance": 0},
             {"source": "MotherlodeTREE", "quantity": 2, "chance": 0},
             {"source": "MotherlodeFISH", "quantity": 2, "chance": 0},
+            {"source": "Spelunking0", "quantity": 1, "chance": 0},
+            {"source": "Spelunking1", "quantity": 1, "chance": 0},
+            {"source": "Spelunking2", "quantity": 1, "chance": 0},
+            {"source": "Spelunking3", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 0},
             {"source": "OakTree", "quantity": 1, "chance": 0},
             {"source": "BirchTree", "quantity": 1, "chance": 0},
@@ -102,10 +107,15 @@
             {"source": "Dreadlo", "quantity": 2, "chance": 0},
             {"source": "Marble", "quantity": 2, "chance": 0},
             {"source": "Godshard", "quantity": 2, "chance": 0},
+            {"source": "Prehistrium", "quantity": 2, "chance": 0},
             {"source": "Motherlode", "quantity": 2, "chance": 0},
             {"source": "Bug14", "quantity": 2, "chance": 0},
             {"source": "MotherlodeTREE", "quantity": 2, "chance": 0},
             {"source": "MotherlodeFISH", "quantity": 2, "chance": 0},
+            {"source": "Spelunking0", "quantity": 1, "chance": 0},
+            {"source": "Spelunking1", "quantity": 1, "chance": 0},
+            {"source": "Spelunking2", "quantity": 1, "chance": 0},
+            {"source": "Spelunking3", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 0},
             {"source": "OakTree", "quantity": 1, "chance": 0},
             {"source": "BirchTree", "quantity": 1, "chance": 0},
@@ -419,7 +429,6 @@
             {"source": "w6a3", "quantity": 1, "chance": 0},
             {"source": "w6a4", "quantity": 1, "chance": 0},
             {"source": "w6a5", "quantity": 1, "chance": 0},
-            {"source": "w7d1", "quantity": 1, "chance": 0},
             {"source": "ChestA6", "quantity": 1, "chance": 0},
             {"source": "ChestB6", "quantity": 1, "chance": 0},
             {"source": "ChestC6", "quantity": 1, "chance": 0},
@@ -433,6 +442,7 @@
             {"source": "Boss6B", "quantity": 2, "chance": 0},
             {"source": "Boss6C", "quantity": 2, "chance": 0},
             {"source": "Bug13", "quantity": 1, "chance": 0},
+            {"source": "Bug15", "quantity": 1, "chance": 0},
             {"source": "Crystal5", "quantity": 1, "chance": 0},
             {"source": "w6c1", "quantity": 1, "chance": 0},
             {"source": "w6c2", "quantity": 1, "chance": 0},
@@ -449,13 +459,13 @@
             {"source": "Crystal5", "quantity": 1, "chance": 0},
             {"source": "Tree12", "quantity": 1, "chance": 0},
             {"source": "Tree13", "quantity": 1, "chance": 0},
+            {"source": "Tree14", "quantity": 1, "chance": 0},
             {"source": "Crystal5", "quantity": 1, "chance": 0},
             {"source": "w6a1", "quantity": 1, "chance": 0},
             {"source": "w6a2", "quantity": 1, "chance": 0},
             {"source": "w6a3", "quantity": 1, "chance": 0},
             {"source": "w6a4", "quantity": 1, "chance": 0},
             {"source": "w6a5", "quantity": 1, "chance": 0},
-            {"source": "w7d1", "quantity": 1, "chance": 0},
             {"source": "ChestA6", "quantity": 1, "chance": 0},
             {"source": "ChestB6", "quantity": 1, "chance": 0},
             {"source": "ChestC6", "quantity": 1, "chance": 0},
@@ -469,6 +479,7 @@
             {"source": "Boss6B", "quantity": 2, "chance": 0},
             {"source": "Boss6C", "quantity": 2, "chance": 0},
             {"source": "Bug13", "quantity": 1, "chance": 0},
+            {"source": "Bug15", "quantity": 1, "chance": 0},
             {"source": "Crystal5", "quantity": 1, "chance": 0},
             {"source": "w6c1", "quantity": 1, "chance": 0},
             {"source": "w6c2", "quantity": 1, "chance": 0},
@@ -485,6 +496,33 @@
             {"source": "Crystal5", "quantity": 1, "chance": 0},
             {"source": "Tree12", "quantity": 1, "chance": 0},
             {"source": "Tree13", "quantity": 1, "chance": 0},
+            {"source": "Tree14", "quantity": 1, "chance": 0},
+            {"source": "Crystal6", "quantity": 1, "chance": 0},
+            {"source": "w7a1", "quantity": 1, "chance": 0},
+            {"source": "w7a2", "quantity": 1, "chance": 0},
+            {"source": "w7a3", "quantity": 1, "chance": 0},
+            {"source": "w7a4", "quantity": 1, "chance": 0},
+            {"source": "w7a5", "quantity": 1, "chance": 0},
+            {"source": "w7a7", "quantity": 1, "chance": 0},
+            {"source": "w7a8", "quantity": 1, "chance": 0},
+            {"source": "w7a9", "quantity": 1, "chance": 0},
+            {"source": "w7a10", "quantity": 1, "chance": 0},
+            {"source": "w7a11", "quantity": 1, "chance": 0},
+            {"source": "w7a12", "quantity": 1, "chance": 0},
+            {"source": "w7d1", "quantity": 1, "chance": 0},
+            {"source": "Crystal6", "quantity": 1, "chance": 0},
+            {"source": "w7a1", "quantity": 1, "chance": 0},
+            {"source": "w7a2", "quantity": 1, "chance": 0},
+            {"source": "w7a3", "quantity": 1, "chance": 0},
+            {"source": "w7a4", "quantity": 1, "chance": 0},
+            {"source": "w7a5", "quantity": 1, "chance": 0},
+            {"source": "w7a7", "quantity": 1, "chance": 0},
+            {"source": "w7a8", "quantity": 1, "chance": 0},
+            {"source": "w7a9", "quantity": 1, "chance": 0},
+            {"source": "w7a10", "quantity": 1, "chance": 0},
+            {"source": "w7a11", "quantity": 1, "chance": 0},
+            {"source": "w7a12", "quantity": 1, "chance": 0},
+            {"source": "w7d1", "quantity": 1, "chance": 0},
             {"source": "frogGG", "quantity": 25000, "chance": 1},
             {"source": "frogGR2", "quantity": 25000, "chance": 1},
             {"source": "frogGR3", "quantity": 25000, "chance": 1},
@@ -504,6 +542,7 @@
             {"source": "Crystal3", "quantity": 3, "chance": 0.5},
             {"source": "Crystal4", "quantity": 3, "chance": 0.5},
             {"source": "Crystal5", "quantity": 3, "chance": 0.5},
+            {"source": "Crystal6", "quantity": 3, "chance": 0.5},
             {"source": "mushG", "quantity": 5, "chance": 0.5},
             {"source": "mushR", "quantity": 15, "chance": 0.5},
             {"source": "mushW", "quantity": 440, "chance": 0.5},
@@ -627,6 +666,18 @@
             {"source": "caveB", "quantity": 1, "chance": 0},
             {"source": "caveC", "quantity": 1, "chance": 0},
             {"source": "caveD", "quantity": 1, "chance": 0},
+            {"source": "w7a1", "quantity": 1100000, "chance": 0.5},
+            {"source": "w7a2", "quantity": 1600000, "chance": 0.5},
+            {"source": "w7a3", "quantity": 2500000, "chance": 0.5},
+            {"source": "w7a4", "quantity": 3500000, "chance": 0.5},
+            {"source": "w7a5", "quantity": 4700000, "chance": 0.5},
+            {"source": "w7a6", "quantity": 7000000, "chance": 1e-06},
+            {"source": "w7a7", "quantity": 10000000, "chance": 0.5},
+            {"source": "w7a8", "quantity": 13000000, "chance": 0.5},
+            {"source": "w7a9", "quantity": 17000000, "chance": 0.5},
+            {"source": "w7a10", "quantity": 25300000, "chance": 0.5},
+            {"source": "w7a11", "quantity": 35000000, "chance": 0.5},
+            {"source": "w7a12", "quantity": 50000000, "chance": 0.5},
             {"source": "w7d1", "quantity": 65000, "chance": 0.5},
             {"source": "ChestA1", "quantity": 100, "chance": 1},
             {"source": "ChestB1", "quantity": 400, "chance": 1},
@@ -678,6 +729,7 @@
             {"source": "Dreadlo", "quantity": 0, "chance": 0},
             {"source": "Marble", "quantity": 0, "chance": 0},
             {"source": "Godshard", "quantity": 0, "chance": 0},
+            {"source": "Prehistrium", "quantity": 0, "chance": 0},
             {"source": "Motherlode", "quantity": 0, "chance": 0},
             {"source": "Bug14", "quantity": 0, "chance": 0},
             {"source": "MotherlodeTREE", "quantity": 0, "chance": 0},
@@ -698,6 +750,7 @@
             {"source": "Tree11", "quantity": 0, "chance": 0},
             {"source": "Tree12", "quantity": 0, "chance": 0},
             {"source": "Tree13", "quantity": 0, "chance": 0},
+            {"source": "Tree14", "quantity": 0, "chance": 0},
             {"source": "FishSmall", "quantity": 0, "chance": 0},
             {"source": "FishMed", "quantity": 0, "chance": 0},
             {"source": "FishBig", "quantity": 0, "chance": 0},
@@ -730,6 +783,7 @@
             {"source": "BugNest12", "quantity": 0, "chance": 0},
             {"source": "BugNest13", "quantity": 0, "chance": 0},
             {"source": "BugNest14", "quantity": 0, "chance": 0},
+            {"source": "BugNest15", "quantity": 0, "chance": 0},
             {"source": "Bug1", "quantity": 0, "chance": 0},
             {"source": "Bug2", "quantity": 0, "chance": 0},
             {"source": "Bug3", "quantity": 0, "chance": 0},
@@ -743,8 +797,19 @@
             {"source": "Bug11", "quantity": 0, "chance": 0},
             {"source": "Bug12", "quantity": 0, "chance": 0},
             {"source": "Bug13", "quantity": 0, "chance": 0},
+            {"source": "Bug15", "quantity": 0, "chance": 0},
             {"source": "SoulCard7", "quantity": 0, "chance": 0},
-            {"source": "CritterCard10", "quantity": 0, "chance": 0}
+            {"source": "SoulCard8", "quantity": 0, "chance": 0},
+            {"source": "CritterCard10", "quantity": 0, "chance": 0},
+            {"source": "CritterCard11", "quantity": 0, "chance": 0},
+            {"source": "Spelunking0", "quantity": 0, "chance": 0},
+            {"source": "Spelunking1", "quantity": 0, "chance": 0},
+            {"source": "Spelunking2", "quantity": 0, "chance": 0},
+            {"source": "Spelunking3", "quantity": 0, "chance": 0},
+            {"source": "SpelunkingCard0", "quantity": 0, "chance": 0},
+            {"source": "SpelunkingCard1", "quantity": 0, "chance": 0},
+            {"source": "SpelunkingCard2", "quantity": 0, "chance": 0},
+            {"source": "SpelunkingCard3", "quantity": 0, "chance": 0}
         ]
     },
     "SmithingRecipes1": {
@@ -771,44 +836,12 @@
             {"source": "ChestC1", "quantity": 39, "chance": 5e-05},
             {"source": "slimeG", "quantity": 43, "chance": 3e-05},
             {"source": "slimeG", "quantity": 47, "chance": 2e-05},
+            {"source": "snakeG", "quantity": 70, "chance": 0.0005},
             {"source": "goblinG", "quantity": 44, "chance": 3e-05},
             {"source": "plank", "quantity": 48, "chance": 3e-05},
             {"source": "branch", "quantity": 68, "chance": 0.0002},
             {"source": "poopSmall", "quantity": 69, "chance": 0.0001},
             {"source": "babayaga", "quantity": 63, "chance": 0.06}
-        ]
-    },
-    "FoodHealth1": {
-        "sources": [
-            {"source": "Crystal0", "quantity": 10, "chance": 0.15},
-            {"source": "mushG", "quantity": 10, "chance": 0.00075},
-            {"source": "mushR", "quantity": 10, "chance": 0.0013},
-            {"source": "frogG", "quantity": 10, "chance": 0.00095},
-            {"source": "beanG", "quantity": 10, "chance": 0.001125},
-            {"source": "babayaga", "quantity": 20, "chance": 0.25},
-            {"source": "wolfA", "quantity": 20, "chance": 0.25},
-            {"source": "wolfB", "quantity": 40, "chance": 0.25},
-            {"source": "ChestA1", "quantity": 10, "chance": 0.25},
-            {"source": "mushG", "quantity": 3, "chance": 0.005}
-        ]
-    },
-    "FoodPotMana1": {
-        "sources": [
-            {"source": "Crystal0", "quantity": 5, "chance": 0.06},
-            {"source": "mushG", "quantity": 5, "chance": 0.0003},
-            {"source": "mushR", "quantity": 5, "chance": 0.00052},
-            {"source": "frogG", "quantity": 5, "chance": 0.00038},
-            {"source": "beanG", "quantity": 5, "chance": 0.00045},
-            {"source": "babayaga", "quantity": 10, "chance": 0.1},
-            {"source": "wolfA", "quantity": 10, "chance": 0.1},
-            {"source": "wolfB", "quantity": 20, "chance": 0.1},
-            {"source": "ChestA1", "quantity": 5, "chance": 0.1},
-            {"source": "poopSmall", "quantity": 25, "chance": 0.0024},
-            {"source": "ratB", "quantity": 25, "chance": 0.0024},
-            {"source": "mushW", "quantity": 25, "chance": 0.0028},
-            {"source": "branch", "quantity": 25, "chance": 0.00228},
-            {"source": "acorn", "quantity": 25, "chance": 0.0026},
-            {"source": "frogG", "quantity": 1, "chance": 0.002}
         ]
     },
     "EquipmentHats5": {
@@ -1000,7 +1033,6 @@
             {"source": "w6a3", "quantity": 8, "chance": 0.00155},
             {"source": "w6a4", "quantity": 8, "chance": 0.0017},
             {"source": "w6a5", "quantity": 8, "chance": 0.00185},
-            {"source": "w7d1", "quantity": 8, "chance": 0.00125},
             {"source": "ChestA6", "quantity": 8, "chance": 0.5},
             {"source": "ChestB6", "quantity": 8, "chance": 0.5},
             {"source": "ChestC6", "quantity": 8, "chance": 0.5},
@@ -1014,6 +1046,7 @@
             {"source": "Boss6B", "quantity": 16, "chance": 0.5},
             {"source": "Boss6C", "quantity": 16, "chance": 0.5},
             {"source": "Bug13", "quantity": 8, "chance": 0.0075},
+            {"source": "Bug15", "quantity": 8, "chance": 0.0075},
             {"source": "Crystal5", "quantity": 8, "chance": 0.085},
             {"source": "w6c1", "quantity": 8, "chance": 0.00165},
             {"source": "w6c2", "quantity": 8, "chance": 0.00175},
@@ -1026,7 +1059,20 @@
             {"source": "w6d3", "quantity": 8, "chance": 0.00175},
             {"source": "Boss6A", "quantity": 16, "chance": 0.5},
             {"source": "Boss6B", "quantity": 16, "chance": 0.5},
-            {"source": "Boss6C", "quantity": 16, "chance": 0.5}
+            {"source": "Boss6C", "quantity": 16, "chance": 0.5},
+            {"source": "Crystal6", "quantity": 8, "chance": 0.005},
+            {"source": "w7a1", "quantity": 8, "chance": 0.0005},
+            {"source": "w7a2", "quantity": 8, "chance": 0.0005},
+            {"source": "w7a3", "quantity": 8, "chance": 0.0005},
+            {"source": "w7a4", "quantity": 8, "chance": 0.0005},
+            {"source": "w7a5", "quantity": 8, "chance": 0.0005},
+            {"source": "w7a7", "quantity": 8, "chance": 0.0005},
+            {"source": "w7a8", "quantity": 8, "chance": 0.0005},
+            {"source": "w7a9", "quantity": 8, "chance": 0.0005},
+            {"source": "w7a10", "quantity": 8, "chance": 0.0005},
+            {"source": "w7a11", "quantity": 8, "chance": 0.0005},
+            {"source": "w7a12", "quantity": 8, "chance": 0.0005},
+            {"source": "w7d1", "quantity": 8, "chance": 0.00125}
         ]
     },
     "ObolBronze0": {
@@ -1089,10 +1135,15 @@
             {"source": "Dreadlo", "quantity": 2, "chance": 7.8e-05},
             {"source": "Marble", "quantity": 2, "chance": 8.4e-05},
             {"source": "Godshard", "quantity": 2, "chance": 9e-05},
+            {"source": "Prehistrium", "quantity": 2, "chance": 9e-05},
             {"source": "Motherlode", "quantity": 2, "chance": 6e-11},
             {"source": "Bug14", "quantity": 2, "chance": 6e-11},
             {"source": "MotherlodeTREE", "quantity": 2, "chance": 6e-11},
             {"source": "MotherlodeFISH", "quantity": 2, "chance": 6e-11},
+            {"source": "Spelunking0", "quantity": 1, "chance": 0},
+            {"source": "Spelunking1", "quantity": 1, "chance": 0},
+            {"source": "Spelunking2", "quantity": 1, "chance": 0},
+            {"source": "Spelunking3", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 0.003},
             {"source": "OakTree", "quantity": 1, "chance": 4.8e-05},
             {"source": "BirchTree", "quantity": 1, "chance": 5.1e-05},
@@ -1100,18 +1151,6 @@
             {"source": "ForestTree", "quantity": 1, "chance": 5.7e-05},
             {"source": "StumpTree", "quantity": 1, "chance": 6.12e-05},
             {"source": "ToiletTree", "quantity": 1, "chance": 6.36e-05}
-        ]
-    },
-    "FoodHealth3": {
-        "sources": [
-            {"source": "Crystal0", "quantity": 15, "chance": 0.175},
-            {"source": "slimeG", "quantity": 15, "chance": 0.0014},
-            {"source": "snakeG", "quantity": 15, "chance": 0.00175},
-            {"source": "carrotO", "quantity": 15, "chance": 0.0021},
-            {"source": "babayaga", "quantity": 15, "chance": 0.35},
-            {"source": "wolfA", "quantity": 30, "chance": 0.35},
-            {"source": "wolfB", "quantity": 60, "chance": 0.35},
-            {"source": "ChestB1", "quantity": 15, "chance": 0.35}
         ]
     },
     "EquipmentStatues1": {
@@ -1124,34 +1163,6 @@
             {"source": "wolfA", "quantity": 2, "chance": 0.12},
             {"source": "wolfB", "quantity": 4, "chance": 0.12},
             {"source": "ChestB1", "quantity": 1, "chance": 0.12}
-        ]
-    },
-    "FoodPotGr1": {
-        "sources": [
-            {"source": "Crystal0", "quantity": 5, "chance": 0.05},
-            {"source": "slimeG", "quantity": 5, "chance": 0.0004},
-            {"source": "snakeG", "quantity": 5, "chance": 0.0005},
-            {"source": "carrotO", "quantity": 5, "chance": 0.0006},
-            {"source": "babayaga", "quantity": 5, "chance": 0.1},
-            {"source": "wolfA", "quantity": 10, "chance": 0.1},
-            {"source": "wolfB", "quantity": 20, "chance": 0.1},
-            {"source": "ChestB1", "quantity": 5, "chance": 0.1},
-            {"source": "Crystal0", "quantity": 5, "chance": 0.12},
-            {"source": "Copper", "quantity": 5, "chance": 0.0013},
-            {"source": "Iron", "quantity": 5, "chance": 0.0014},
-            {"source": "Gold", "quantity": 5, "chance": 0.0015},
-            {"source": "Plat", "quantity": 5, "chance": 0.00154},
-            {"source": "Dementia", "quantity": 5, "chance": 0.00164},
-            {"source": "Void", "quantity": 10, "chance": 0.0018},
-            {"source": "Lustre", "quantity": 10, "chance": 0.0019},
-            {"source": "Starfire", "quantity": 10, "chance": 0.0022},
-            {"source": "Dreadlo", "quantity": 10, "chance": 0.0026},
-            {"source": "Marble", "quantity": 10, "chance": 0.0028},
-            {"source": "Godshard", "quantity": 10, "chance": 0.003},
-            {"source": "Motherlode", "quantity": 10, "chance": 2e-09},
-            {"source": "Bug14", "quantity": 10, "chance": 2e-09},
-            {"source": "MotherlodeTREE", "quantity": 10, "chance": 2e-09},
-            {"source": "MotherlodeFISH", "quantity": 10, "chance": 2e-09}
         ]
     },
     "FoodPotOr2": {
@@ -1225,23 +1236,6 @@
             {"source": "ChestB1", "quantity": 1, "chance": 0.001155}
         ]
     },
-    "FoodHealth2": {
-        "sources": [
-            {"source": "Crystal0", "quantity": 15, "chance": 0.168},
-            {"source": "goblinG", "quantity": 15, "chance": 0.00168},
-            {"source": "plank", "quantity": 15, "chance": 0.00189},
-            {"source": "frogBIG", "quantity": 15, "chance": 0.0021},
-            {"source": "babayaga", "quantity": 7.5, "chance": 0.42},
-            {"source": "poopBig", "quantity": 30, "chance": 0.42},
-            {"source": "slimeB", "quantity": 30, "chance": 0.42},
-            {"source": "wolfA", "quantity": 30, "chance": 0.42},
-            {"source": "wolfB", "quantity": 60, "chance": 0.42},
-            {"source": "wolfC", "quantity": 30, "chance": 0.42},
-            {"source": "ChestC1", "quantity": 15, "chance": 0.42},
-            {"source": "snakeG", "quantity": 3, "chance": 0.005},
-            {"source": "carrotO", "quantity": 4, "chance": 0.006}
-        ]
-    },
     "EquipmentStatues5": {
         "sources": [
             {"source": "Crystal0", "quantity": 1, "chance": 0.048},
@@ -1260,21 +1254,6 @@
             {"source": "mushW", "quantity": 1, "chance": 0.00063},
             {"source": "branch", "quantity": 1, "chance": 0.000513},
             {"source": "acorn", "quantity": 1, "chance": 0.000585}
-        ]
-    },
-    "FoodPotMana2": {
-        "sources": [
-            {"source": "Crystal0", "quantity": 10, "chance": 0.1},
-            {"source": "goblinG", "quantity": 10, "chance": 0.001},
-            {"source": "plank", "quantity": 10, "chance": 0.001125},
-            {"source": "frogBIG", "quantity": 10, "chance": 0.00125},
-            {"source": "babayaga", "quantity": 5, "chance": 0.25},
-            {"source": "poopBig", "quantity": 20, "chance": 0.25},
-            {"source": "slimeB", "quantity": 20, "chance": 0.25},
-            {"source": "wolfA", "quantity": 20, "chance": 0.25},
-            {"source": "wolfB", "quantity": 40, "chance": 0.25},
-            {"source": "wolfC", "quantity": 20, "chance": 0.25},
-            {"source": "ChestC1", "quantity": 10, "chance": 0.25}
         ]
     },
     "StoneT2": {
@@ -1312,6 +1291,15 @@
         ]
     },
     "FoodPotRe1": {
+        "sources": [
+            {"source": "poopSmall", "quantity": 25, "chance": 0.0024},
+            {"source": "ratB", "quantity": 25, "chance": 0.0024},
+            {"source": "mushW", "quantity": 25, "chance": 0.0028},
+            {"source": "branch", "quantity": 25, "chance": 0.00228},
+            {"source": "acorn", "quantity": 25, "chance": 0.0026}
+        ]
+    },
+    "FoodPotMana1": {
         "sources": [
             {"source": "poopSmall", "quantity": 25, "chance": 0.0024},
             {"source": "ratB", "quantity": 25, "chance": 0.0024},
@@ -1362,10 +1350,15 @@
             {"source": "Dreadlo", "quantity": 2, "chance": 0.00039},
             {"source": "Marble", "quantity": 2, "chance": 0.00042},
             {"source": "Godshard", "quantity": 2, "chance": 0.00045},
+            {"source": "Prehistrium", "quantity": 2, "chance": 0.00045},
             {"source": "Motherlode", "quantity": 2, "chance": 3e-10},
             {"source": "Bug14", "quantity": 2, "chance": 3e-10},
             {"source": "MotherlodeTREE", "quantity": 2, "chance": 3e-10},
             {"source": "MotherlodeFISH", "quantity": 2, "chance": 3e-10},
+            {"source": "Spelunking0", "quantity": 1, "chance": 0},
+            {"source": "Spelunking1", "quantity": 1, "chance": 0},
+            {"source": "Spelunking2", "quantity": 1, "chance": 0},
+            {"source": "Spelunking3", "quantity": 1, "chance": 0},
             {"source": "ChestA1", "quantity": 1, "chance": 0.09}
         ]
     },
@@ -1383,10 +1376,15 @@
             {"source": "Dreadlo", "quantity": 2, "chance": 0.00039},
             {"source": "Marble", "quantity": 2, "chance": 0.00042},
             {"source": "Godshard", "quantity": 2, "chance": 0.00045},
+            {"source": "Prehistrium", "quantity": 2, "chance": 0.00045},
             {"source": "Motherlode", "quantity": 2, "chance": 3e-10},
             {"source": "Bug14", "quantity": 2, "chance": 3e-10},
             {"source": "MotherlodeTREE", "quantity": 2, "chance": 3e-10},
             {"source": "MotherlodeFISH", "quantity": 2, "chance": 3e-10},
+            {"source": "Spelunking0", "quantity": 1, "chance": 0},
+            {"source": "Spelunking1", "quantity": 1, "chance": 0},
+            {"source": "Spelunking2", "quantity": 1, "chance": 0},
+            {"source": "Spelunking3", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 0.015},
             {"source": "OakTree", "quantity": 1, "chance": 0.00024},
             {"source": "BirchTree", "quantity": 1, "chance": 0.000255},
@@ -1416,10 +1414,15 @@
             {"source": "Dreadlo", "quantity": 2, "chance": 0.00351},
             {"source": "Marble", "quantity": 2, "chance": 0.00378},
             {"source": "Godshard", "quantity": 2, "chance": 0.00405},
+            {"source": "Prehistrium", "quantity": 2, "chance": 0.00405},
             {"source": "Motherlode", "quantity": 2, "chance": 2.7e-09},
             {"source": "Bug14", "quantity": 2, "chance": 2.7e-09},
             {"source": "MotherlodeTREE", "quantity": 2, "chance": 2.7e-09},
-            {"source": "MotherlodeFISH", "quantity": 2, "chance": 2.7e-09}
+            {"source": "MotherlodeFISH", "quantity": 2, "chance": 2.7e-09},
+            {"source": "Spelunking0", "quantity": 1, "chance": 0},
+            {"source": "Spelunking1", "quantity": 1, "chance": 0},
+            {"source": "Spelunking2", "quantity": 1, "chance": 0},
+            {"source": "Spelunking3", "quantity": 1, "chance": 0}
         ]
     },
     "StampB11": {
@@ -1436,10 +1439,40 @@
             {"source": "Dreadlo", "quantity": 2, "chance": 1.17e-05},
             {"source": "Marble", "quantity": 2, "chance": 1.26e-05},
             {"source": "Godshard", "quantity": 2, "chance": 1.35e-05},
+            {"source": "Prehistrium", "quantity": 2, "chance": 1.35e-05},
             {"source": "Motherlode", "quantity": 2, "chance": 9e-12},
             {"source": "Bug14", "quantity": 2, "chance": 9e-12},
             {"source": "MotherlodeTREE", "quantity": 2, "chance": 9e-12},
-            {"source": "MotherlodeFISH", "quantity": 2, "chance": 9e-12}
+            {"source": "MotherlodeFISH", "quantity": 2, "chance": 9e-12},
+            {"source": "Spelunking0", "quantity": 1, "chance": 0},
+            {"source": "Spelunking1", "quantity": 1, "chance": 0},
+            {"source": "Spelunking2", "quantity": 1, "chance": 0},
+            {"source": "Spelunking3", "quantity": 1, "chance": 0}
+        ]
+    },
+    "FoodPotGr1": {
+        "sources": [
+            {"source": "Crystal0", "quantity": 5, "chance": 0.12},
+            {"source": "Copper", "quantity": 5, "chance": 0.0013},
+            {"source": "Iron", "quantity": 5, "chance": 0.0014},
+            {"source": "Gold", "quantity": 5, "chance": 0.0015},
+            {"source": "Plat", "quantity": 5, "chance": 0.00154},
+            {"source": "Dementia", "quantity": 5, "chance": 0.00164},
+            {"source": "Void", "quantity": 10, "chance": 0.0018},
+            {"source": "Lustre", "quantity": 10, "chance": 0.0019},
+            {"source": "Starfire", "quantity": 10, "chance": 0.0022},
+            {"source": "Dreadlo", "quantity": 10, "chance": 0.0026},
+            {"source": "Marble", "quantity": 10, "chance": 0.0028},
+            {"source": "Godshard", "quantity": 10, "chance": 0.003},
+            {"source": "Prehistrium", "quantity": 10, "chance": 0.003},
+            {"source": "Motherlode", "quantity": 10, "chance": 2e-09},
+            {"source": "Bug14", "quantity": 10, "chance": 2e-09},
+            {"source": "MotherlodeTREE", "quantity": 10, "chance": 2e-09},
+            {"source": "MotherlodeFISH", "quantity": 10, "chance": 2e-09},
+            {"source": "Spelunking0", "quantity": 5, "chance": 0},
+            {"source": "Spelunking1", "quantity": 5, "chance": 0},
+            {"source": "Spelunking2", "quantity": 5, "chance": 0},
+            {"source": "Spelunking3", "quantity": 5, "chance": 0}
         ]
     },
     "StampA13": {
@@ -1456,10 +1489,15 @@
             {"source": "Dreadlo", "quantity": 2, "chance": 1.95e-06},
             {"source": "Marble", "quantity": 2, "chance": 2.1e-06},
             {"source": "Godshard", "quantity": 2, "chance": 2.25e-06},
+            {"source": "Prehistrium", "quantity": 2, "chance": 2.25e-06},
             {"source": "Motherlode", "quantity": 2, "chance": 1.5e-12},
             {"source": "Bug14", "quantity": 2, "chance": 1.5e-12},
             {"source": "MotherlodeTREE", "quantity": 2, "chance": 1.5e-12},
-            {"source": "MotherlodeFISH", "quantity": 2, "chance": 1.5e-12}
+            {"source": "MotherlodeFISH", "quantity": 2, "chance": 1.5e-12},
+            {"source": "Spelunking0", "quantity": 1, "chance": 0},
+            {"source": "Spelunking1", "quantity": 1, "chance": 0},
+            {"source": "Spelunking2", "quantity": 1, "chance": 0},
+            {"source": "Spelunking3", "quantity": 1, "chance": 0}
         ]
     },
     "ObolBronze3": {
@@ -1476,10 +1514,15 @@
             {"source": "Dreadlo", "quantity": 2, "chance": 1.5015e-05},
             {"source": "Marble", "quantity": 2, "chance": 1.617e-05},
             {"source": "Godshard", "quantity": 2, "chance": 1.7325e-05},
+            {"source": "Prehistrium", "quantity": 2, "chance": 1.7325e-05},
             {"source": "Motherlode", "quantity": 2, "chance": 1.155e-11},
             {"source": "Bug14", "quantity": 2, "chance": 1.155e-11},
             {"source": "MotherlodeTREE", "quantity": 2, "chance": 1.155e-11},
-            {"source": "MotherlodeFISH", "quantity": 2, "chance": 1.155e-11}
+            {"source": "MotherlodeFISH", "quantity": 2, "chance": 1.155e-11},
+            {"source": "Spelunking0", "quantity": 1, "chance": 0},
+            {"source": "Spelunking1", "quantity": 1, "chance": 0},
+            {"source": "Spelunking2", "quantity": 1, "chance": 0},
+            {"source": "Spelunking3", "quantity": 1, "chance": 0}
         ]
     },
     "Leaf1": {
@@ -1530,7 +1573,8 @@
             {"source": "Bug1", "quantity": 5, "chance": 0.00105},
             {"source": "Bug2", "quantity": 5, "chance": 0.00105},
             {"source": "Bug3", "quantity": 5, "chance": 0.00105},
-            {"source": "Bug4", "quantity": 5, "chance": 0.00105}
+            {"source": "Bug4", "quantity": 5, "chance": 0.00105},
+            {"source": "frogG", "quantity": 1, "chance": 0.002}
         ]
     },
     "StampB9": {
@@ -1602,10 +1646,15 @@
             {"source": "Dreadlo", "quantity": 2, "chance": 2.34e-08},
             {"source": "Marble", "quantity": 2, "chance": 2.52e-08},
             {"source": "Godshard", "quantity": 2, "chance": 2.7e-08},
+            {"source": "Prehistrium", "quantity": 2, "chance": 2.7e-08},
             {"source": "Motherlode", "quantity": 2, "chance": 1.8e-14},
             {"source": "Bug14", "quantity": 2, "chance": 1.8e-14},
             {"source": "MotherlodeTREE", "quantity": 2, "chance": 1.8e-14},
             {"source": "MotherlodeFISH", "quantity": 2, "chance": 1.8e-14},
+            {"source": "Spelunking0", "quantity": 1, "chance": 0},
+            {"source": "Spelunking1", "quantity": 1, "chance": 0},
+            {"source": "Spelunking2", "quantity": 1, "chance": 0},
+            {"source": "Spelunking3", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 9e-07},
             {"source": "OakTree", "quantity": 1, "chance": 1.44e-08},
             {"source": "BirchTree", "quantity": 1, "chance": 1.53e-08},
@@ -1767,7 +1816,6 @@
             {"source": "w6a3", "quantity": 1, "chance": 4.65e-09},
             {"source": "w6a4", "quantity": 1, "chance": 5.1e-09},
             {"source": "w6a5", "quantity": 1, "chance": 5.55e-09},
-            {"source": "w7d1", "quantity": 1, "chance": 3.75e-09},
             {"source": "ChestA6", "quantity": 1, "chance": 1.5e-06},
             {"source": "ChestB6", "quantity": 1, "chance": 1.5e-06},
             {"source": "ChestC6", "quantity": 1, "chance": 1.5e-06},
@@ -1781,6 +1829,7 @@
             {"source": "Boss6B", "quantity": 2, "chance": 1.5e-06},
             {"source": "Boss6C", "quantity": 2, "chance": 1.5e-06},
             {"source": "Bug13", "quantity": 1, "chance": 2.25e-08},
+            {"source": "Bug15", "quantity": 1, "chance": 2.25e-08},
             {"source": "Crystal5", "quantity": 1, "chance": 2.55e-07},
             {"source": "w6c1", "quantity": 1, "chance": 4.95e-09},
             {"source": "w6c2", "quantity": 1, "chance": 5.25e-09},
@@ -1796,7 +1845,8 @@
             {"source": "Boss6C", "quantity": 2, "chance": 1.5e-06},
             {"source": "Crystal5", "quantity": 1, "chance": 3.06e-07},
             {"source": "Tree12", "quantity": 1, "chance": 1.602e-08},
-            {"source": "Tree13", "quantity": 1, "chance": 1.602e-08}
+            {"source": "Tree13", "quantity": 1, "chance": 1.602e-08},
+            {"source": "Tree14", "quantity": 1, "chance": 1.602e-08}
         ]
     },
     "SilverPen": {
@@ -1846,10 +1896,15 @@
             {"source": "Dreadlo", "quantity": 2, "chance": 5.46e-06},
             {"source": "Marble", "quantity": 2, "chance": 5.88e-06},
             {"source": "Godshard", "quantity": 2, "chance": 6.3e-06},
+            {"source": "Prehistrium", "quantity": 2, "chance": 6.3e-06},
             {"source": "Motherlode", "quantity": 2, "chance": 4.2e-12},
             {"source": "Bug14", "quantity": 2, "chance": 4.2e-12},
             {"source": "MotherlodeTREE", "quantity": 2, "chance": 4.2e-12},
             {"source": "MotherlodeFISH", "quantity": 2, "chance": 4.2e-12},
+            {"source": "Spelunking0", "quantity": 1, "chance": 0},
+            {"source": "Spelunking1", "quantity": 1, "chance": 0},
+            {"source": "Spelunking2", "quantity": 1, "chance": 0},
+            {"source": "Spelunking3", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 0.00021},
             {"source": "OakTree", "quantity": 1, "chance": 3.36e-06},
             {"source": "BirchTree", "quantity": 1, "chance": 3.57e-06},
@@ -2011,7 +2066,6 @@
             {"source": "w6a3", "quantity": 1, "chance": 1.395e-06},
             {"source": "w6a4", "quantity": 1, "chance": 1.53e-06},
             {"source": "w6a5", "quantity": 1, "chance": 1.665e-06},
-            {"source": "w7d1", "quantity": 1, "chance": 1.125e-06},
             {"source": "ChestA6", "quantity": 1, "chance": 0.00045},
             {"source": "ChestB6", "quantity": 1, "chance": 0.00045},
             {"source": "ChestC6", "quantity": 1, "chance": 0.00045},
@@ -2025,6 +2079,7 @@
             {"source": "Boss6B", "quantity": 2, "chance": 0.00045},
             {"source": "Boss6C", "quantity": 2, "chance": 0.00045},
             {"source": "Bug13", "quantity": 1, "chance": 6.75e-06},
+            {"source": "Bug15", "quantity": 1, "chance": 6.75e-06},
             {"source": "Crystal5", "quantity": 1, "chance": 7.65e-05},
             {"source": "w6c1", "quantity": 1, "chance": 1.485e-06},
             {"source": "w6c2", "quantity": 1, "chance": 1.575e-06},
@@ -2040,7 +2095,8 @@
             {"source": "Boss6C", "quantity": 2, "chance": 0.00045},
             {"source": "Crystal5", "quantity": 1, "chance": 9.18e-05},
             {"source": "Tree12", "quantity": 1, "chance": 4.806e-06},
-            {"source": "Tree13", "quantity": 1, "chance": 4.806e-06}
+            {"source": "Tree13", "quantity": 1, "chance": 4.806e-06},
+            {"source": "Tree14", "quantity": 1, "chance": 4.806e-06}
         ]
     },
     "TalentBook1": {
@@ -2090,10 +2146,15 @@
             {"source": "Dreadlo", "quantity": 7246200, "chance": 7.8e-06},
             {"source": "Marble", "quantity": 7246200, "chance": 8.4e-06},
             {"source": "Godshard", "quantity": 7246200, "chance": 9e-06},
+            {"source": "Prehistrium", "quantity": 7246200, "chance": 9e-06},
             {"source": "Motherlode", "quantity": 7246200, "chance": 6e-12},
             {"source": "Bug14", "quantity": 7246200, "chance": 6e-12},
             {"source": "MotherlodeTREE", "quantity": 7246200, "chance": 6e-12},
             {"source": "MotherlodeFISH", "quantity": 7246200, "chance": 6e-12},
+            {"source": "Spelunking0", "quantity": 3623100, "chance": 0},
+            {"source": "Spelunking1", "quantity": 3623100, "chance": 0},
+            {"source": "Spelunking2", "quantity": 3623100, "chance": 0},
+            {"source": "Spelunking3", "quantity": 3623100, "chance": 0},
             {"source": "Crystal0", "quantity": 3623100, "chance": 0.0003},
             {"source": "OakTree", "quantity": 3623100, "chance": 4.8e-06},
             {"source": "BirchTree", "quantity": 3623100, "chance": 5.1e-06},
@@ -2146,10 +2207,15 @@
             {"source": "Dreadlo", "quantity": 724900, "chance": 7.8e-06},
             {"source": "Marble", "quantity": 724900, "chance": 8.4e-06},
             {"source": "Godshard", "quantity": 724900, "chance": 9e-06},
+            {"source": "Prehistrium", "quantity": 724900, "chance": 9e-06},
             {"source": "Motherlode", "quantity": 724900, "chance": 6e-12},
             {"source": "Bug14", "quantity": 724900, "chance": 6e-12},
             {"source": "MotherlodeTREE", "quantity": 724900, "chance": 6e-12},
             {"source": "MotherlodeFISH", "quantity": 724900, "chance": 6e-12},
+            {"source": "Spelunking0", "quantity": 362450, "chance": 0},
+            {"source": "Spelunking1", "quantity": 362450, "chance": 0},
+            {"source": "Spelunking2", "quantity": 362450, "chance": 0},
+            {"source": "Spelunking3", "quantity": 362450, "chance": 0},
             {"source": "Crystal0", "quantity": 362450, "chance": 0.0003},
             {"source": "OakTree", "quantity": 362450, "chance": 4.8e-06},
             {"source": "BirchTree", "quantity": 362450, "chance": 5.1e-06},
@@ -2215,10 +2281,15 @@
             {"source": "Dreadlo", "quantity": 2, "chance": 7.8e-06},
             {"source": "Marble", "quantity": 2, "chance": 8.4e-06},
             {"source": "Godshard", "quantity": 2, "chance": 9e-06},
+            {"source": "Prehistrium", "quantity": 2, "chance": 9e-06},
             {"source": "Motherlode", "quantity": 2, "chance": 6e-12},
             {"source": "Bug14", "quantity": 2, "chance": 6e-12},
             {"source": "MotherlodeTREE", "quantity": 2, "chance": 6e-12},
             {"source": "MotherlodeFISH", "quantity": 2, "chance": 6e-12},
+            {"source": "Spelunking0", "quantity": 1, "chance": 0},
+            {"source": "Spelunking1", "quantity": 1, "chance": 0},
+            {"source": "Spelunking2", "quantity": 1, "chance": 0},
+            {"source": "Spelunking3", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 0.0003},
             {"source": "OakTree", "quantity": 1, "chance": 4.8e-06},
             {"source": "BirchTree", "quantity": 1, "chance": 5.1e-06},
@@ -2423,10 +2494,15 @@
             {"source": "Dreadlo", "quantity": 2, "chance": 3.9e-05},
             {"source": "Marble", "quantity": 2, "chance": 4.2e-05},
             {"source": "Godshard", "quantity": 2, "chance": 4.5e-05},
+            {"source": "Prehistrium", "quantity": 2, "chance": 4.5e-05},
             {"source": "Motherlode", "quantity": 2, "chance": 3e-11},
             {"source": "Bug14", "quantity": 2, "chance": 3e-11},
             {"source": "MotherlodeTREE", "quantity": 2, "chance": 3e-11},
             {"source": "MotherlodeFISH", "quantity": 2, "chance": 3e-11},
+            {"source": "Spelunking0", "quantity": 1, "chance": 0},
+            {"source": "Spelunking1", "quantity": 1, "chance": 0},
+            {"source": "Spelunking2", "quantity": 1, "chance": 0},
+            {"source": "Spelunking3", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 0.0015},
             {"source": "OakTree", "quantity": 1, "chance": 2.4e-05},
             {"source": "BirchTree", "quantity": 1, "chance": 2.55e-05},
@@ -2484,10 +2560,15 @@
             {"source": "Dreadlo", "quantity": 2, "chance": 2.457e-06},
             {"source": "Marble", "quantity": 2, "chance": 2.646e-06},
             {"source": "Godshard", "quantity": 2, "chance": 2.835e-06},
+            {"source": "Prehistrium", "quantity": 2, "chance": 2.835e-06},
             {"source": "Motherlode", "quantity": 2, "chance": 1.89e-12},
             {"source": "Bug14", "quantity": 2, "chance": 1.89e-12},
             {"source": "MotherlodeTREE", "quantity": 2, "chance": 1.89e-12},
             {"source": "MotherlodeFISH", "quantity": 2, "chance": 1.89e-12},
+            {"source": "Spelunking0", "quantity": 1, "chance": 0},
+            {"source": "Spelunking1", "quantity": 1, "chance": 0},
+            {"source": "Spelunking2", "quantity": 1, "chance": 0},
+            {"source": "Spelunking3", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 9.45e-05},
             {"source": "OakTree", "quantity": 1, "chance": 1.512e-06},
             {"source": "BirchTree", "quantity": 1, "chance": 1.6065e-06},
@@ -2544,10 +2625,15 @@
             {"source": "Dreadlo", "quantity": 2, "chance": 2.5389e-06},
             {"source": "Marble", "quantity": 2, "chance": 2.7342e-06},
             {"source": "Godshard", "quantity": 2, "chance": 2.9295e-06},
+            {"source": "Prehistrium", "quantity": 2, "chance": 2.9295e-06},
             {"source": "Motherlode", "quantity": 2, "chance": 1.953e-12},
             {"source": "Bug14", "quantity": 2, "chance": 1.953e-12},
             {"source": "MotherlodeTREE", "quantity": 2, "chance": 1.953e-12},
             {"source": "MotherlodeFISH", "quantity": 2, "chance": 1.953e-12},
+            {"source": "Spelunking0", "quantity": 1, "chance": 0},
+            {"source": "Spelunking1", "quantity": 1, "chance": 0},
+            {"source": "Spelunking2", "quantity": 1, "chance": 0},
+            {"source": "Spelunking3", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 9.765e-05},
             {"source": "OakTree", "quantity": 1, "chance": 1.5624e-06},
             {"source": "BirchTree", "quantity": 1, "chance": 1.66005e-06},
@@ -2604,10 +2690,15 @@
             {"source": "Dreadlo", "quantity": 2, "chance": 2.3751e-06},
             {"source": "Marble", "quantity": 2, "chance": 2.5578e-06},
             {"source": "Godshard", "quantity": 2, "chance": 2.7405e-06},
+            {"source": "Prehistrium", "quantity": 2, "chance": 2.7405e-06},
             {"source": "Motherlode", "quantity": 2, "chance": 1.827e-12},
             {"source": "Bug14", "quantity": 2, "chance": 1.827e-12},
             {"source": "MotherlodeTREE", "quantity": 2, "chance": 1.827e-12},
             {"source": "MotherlodeFISH", "quantity": 2, "chance": 1.827e-12},
+            {"source": "Spelunking0", "quantity": 1, "chance": 0},
+            {"source": "Spelunking1", "quantity": 1, "chance": 0},
+            {"source": "Spelunking2", "quantity": 1, "chance": 0},
+            {"source": "Spelunking3", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 9.135e-05},
             {"source": "OakTree", "quantity": 1, "chance": 1.4616e-06},
             {"source": "BirchTree", "quantity": 1, "chance": 1.55295e-06},
@@ -2664,10 +2755,15 @@
             {"source": "Dreadlo", "quantity": 4, "chance": 6.63e-05},
             {"source": "Marble", "quantity": 4, "chance": 7.14e-05},
             {"source": "Godshard", "quantity": 4, "chance": 7.65e-05},
+            {"source": "Prehistrium", "quantity": 4, "chance": 7.65e-05},
             {"source": "Motherlode", "quantity": 4, "chance": 5.1e-11},
             {"source": "Bug14", "quantity": 4, "chance": 5.1e-11},
             {"source": "MotherlodeTREE", "quantity": 4, "chance": 5.1e-11},
             {"source": "MotherlodeFISH", "quantity": 4, "chance": 5.1e-11},
+            {"source": "Spelunking0", "quantity": 2, "chance": 0},
+            {"source": "Spelunking1", "quantity": 2, "chance": 0},
+            {"source": "Spelunking2", "quantity": 2, "chance": 0},
+            {"source": "Spelunking3", "quantity": 2, "chance": 0},
             {"source": "Crystal0", "quantity": 2, "chance": 0.00255},
             {"source": "OakTree", "quantity": 2, "chance": 4.08e-05},
             {"source": "BirchTree", "quantity": 2, "chance": 4.335e-05},
@@ -3277,12 +3373,12 @@
     },
     "Timecandy1": {
         "sources": [
-            {"source": "babaHour", "quantity": 1, "chance": 0.16},
-            {"source": "babaMummy", "quantity": 1, "chance": 0.2},
-            {"source": "mini3a", "quantity": 1, "chance": 0.2},
-            {"source": "mini4a", "quantity": 1, "chance": 0.2},
-            {"source": "mini5a", "quantity": 1, "chance": 0.2},
-            {"source": "mini6a", "quantity": 1, "chance": 0.2},
+            {"source": "babaHour", "quantity": 1, "chance": 0.24},
+            {"source": "babaMummy", "quantity": 1, "chance": 0.3},
+            {"source": "mini3a", "quantity": 1, "chance": 0.3},
+            {"source": "mini4a", "quantity": 1, "chance": 0.3},
+            {"source": "mini5a", "quantity": 1, "chance": 0.3},
+            {"source": "mini6a", "quantity": 1, "chance": 0.3},
             {"source": "sheepB", "quantity": 3, "chance": 0.6},
             {"source": "snakeY", "quantity": 3, "chance": 0.2},
             {"source": "springEvent2", "quantity": 1, "chance": 0.2}
@@ -3290,45 +3386,45 @@
     },
     "Timecandy2": {
         "sources": [
-            {"source": "babaHour", "quantity": 1, "chance": 0.08},
-            {"source": "babaMummy", "quantity": 1, "chance": 0.1},
-            {"source": "mini3a", "quantity": 1, "chance": 0.1},
-            {"source": "mini4a", "quantity": 1, "chance": 0.1},
-            {"source": "mini5a", "quantity": 1, "chance": 0.1},
-            {"source": "mini6a", "quantity": 1, "chance": 0.1},
+            {"source": "babaHour", "quantity": 1, "chance": 0.16},
+            {"source": "babaMummy", "quantity": 1, "chance": 0.2},
+            {"source": "mini3a", "quantity": 1, "chance": 0.2},
+            {"source": "mini4a", "quantity": 1, "chance": 0.2},
+            {"source": "mini5a", "quantity": 1, "chance": 0.2},
+            {"source": "mini6a", "quantity": 1, "chance": 0.2},
             {"source": "sheepB", "quantity": 3, "chance": 0.15},
             {"source": "snakeY", "quantity": 3, "chance": 0.05}
         ]
     },
     "Timecandy3": {
         "sources": [
-            {"source": "babaHour", "quantity": 1, "chance": 0.02},
-            {"source": "babaMummy", "quantity": 1, "chance": 0.025},
-            {"source": "mini3a", "quantity": 1, "chance": 0.025},
-            {"source": "mini4a", "quantity": 1, "chance": 0.025},
-            {"source": "mini5a", "quantity": 1, "chance": 0.025},
-            {"source": "mini6a", "quantity": 1, "chance": 0.025}
+            {"source": "babaHour", "quantity": 1, "chance": 0.04},
+            {"source": "babaMummy", "quantity": 1, "chance": 0.05},
+            {"source": "mini3a", "quantity": 1, "chance": 0.05},
+            {"source": "mini4a", "quantity": 1, "chance": 0.05},
+            {"source": "mini5a", "quantity": 1, "chance": 0.05},
+            {"source": "mini6a", "quantity": 1, "chance": 0.05}
         ]
     },
     "Timecandy4": {
         "sources": [
-            {"source": "babaHour", "quantity": 1, "chance": 0.004},
-            {"source": "babaMummy", "quantity": 1, "chance": 0.005},
-            {"source": "mini3a", "quantity": 1, "chance": 0.005},
-            {"source": "mini4a", "quantity": 1, "chance": 0.005},
-            {"source": "mini5a", "quantity": 1, "chance": 0.005},
-            {"source": "mini6a", "quantity": 1, "chance": 0.005},
+            {"source": "babaHour", "quantity": 1, "chance": 0.012},
+            {"source": "babaMummy", "quantity": 1, "chance": 0.015},
+            {"source": "mini3a", "quantity": 1, "chance": 0.015},
+            {"source": "mini4a", "quantity": 1, "chance": 0.015},
+            {"source": "mini5a", "quantity": 1, "chance": 0.015},
+            {"source": "mini6a", "quantity": 1, "chance": 0.015},
             {"source": "sheepB", "quantity": 2, "chance": 0.01}
         ]
     },
     "Timecandy5": {
         "sources": [
-            {"source": "babaHour", "quantity": 1, "chance": 0.0012},
-            {"source": "babaMummy", "quantity": 1, "chance": 0.0015},
-            {"source": "mini3a", "quantity": 1, "chance": 0.0015},
-            {"source": "mini4a", "quantity": 1, "chance": 0.0015},
-            {"source": "mini5a", "quantity": 1, "chance": 0.0015},
-            {"source": "mini6a", "quantity": 1, "chance": 0.0015}
+            {"source": "babaHour", "quantity": 1, "chance": 0.002},
+            {"source": "babaMummy", "quantity": 1, "chance": 0.0025},
+            {"source": "mini3a", "quantity": 1, "chance": 0.0025},
+            {"source": "mini4a", "quantity": 1, "chance": 0.0025},
+            {"source": "mini5a", "quantity": 1, "chance": 0.0025},
+            {"source": "mini6a", "quantity": 1, "chance": 0.0025}
         ]
     },
     "Timecandy6": {
@@ -3734,7 +3830,6 @@
             {"source": "w6a3", "quantity": 3, "chance": 0.00062},
             {"source": "w6a4", "quantity": 3, "chance": 0.00068},
             {"source": "w6a5", "quantity": 3, "chance": 0.00074},
-            {"source": "w7d1", "quantity": 3, "chance": 0.0005},
             {"source": "ChestA6", "quantity": 3, "chance": 0.2},
             {"source": "ChestB6", "quantity": 3, "chance": 0.2},
             {"source": "ChestC6", "quantity": 3, "chance": 0.2},
@@ -3748,6 +3843,7 @@
             {"source": "Boss6B", "quantity": 6, "chance": 0.2},
             {"source": "Boss6C", "quantity": 6, "chance": 0.2},
             {"source": "Bug13", "quantity": 3, "chance": 0.003},
+            {"source": "Bug15", "quantity": 3, "chance": 0.003},
             {"source": "Crystal5", "quantity": 3, "chance": 0.034},
             {"source": "w6c1", "quantity": 3, "chance": 0.00066},
             {"source": "w6c2", "quantity": 3, "chance": 0.0007},
@@ -3761,6 +3857,19 @@
             {"source": "Boss6A", "quantity": 6, "chance": 0.2},
             {"source": "Boss6B", "quantity": 6, "chance": 0.2},
             {"source": "Boss6C", "quantity": 6, "chance": 0.2},
+            {"source": "Crystal6", "quantity": 3, "chance": 0.002},
+            {"source": "w7a1", "quantity": 3, "chance": 0.0002},
+            {"source": "w7a2", "quantity": 3, "chance": 0.0002},
+            {"source": "w7a3", "quantity": 3, "chance": 0.0002},
+            {"source": "w7a4", "quantity": 3, "chance": 0.0002},
+            {"source": "w7a5", "quantity": 3, "chance": 0.0002},
+            {"source": "w7a7", "quantity": 3, "chance": 0.0002},
+            {"source": "w7a8", "quantity": 3, "chance": 0.0002},
+            {"source": "w7a9", "quantity": 3, "chance": 0.0002},
+            {"source": "w7a10", "quantity": 3, "chance": 0.0002},
+            {"source": "w7a11", "quantity": 3, "chance": 0.0002},
+            {"source": "w7a12", "quantity": 3, "chance": 0.0002},
+            {"source": "w7d1", "quantity": 3, "chance": 0.0005},
             {"source": "poopSmall", "quantity": 1, "chance": 0.23},
             {"source": "poopSmall", "quantity": 1, "chance": 0.23},
             {"source": "poopSmall", "quantity": 1, "chance": 0.23}
@@ -4717,7 +4826,6 @@
             {"source": "w6a3", "quantity": 1, "chance": 1.24e-05},
             {"source": "w6a4", "quantity": 1, "chance": 1.36e-05},
             {"source": "w6a5", "quantity": 1, "chance": 1.48e-05},
-            {"source": "w7d1", "quantity": 1, "chance": 1e-05},
             {"source": "ChestA6", "quantity": 1, "chance": 0.004},
             {"source": "ChestB6", "quantity": 1, "chance": 0.004},
             {"source": "ChestC6", "quantity": 1, "chance": 0.004},
@@ -4739,7 +4847,6 @@
             {"source": "w6a3", "quantity": 1, "chance": 4.03e-07},
             {"source": "w6a4", "quantity": 1, "chance": 4.42e-07},
             {"source": "w6a5", "quantity": 1, "chance": 4.81e-07},
-            {"source": "w7d1", "quantity": 1, "chance": 3.25e-07},
             {"source": "ChestA6", "quantity": 1, "chance": 0.00013},
             {"source": "ChestB6", "quantity": 1, "chance": 0.00013},
             {"source": "ChestC6", "quantity": 1, "chance": 0.00013},
@@ -4754,7 +4861,6 @@
             {"source": "w6a3", "quantity": 1, "chance": 3.1e-05},
             {"source": "w6a4", "quantity": 1, "chance": 3.4e-05},
             {"source": "w6a5", "quantity": 1, "chance": 3.7e-05},
-            {"source": "w7d1", "quantity": 1, "chance": 2.5e-05},
             {"source": "ChestA6", "quantity": 1, "chance": 0.01},
             {"source": "ChestB6", "quantity": 1, "chance": 0.01},
             {"source": "ChestC6", "quantity": 1, "chance": 0.01},
@@ -4769,7 +4875,6 @@
             {"source": "w6a3", "quantity": 1, "chance": 7.75e-07},
             {"source": "w6a4", "quantity": 1, "chance": 8.5e-07},
             {"source": "w6a5", "quantity": 1, "chance": 9.25e-07},
-            {"source": "w7d1", "quantity": 1, "chance": 6.25e-07},
             {"source": "ChestA6", "quantity": 1, "chance": 0.00025},
             {"source": "ChestB6", "quantity": 1, "chance": 0.00025},
             {"source": "ChestC6", "quantity": 1, "chance": 0.00025},
@@ -4784,7 +4889,6 @@
             {"source": "w6a3", "quantity": 1, "chance": 1.55e-05},
             {"source": "w6a4", "quantity": 1, "chance": 1.7e-05},
             {"source": "w6a5", "quantity": 1, "chance": 1.85e-05},
-            {"source": "w7d1", "quantity": 1, "chance": 1.25e-05},
             {"source": "ChestA6", "quantity": 1, "chance": 0.005},
             {"source": "ChestB6", "quantity": 1, "chance": 0.005},
             {"source": "ChestC6", "quantity": 1, "chance": 0.005},
@@ -4798,6 +4902,7 @@
             {"source": "Boss6B", "quantity": 2, "chance": 0.005},
             {"source": "Boss6C", "quantity": 2, "chance": 0.005},
             {"source": "Bug13", "quantity": 1, "chance": 7.5e-05},
+            {"source": "Bug15", "quantity": 1, "chance": 7.5e-05},
             {"source": "Crystal5", "quantity": 1, "chance": 0.00085},
             {"source": "w6c1", "quantity": 1, "chance": 1.65e-05},
             {"source": "w6c2", "quantity": 1, "chance": 1.75e-05},
@@ -4813,7 +4918,8 @@
             {"source": "Boss6C", "quantity": 2, "chance": 0.005},
             {"source": "Crystal5", "quantity": 1, "chance": 0.00102},
             {"source": "Tree12", "quantity": 1, "chance": 5.34e-05},
-            {"source": "Tree13", "quantity": 1, "chance": 5.34e-05}
+            {"source": "Tree13", "quantity": 1, "chance": 5.34e-05},
+            {"source": "Tree14", "quantity": 1, "chance": 5.34e-05}
         ]
     },
     "EquipmentStatues27": {
@@ -4826,7 +4932,8 @@
             {"source": "Boss6A", "quantity": 2, "chance": 0.008},
             {"source": "Boss6B", "quantity": 2, "chance": 0.008},
             {"source": "Boss6C", "quantity": 2, "chance": 0.008},
-            {"source": "Bug13", "quantity": 1, "chance": 0.00012}
+            {"source": "Bug13", "quantity": 1, "chance": 0.00012},
+            {"source": "Bug15", "quantity": 1, "chance": 0.00012}
         ]
     },
     "FoodG11": {
@@ -4840,6 +4947,7 @@
             {"source": "Boss6B", "quantity": 2, "chance": 0.0063},
             {"source": "Boss6C", "quantity": 2, "chance": 0.0063},
             {"source": "Bug13", "quantity": 1, "chance": 9.45e-05},
+            {"source": "Bug15", "quantity": 1, "chance": 9.45e-05},
             {"source": "ChestA6", "quantity": 60, "chance": 0.25}
         ]
     },
@@ -4853,7 +4961,8 @@
             {"source": "Boss6A", "quantity": 2, "chance": 0.00017},
             {"source": "Boss6B", "quantity": 2, "chance": 0.00017},
             {"source": "Boss6C", "quantity": 2, "chance": 0.00017},
-            {"source": "Bug13", "quantity": 1, "chance": 2.55e-06}
+            {"source": "Bug13", "quantity": 1, "chance": 2.55e-06},
+            {"source": "Bug15", "quantity": 1, "chance": 2.55e-06}
         ]
     },
     "EquipmentStatues28": {
@@ -4891,7 +5000,8 @@
         "sources": [
             {"source": "Crystal5", "quantity": 3, "chance": 0.085},
             {"source": "Tree12", "quantity": 3, "chance": 0.00445},
-            {"source": "Tree13", "quantity": 3, "chance": 0.00445}
+            {"source": "Tree13", "quantity": 3, "chance": 0.00445},
+            {"source": "Tree14", "quantity": 3, "chance": 0.00445}
         ]
     },
     "StampC23": {
@@ -4902,7 +5012,6 @@
             {"source": "w6a3", "quantity": 1, "chance": 1.395e-08},
             {"source": "w6a4", "quantity": 1, "chance": 1.53e-08},
             {"source": "w6a5", "quantity": 1, "chance": 1.665e-08},
-            {"source": "w7d1", "quantity": 1, "chance": 1.125e-08},
             {"source": "ChestA6", "quantity": 1, "chance": 4.5e-06},
             {"source": "ChestB6", "quantity": 1, "chance": 4.5e-06},
             {"source": "ChestC6", "quantity": 1, "chance": 4.5e-06},
@@ -4916,6 +5025,7 @@
             {"source": "Boss6B", "quantity": 2, "chance": 4.5e-06},
             {"source": "Boss6C", "quantity": 2, "chance": 4.5e-06},
             {"source": "Bug13", "quantity": 1, "chance": 6.75e-08},
+            {"source": "Bug15", "quantity": 1, "chance": 6.75e-08},
             {"source": "Crystal5", "quantity": 1, "chance": 7.65e-07},
             {"source": "w6c1", "quantity": 1, "chance": 1.485e-08},
             {"source": "w6c2", "quantity": 1, "chance": 1.575e-08},
@@ -4931,7 +5041,8 @@
             {"source": "Boss6C", "quantity": 2, "chance": 4.5e-06},
             {"source": "Crystal5", "quantity": 1, "chance": 9.18e-07},
             {"source": "Tree12", "quantity": 1, "chance": 4.806e-08},
-            {"source": "Tree13", "quantity": 1, "chance": 4.806e-08}
+            {"source": "Tree13", "quantity": 1, "chance": 4.806e-08},
+            {"source": "Tree14", "quantity": 1, "chance": 4.806e-08}
         ]
     },
     "StoneZ4": {
@@ -4942,7 +5053,6 @@
             {"source": "w6a3", "quantity": 1, "chance": 2.325e-07},
             {"source": "w6a4", "quantity": 1, "chance": 2.55e-07},
             {"source": "w6a5", "quantity": 1, "chance": 2.775e-07},
-            {"source": "w7d1", "quantity": 1, "chance": 1.875e-07},
             {"source": "ChestA6", "quantity": 1, "chance": 7.5e-05},
             {"source": "ChestB6", "quantity": 1, "chance": 7.5e-05},
             {"source": "ChestC6", "quantity": 1, "chance": 7.5e-05},
@@ -4956,6 +5066,7 @@
             {"source": "Boss6B", "quantity": 2, "chance": 7.5e-05},
             {"source": "Boss6C", "quantity": 2, "chance": 7.5e-05},
             {"source": "Bug13", "quantity": 1, "chance": 1.125e-06},
+            {"source": "Bug15", "quantity": 1, "chance": 1.125e-06},
             {"source": "Crystal5", "quantity": 1, "chance": 1.275e-05},
             {"source": "w6c1", "quantity": 1, "chance": 2.475e-07},
             {"source": "w6c2", "quantity": 1, "chance": 2.625e-07},
@@ -4971,7 +5082,93 @@
             {"source": "Boss6C", "quantity": 2, "chance": 7.5e-05},
             {"source": "Crystal5", "quantity": 1, "chance": 1.53e-05},
             {"source": "Tree12", "quantity": 1, "chance": 8.01e-07},
-            {"source": "Tree13", "quantity": 1, "chance": 8.01e-07}
+            {"source": "Tree13", "quantity": 1, "chance": 8.01e-07},
+            {"source": "Tree14", "quantity": 1, "chance": 8.01e-07}
+        ]
+    },
+    "FoodG14": {
+        "sources": [
+            {"source": "Crystal6", "quantity": 1, "chance": 4e-06},
+            {"source": "w7a1", "quantity": 1, "chance": 4e-07},
+            {"source": "w7a2", "quantity": 1, "chance": 4e-07},
+            {"source": "w7a3", "quantity": 1, "chance": 4e-07},
+            {"source": "w7a4", "quantity": 1, "chance": 4e-07},
+            {"source": "w7a5", "quantity": 1, "chance": 4e-07},
+            {"source": "w7a7", "quantity": 1, "chance": 4e-07},
+            {"source": "w7a8", "quantity": 1, "chance": 4e-07},
+            {"source": "w7a9", "quantity": 1, "chance": 4e-07},
+            {"source": "w7a10", "quantity": 1, "chance": 4e-07},
+            {"source": "w7a11", "quantity": 1, "chance": 4e-07},
+            {"source": "w7a12", "quantity": 1, "chance": 4e-07},
+            {"source": "w7d1", "quantity": 1, "chance": 1e-06}
+        ]
+    },
+    "EquipmentStatues31": {
+        "sources": [
+            {"source": "Crystal6", "quantity": 1, "chance": 8e-06},
+            {"source": "w7a1", "quantity": 1, "chance": 8e-07},
+            {"source": "w7a2", "quantity": 1, "chance": 8e-07},
+            {"source": "w7a3", "quantity": 1, "chance": 8e-07},
+            {"source": "w7a4", "quantity": 1, "chance": 8e-07},
+            {"source": "w7a5", "quantity": 1, "chance": 8e-07},
+            {"source": "w7a7", "quantity": 1, "chance": 8e-07},
+            {"source": "w7a8", "quantity": 1, "chance": 8e-07},
+            {"source": "w7a9", "quantity": 1, "chance": 8e-07},
+            {"source": "w7a10", "quantity": 1, "chance": 8e-07},
+            {"source": "w7a11", "quantity": 1, "chance": 8e-07},
+            {"source": "w7a12", "quantity": 1, "chance": 8e-07},
+            {"source": "w7d1", "quantity": 1, "chance": 2e-06}
+        ]
+    },
+    "SuperDropTable7": {
+        "sources": [
+            {"source": "Crystal6", "quantity": 1, "chance": 5e-05},
+            {"source": "w7a1", "quantity": 1, "chance": 5e-06},
+            {"source": "w7a2", "quantity": 1, "chance": 5e-06},
+            {"source": "w7a3", "quantity": 1, "chance": 5e-06},
+            {"source": "w7a4", "quantity": 1, "chance": 5e-06},
+            {"source": "w7a5", "quantity": 1, "chance": 5e-06},
+            {"source": "w7a7", "quantity": 1, "chance": 5e-06},
+            {"source": "w7a8", "quantity": 1, "chance": 5e-06},
+            {"source": "w7a9", "quantity": 1, "chance": 5e-06},
+            {"source": "w7a10", "quantity": 1, "chance": 5e-06},
+            {"source": "w7a11", "quantity": 1, "chance": 5e-06},
+            {"source": "w7a12", "quantity": 1, "chance": 5e-06},
+            {"source": "w7d1", "quantity": 1, "chance": 1.25e-05}
+        ]
+    },
+    "EquipmentStatues32": {
+        "sources": [
+            {"source": "Crystal6", "quantity": 1, "chance": 5e-08},
+            {"source": "w7a1", "quantity": 1, "chance": 5e-09},
+            {"source": "w7a2", "quantity": 1, "chance": 5e-09},
+            {"source": "w7a3", "quantity": 1, "chance": 5e-09},
+            {"source": "w7a4", "quantity": 1, "chance": 5e-09},
+            {"source": "w7a5", "quantity": 1, "chance": 5e-09},
+            {"source": "w7a7", "quantity": 1, "chance": 5e-09},
+            {"source": "w7a8", "quantity": 1, "chance": 5e-09},
+            {"source": "w7a9", "quantity": 1, "chance": 5e-09},
+            {"source": "w7a10", "quantity": 1, "chance": 5e-09},
+            {"source": "w7a11", "quantity": 1, "chance": 5e-09},
+            {"source": "w7a12", "quantity": 1, "chance": 5e-09},
+            {"source": "w7d1", "quantity": 1, "chance": 1.25e-08}
+        ]
+    },
+    "Trophy25": {
+        "sources": [
+            {"source": "Crystal6", "quantity": 1, "chance": 1e-11},
+            {"source": "w7a1", "quantity": 1, "chance": 1e-12},
+            {"source": "w7a2", "quantity": 1, "chance": 1e-12},
+            {"source": "w7a3", "quantity": 1, "chance": 1e-12},
+            {"source": "w7a4", "quantity": 1, "chance": 1e-12},
+            {"source": "w7a5", "quantity": 1, "chance": 1e-12},
+            {"source": "w7a7", "quantity": 1, "chance": 1e-12},
+            {"source": "w7a8", "quantity": 1, "chance": 1e-12},
+            {"source": "w7a9", "quantity": 1, "chance": 1e-12},
+            {"source": "w7a10", "quantity": 1, "chance": 1e-12},
+            {"source": "w7a11", "quantity": 1, "chance": 1e-12},
+            {"source": "w7a12", "quantity": 1, "chance": 1e-12},
+            {"source": "w7d1", "quantity": 1, "chance": 2.5e-12}
         ]
     },
     "DungCredits1": {
@@ -5019,7 +5216,8 @@
             {"source": "Crystal2", "quantity": 1, "chance": 0.1},
             {"source": "Crystal3", "quantity": 1, "chance": 0.1},
             {"source": "Crystal4", "quantity": 1, "chance": 0.1},
-            {"source": "Crystal5", "quantity": 1, "chance": 0.1}
+            {"source": "Crystal5", "quantity": 1, "chance": 0.1},
+            {"source": "Crystal6", "quantity": 1, "chance": 0.1}
         ]
     },
     "DropTable1": {
@@ -5076,10 +5274,15 @@
             {"source": "Dreadlo", "quantity": 2, "chance": 0.013},
             {"source": "Marble", "quantity": 2, "chance": 0.014},
             {"source": "Godshard", "quantity": 2, "chance": 0.015},
+            {"source": "Prehistrium", "quantity": 2, "chance": 0.015},
             {"source": "Motherlode", "quantity": 2, "chance": 1e-08},
             {"source": "Bug14", "quantity": 2, "chance": 1e-08},
             {"source": "MotherlodeTREE", "quantity": 2, "chance": 1e-08},
-            {"source": "MotherlodeFISH", "quantity": 2, "chance": 1e-08}
+            {"source": "MotherlodeFISH", "quantity": 2, "chance": 1e-08},
+            {"source": "Spelunking0", "quantity": 1, "chance": 0},
+            {"source": "Spelunking1", "quantity": 1, "chance": 0},
+            {"source": "Spelunking2", "quantity": 1, "chance": 0},
+            {"source": "Spelunking3", "quantity": 1, "chance": 0}
         ]
     },
     "DropTable5": {
@@ -5338,7 +5541,6 @@
             {"source": "w6a3", "quantity": 1, "chance": 0.0031},
             {"source": "w6a4", "quantity": 1, "chance": 0.0034},
             {"source": "w6a5", "quantity": 1, "chance": 0.0037},
-            {"source": "w7d1", "quantity": 1, "chance": 0.0025},
             {"source": "ChestA6", "quantity": 1, "chance": 1},
             {"source": "ChestB6", "quantity": 1, "chance": 1},
             {"source": "ChestC6", "quantity": 1, "chance": 1},
@@ -5355,7 +5557,8 @@
             {"source": "Boss6A", "quantity": 2, "chance": 1},
             {"source": "Boss6B", "quantity": 2, "chance": 1},
             {"source": "Boss6C", "quantity": 2, "chance": 1},
-            {"source": "Bug13", "quantity": 1, "chance": 0.015}
+            {"source": "Bug13", "quantity": 1, "chance": 0.015},
+            {"source": "Bug15", "quantity": 1, "chance": 0.015}
         ]
     },
     "DropTable31": {
@@ -5383,7 +5586,28 @@
         "sources": [
             {"source": "Crystal5", "quantity": 1, "chance": 0.17},
             {"source": "Tree12", "quantity": 1, "chance": 0.0089},
-            {"source": "Tree13", "quantity": 1, "chance": 0.0089}
+            {"source": "Tree13", "quantity": 1, "chance": 0.0089},
+            {"source": "Tree14", "quantity": 1, "chance": 0.0089}
+        ]
+    },
+    "CardsJ99": {"sources": [
+        {"source": "Crystal6", "quantity": 1, "chance": 1e-06}
+    ]},
+    "DropTable34": {
+        "sources": [
+            {"source": "Crystal6", "quantity": 1, "chance": 0.01},
+            {"source": "w7a1", "quantity": 1, "chance": 0.001},
+            {"source": "w7a2", "quantity": 1, "chance": 0.001},
+            {"source": "w7a3", "quantity": 1, "chance": 0.001},
+            {"source": "w7a4", "quantity": 1, "chance": 0.001},
+            {"source": "w7a5", "quantity": 1, "chance": 0.001},
+            {"source": "w7a7", "quantity": 1, "chance": 0.001},
+            {"source": "w7a8", "quantity": 1, "chance": 0.001},
+            {"source": "w7a9", "quantity": 1, "chance": 0.001},
+            {"source": "w7a10", "quantity": 1, "chance": 0.001},
+            {"source": "w7a11", "quantity": 1, "chance": 0.001},
+            {"source": "w7a12", "quantity": 1, "chance": 0.001},
+            {"source": "w7d1", "quantity": 1, "chance": 0.0025}
         ]
     },
     "Grasslands1": {"sources": [
@@ -5439,7 +5663,8 @@
             {"source": "BugNest11", "quantity": 2, "chance": 0},
             {"source": "BugNest12", "quantity": 2, "chance": 0},
             {"source": "BugNest13", "quantity": 2, "chance": 0},
-            {"source": "BugNest14", "quantity": 2, "chance": 0}
+            {"source": "BugNest14", "quantity": 2, "chance": 0},
+            {"source": "BugNest15", "quantity": 2, "chance": 0}
         ]
     },
     "CardsA2": {"sources": [
@@ -5476,9 +5701,7 @@
     "Jungle1": {
         "sources": [
             {"source": "slimeG", "quantity": 1, "chance": 0.19},
-            {"source": "slimeB", "quantity": 25, "chance": 1},
-            {"source": "slimeB", "quantity": 25, "chance": 1},
-            {"source": "slimeB", "quantity": 25, "chance": 1}
+            {"source": "slimeB", "quantity": 1, "chance": 1}
         ]
     },
     "CardsA4": {"sources": [
@@ -5492,6 +5715,9 @@
     ]},
     "CardsA5": {"sources": [
         {"source": "snakeG", "quantity": 1, "chance": 0.0294}
+    ]},
+    "FoodHealth2": {"sources": [
+        {"source": "snakeG", "quantity": 3, "chance": 0.0005}
     ]},
     "Quest7": {"sources": [
         {"source": "snakeG", "quantity": 1, "chance": 0.2}
@@ -5619,11 +5845,15 @@
             {"source": "mimicA", "quantity": 16, "chance": 5e-06},
             {"source": "crabcake", "quantity": 41, "chance": 2.5e-05},
             {"source": "coconut", "quantity": 17, "chance": 2e-06},
+            {"source": "sandcastle", "quantity": 38, "chance": 0.0008},
+            {"source": "steak", "quantity": 79, "chance": 0.0001},
             {"source": "sandgiant", "quantity": 58, "chance": 1.7e-05},
             {"source": "babaHour", "quantity": 66, "chance": 0.06},
             {"source": "babaHour", "quantity": 75, "chance": 0.06},
             {"source": "babaMummy", "quantity": 65, "chance": 0.06},
-            {"source": "Boss2A", "quantity": 75, "chance": 0.04}
+            {"source": "Boss2A", "quantity": 75, "chance": 0.04},
+            {"source": "Gold", "quantity": 48, "chance": 0.005},
+            {"source": "Bug2", "quantity": 67, "chance": 0.005}
         ]
     },
     "EquipmentToolsHatchet2b": {"sources": [
@@ -5754,7 +5984,7 @@
         "sources": [
             {"source": "pincermin", "quantity": 53, "chance": 3e-06},
             {"source": "thermostat", "quantity": 54, "chance": 8e-07},
-            {"source": "mini4a", "quantity": 56, "chance": 0.008},
+            {"source": "mini4a", "quantity": 50, "chance": 0.008},
             {"source": "w4c2", "quantity": 55, "chance": 3e-07}
         ]
     },
@@ -6194,8 +6424,7 @@
             {"source": "w6c2", "quantity": 29, "chance": 2.5e-07},
             {"source": "w6c2", "quantity": 30, "chance": 2.5e-07},
             {"source": "w6c2", "quantity": 31, "chance": 2.5e-07},
-            {"source": "w6d2", "quantity": 24, "chance": 1e-07},
-            {"source": "w7d1", "quantity": 4, "chance": 2e-08}
+            {"source": "w6d2", "quantity": 24, "chance": 1e-07}
         ]
     },
     "EquipmentKeychain29": {"sources": [
@@ -6671,6 +6900,102 @@
     ]},
     "StampC25": {"sources": [
         {"source": "caveC", "quantity": 1, "chance": 5e-08}
+    ]},
+    "w7A1": {"sources": [
+        {"source": "w7a1", "quantity": 1, "chance": 0.001}
+    ]},
+    "CardsJ1": {"sources": [
+        {"source": "w7a1", "quantity": 1, "chance": 1e-05}
+    ]},
+    "SmithingRecipes7": {
+        "sources": [
+            {"source": "w7a1", "quantity": 0, "chance": 8e-07},
+            {"source": "w7a2", "quantity": 5, "chance": 5e-07},
+            {"source": "w7a3", "quantity": 6, "chance": 3e-07},
+            {"source": "w7a4", "quantity": 7, "chance": 1e-07},
+            {"source": "w7a5", "quantity": 2, "chance": 5e-08},
+            {"source": "w7a7", "quantity": 1, "chance": 4e-08},
+            {"source": "w7a11", "quantity": 3, "chance": 1e-08},
+            {"source": "w7a12", "quantity": 4, "chance": 5e-09}
+        ]
+    },
+    "w7A2": {"sources": [
+        {"source": "w7a2", "quantity": 1, "chance": 0.0009}
+    ]},
+    "CardsJ2": {"sources": [
+        {"source": "w7a2", "quantity": 1, "chance": 6e-06}
+    ]},
+    "w7A3": {"sources": [
+        {"source": "w7a3", "quantity": 1, "chance": 0.0008}
+    ]},
+    "CardsJ3": {"sources": [
+        {"source": "w7a3", "quantity": 1, "chance": 2.5e-06}
+    ]},
+    "w7A4": {"sources": [
+        {"source": "w7a4", "quantity": 1, "chance": 0.00075}
+    ]},
+    "CardsJ4": {"sources": [
+        {"source": "w7a4", "quantity": 1, "chance": 1.5e-06}
+    ]},
+    "Coral1": {"sources": [
+        {"source": "w7a4", "quantity": 1, "chance": 4e-05}
+    ]},
+    "w7A5": {"sources": [
+        {"source": "w7a5", "quantity": 1, "chance": 0.0007}
+    ]},
+    "CardsJ5": {"sources": [
+        {"source": "w7a5", "quantity": 1, "chance": 1e-06}
+    ]},
+    "w7A6": {"sources": [
+        {"source": "w7a6", "quantity": 1, "chance": 1e-06}
+    ]},
+    "CardsJ6": {"sources": [
+        {"source": "w7a6", "quantity": 1, "chance": 1e-05}
+    ]},
+    "ClamPearl0": {"sources": [
+        {"source": "w7a6", "quantity": 1, "chance": 0.001}
+    ]},
+    "w7A7": {"sources": [
+        {"source": "w7a7", "quantity": 1, "chance": 0.00055}
+    ]},
+    "CardsJ7": {"sources": [
+        {"source": "w7a7", "quantity": 1, "chance": 5e-07}
+    ]},
+    "Coral2": {"sources": [
+        {"source": "w7a7", "quantity": 1, "chance": 2e-06}
+    ]},
+    "w7A8": {"sources": [
+        {"source": "w7a8", "quantity": 1, "chance": 0.0005}
+    ]},
+    "CardsJ8": {"sources": [
+        {"source": "w7a8", "quantity": 1, "chance": 4e-07}
+    ]},
+    "w7A9": {"sources": [
+        {"source": "w7a9", "quantity": 1, "chance": 0.00045}
+    ]},
+    "CardsJ9": {"sources": [
+        {"source": "w7a9", "quantity": 1, "chance": 3e-07}
+    ]},
+    "w7A10": {"sources": [
+        {"source": "w7a10", "quantity": 1, "chance": 0.0004}
+    ]},
+    "CardsJ10": {"sources": [
+        {"source": "w7a10", "quantity": 1, "chance": 2e-07}
+    ]},
+    "w7A11": {"sources": [
+        {"source": "w7a11", "quantity": 1, "chance": 0.00033}
+    ]},
+    "CardsJ11": {"sources": [
+        {"source": "w7a11", "quantity": 1, "chance": 1.5e-07}
+    ]},
+    "Coral3": {"sources": [
+        {"source": "w7a11", "quantity": 1, "chance": 1e-07}
+    ]},
+    "w7A12": {"sources": [
+        {"source": "w7a12", "quantity": 1, "chance": 0.00025}
+    ]},
+    "CardsJ12": {"sources": [
+        {"source": "w7a12", "quantity": 1, "chance": 1e-07}
     ]},
     "OakTree": {"sources": [
         {"source": "ChestA1", "quantity": 40, "chance": 0.6}
@@ -7219,6 +7544,9 @@
             {"source": "MotherlodeFISH", "quantity": 1, "chance": 0}
         ]
     },
+    "CardsF44": {"sources": [
+        {"source": "Prehistrium", "quantity": 1, "chance": 1e-06}
+    ]},
     "CardsC4": {"sources": [
         {"source": "OakTree", "quantity": 1, "chance": 0.0004}
     ]},
@@ -7267,6 +7595,9 @@
     "CardsF35": {"sources": [
         {"source": "Tree13", "quantity": 1, "chance": 4e-08}
     ]},
+    "CardsF40": {"sources": [
+        {"source": "Tree14", "quantity": 1, "chance": 1e-08}
+    ]},
     "CardsC11": {"sources": [
         {"source": "Bug1", "quantity": 1, "chance": 0.00042}
     ]},
@@ -7287,13 +7618,19 @@
     "CardsD10": {
         "sources": [
             {"source": "Bug3", "quantity": 1, "chance": 0.00028},
-            {"source": "CritterCard10", "quantity": 1, "chance": 0.00014}
+            {"source": "CritterCard10", "quantity": 1, "chance": 0.00014},
+            {"source": "CritterCard11", "quantity": 1, "chance": 0.00014},
+            {"source": "SpelunkingCard0", "quantity": 1, "chance": 0},
+            {"source": "SpelunkingCard1", "quantity": 1, "chance": 0},
+            {"source": "SpelunkingCard2", "quantity": 1, "chance": 0},
+            {"source": "SpelunkingCard3", "quantity": 1, "chance": 0}
         ]
     },
     "CardsD9": {
         "sources": [
             {"source": "Bug4", "quantity": 1, "chance": 0.00025},
-            {"source": "SoulCard7", "quantity": 1, "chance": 0.00014}
+            {"source": "SoulCard7", "quantity": 1, "chance": 0.00014},
+            {"source": "SoulCard8", "quantity": 1, "chance": 0.00014}
         ]
     },
     "CardsF8": {"sources": [
@@ -7329,6 +7666,9 @@
     "CardsF38": {"sources": [
         {"source": "Bug13", "quantity": 1, "chance": 1e-06}
     ]},
+    "CardsF46": {"sources": [
+        {"source": "Bug15", "quantity": 1, "chance": 1e-06}
+    ]},
     "Soul7": {
         "sources": [
             {"source": "SoulCard7", "quantity": 1, "chance": 1},
@@ -7337,7 +7677,42 @@
             {"source": "SoulCard7", "quantity": 1, "chance": 1}
         ]
     },
+    "Soul8": {
+        "sources": [
+            {"source": "SoulCard8", "quantity": 1, "chance": 1},
+            {"source": "SoulCard8", "quantity": 1, "chance": 1},
+            {"source": "SoulCard8", "quantity": 1, "chance": 1},
+            {"source": "SoulCard8", "quantity": 1, "chance": 1}
+        ]
+    },
     "Critter10": {"sources": [
         {"source": "CritterCard10", "quantity": 1, "chance": 0.015}
+    ]},
+    "Critter11": {"sources": [
+        {"source": "CritterCard11", "quantity": 1, "chance": 0.015}
+    ]},
+    "CardsF41": {"sources": [
+        {"source": "Spelunking0", "quantity": 1, "chance": 0.0002}
+    ]},
+    "CardsF42": {"sources": [
+        {"source": "Spelunking1", "quantity": 1, "chance": 8e-05}
+    ]},
+    "CardsF43": {"sources": [
+        {"source": "Spelunking2", "quantity": 1, "chance": 3e-05}
+    ]},
+    "CardsF48": {"sources": [
+        {"source": "Spelunking3", "quantity": 1, "chance": 5e-06}
+    ]},
+    "Spelunking0": {"sources": [
+        {"source": "SpelunkingCard0", "quantity": 1, "chance": 1}
+    ]},
+    "Spelunking1": {"sources": [
+        {"source": "SpelunkingCard1", "quantity": 1, "chance": 1}
+    ]},
+    "Spelunking2": {"sources": [
+        {"source": "SpelunkingCard2", "quantity": 1, "chance": 1}
+    ]},
+    "Spelunking3": {"sources": [
+        {"source": "SpelunkingCard3", "quantity": 1, "chance": 1}
     ]}
 }

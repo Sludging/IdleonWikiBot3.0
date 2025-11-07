@@ -26,8 +26,8 @@
     {"bonusId": 25, "bonus": "+{ Equinox Max LV"},
     {"bonusId": 26, "bonus": "+{% Monument AFK"},
     {"bonusId": 27, "bonus": "<x Meal Bonuses"},
-    {"bonusId": 28, "bonus": "+{% for World 7"},
-    {"bonusId": 29, "bonus": "+{% for World 7"},
+    {"bonusId": 28, "bonus": "<x Spelunk POW"},
+    {"bonusId": 29, "bonus": "<x Amber Gain"},
     {"bonusId": 30, "bonus": "+{% for World 7"},
     {"bonusId": 31, "bonus": "+{% for World 7"},
     {"bonusId": 32, "bonus": "<x Winner Bonuses"}

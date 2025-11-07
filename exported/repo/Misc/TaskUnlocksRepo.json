@@ -415,5 +415,41 @@
                 {"item": "PremiumGem", "tabNo": 5, "recipNo": 0}
             ]
         ]
+    },
+    "4": {
+        "unlocks": [
+            [{"item": "Timecandy2", "tabNo": 3, "recipNo": 56}],
+            [{"item": "Timecandy3", "tabNo": 3, "recipNo": 57}],
+            [{"item": "Timecandy4", "tabNo": 3, "recipNo": 58}],
+            [{"item": "Timecandy5", "tabNo": 3, "recipNo": 59}],
+            [{"item": "PremiumGem", "tabNo": 10, "recipNo": 0}],
+            [{"item": "PremiumGem", "tabNo": 15, "recipNo": 0}],
+            [{"item": "PremiumGem", "tabNo": 20, "recipNo": 0}],
+            [{"item": "PremiumGem", "tabNo": 25, "recipNo": 0}]
+        ]
+    },
+    "5": {
+        "unlocks": [
+            [{"item": "EquipmentPendant35", "tabNo": 5, "recipNo": 23}],
+            [{"item": "PremiumGem", "tabNo": 5, "recipNo": 0}],
+            [{"item": "PremiumGem", "tabNo": 10, "recipNo": 0}],
+            [{"item": "PremiumGem", "tabNo": 15, "recipNo": 0}],
+            [{"item": "PremiumGem", "tabNo": 20, "recipNo": 0}],
+            [{"item": "PremiumGem", "tabNo": 25, "recipNo": 0}],
+            [{"item": "PremiumGem", "tabNo": 30, "recipNo": 0}],
+            [{"item": "PremiumGem", "tabNo": 35, "recipNo": 0}]
+        ]
+    },
+    "6": {
+        "unlocks": [
+            [{"item": "PremiumGem", "tabNo": 5, "recipNo": 0}],
+            [{"item": "PremiumGem", "tabNo": 5, "recipNo": 0}],
+            [{"item": "PremiumGem", "tabNo": 5, "recipNo": 0}],
+            [{"item": "PremiumGem", "tabNo": 5, "recipNo": 0}],
+            [{"item": "PremiumGem", "tabNo": 5, "recipNo": 0}],
+            [{"item": "PremiumGem", "tabNo": 5, "recipNo": 0}],
+            [{"item": "PremiumGem", "tabNo": 5, "recipNo": 0}],
+            [{"item": "PremiumGem", "tabNo": 5, "recipNo": 0}]
+        ]
     }
 }

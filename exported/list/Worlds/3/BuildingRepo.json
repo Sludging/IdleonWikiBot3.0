@@ -241,7 +241,7 @@
     },
     {
         "name": "Crescent Shrine",
-        "description": "This shrine increases Crystal and Giant Spawn chance, and Active EXP gain, of all characters on the same map. U know how to lvl it up lol. ",
+        "description": "This shrine increases Crystal and Giant Spawn chance, and Active EXP gain, of all characters on the same map. ",
         "bonus": " +{% Level Up Rate",
         "lvlUpReq": [{"item": "Refinery4", "quantity": 12}, {"item": "Void", "quantity": 200}],
         "maxLvl": 100,

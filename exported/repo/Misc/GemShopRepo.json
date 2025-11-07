@@ -5,9 +5,9 @@
         "mtxName": "2 Hour Lantern",
         "itemDisplayName": "Blinding Lantern",
         "desc": "Gives you a Lantern usable item, use it to instantly get 2 hours of ALL cavern progress!! (Except for skilling caverns, like Motherlode) This item restocks each day.",
-        "cost": 245,
+        "cost": 160,
         "no": 0,
-        "maxPurchases": 6,
+        "maxPurchases": 8,
         "qty": 1,
         "costIncrement": 0
     },
@@ -36,15 +36,15 @@
         "costIncrement": 15
     },
     "Blank": {
-        "section": "Time Candy",
+        "section": "Limited Specials",
         "name": "Blank",
-        "mtxName": "Cosmic Candy",
+        "mtxName": "Super Tier Ribbon",
         "itemDisplayName": "ERROR",
-        "desc": "Gives 1 Cosmic Time Candy, which can give up to 500 HOURS of AFK time! On average, it will give 24 hrs.",
-        "cost": 325,
-        "no": 54,
-        "maxPurchases": 100000,
-        "qty": 1,
+        "desc": "FREEEE!!! Gives you a random ribbon for your Ribbon Shelf, found at the Meals Menu in World 4! 40% chance for Tier 10, 30% for Tier 11, 20% for T12, 7% for T13, and 3% for Tier 15!",
+        "cost": 1,
+        "no": 94,
+        "maxPurchases": 2,
+        "qty": 0,
         "costIncrement": 0
     },
     "GemP42": {
@@ -71,8 +71,152 @@
         "qty": 0,
         "costIncrement": 0
     },
-    "EquipmentRingsChat1": {
+    "StonePremSTR": {
         "section": "Chat Rings",
+        "name": "StonePremSTR",
+        "mtxName": "Str Stone",
+        "itemDisplayName": "Premium STR Stone",
+        "desc": "Gives +5 STR to the applied item, and has a 100% Success Rate. Can ONLY be used on Premium Equipment bought in the Gem Shop!",
+        "cost": 200,
+        "no": 95,
+        "maxPurchases": 100000,
+        "qty": 1,
+        "costIncrement": 0
+    },
+    "StonePremAGI": {
+        "section": "Chat Rings",
+        "name": "StonePremAGI",
+        "mtxName": "Agi Stone",
+        "itemDisplayName": "Premium AGI Stone",
+        "desc": "Gives +5 AGI to the applied item, and has a 100% Success Rate. Can ONLY be used on Premium Equipment bought in the Gem Shop!",
+        "cost": 200,
+        "no": 96,
+        "maxPurchases": 100000,
+        "qty": 1,
+        "costIncrement": 0
+    },
+    "StonePremWIS": {
+        "section": "Chat Rings",
+        "name": "StonePremWIS",
+        "mtxName": "Wis Stone",
+        "itemDisplayName": "Premium WIS Stone",
+        "desc": "Gives +5 WIS to the applied item, and has a 100% Success Rate. Can ONLY be used on Premium Equipment bought in the Gem Shop!",
+        "cost": 200,
+        "no": 97,
+        "maxPurchases": 100000,
+        "qty": 1,
+        "costIncrement": 0
+    },
+    "StonePremLUK": {
+        "section": "Chat Rings",
+        "name": "StonePremLUK",
+        "mtxName": "Luk Stone",
+        "itemDisplayName": "Premium LUK Stone",
+        "desc": "Gives +5 LUK to the applied item, and has a 100% Success Rate. Can ONLY be used on Premium Equipment bought in the Gem Shop!",
+        "cost": 175,
+        "no": 98,
+        "maxPurchases": 100000,
+        "qty": 1,
+        "costIncrement": 0
+    },
+    "Ht": {
+        "section": "Chat Rings",
+        "name": "Ht",
+        "mtxName": "Hat Premiumifier",
+        "itemDisplayName": "Hat Premiumifier",
+        "desc": "Turns any normal hat into a premium hat! This is the same item buyable in the Cosmetics section, but I'm putting it here also since it works great with the Premium Hat Swapper Stone!",
+        "cost": 250,
+        "no": 100,
+        "maxPurchases": 100000,
+        "qty": 1,
+        "costIncrement": 0
+    },
+    "StonePremStatswap": {
+        "section": "Chat Rings",
+        "name": "StonePremStatswap",
+        "mtxName": "Premium Hat Swapper",
+        "itemDisplayName": "Premium Bonus Swapper",
+        "desc": "Put two hats on either side of this stone, and it'll swap the special bonuses between them! Works with Premium hats, as well as normal hats that you've Premium-ified!",
+        "cost": 25,
+        "no": 101,
+        "maxPurchases": 100000,
+        "qty": 1,
+        "costIncrement": 0
+    },
+    "StonePremRestore": {
+        "section": "Chat Rings",
+        "name": "StonePremRestore",
+        "mtxName": "Premium Stone Refund",
+        "itemDisplayName": "Premium Stone Refunder",
+        "desc": "Use this on a premium hat to refund all Premium Stones used on it, and reset the hat back to starting stats. No, this does not reset upgrades on regular items lol",
+        "cost": 30,
+        "no": 102,
+        "maxPurchases": 100000,
+        "qty": 1,
+        "costIncrement": 0
+    },
+    "Quest72": {
+        "section": "Blank",
+        "name": "Quest72",
+        "mtxName": "Bottled Wind",
+        "itemDisplayName": "Bottled Wind",
+        "desc": "Gives you a bottled wind item. Use it in your player inventory to instantly get 6 hours of sailing progress! This item restocks each day.",
+        "cost": 140,
+        "no": 128,
+        "maxPurchases": 4,
+        "qty": 1,
+        "costIncrement": 0
+    },
+    "Quest73": {
+        "section": "Blank",
+        "name": "Quest73",
+        "mtxName": "Gaming Fertilizer",
+        "itemDisplayName": "Gaming Fertilizer",
+        "desc": "Gives you a gaming fertilizer item. Use it in your player inventory to instantly get 8 hours of gaming progress! This item restocks each day.",
+        "cost": 110,
+        "no": 132,
+        "maxPurchases": 4,
+        "qty": 1,
+        "costIncrement": 0
+    },
+    "GemP30": {
+        "section": "Blank",
+        "name": "GemP30",
+        "mtxName": "Sand Of Time",
+        "itemDisplayName": "Sand of Time",
+        "desc": "Gives you a Sand of Time usable item. Use it in your player inventory to instantly get 6 hours of Sneaking progress for all Ninja Twins! This item restocks each day.",
+        "cost": 110,
+        "no": 138,
+        "maxPurchases": 6,
+        "qty": 1,
+        "costIncrement": 0
+    },
+    "Quest81": {
+        "section": "Blank",
+        "name": "Quest81",
+        "mtxName": "Compost Bag",
+        "itemDisplayName": "Compost Bag",
+        "desc": "Gives you a Compost Bag usable item. Use it in your player inventory to instantly get 4 hours of Farming growth for all your crops, instantly! This item restocks each day.",
+        "cost": 85,
+        "no": 150,
+        "maxPurchases": 9,
+        "qty": 1,
+        "costIncrement": 0
+    },
+    "Quest82": {
+        "section": "Blank",
+        "name": "Quest82",
+        "mtxName": "Summoner Stone",
+        "itemDisplayName": "Summoner Stone",
+        "desc": "Gives you a Summoner Stone usable item Use it in your player inventory to instantly get 4 hours of Summoning Essence, instantly! This item restocks each day.",
+        "cost": 95,
+        "no": 151,
+        "maxPurchases": 9,
+        "qty": 1,
+        "costIncrement": 0
+    },
+    "EquipmentRingsChat1": {
+        "section": "Blank",
         "name": "EquipmentRingsChat1",
         "mtxName": "Lovers Chat Ring",
         "itemDisplayName": "Love Ring",
@@ -84,7 +228,7 @@
         "costIncrement": 0
     },
     "EquipmentRingsChat2": {
-        "section": "Chat Rings",
+        "section": "Blank",
         "name": "EquipmentRingsChat2",
         "mtxName": "All Natural Chat Ring",
         "itemDisplayName": "Leafy Ring",
@@ -96,7 +240,7 @@
         "costIncrement": 0
     },
     "EquipmentRingsChat4": {
-        "section": "Chat Rings",
+        "section": "Blank",
         "name": "EquipmentRingsChat4",
         "mtxName": "Bandit Bob Chat Ring",
         "itemDisplayName": "Bob Ring",
@@ -108,7 +252,7 @@
         "costIncrement": 0
     },
     "EquipmentRingsChat5": {
-        "section": "Chat Rings",
+        "section": "Blank",
         "name": "EquipmentRingsChat5",
         "mtxName": "Bubble Pop Chat Ring",
         "itemDisplayName": "Bubble Ring",
@@ -120,7 +264,7 @@
         "costIncrement": 0
     },
     "EquipmentRingsChat6": {
-        "section": "Chat Rings",
+        "section": "Blank",
         "name": "EquipmentRingsChat6",
         "mtxName": "Eyes Of Cthulu Chat Ring",
         "itemDisplayName": "Cthulu's Ring",
@@ -132,19 +276,19 @@
         "costIncrement": 0
     },
     "EquipmentRingsChat3": {
-        "section": "Limited Specials",
+        "section": "Blank",
         "name": "EquipmentRingsChat3",
         "mtxName": "Money Talks Chat Ring",
         "itemDisplayName": "Wealth Ring",
         "desc": "",
         "cost": 2500,
-        "no": 92,
-        "maxPurchases": 1,
+        "no": 31,
+        "maxPurchases": 100000,
         "qty": 1,
         "costIncrement": 0
     },
     "EquipmentRingsChat9": {
-        "section": "Chat Rings",
+        "section": "Blank",
         "name": "EquipmentRingsChat9",
         "mtxName": "Honk Ring",
         "itemDisplayName": "HONK Ring",
@@ -219,7 +363,7 @@
         "section": "Inventory & Storage",
         "name": "InvStorage31",
         "mtxName": "Storage Chest Space",
-        "itemDisplayName": "Storage Chest 90",
+        "itemDisplayName": "Storage Chest 31",
         "desc": "Gives +9 extra Storage Chest Slots! Storage Chests are found in each town, and the items you put in are shared by all your players!",
         "cost": 175,
         "no": 56,
@@ -539,176 +683,56 @@
         "qty": 0,
         "costIncrement": 0
     },
-    "GemP47": {
+    "Quest108": {
         "section": "Limited Specials",
-        "name": "GemP47",
-        "mtxName": "Cosmic Balls",
-        "itemDisplayName": "",
-        "desc": "Gives you 5 Cosmic Balls, which is exactly enough to DOUBLE any of any Maxed Out bonuses you have in the Arcade's Gold Ball Shop!",
-        "cost": 790,
-        "no": 87,
-        "maxPurchases": 4,
-        "qty": 0,
-        "costIncrement": 0
-    },
-    "EquipmentPendant33": {
-        "section": "Limited Specials",
-        "name": "EquipmentPendant33",
-        "mtxName": "Emerald Bling Pendant",
-        "itemDisplayName": "Emerald Bling Pendant",
-        "desc": "Whoever wears this pendant will get 3.00X more money from monsters! Max out that Upgrade Vault in... well, not no time, but in slightly less time!",
-        "cost": 1150,
+        "name": "Quest108",
+        "mtxName": "Stamina Battery",
+        "itemDisplayName": "Stamina Battery",
+        "desc": "Woah it's not free this time! You may not believe me, but this refills the Spelunking Stamina for all your characters instantly.",
+        "cost": 125,
         "no": 88,
-        "maxPurchases": 2,
+        "maxPurchases": 15,
         "qty": 1,
         "costIncrement": 0
     },
-    "EquipmentHats112": {
+    "EquipmentNametag12": {
         "section": "Limited Specials",
-        "name": "EquipmentHats112",
-        "mtxName": "Deathbringer Hood",
-        "itemDisplayName": "Deathbringer Hood of Death",
-        "desc": "The hood of the reaper himself! Comes with a 1.25x Extra Bones multiplier, which will help upgrade the GRIMOIRE while playing on your Deathbringer!",
-        "cost": 890,
+        "name": "EquipmentNametag12",
+        "mtxName": "Megafeather Nametag",
+        "itemDisplayName": "Megafeather Nametag",
+        "desc": "Equip this nametag to make your nameplate under your character look cooler! Also comes with a nifty 1.20x Damage Multi!",
+        "cost": 490,
         "no": 89,
-        "maxPurchases": 1,
+        "maxPurchases": 5,
         "qty": 1,
         "costIncrement": 0
     },
-    "EquipmentHats118": {
+    "EquipmentNametag3": {
         "section": "Limited Specials",
-        "name": "EquipmentHats118",
-        "mtxName": "Windwalker Hood",
-        "itemDisplayName": "Windwalker Hood",
-        "desc": "Comes with a 1.25x Extra Dust multiplier, which will help upgrade The Compass while playing on your Windwalker!",
-        "cost": 890,
+        "name": "EquipmentNametag3",
+        "mtxName": "Balling Nametag",
+        "itemDisplayName": "Balling Nametag",
+        "desc": "Equip this nametag to make your nameplate under your character totally blinged out! Also comes with a decent +40% Drop Rate bonus!",
+        "cost": 680,
         "no": 90,
-        "maxPurchases": 1,
+        "maxPurchases": 5,
         "qty": 1,
         "costIncrement": 0
     },
-    "GemQ18": {
+    "Quest77": {
         "section": "Limited Specials",
-        "name": "GemQ18",
-        "mtxName": "5 Star Cardifier",
-        "itemDisplayName": "",
-        "desc": "FREE!! FREEEE!!! Use this on a 4 star card to upgrade it to 5 stars! AND ITS FREE!!!",
+        "name": "Quest77",
+        "mtxName": "Helpful Pocketwatch",
+        "itemDisplayName": "Gold Pocketwatch",
+        "desc": "It's Free. You know why this is here...",
         "cost": 1,
         "no": 91,
         "maxPurchases": 1,
-        "qty": 0,
-        "costIncrement": 0
-    },
-    "GemP18": {
-        "section": "Limited Specials",
-        "name": "GemP18",
-        "mtxName": "Dragonic Cauldron",
-        "itemDisplayName": "",
-        "desc": "Turns the 1st liquid cauldron DRAGONIC (2nd, 3rd, or 4th if you already own previous dragonic cauldrons). These give 2x Liquid Capacity, and 1.3x liquid generation.",
-        "cost": 969,
-        "no": 93,
-        "maxPurchases": 1,
-        "qty": 0,
-        "costIncrement": 0
-    },
-    "RibbonBig14": {
-        "section": "Limited Specials",
-        "name": "RibbonBig14",
-        "mtxName": "Super Tier Ribbon",
-        "itemDisplayName": "",
-        "desc": "FREEEE!!! Gives you a random ribbon for your Ribbon Shelf, found at the Meals Menu in World 4! 40% chance for Tier 10, 30% for Tier 11, 20% for T12, 7% for T13, and 3% for Tier 15!",
-        "cost": 1,
-        "no": 94,
-        "maxPurchases": 2,
-        "qty": 0,
-        "costIncrement": 0
-    },
-    "StonePremSTR": {
-        "section": "Premium Stones",
-        "name": "StonePremSTR",
-        "mtxName": "Str Stone",
-        "itemDisplayName": "Premium STR Stone",
-        "desc": "Gives +5 STR to the applied item, and has a 100% Success Rate. Can ONLY be used on Premium Equipment bought in the Gem Shop!",
-        "cost": 200,
-        "no": 95,
-        "maxPurchases": 100000,
-        "qty": 1,
-        "costIncrement": 0
-    },
-    "StonePremAGI": {
-        "section": "Premium Stones",
-        "name": "StonePremAGI",
-        "mtxName": "Agi Stone",
-        "itemDisplayName": "Premium AGI Stone",
-        "desc": "Gives +5 AGI to the applied item, and has a 100% Success Rate. Can ONLY be used on Premium Equipment bought in the Gem Shop!",
-        "cost": 200,
-        "no": 96,
-        "maxPurchases": 100000,
-        "qty": 1,
-        "costIncrement": 0
-    },
-    "StonePremWIS": {
-        "section": "Premium Stones",
-        "name": "StonePremWIS",
-        "mtxName": "Wis Stone",
-        "itemDisplayName": "Premium WIS Stone",
-        "desc": "Gives +5 WIS to the applied item, and has a 100% Success Rate. Can ONLY be used on Premium Equipment bought in the Gem Shop!",
-        "cost": 200,
-        "no": 97,
-        "maxPurchases": 100000,
-        "qty": 1,
-        "costIncrement": 0
-    },
-    "StonePremLUK": {
-        "section": "Premium Stones",
-        "name": "StonePremLUK",
-        "mtxName": "Luk Stone",
-        "itemDisplayName": "Premium LUK Stone",
-        "desc": "Gives +5 LUK to the applied item, and has a 100% Success Rate. Can ONLY be used on Premium Equipment bought in the Gem Shop!",
-        "cost": 175,
-        "no": 98,
-        "maxPurchases": 100000,
-        "qty": 1,
-        "costIncrement": 0
-    },
-    "Ht": {
-        "section": "Premium Stones",
-        "name": "Ht",
-        "mtxName": "Hat Premiumifier",
-        "itemDisplayName": "Hat Premiumifier",
-        "desc": "Turns any normal hat into a premium hat! This is the same item buyable in the Cosmetics section, but I'm putting it here also since it works great with the Premium Hat Swapper Stone!",
-        "cost": 250,
-        "no": 100,
-        "maxPurchases": 100000,
-        "qty": 1,
-        "costIncrement": 0
-    },
-    "StonePremStatswap": {
-        "section": "Premium Stones",
-        "name": "StonePremStatswap",
-        "mtxName": "Premium Hat Swapper",
-        "itemDisplayName": "Premium Bonus Swapper",
-        "desc": "Put two hats on either side of this stone, and it'll swap the special bonuses between them! Works with Premium hats, as well as normal hats that you've Premium-ified!",
-        "cost": 25,
-        "no": 101,
-        "maxPurchases": 100000,
-        "qty": 1,
-        "costIncrement": 0
-    },
-    "StonePremRestore": {
-        "section": "Premium Stones",
-        "name": "StonePremRestore",
-        "mtxName": "Premium Stone Refund",
-        "itemDisplayName": "Premium Stone Refunder",
-        "desc": "Use this on a premium hat to refund all Premium Stones used on it, and reset the hat back to starting stats. No, this does not reset upgrades on regular items lol",
-        "cost": 30,
-        "no": 102,
-        "maxPurchases": 100000,
         "qty": 1,
         "costIncrement": 0
     },
     "GemP1": {
-        "section": "World 1&2",
+        "section": "Premium Stones",
         "name": "GemP1",
         "mtxName": "Infinity Hammer",
         "itemDisplayName": "Infinite Forge",
@@ -720,7 +744,7 @@
         "costIncrement": 0
     },
     "GemP4": {
-        "section": "World 1&2",
+        "section": "Premium Stones",
         "name": "GemP4",
         "mtxName": "Brimstone Forge Slot",
         "itemDisplayName": "",
@@ -732,7 +756,7 @@
         "costIncrement": 15
     },
     "GemP6": {
-        "section": "World 1&2",
+        "section": "Premium Stones",
         "name": "GemP6",
         "mtxName": "Ivory Bubble Cauldrons",
         "itemDisplayName": "",
@@ -744,7 +768,7 @@
         "costIncrement": 50
     },
     "GemP7": {
-        "section": "World 1&2",
+        "section": "Premium Stones",
         "name": "GemP7",
         "mtxName": "Bleach Liquid Cauldrons",
         "itemDisplayName": "",
@@ -756,7 +780,7 @@
         "costIncrement": 0
     },
     "GemP5": {
-        "section": "World 1&2",
+        "section": "Premium Stones",
         "name": "GemP5",
         "mtxName": "Obol Storage Space",
         "itemDisplayName": "",
@@ -768,7 +792,7 @@
         "costIncrement": 50
     },
     "GemP9": {
-        "section": "World 1&2",
+        "section": "Premium Stones",
         "name": "GemP9",
         "mtxName": "Quality Obol Stack",
         "itemDisplayName": "Quality Obol Stack",
@@ -780,7 +804,7 @@
         "costIncrement": 0
     },
     "GemP10": {
-        "section": "World 1&2",
+        "section": "Premium Stones",
         "name": "GemP10",
         "mtxName": "Marvelous Obol Stack",
         "itemDisplayName": "Marvelous Obol Stack",
@@ -792,7 +816,7 @@
         "costIncrement": 0
     },
     "GemP17": {
-        "section": "World 1&2",
+        "section": "Premium Stones",
         "name": "GemP17",
         "mtxName": "Sigil Supercharge",
         "itemDisplayName": "",
@@ -804,11 +828,11 @@
         "costIncrement": 30
     },
     "GemQ1": {
-        "section": "World 3",
+        "section": "World 1&2",
         "name": "GemQ1",
         "mtxName": "Crystal 3d Printer",
         "itemDisplayName": "Infinite Forge",
-        "desc": "Unlocks the 2nd printer chamber to print stuff in, for ALL characters you ever make, forever. This lets you print two things at once, it can even be the same thing twice!",
+        "desc": "Unlocks the 2nd printer chamber to print stuff in! This lets you print two things at once, on all characters! It can even be the same thing twice!",
         "cost": 875,
         "no": 111,
         "maxPurchases": 1,
@@ -816,19 +840,19 @@
         "costIncrement": 0
     },
     "GemQ2": {
-        "section": "World 3",
+        "section": "World 1&2",
         "name": "GemQ2",
         "mtxName": "More Sample Spaces",
         "itemDisplayName": "Infinite Forge",
         "desc": "Unlocks +1 space to take samples in. These are the tiny blue squares. Buy this if you want to juggle between different samples without having to retake them all the time.",
-        "cost": 275,
+        "cost": 250,
         "no": 112,
         "maxPurchases": 6,
         "qty": 0,
-        "costIncrement": 100
+        "costIncrement": 40
     },
     "GemQ3": {
-        "section": "World 3",
+        "section": "World 1&2",
         "name": "GemQ3",
         "mtxName": "Burning Bad Books",
         "itemDisplayName": "Infinite Forge",
@@ -840,7 +864,7 @@
         "costIncrement": 75
     },
     "GemQ4": {
-        "section": "World 3",
+        "section": "World 1&2",
         "name": "GemQ4",
         "mtxName": "Prayer Slots",
         "itemDisplayName": "Infinite Forge",
@@ -852,7 +876,7 @@
         "costIncrement": 75
     },
     "GemQ5": {
-        "section": "World 3",
+        "section": "World 1&2",
         "name": "GemQ5",
         "mtxName": "Zen Cogs",
         "itemDisplayName": "Infinite Forge",
@@ -864,7 +888,7 @@
         "costIncrement": 125
     },
     "GemQ6": {
-        "section": "World 3",
+        "section": "World 1&2",
         "name": "GemQ6",
         "mtxName": "Cog Inventory Space",
         "itemDisplayName": "Infinite Forge",
@@ -876,7 +900,7 @@
         "costIncrement": 40
     },
     "GemQ7": {
-        "section": "World 3",
+        "section": "World 1&2",
         "name": "GemQ7",
         "mtxName": "Tower Building Slots",
         "itemDisplayName": "Infinite Forge",
@@ -888,7 +912,7 @@
         "costIncrement": 100
     },
     "GemQ8": {
-        "section": "World 3",
+        "section": "World 1&2",
         "name": "GemQ8",
         "mtxName": "Fluorescent Flaggies",
         "itemDisplayName": "Infinite Forge",
@@ -900,7 +924,7 @@
         "costIncrement": 75
     },
     "GemQ10": {
-        "section": "World 4",
+        "section": "World 3",
         "name": "GemQ10",
         "mtxName": "Royal Egg Cap",
         "itemDisplayName": "Infinite Forge",
@@ -912,7 +936,7 @@
         "costIncrement": 50
     },
     "GemQ11": {
-        "section": "World 4",
+        "section": "World 3",
         "name": "GemQ11",
         "mtxName": "Richelin Kitchen",
         "itemDisplayName": "Infinite Forge",
@@ -924,7 +948,7 @@
         "costIncrement": 40
     },
     "GemQ12": {
-        "section": "World 4",
+        "section": "World 3",
         "name": "GemQ12",
         "mtxName": "Console Chip",
         "itemDisplayName": "Infinite Forge",
@@ -936,7 +960,7 @@
         "costIncrement": 0
     },
     "GemQ13": {
-        "section": "World 4",
+        "section": "World 3",
         "name": "GemQ13",
         "mtxName": "Mainframe Jewel",
         "itemDisplayName": "Infinite Forge",
@@ -948,7 +972,7 @@
         "costIncrement": 0
     },
     "GemQ14": {
-        "section": "World 4",
+        "section": "World 3",
         "name": "GemQ14",
         "mtxName": "Souped Up Tube",
         "itemDisplayName": "Infinite Forge",
@@ -960,7 +984,7 @@
         "costIncrement": 65
     },
     "GemQ15": {
-        "section": "World 4",
+        "section": "World 3",
         "name": "GemQ15",
         "mtxName": "Pet Storage",
         "itemDisplayName": "Infinite Forge",
@@ -972,7 +996,7 @@
         "costIncrement": 55
     },
     "GemQ16": {
-        "section": "World 4",
+        "section": "World 3",
         "name": "GemQ16",
         "mtxName": "Fenceyard Space",
         "itemDisplayName": "Infinite Forge",
@@ -983,20 +1007,20 @@
         "qty": 0,
         "costIncrement": 45
     },
-    "PetEgg": {
-        "section": "World 4",
-        "name": "PetEgg",
-        "mtxName": "Carton Of Eggs",
-        "itemDisplayName": "Pet Egg",
-        "desc": "Each purchase gives anywhere from 3 to 12 eggs in your item inventory! Use these eggs in your inventory to refill your nest with eggs! This item restocks each day.",
-        "cost": 270,
+    "GemP56": {
+        "section": "World 3",
+        "name": "GemP56",
+        "mtxName": "New Meal",
+        "itemDisplayName": "",
+        "desc": "Each purchase unlocks a new meal type to cook! You're meant to unlock all the meals for free with spices, but you can buy them here instead if you're having trouble...",
+        "cost": 250,
         "no": 126,
-        "maxPurchases": 4,
-        "qty": 1,
+        "maxPurchases": 100000,
+        "qty": 0,
         "costIncrement": 0
     },
     "GemP20": {
-        "section": "World 5",
+        "section": "World 4",
         "name": "GemP20",
         "mtxName": "Miracle Chest",
         "itemDisplayName": "Infinite Forge",
@@ -1007,44 +1031,44 @@
         "qty": 0,
         "costIncrement": 0
     },
-    "Quest72": {
-        "section": "World 5",
-        "name": "Quest72",
-        "mtxName": "Bottled Wind",
-        "itemDisplayName": "Bottled Wind",
-        "desc": "Gives you a bottled wind item. Use it in your player inventory to instantly get 6 hours of sailing progress! This item restocks each day.",
-        "cost": 190,
-        "no": 128,
-        "maxPurchases": 4,
-        "qty": 1,
-        "costIncrement": 0
+    "GemP53": {
+        "section": "World 4",
+        "name": "GemP53",
+        "mtxName": "Davey Jones Training",
+        "itemDisplayName": "",
+        "desc": "Each purchase boosts the following Sailing stats by 1.50x:Boat Travel Speed, Loot Value from chests, Artifact Find Chance, and Captain EXP gain per trip. Also reduces minimum travel time by 4 minutes.",
+        "cost": 450,
+        "no": 8,
+        "maxPurchases": 8,
+        "qty": 0,
+        "costIncrement": 10
     },
     "GemP21": {
-        "section": "World 5",
+        "section": "World 4",
         "name": "GemP21",
         "mtxName": "Chest Sluggo",
         "itemDisplayName": "Infinite Forge",
         "desc": "Increases the maximum number of chests your sailing Loot Pile can hold by +1! Also adds a Chest Sluggo to roam around your dock! (Note:Not every purchase will visually add another slug, it'd be too chaotic!)",
-        "cost": 250,
+        "cost": 320,
         "no": 129,
         "maxPurchases": 12,
         "qty": 0,
-        "costIncrement": 40
+        "costIncrement": 30
     },
     "GemP26": {
-        "section": "World 5",
+        "section": "World 4",
         "name": "GemP26",
         "mtxName": "Ancient Artifact",
         "itemDisplayName": "",
         "desc": "Upgrades a random artifact you own to its ANCIENT form! 100% Success chance, no foolin! This item restocks every week. See Guild GP claim for when that happens. You must own a normal artifact to buy this.",
-        "cost": 790,
+        "cost": 690,
         "no": 134,
         "maxPurchases": 2,
         "qty": 0,
         "costIncrement": 0
     },
     "GemP22": {
-        "section": "World 5",
+        "section": "World 4",
         "name": "GemP22",
         "mtxName": "Divinity Sparkie",
         "itemDisplayName": "Infinite Forge",
@@ -1056,43 +1080,31 @@
         "costIncrement": 50
     },
     "GemP23": {
-        "section": "World 5",
+        "section": "World 4",
         "name": "GemP23",
         "mtxName": "Golden Sprinkler",
         "itemDisplayName": "Infinite Forge",
         "desc": "The Sprinkler in the garden, which instantly regrows sprouts, now has a 30% chance to not use up its charge! Each additional purchase boosts this chance by 1.5x! Instantly unlocks Sprinkler if not unlocked yet!",
-        "cost": 400,
+        "cost": 425,
         "no": 131,
         "maxPurchases": 4,
         "qty": 0,
-        "costIncrement": 75
-    },
-    "Quest73": {
-        "section": "World 5",
-        "name": "Quest73",
-        "mtxName": "Gaming Fertilizer",
-        "itemDisplayName": "Gaming Fertilizer",
-        "desc": "Gives you a gaming fertilizer item. Use it in your player inventory to instantly get 8 hours of gaming progress! This item restocks each day.",
-        "cost": 230,
-        "no": 132,
-        "maxPurchases": 4,
-        "qty": 1,
-        "costIncrement": 0
+        "costIncrement": 25
     },
     "GemP24": {
-        "section": "World 5",
+        "section": "World 4",
         "name": "GemP24",
         "mtxName": "Lava Sprouts",
         "itemDisplayName": "Infinite Forge",
         "desc": "Increases the maximum number of sprouts your garden can hold by +1! Also adds a small lava sprout to your underground gamer lair, which complements the dankness of the ground walls!",
-        "cost": 310,
+        "cost": 360,
         "no": 133,
         "maxPurchases": 6,
         "qty": 0,
-        "costIncrement": 70
+        "costIncrement": 40
     },
     "GemP27": {
-        "section": "World 6",
+        "section": "World 5",
         "name": "GemP27",
         "mtxName": "Plot Of Land",
         "itemDisplayName": "",
@@ -1104,43 +1116,43 @@
         "costIncrement": 40
     },
     "GemP28": {
-        "section": "World 6",
+        "section": "World 5",
         "name": "GemP28",
         "mtxName": "Pristine Charm",
         "itemDisplayName": "",
         "desc": "Gives you a random Pristine Charm! Find it in your Sneaking Inventory. You cannot get duplicates from this. This item restocks each day.",
-        "cost": 920,
+        "cost": 790,
         "no": 136,
         "maxPurchases": 2,
         "qty": 0,
         "costIncrement": 0
     },
     "GemP29": {
-        "section": "World 6",
+        "section": "World 5",
         "name": "GemP29",
         "mtxName": "Shroom Familiar",
         "itemDisplayName": "",
         "desc": "Adds a shroom familiar to your Summoning Sanctuary, which gives a permanent 1.40x bonus to all Essence gain.",
-        "cost": 750,
+        "cost": 650,
         "no": 137,
         "maxPurchases": 6,
         "qty": 0,
-        "costIncrement": 40
+        "costIncrement": 10
     },
-    "GemP30": {
-        "section": "World 6",
-        "name": "GemP30",
-        "mtxName": "Sand Of Time",
-        "itemDisplayName": "Sand of Time",
-        "desc": "Gives you a Sand of Time usable item. Use it in your player inventory to instantly get 6 hours of Sneaking progress for all Ninja Twins! This item restocks each day.",
-        "cost": 190,
-        "no": 138,
-        "maxPurchases": 6,
-        "qty": 1,
-        "costIncrement": 0
+    "GemP54": {
+        "section": "World 5",
+        "name": "GemP54",
+        "mtxName": "Novelty Jade Coins",
+        "itemDisplayName": "",
+        "desc": "Each purchase boosts your jade coin gain by 2x! So two purchases will gives 4x, then 8x, then 16x, then 32x, then a super 64x!",
+        "cost": 460,
+        "no": 10,
+        "maxPurchases": 7,
+        "qty": 0,
+        "costIncrement": 20
     },
     "GemP31": {
-        "section": "World 6",
+        "section": "World 5",
         "name": "GemP31",
         "mtxName": "Instagrow Generator",
         "itemDisplayName": "",
@@ -1152,39 +1164,87 @@
         "costIncrement": 50
     },
     "GemP32": {
-        "section": "World 6",
+        "section": "World 5",
         "name": "GemP32",
         "mtxName": "Life Refill",
         "itemDisplayName": "",
         "desc": "Refills 1 life in Summoning, so you can try again now without waiting for the free life refill you get every day. This restocks every day, so you can buy 12 every day.",
-        "cost": 75,
+        "cost": 60,
         "no": 140,
-        "maxPurchases": 12,
+        "maxPurchases": 15,
         "qty": 0,
-        "costIncrement": 12
+        "costIncrement": 9
     },
-    "Quest81": {
-        "section": "World 6",
-        "name": "Quest81",
-        "mtxName": "Compost Bag",
-        "itemDisplayName": "Compost Bag",
-        "desc": "Gives you a Compost Bag usable item. Use it in your player inventory to instantly get 4 hours of Farming growth for all your crops, instantly! This item restocks each day.",
-        "cost": 155,
-        "no": 150,
-        "maxPurchases": 9,
-        "qty": 1,
-        "costIncrement": 0
+    "GemP55": {
+        "section": "World 5",
+        "name": "GemP55",
+        "mtxName": "King Of All Winners",
+        "itemDisplayName": "",
+        "desc": "Boosts all of your Winner Bonuses from summoning by 1.10x! So if you bought this say, three times, all your Winner Bonuses would be 1.30x bigger!",
+        "cost": 590,
+        "no": 11,
+        "maxPurchases": 5,
+        "qty": 0,
+        "costIncrement": 20
     },
-    "Quest82": {
+    "GemP48": {
         "section": "World 6",
-        "name": "Quest82",
-        "mtxName": "Summoner Stone",
-        "itemDisplayName": "Summoner Stone",
-        "desc": "Gives you a Summoner Stone usable item Use it in your player inventory to instantly get 4 hours of Summoning Essence, instantly! This item restocks each day.",
-        "cost": 155,
-        "no": 151,
-        "maxPurchases": 9,
-        "qty": 1,
+        "name": "GemP48",
+        "mtxName": "Gallery Showcases",
+        "itemDisplayName": "",
+        "desc": "Gives you +1 gallery slot, wherein Trophies give 100% of their bonuses instead of 30%! Every 2nd purchase will also BOOST a slot to give 150%, and every 3rd purchase will SUPERBOOST a slot to give 200% bonus!",
+        "cost": 690,
+        "no": 40,
+        "maxPurchases": 6,
+        "qty": 0,
+        "costIncrement": 20
+    },
+    "GemP49": {
+        "section": "World 6",
+        "name": "GemP49",
+        "mtxName": "More Coral",
+        "itemDisplayName": "",
+        "desc": "Boosts the amount of coral you get for the Coral Reef every day by 1.20x! Buying all ten would thus give a total bonus of 3.00x coral!",
+        "cost": 330,
+        "no": 41,
+        "maxPurchases": 10,
+        "qty": 0,
+        "costIncrement": 15
+    },
+    "GemP50": {
+        "section": "World 6",
+        "name": "GemP50",
+        "mtxName": "Legend Talent Pts",
+        "itemDisplayName": "",
+        "desc": "Gives you +1 point to spend on Whallamus' Legend Talents! These are super powerful and awesome, so I don't have that many in stock!",
+        "cost": 750,
+        "no": 42,
+        "maxPurchases": 5,
+        "qty": 0,
+        "costIncrement": 40
+    },
+    "GemP51": {
+        "section": "World 6",
+        "name": "GemP51",
+        "mtxName": "Super Auto Mode",
+        "itemDisplayName": "",
+        "desc": "Each purchase lets you click the Auto button in Spelunking tunnels 1 additional time to make it go 2x faster! Each purchase also gives 2x Spelunking POW. NOTE:You unlock a slow version of Auto Mode for free later.",
+        "cost": 580,
+        "no": 43,
+        "maxPurchases": 4,
+        "qty": 0,
+        "costIncrement": 40
+    },
+    "GemP52": {
+        "section": "World 6",
+        "name": "GemP52",
+        "mtxName": "Bling Bags",
+        "itemDisplayName": "",
+        "desc": "Spelunking objects can now drop Bling Bags, with each one boosting Amber Gain by 1.10x for the entire delve! Each purchase here boosts the chance they drop by 1.50x!",
+        "cost": 490,
+        "no": 44,
+        "maxPurchases": 8,
+        "qty": 0,
         "costIncrement": 0
     }
 }

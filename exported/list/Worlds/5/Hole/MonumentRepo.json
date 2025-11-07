@@ -17,16 +17,16 @@
             {"index": 7, "description": "+1 additional Sword", "hours_required": 24000}
         ],
         "bonuses": [
-            {"index": 0, "description": "+{% Mining Efficiency"},
-            {"index": 1, "description": "}x Bucket Fill Rate"},
-            {"index": 2, "description": "}x Cooking Speed"},
-            {"index": 3, "description": "+{% EXP Gain for Villagers"},
-            {"index": 4, "description": "}x Gaming Bits Gain"},
-            {"index": 5, "description": "+{% Chance for Bravery Opals"},
-            {"index": 6, "description": "+{% DMG for all Characters"},
-            {"index": 7, "description": "}x Bell Ring & Ping Rate"},
-            {"index": 8, "description": "+{% All Monument AFK Gain"},
-            {"index": 9, "description": "}x Bravery Bonuses Multi"}
+            {"index": 0, "description": "+{% Mining Efficiency", "multiplier": 2},
+            {"index": 1, "description": "}x Bucket Fill Rate", "multiplier": 4},
+            {"index": 2, "description": "}x Cooking Speed", "multiplier": 10},
+            {"index": 3, "description": "+{% EXP Gain for Villagers", "multiplier": 1},
+            {"index": 4, "description": "}x Gaming Bits Gain", "multiplier": 8},
+            {"index": 5, "description": "+{% Chance for Bravery Opals", "multiplier": 2},
+            {"index": 6, "description": "+{% DMG for all Characters", "multiplier": 1},
+            {"index": 7, "description": "}x Bell Ring & Ping Rate", "multiplier": 1},
+            {"index": 8, "description": "+{% All Monument AFK Gain", "multiplier": 50},
+            {"index": 9, "description": "}x Bravery Bonuses Multi", "multiplier": 250}
         ]
     },
     {
@@ -47,16 +47,16 @@
             }
         ],
         "bonuses": [
-            {"index": 0, "description": "+{% Catching Efficiency"},
-            {"index": 1, "description": "}x Harp Note Gain"},
-            {"index": 2, "description": "}x Artifact Find Chance"},
-            {"index": 3, "description": "+{% EXP Gain for Villagers"},
-            {"index": 4, "description": "}x All Summoning Essence Gain"},
-            {"index": 5, "description": "+{% Chance for Justice Opals"},
-            {"index": 6, "description": "+{% Class EXP Gain"},
-            {"index": 7, "description": "+{% more daily Lamp Wishes"},
-            {"index": 8, "description": "+{% All Monument AFK Gain"},
-            {"index": 9, "description": "}x Justice Bonuses Multi"}
+            {"index": 0, "description": "+{% Catching Efficiency", "multiplier": 2},
+            {"index": 1, "description": "}x Harp Note Gain", "multiplier": 4},
+            {"index": 2, "description": "}x Artifact Find Chance", "multiplier": 500},
+            {"index": 3, "description": "+{% EXP Gain for Villagers", "multiplier": 1},
+            {"index": 4, "description": "}x All Summoning Essence Gain", "multiplier": 5},
+            {"index": 5, "description": "+{% Chance for Justice Opals", "multiplier": 2},
+            {"index": 6, "description": "+{% Class EXP Gain", "multiplier": 1},
+            {"index": 7, "description": "+{% more daily Lamp Wishes", "multiplier": 300},
+            {"index": 8, "description": "+{% All Monument AFK Gain", "multiplier": 50},
+            {"index": 9, "description": "}x Justice Bonuses Multi", "multiplier": 250}
         ]
     },
     {
@@ -89,16 +89,16 @@
             {"index": 7, "description": "+5 additional Insta Matches", "hours_required": 24000}
         ],
         "bonuses": [
-            {"index": 0, "description": "+{% Choppin Efficiency"},
-            {"index": 1, "description": "}x Jar Rupie Value"},
-            {"index": 2, "description": "}x Jade Coin Gain"},
-            {"index": 3, "description": "+{% EXP Gain for Villagers"},
-            {"index": 4, "description": "}x Farming Crop Evo Chance"},
-            {"index": 5, "description": "+{% Chance for Wisdom Opals"},
-            {"index": 6, "description": "+{% Player Drop Rate"},
-            {"index": 7, "description": "+{% Gambit Points"},
-            {"index": 8, "description": "+{% All Monument AFK Gain"},
-            {"index": 9, "description": "}x Wisdom Bonuses Multi"}
+            {"index": 0, "description": "+{% Choppin Efficiency", "multiplier": 2},
+            {"index": 1, "description": "}x Jar Rupie Value", "multiplier": 3},
+            {"index": 2, "description": "}x Jade Coin Gain", "multiplier": 2},
+            {"index": 3, "description": "+{% EXP Gain for Villagers", "multiplier": 1},
+            {"index": 4, "description": "}x Farming Crop Evo Chance", "multiplier": 4},
+            {"index": 5, "description": "+{% Chance for Wisdom Opals", "multiplier": 2},
+            {"index": 6, "description": "+{% Player Drop Rate", "multiplier": 100},
+            {"index": 7, "description": "+{% Gambit Points", "multiplier": 35},
+            {"index": 8, "description": "+{% All Monument AFK Gain", "multiplier": 50},
+            {"index": 9, "description": "}x Wisdom Bonuses Multi", "multiplier": 250}
         ]
     }
 ]

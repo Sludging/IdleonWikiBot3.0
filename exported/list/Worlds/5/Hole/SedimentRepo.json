@@ -1,12 +1,12 @@
 [
-    {"index": 0, "name": "Gravel", "unlockRequirement": "0"},
-    {"index": 1, "name": "Goldust", "unlockRequirement": "50"},
-    {"index": 2, "name": "Redstone", "unlockRequirement": "500"},
-    {"index": 3, "name": "Mythril", "unlockRequirement": "9000"},
-    {"index": 4, "name": "Cobaltine", "unlockRequirement": "125000"},
-    {"index": 5, "name": "Bruntine", "unlockRequirement": "1500000"},
-    {"index": 6, "name": "Freezium", "unlockRequirement": "20000000"},
-    {"index": 7, "name": "Sweetium", "unlockRequirement": "100000000"},
-    {"index": 8, "name": "Rad Coral", "unlockRequirement": "500000000"},
-    {"index": 9, "name": "Hyper Coral", "unlockRequirement": "2000000000.0"}
+    {"index": 0, "name": "Gravel", "unlockRequirement": 0},
+    {"index": 1, "name": "Goldust", "unlockRequirement": 50},
+    {"index": 2, "name": "Redstone", "unlockRequirement": 500},
+    {"index": 3, "name": "Mythril", "unlockRequirement": 9000},
+    {"index": 4, "name": "Cobaltine", "unlockRequirement": 125000},
+    {"index": 5, "name": "Bruntine", "unlockRequirement": 1500000},
+    {"index": 6, "name": "Freezium", "unlockRequirement": 20000000},
+    {"index": 7, "name": "Sweetium", "unlockRequirement": 100000000},
+    {"index": 8, "name": "Rad Coral", "unlockRequirement": 500000000},
+    {"index": 9, "name": "Hyper Coral", "unlockRequirement": 2e+09}
 ]

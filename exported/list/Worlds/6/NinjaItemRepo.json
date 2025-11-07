@@ -582,6 +582,36 @@
         "x3": 30
     },
     {
+        "internalId": "NjSym0",
+        "itemTypeId": 5,
+        "itemType": "Symbol",
+        "itemId": 4,
+        "name": "Lesser Symbol",
+        "x1": 1,
+        "desc": "Hold down for a { chance to boost this slot to Lv }. Charms here will then give a $x higher bonus!",
+        "bonus": "1"
+    },
+    {
+        "internalId": "NjSym1",
+        "itemTypeId": 5,
+        "itemType": "Symbol",
+        "itemId": 4,
+        "name": "Modest Symbol",
+        "x1": 1,
+        "desc": "Hold down for a { chance to boost this slot to Lv }. Charms here will then give a $x higher bonus!",
+        "bonus": "5"
+    },
+    {
+        "internalId": "NjSym2",
+        "itemTypeId": 5,
+        "itemType": "Symbol",
+        "itemId": 4,
+        "name": "Grand Symbol",
+        "x1": 1,
+        "desc": "Hold down for a { chance to boost this slot to Lv }. Charms here will then give a $x higher bonus!",
+        "bonus": "20"
+    },
+    {
         "internalId": "NjTrP0",
         "itemTypeId": 3,
         "itemType": "PristineCharm",

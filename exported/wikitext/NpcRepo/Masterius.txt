@@ -2,9 +2,9 @@
 |world=Unknown
 |location=Unknown
 |npcType=Unknown
-|birthweight=8.6
-|starsign=Gemini
-|mmm=Lawicki
+|birthweight=1.35
+|starsign=Leo
+|mmm=Ingram
 |notes= 
 }}
 {{Quest/head}}

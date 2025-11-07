@@ -348,6 +348,40 @@
         "navigation": null,
         "bossData": null
     },
+    "SoulCard8": {
+        "details": {
+            "Name": "Deepsea Soul",
+            "AFKtype": "Fighting",
+            "MonsterFace": 4,
+            "MonsterOffsetX": 42,
+            "MonsterOffsetY": 28,
+            "HeightOfMonster": 85,
+            "MonsterMoving": 1,
+            "MovingFrame": 4,
+            "RespawnTime": 86400,
+            "DeathFrame": 13,
+            "MonsterHPTotal": 420,
+            "Type": "monsterType",
+            "SpecialType": "a",
+            "ExpGiven": 12000,
+            "ExpType": 0,
+            "Defence": 600,
+            "MoveSPEED": 3,
+            "Damages": [1000, 1],
+            "DefFor0": 1223.26
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsD9", "quantity": 1, "chance": 0.00014, "questLink": "N/A"},
+            {"item": "Soul8", "quantity": 1, "chance": 1, "questLink": "N/A"},
+            {"item": "Soul8", "quantity": 1, "chance": 1, "questLink": "N/A"},
+            {"item": "Soul8", "quantity": 1, "chance": 1, "questLink": "N/A"},
+            {"item": "Soul8", "quantity": 1, "chance": 1, "questLink": "N/A"}
+        ],
+        "mapData": null,
+        "navigation": null,
+        "bossData": null
+    },
     "CritterCard1": {
         "details": {
             "Name": "Froge",
@@ -653,6 +687,37 @@
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
             {"item": "CardsD10", "quantity": 1, "chance": 0.00014, "questLink": "N/A"},
             {"item": "Critter10", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
+        ],
+        "mapData": null,
+        "navigation": null,
+        "bossData": null
+    },
+    "CritterCard11": {
+        "details": {
+            "Name": "Tuttle",
+            "AFKtype": "Fighting",
+            "MonsterFace": 4,
+            "MonsterOffsetX": 42,
+            "MonsterOffsetY": 28,
+            "HeightOfMonster": 85,
+            "MonsterMoving": 1,
+            "MovingFrame": 4,
+            "RespawnTime": 86400,
+            "DeathFrame": 13,
+            "MonsterHPTotal": 420,
+            "Type": "monsterType",
+            "SpecialType": "a",
+            "ExpGiven": 12000,
+            "ExpType": 0,
+            "Defence": 600,
+            "MoveSPEED": 3,
+            "Damages": [1000, 1],
+            "DefFor0": 1223.26
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsD10", "quantity": 1, "chance": 0.00014, "questLink": "N/A"},
+            {"item": "Critter11", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
         ],
         "mapData": null,
         "navigation": null,
@@ -1951,6 +2016,44 @@
         },
         "bossData": null
     },
+    "Crystal6": {
+        "details": {
+            "Name": "Crystal Cuttlefish",
+            "AFKtype": "Fighting",
+            "MonsterFace": 47,
+            "MonsterOffsetX": 34,
+            "MonsterOffsetY": 49,
+            "HeightOfMonster": 65,
+            "MonsterMoving": 1,
+            "MovingFrame": 11,
+            "RespawnTime": 252000,
+            "DeathFrame": 21,
+            "MonsterHPTotal": 1000000,
+            "Type": "monsterType",
+            "SpecialType": "",
+            "ExpGiven": 210,
+            "ExpType": 0,
+            "Defence": 180,
+            "MoveSPEED": 5,
+            "Damages": [1, 1],
+            "DefFor0": 0
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 3, "chance": 0.5, "questLink": "N/A"},
+            {"item": "CardsJ99", "quantity": 1, "chance": 1e-06, "questLink": "N/A"},
+            {"item": "StampC3", "quantity": 1, "chance": 0.1, "questLink": "Papua_Piggea2"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.01, "questLink": "N/A"}
+        ],
+        "mapData": null,
+        "navigation": {
+            "prev": "w7a12",
+            "next": "Blank",
+            "hasCrystal": false,
+            "crystalName": "Crystal6",
+            "hasCard": true
+        },
+        "bossData": null
+    },
     "mushG": {
         "details": {
             "Name": "Green Mushroom",
@@ -1961,9 +2064,9 @@
             "HeightOfMonster": 50,
             "MonsterMoving": 1,
             "MovingFrame": 4,
-            "RespawnTime": 35,
+            "RespawnTime": 25,
             "DeathFrame": 12,
-            "MonsterHPTotal": 15,
+            "MonsterHPTotal": 32,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 2,
@@ -1977,7 +2080,6 @@
             {"item": "COIN", "quantity": 5, "chance": 0.5, "questLink": "N/A"},
             {"item": "Grasslands1", "quantity": 1, "chance": 0.22, "questLink": "N/A"},
             {"item": "CardsA0", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
-            {"item": "FoodHealth1", "quantity": 3, "chance": 0.005, "questLink": "N/A"},
             {"item": "EquipmentShirts16", "quantity": 1, "chance": 0.00035, "questLink": "N/A"},
             {"item": "TalentBook1", "quantity": 3615100, "chance": 0.001, "questLink": "N/A"},
             {"item": "StoneW2", "quantity": 1, "chance": 5e-05, "questLink": "N/A"},
@@ -2009,9 +2111,9 @@
             "HeightOfMonster": 30,
             "MonsterMoving": 1,
             "MovingFrame": 5,
-            "RespawnTime": 40,
+            "RespawnTime": 30,
             "DeathFrame": 12,
-            "MonsterHPTotal": 40,
+            "MonsterHPTotal": 100,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 10,
@@ -2028,7 +2130,7 @@
             {"item": "Quest3", "quantity": 1, "chance": 0.5, "questLink": "Picnic_Stowaway2"},
             {"item": "Quest4", "quantity": 1, "chance": 0.3, "questLink": "Picnic_Stowaway2"},
             {"item": "TalentBook1", "quantity": 3615100, "chance": 0.002, "questLink": "N/A"},
-            {"item": "FoodPotMana1", "quantity": 1, "chance": 0.002, "questLink": "N/A"},
+            {"item": "FoodPotOr1", "quantity": 1, "chance": 0.002, "questLink": "N/A"},
             {"item": "InvStorageF", "quantity": 1, "chance": 0.0001, "questLink": "N/A"},
             {"item": "EquipmentHats6", "quantity": 1, "chance": 0.00025, "questLink": "N/A"},
             {"item": "DropTable1", "quantity": 1, "chance": 0.0038, "questLink": "N/A"}
@@ -2058,14 +2160,14 @@
             "HeightOfMonster": 50,
             "MonsterMoving": 1,
             "MovingFrame": 6,
-            "RespawnTime": 50,
+            "RespawnTime": 30,
             "DeathFrame": 15,
-            "MonsterHPTotal": 80,
+            "MonsterHPTotal": 200,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 18,
             "ExpType": 0,
-            "Defence": 2,
+            "Defence": 1,
             "MoveSPEED": 4,
             "Damages": [0, 1],
             "DefFor0": 0.22
@@ -2083,7 +2185,7 @@
             "enemy": "beanG",
             "world": "Blunder Hills",
             "map": {"intName": "GrasslandsC", "name": "Valley Of The Beans", "id": 14},
-            "portalRequirements": [40, 500]
+            "portalRequirements": [120, 2000]
         },
         "navigation": {
             "prev": "frogG",
@@ -2104,17 +2206,17 @@
             "HeightOfMonster": 25,
             "MonsterMoving": 1,
             "MovingFrame": 4,
-            "RespawnTime": 42,
+            "RespawnTime": 30,
             "DeathFrame": 13,
-            "MonsterHPTotal": 175,
+            "MonsterHPTotal": 350,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 26,
             "ExpType": 0,
             "Defence": 4,
             "MoveSPEED": 4,
-            "Damages": [2, 1],
-            "DefFor0": 0.5
+            "Damages": [0, 1],
+            "DefFor0": 0.22
         },
         "drops": [
             {"item": "COIN", "quantity": 110, "chance": 0.44, "questLink": "N/A"},
@@ -2130,7 +2232,7 @@
             "enemy": "slimeG",
             "world": "Blunder Hills",
             "map": {"intName": "JungleA", "name": "Jungle Perimeter", "id": 16},
-            "portalRequirements": [60, 3000]
+            "portalRequirements": [120, 3000]
         },
         "navigation": {
             "prev": "beanG",
@@ -2148,12 +2250,12 @@
             "MonsterFace": 25,
             "MonsterOffsetX": 38,
             "MonsterOffsetY": 36,
-            "HeightOfMonster": 32,
+            "HeightOfMonster": 36,
             "MonsterMoving": 1,
             "MovingFrame": 6,
-            "RespawnTime": 45,
+            "RespawnTime": 30,
             "DeathFrame": 13,
-            "MonsterHPTotal": 325,
+            "MonsterHPTotal": 700,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 36,
@@ -2167,7 +2269,8 @@
             {"item": "COIN", "quantity": 150, "chance": 0.43, "questLink": "N/A"},
             {"item": "Jungle2", "quantity": 1, "chance": 0.18, "questLink": "N/A"},
             {"item": "CardsA5", "quantity": 1, "chance": 0.0294, "questLink": "N/A"},
-            {"item": "FoodHealth2", "quantity": 3, "chance": 0.005, "questLink": "N/A"},
+            {"item": "SmithingRecipes1", "quantity": 70, "chance": 0.0005, "questLink": "N/A"},
+            {"item": "FoodHealth2", "quantity": 3, "chance": 0.0005, "questLink": "N/A"},
             {"item": "TalentBook1", "quantity": 3615100, "chance": 0.005, "questLink": "N/A"},
             {"item": "Quest7", "quantity": 1, "chance": 0.2, "questLink": "Stiltzcho2"},
             {"item": "StampA7", "quantity": 1, "chance": 5e-05, "questLink": "N/A"},
@@ -2178,7 +2281,7 @@
             "enemy": "snakeG",
             "world": "Blunder Hills",
             "map": {"intName": "JungleB", "name": "Winding Willows", "id": 19},
-            "portalRequirements": [100]
+            "portalRequirements": [130]
         },
         "navigation": {
             "prev": "slimeG",
@@ -2199,9 +2302,9 @@
             "HeightOfMonster": 50,
             "MonsterMoving": 1,
             "MovingFrame": 6,
-            "RespawnTime": 50,
+            "RespawnTime": 30,
             "DeathFrame": 15,
-            "MonsterHPTotal": 600,
+            "MonsterHPTotal": 1100,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 46,
@@ -2215,7 +2318,6 @@
             {"item": "COIN", "quantity": 200, "chance": 0.41, "questLink": "N/A"},
             {"item": "Jungle3", "quantity": 1, "chance": 0.17, "questLink": "N/A"},
             {"item": "CardsA6", "quantity": 1, "chance": 0.019, "questLink": "N/A"},
-            {"item": "FoodHealth2", "quantity": 4, "chance": 0.006, "questLink": "N/A"},
             {"item": "EquipmentBows4", "quantity": 1, "chance": 4e-05, "questLink": "N/A"},
             {"item": "DropTable2", "quantity": 1, "chance": 0.006, "questLink": "N/A"}
         ],
@@ -2223,7 +2325,7 @@
             "enemy": "carrotO",
             "world": "Blunder Hills",
             "map": {"intName": "JungleC", "name": "Vegetable Patch", "id": 24},
-            "portalRequirements": [125, 2000]
+            "portalRequirements": [130, 2000]
         },
         "navigation": {
             "prev": "snakeG",
@@ -2244,9 +2346,9 @@
             "HeightOfMonster": 50,
             "MonsterMoving": 1,
             "MovingFrame": 6,
-            "RespawnTime": 52,
+            "RespawnTime": 30,
             "DeathFrame": 15,
-            "MonsterHPTotal": 800,
+            "MonsterHPTotal": 1600,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 60,
@@ -2268,7 +2370,7 @@
             "enemy": "goblinG",
             "world": "Blunder Hills",
             "map": {"intName": "ForestA", "name": "Forest Outskirts", "id": 26},
-            "portalRequirements": [150]
+            "portalRequirements": [130]
         },
         "navigation": {
             "prev": "carrotO",
@@ -2289,9 +2391,9 @@
             "HeightOfMonster": 46,
             "MonsterMoving": 1,
             "MovingFrame": 5,
-            "RespawnTime": 45,
+            "RespawnTime": 30,
             "DeathFrame": 19,
-            "MonsterHPTotal": 1000,
+            "MonsterHPTotal": 2000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 75,
@@ -2335,9 +2437,9 @@
             "HeightOfMonster": 26,
             "MonsterMoving": 1,
             "MovingFrame": 8,
-            "RespawnTime": 55,
+            "RespawnTime": 30,
             "DeathFrame": 16,
-            "MonsterHPTotal": 2500,
+            "MonsterHPTotal": 4500,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 95,
@@ -2384,7 +2486,7 @@
             "MovingFrame": 6,
             "RespawnTime": 60,
             "DeathFrame": 15,
-            "MonsterHPTotal": 1500,
+            "MonsterHPTotal": 4500,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 120,
@@ -2429,7 +2531,7 @@
             "MovingFrame": 4,
             "RespawnTime": 60,
             "DeathFrame": 13,
-            "MonsterHPTotal": 4000,
+            "MonsterHPTotal": 10000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 190,
@@ -2472,7 +2574,7 @@
             "MovingFrame": 6,
             "RespawnTime": 50,
             "DeathFrame": 14,
-            "MonsterHPTotal": 10000,
+            "MonsterHPTotal": 30000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 300,
@@ -2517,7 +2619,7 @@
             "MovingFrame": 4,
             "RespawnTime": 60,
             "DeathFrame": 12,
-            "MonsterHPTotal": 9000,
+            "MonsterHPTotal": 15000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 220,
@@ -2565,7 +2667,7 @@
             "MovingFrame": 9,
             "RespawnTime": 60,
             "DeathFrame": 18,
-            "MonsterHPTotal": 20000,
+            "MonsterHPTotal": 50000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 330,
@@ -2611,7 +2713,7 @@
             "MovingFrame": 4,
             "RespawnTime": 745000,
             "DeathFrame": 12,
-            "MonsterHPTotal": 200000,
+            "MonsterHPTotal": 700000,
             "Type": "monsterType",
             "SpecialType": "a",
             "ExpGiven": 1000,
@@ -2653,7 +2755,7 @@
             "MovingFrame": 0,
             "RespawnTime": 55,
             "DeathFrame": 1,
-            "MonsterHPTotal": 600,
+            "MonsterHPTotal": 1600,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 150,
@@ -2680,7 +2782,7 @@
             "MovingFrame": 0,
             "RespawnTime": 55,
             "DeathFrame": 1,
-            "MonsterHPTotal": 1000,
+            "MonsterHPTotal": 2500,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 150,
@@ -2732,9 +2834,9 @@
             "HeightOfMonster": 32,
             "MonsterMoving": 1,
             "MovingFrame": 5,
-            "RespawnTime": 50,
+            "RespawnTime": 25,
             "DeathFrame": 15,
-            "MonsterHPTotal": 1400,
+            "MonsterHPTotal": 5000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 150,
@@ -2756,7 +2858,7 @@
             "enemy": "jarSand",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zDesertCalmA", "name": "Jar Bridge", "id": 51},
-            "portalRequirements": [250]
+            "portalRequirements": [100]
         },
         "navigation": {
             "prev": null,
@@ -2777,9 +2879,9 @@
             "HeightOfMonster": 48,
             "MonsterMoving": 1,
             "MovingFrame": 9,
-            "RespawnTime": 50,
+            "RespawnTime": 30,
             "DeathFrame": 19,
-            "MonsterHPTotal": 2200,
+            "MonsterHPTotal": 9000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 180,
@@ -2802,7 +2904,7 @@
             "enemy": "mimicA",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zDesertCalmB", "name": "The Mimic Hole", "id": 52},
-            "portalRequirements": [600, 1000]
+            "portalRequirements": [120, 1000]
         },
         "navigation": {
             "prev": "jarSand",
@@ -2823,9 +2925,9 @@
             "HeightOfMonster": 64,
             "MonsterMoving": 1,
             "MovingFrame": 6,
-            "RespawnTime": 40,
+            "RespawnTime": 30,
             "DeathFrame": 12,
-            "MonsterHPTotal": 3500,
+            "MonsterHPTotal": 13000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 210,
@@ -2847,7 +2949,7 @@
             "enemy": "crabcake",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zDesertCalmC", "name": "Dessert Dunes", "id": 53},
-            "portalRequirements": [1000]
+            "portalRequirements": [150]
         },
         "navigation": {
             "prev": "mimicA",
@@ -2868,9 +2970,9 @@
             "HeightOfMonster": 44,
             "MonsterMoving": 1,
             "MovingFrame": 15,
-            "RespawnTime": 40,
+            "RespawnTime": 31,
             "DeathFrame": 26,
-            "MonsterHPTotal": 5000,
+            "MonsterHPTotal": 18000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 240,
@@ -2892,7 +2994,7 @@
             "enemy": "coconut",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zDesertMildA", "name": "The Grandioso Canyon", "id": 57},
-            "portalRequirements": [1200]
+            "portalRequirements": [200]
         },
         "navigation": {
             "prev": "crabcake",
@@ -2913,9 +3015,9 @@
             "HeightOfMonster": 34,
             "MonsterMoving": 1,
             "MovingFrame": 9,
-            "RespawnTime": 40,
+            "RespawnTime": 32,
             "DeathFrame": 19,
-            "MonsterHPTotal": 8500,
+            "MonsterHPTotal": 24000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 265,
@@ -2930,13 +3032,14 @@
             {"item": "DesertB2", "quantity": 1, "chance": 0.19, "questLink": "N/A"},
             {"item": "GoldricP3", "quantity": 1, "chance": 0.05, "questLink": "Goldric3"},
             {"item": "CardsB5", "quantity": 1, "chance": 0.0001, "questLink": "N/A"},
+            {"item": "SmithingRecipes2", "quantity": 38, "chance": 0.0008, "questLink": "N/A"},
             {"item": "DropTable7", "quantity": 1, "chance": 0.0035, "questLink": "N/A"}
         ],
         "mapData": {
             "enemy": "sandcastle",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zDesertMildB", "name": "Shifty Sandbox", "id": 58},
-            "portalRequirements": [1600]
+            "portalRequirements": [250]
         },
         "navigation": {
             "prev": "coconut",
@@ -2957,9 +3060,9 @@
             "HeightOfMonster": 82,
             "MonsterMoving": 1,
             "MovingFrame": 4,
-            "RespawnTime": 50,
+            "RespawnTime": 33,
             "DeathFrame": 13,
-            "MonsterHPTotal": 11500,
+            "MonsterHPTotal": 30000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 290,
@@ -2985,7 +3088,7 @@
             "enemy": "pincermin",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zDesertMildC", "name": "Pincer Plateau", "id": 59},
-            "portalRequirements": [2000]
+            "portalRequirements": [300]
         },
         "navigation": {
             "prev": "sandcastle",
@@ -3006,9 +3109,9 @@
             "HeightOfMonster": 89,
             "MonsterMoving": 1,
             "MovingFrame": 7,
-            "RespawnTime": 40,
+            "RespawnTime": 34,
             "DeathFrame": 17,
-            "MonsterHPTotal": 14000,
+            "MonsterHPTotal": 38000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 310,
@@ -3028,7 +3131,7 @@
             "enemy": "potato",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zDesertMildD", "name": "Slamabam Straightaway", "id": 60},
-            "portalRequirements": [2500, 0]
+            "portalRequirements": [500, 0]
         },
         "navigation": {
             "prev": "pincermin",
@@ -3049,9 +3152,9 @@
             "HeightOfMonster": 62,
             "MonsterMoving": 1,
             "MovingFrame": 7,
-            "RespawnTime": 40,
+            "RespawnTime": 35,
             "DeathFrame": 14,
-            "MonsterHPTotal": 20000,
+            "MonsterHPTotal": 47000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 350,
@@ -3065,13 +3168,14 @@
             {"item": "COIN", "quantity": 520, "chance": 0.36, "questLink": "N/A"},
             {"item": "DesertC1", "quantity": 1, "chance": 0.18, "questLink": "N/A"},
             {"item": "CardsB8", "quantity": 1, "chance": 0.0001, "questLink": "N/A"},
+            {"item": "SmithingRecipes2", "quantity": 79, "chance": 0.0001, "questLink": "N/A"},
             {"item": "DropTable8", "quantity": 1, "chance": 0.0032, "questLink": "N/A"}
         ],
         "mapData": {
             "enemy": "steak",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zDesertNightA", "name": "The Ring", "id": 62},
-            "portalRequirements": [3000]
+            "portalRequirements": [1000]
         },
         "navigation": {
             "prev": "potato",
@@ -3092,9 +3196,9 @@
             "HeightOfMonster": 54,
             "MonsterMoving": 1,
             "MovingFrame": 7,
-            "RespawnTime": 40,
+            "RespawnTime": 36,
             "DeathFrame": 16,
-            "MonsterHPTotal": 25000,
+            "MonsterHPTotal": 55000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 380,
@@ -3117,7 +3221,7 @@
             "enemy": "moonman",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zDesertNightB", "name": "Up Up Down Down", "id": 63},
-            "portalRequirements": [4000]
+            "portalRequirements": [2000]
         },
         "navigation": {
             "prev": "steak",
@@ -3138,9 +3242,9 @@
             "HeightOfMonster": 44,
             "MonsterMoving": 1,
             "MovingFrame": 9,
-            "RespawnTime": 40,
+            "RespawnTime": 37,
             "DeathFrame": 20,
-            "MonsterHPTotal": 30000,
+            "MonsterHPTotal": 70000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 410,
@@ -3161,7 +3265,7 @@
             "enemy": "sandgiant",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zDesertNightC", "name": "Sands of Time", "id": 64},
-            "portalRequirements": [5000]
+            "portalRequirements": [3000]
         },
         "navigation": {
             "prev": "moonman",
@@ -3182,9 +3286,9 @@
             "HeightOfMonster": 54,
             "MonsterMoving": 1,
             "MovingFrame": 8,
-            "RespawnTime": 40,
+            "RespawnTime": 38,
             "DeathFrame": 18,
-            "MonsterHPTotal": 35000,
+            "MonsterHPTotal": 70000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 460,
@@ -3228,7 +3332,7 @@
             "MovingFrame": 6,
             "RespawnTime": 40,
             "DeathFrame": 17,
-            "MonsterHPTotal": 55000,
+            "MonsterHPTotal": 90000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 620,
@@ -3273,7 +3377,7 @@
             "MovingFrame": 0,
             "RespawnTime": 40,
             "DeathFrame": 10,
-            "MonsterHPTotal": 67000,
+            "MonsterHPTotal": 110000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 700,
@@ -3318,7 +3422,7 @@
             "MovingFrame": 0,
             "RespawnTime": 40,
             "DeathFrame": 10,
-            "MonsterHPTotal": 81000,
+            "MonsterHPTotal": 130000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 800,
@@ -3363,7 +3467,7 @@
             "MovingFrame": 6,
             "RespawnTime": 35,
             "DeathFrame": 13,
-            "MonsterHPTotal": 1250000,
+            "MonsterHPTotal": 2000000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 3500,
@@ -3408,7 +3512,7 @@
             "MovingFrame": 7,
             "RespawnTime": 40,
             "DeathFrame": 16,
-            "MonsterHPTotal": 100000,
+            "MonsterHPTotal": 150000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 940,
@@ -3453,7 +3557,7 @@
             "MovingFrame": 7,
             "RespawnTime": 40,
             "DeathFrame": 16,
-            "MonsterHPTotal": 115000,
+            "MonsterHPTotal": 175000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 1030,
@@ -3499,7 +3603,7 @@
             "MovingFrame": 6,
             "RespawnTime": 40,
             "DeathFrame": 15,
-            "MonsterHPTotal": 135000,
+            "MonsterHPTotal": 200000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 1130,
@@ -3545,7 +3649,7 @@
             "MovingFrame": 14,
             "RespawnTime": 40,
             "DeathFrame": 25,
-            "MonsterHPTotal": 160000,
+            "MonsterHPTotal": 230000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 1250,
@@ -3589,7 +3693,7 @@
             "MovingFrame": 6,
             "RespawnTime": 40,
             "DeathFrame": 20,
-            "MonsterHPTotal": 185000,
+            "MonsterHPTotal": 260000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 1370,
@@ -3640,7 +3744,7 @@
             "MovingFrame": 10,
             "RespawnTime": 45,
             "DeathFrame": 23,
-            "MonsterHPTotal": 225000,
+            "MonsterHPTotal": 290000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 1570,
@@ -3684,7 +3788,7 @@
             "MovingFrame": 6,
             "RespawnTime": 45,
             "DeathFrame": 13,
-            "MonsterHPTotal": 260000,
+            "MonsterHPTotal": 330000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 1690,
@@ -3728,7 +3832,7 @@
             "MovingFrame": 12,
             "RespawnTime": 45,
             "DeathFrame": 23,
-            "MonsterHPTotal": 310000,
+            "MonsterHPTotal": 400000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 1780,
@@ -3772,7 +3876,7 @@
             "MovingFrame": 0,
             "RespawnTime": 43,
             "DeathFrame": 12,
-            "MonsterHPTotal": 350000,
+            "MonsterHPTotal": 500000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 1900,
@@ -3843,7 +3947,7 @@
             "MovingFrame": 7,
             "RespawnTime": 38,
             "DeathFrame": 15,
-            "MonsterHPTotal": 500000,
+            "MonsterHPTotal": 800000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 2350,
@@ -3887,7 +3991,7 @@
             "MovingFrame": 7,
             "RespawnTime": 40,
             "DeathFrame": 18,
-            "MonsterHPTotal": 650000,
+            "MonsterHPTotal": 1000000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 3000,
@@ -3933,7 +4037,7 @@
             "MovingFrame": 8,
             "RespawnTime": 40,
             "DeathFrame": 16,
-            "MonsterHPTotal": 850000,
+            "MonsterHPTotal": 1200000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 4000,
@@ -3977,7 +4081,7 @@
             "MovingFrame": 13,
             "RespawnTime": 40,
             "DeathFrame": 24,
-            "MonsterHPTotal": 1000000,
+            "MonsterHPTotal": 1600000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 4800,
@@ -4021,7 +4125,7 @@
             "MovingFrame": 7,
             "RespawnTime": 38,
             "DeathFrame": 16,
-            "MonsterHPTotal": 1500000,
+            "MonsterHPTotal": 2100000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 7600,
@@ -4065,7 +4169,7 @@
             "MovingFrame": 8,
             "RespawnTime": 40,
             "DeathFrame": 18,
-            "MonsterHPTotal": 2000000,
+            "MonsterHPTotal": 2500000,
             "Type": "monsterType",
             "SpecialType": "",
             "ExpGiven": 8750,
@@ -5775,6 +5879,560 @@
         "navigation": null,
         "bossData": null
     },
+    "w7a1": {
+        "details": {
+            "Name": "Equinox Broadbass",
+            "AFKtype": "Fighting",
+            "MonsterFace": 92,
+            "MonsterOffsetX": 34,
+            "MonsterOffsetY": 49,
+            "HeightOfMonster": 40,
+            "MonsterMoving": 1,
+            "MovingFrame": 7,
+            "RespawnTime": 45,
+            "DeathFrame": 16,
+            "MonsterHPTotal": 7e+13,
+            "Type": "monsterType",
+            "SpecialType": "",
+            "ExpGiven": 500000000,
+            "ExpType": 0,
+            "Defence": 2500000,
+            "MoveSPEED": 5,
+            "Damages": [600000, 1],
+            "DefFor0": 333313
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 1100000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "w7A1", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "CardsJ1", "quantity": 1, "chance": 1e-05, "questLink": "N/A"},
+            {"item": "SmithingRecipes7", "quantity": 0, "chance": 8e-07, "questLink": "N/A"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ],
+        "mapData": {
+            "enemy": "w7a1",
+            "world": "Shimmerfin Deep",
+            "map": {"intName": "uAquaA1", "name": "Refraction Bend", "id": 301},
+            "portalRequirements": [100000]
+        },
+        "navigation": {
+            "prev": null,
+            "next": "w7a2",
+            "hasCrystal": true,
+            "crystalName": "Crystal6",
+            "hasCard": true
+        },
+        "bossData": null
+    },
+    "w7a2": {
+        "details": {
+            "Name": "Doodlefish",
+            "AFKtype": "Fighting",
+            "MonsterFace": 93,
+            "MonsterOffsetX": 34,
+            "MonsterOffsetY": 49,
+            "HeightOfMonster": 65,
+            "MonsterMoving": 1,
+            "MovingFrame": 11,
+            "RespawnTime": 45,
+            "DeathFrame": 21,
+            "MonsterHPTotal": 1e+15,
+            "Type": "monsterType",
+            "SpecialType": "",
+            "ExpGiven": 900000000,
+            "ExpType": 0,
+            "Defence": 2500000,
+            "MoveSPEED": 4,
+            "Damages": [600000, 1],
+            "DefFor0": 333313
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 1600000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "w7A2", "quantity": 1, "chance": 0.0009, "questLink": "N/A"},
+            {"item": "CardsJ2", "quantity": 1, "chance": 6e-06, "questLink": "N/A"},
+            {"item": "SmithingRecipes7", "quantity": 5, "chance": 5e-07, "questLink": "N/A"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ],
+        "mapData": {
+            "enemy": "w7a2",
+            "world": "Shimmerfin Deep",
+            "map": {"intName": "uAquaA2", "name": "Doodle Reef", "id": 302},
+            "portalRequirements": [250000]
+        },
+        "navigation": {
+            "prev": "w7a1",
+            "next": "w7a3",
+            "hasCrystal": true,
+            "crystalName": "Crystal6",
+            "hasCard": true
+        },
+        "bossData": null
+    },
+    "w7a3": {
+        "details": {
+            "Name": "Eamsy Earl",
+            "AFKtype": "Fighting",
+            "MonsterFace": 94,
+            "MonsterOffsetX": 34,
+            "MonsterOffsetY": 49,
+            "HeightOfMonster": 60,
+            "MonsterMoving": 1,
+            "MovingFrame": 8,
+            "RespawnTime": 45,
+            "DeathFrame": 18,
+            "MonsterHPTotal": 2.5e+16,
+            "Type": "monsterType",
+            "SpecialType": "",
+            "ExpGiven": 1300000000,
+            "ExpType": 0,
+            "Defence": 2500000,
+            "MoveSPEED": 5,
+            "Damages": [600000, 1],
+            "DefFor0": 333313
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 2500000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "w7A3", "quantity": 1, "chance": 0.0008, "questLink": "N/A"},
+            {"item": "CardsJ3", "quantity": 1, "chance": 2.5e-06, "questLink": "N/A"},
+            {"item": "SmithingRecipes7", "quantity": 6, "chance": 3e-07, "questLink": "N/A"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ],
+        "mapData": {
+            "enemy": "w7a3",
+            "world": "Shimmerfin Deep",
+            "map": {"intName": "uAquaA3", "name": "Seaweed Street", "id": 303},
+            "portalRequirements": [10000000, 1500000]
+        },
+        "navigation": {
+            "prev": "w7a2",
+            "next": "w7a4",
+            "hasCrystal": true,
+            "crystalName": "Crystal6",
+            "hasCard": true
+        },
+        "bossData": null
+    },
+    "w7a4": {
+        "details": {
+            "Name": "Shellslug",
+            "AFKtype": "Fighting",
+            "MonsterFace": 95,
+            "MonsterOffsetX": 34,
+            "MonsterOffsetY": 49,
+            "HeightOfMonster": 50,
+            "MonsterMoving": 1,
+            "MovingFrame": 7,
+            "RespawnTime": 45,
+            "DeathFrame": 15,
+            "MonsterHPTotal": 1e+18,
+            "Type": "monsterType",
+            "SpecialType": "",
+            "ExpGiven": 4500000000,
+            "ExpType": 0,
+            "Defence": 2500000,
+            "MoveSPEED": 3,
+            "Damages": [600000, 1],
+            "DefFor0": 333313
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 3500000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "w7A4", "quantity": 1, "chance": 0.00075, "questLink": "N/A"},
+            {"item": "CardsJ4", "quantity": 1, "chance": 1.5e-06, "questLink": "N/A"},
+            {"item": "Coral1", "quantity": 1, "chance": 4e-05, "questLink": "N/A"},
+            {"item": "SmithingRecipes7", "quantity": 7, "chance": 1e-07, "questLink": "N/A"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ],
+        "mapData": {
+            "enemy": "w7a4",
+            "world": "Shimmerfin Deep",
+            "map": {"intName": "uAquaA4", "name": "Barnacle Curb", "id": 304},
+            "portalRequirements": [5000000]
+        },
+        "navigation": {
+            "prev": "w7a3",
+            "next": "w7a5",
+            "hasCrystal": true,
+            "crystalName": "Crystal6",
+            "hasCard": true
+        },
+        "bossData": null
+    },
+    "w7a5": {
+        "details": {
+            "Name": "Balloonfish",
+            "AFKtype": "Fighting",
+            "MonsterFace": 96,
+            "MonsterOffsetX": 34,
+            "MonsterOffsetY": 49,
+            "HeightOfMonster": 105,
+            "MonsterMoving": 1,
+            "MovingFrame": 9,
+            "RespawnTime": 45,
+            "DeathFrame": 19,
+            "MonsterHPTotal": 2.5e+19,
+            "Type": "monsterType",
+            "SpecialType": "",
+            "ExpGiven": 15000000000,
+            "ExpType": 0,
+            "Defence": 2500000,
+            "MoveSPEED": 4,
+            "Damages": [600000, 1],
+            "DefFor0": 333313
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 4700000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "w7A5", "quantity": 1, "chance": 0.0007, "questLink": "N/A"},
+            {"item": "CardsJ5", "quantity": 1, "chance": 1e-06, "questLink": "N/A"},
+            {"item": "SmithingRecipes7", "quantity": 2, "chance": 5e-08, "questLink": "N/A"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ],
+        "mapData": {
+            "enemy": "w7a5",
+            "world": "Shimmerfin Deep",
+            "map": {"intName": "uAquaA5", "name": "Balloon Bay", "id": 305},
+            "portalRequirements": [20000000, 1000000]
+        },
+        "navigation": {
+            "prev": "w7a4",
+            "next": "w7a6",
+            "hasCrystal": true,
+            "crystalName": "Crystal6",
+            "hasCard": true
+        },
+        "bossData": null
+    },
+    "w7a6": {
+        "details": {
+            "Name": "Noble Clam",
+            "AFKtype": "Fighting",
+            "MonsterFace": 97,
+            "MonsterOffsetX": 34,
+            "MonsterOffsetY": 49,
+            "HeightOfMonster": 55,
+            "MonsterMoving": 1,
+            "MovingFrame": 6,
+            "RespawnTime": 45,
+            "DeathFrame": 15,
+            "MonsterHPTotal": 1e+18,
+            "Type": "monsterType",
+            "SpecialType": "",
+            "ExpGiven": 1500000000,
+            "ExpType": 0,
+            "Defence": 2500000,
+            "MoveSPEED": 4,
+            "Damages": [600000, 1],
+            "DefFor0": 333313
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 7000000, "chance": 1e-06, "questLink": "N/A"},
+            {"item": "w7A6", "quantity": 1, "chance": 1e-06, "questLink": "N/A"},
+            {"item": "CardsJ6", "quantity": 1, "chance": 1e-05, "questLink": "N/A"},
+            {"item": "ClamPearl0", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ],
+        "mapData": {
+            "enemy": "w7a6",
+            "world": "Shimmerfin Deep",
+            "map": {"intName": "uAquaA6", "name": "The Clamworks", "id": 306},
+            "portalRequirements": [0]
+        },
+        "navigation": {
+            "prev": "w7a5",
+            "next": "w7a7",
+            "hasCrystal": true,
+            "crystalName": "Crystal6",
+            "hasCard": true
+        },
+        "bossData": null
+    },
+    "w7a7": {
+        "details": {
+            "Name": "Litterfish",
+            "AFKtype": "Fighting",
+            "MonsterFace": 98,
+            "MonsterOffsetX": 34,
+            "MonsterOffsetY": 49,
+            "HeightOfMonster": 45,
+            "MonsterMoving": 1,
+            "MovingFrame": 9,
+            "RespawnTime": 45,
+            "DeathFrame": 20,
+            "MonsterHPTotal": 3e+21,
+            "Type": "monsterType",
+            "SpecialType": "",
+            "ExpGiven": 23000000000,
+            "ExpType": 0,
+            "Defence": 2500000,
+            "MoveSPEED": 5,
+            "Damages": [600000, 1],
+            "DefFor0": 333313
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 10000000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "w7A7", "quantity": 1, "chance": 0.00055, "questLink": "N/A"},
+            {"item": "CardsJ7", "quantity": 1, "chance": 5e-07, "questLink": "N/A"},
+            {"item": "Coral2", "quantity": 1, "chance": 2e-06, "questLink": "N/A"},
+            {"item": "SmithingRecipes7", "quantity": 1, "chance": 4e-08, "questLink": "N/A"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ],
+        "mapData": {
+            "enemy": "w7a7",
+            "world": "Shimmerfin Deep",
+            "map": {"intName": "uAquaA7", "name": "Plastic Basin", "id": 307},
+            "portalRequirements": [250000000, 20000000]
+        },
+        "navigation": {
+            "prev": "w7a6",
+            "next": "w7a8",
+            "hasCrystal": true,
+            "crystalName": "Crystal6",
+            "hasCard": true
+        },
+        "bossData": null
+    },
+    "w7a8": {
+        "details": {
+            "Name": "Pufferblob",
+            "AFKtype": "Fighting",
+            "MonsterFace": 99,
+            "MonsterOffsetX": 34,
+            "MonsterOffsetY": 49,
+            "HeightOfMonster": 60,
+            "MonsterMoving": 1,
+            "MovingFrame": 8,
+            "RespawnTime": 45,
+            "DeathFrame": 18,
+            "MonsterHPTotal": 2e+22,
+            "Type": "monsterType",
+            "SpecialType": "",
+            "ExpGiven": 55000000000,
+            "ExpType": 0,
+            "Defence": 2500000,
+            "MoveSPEED": 4,
+            "Damages": [600000, 1],
+            "DefFor0": 333313
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 13000000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "w7A8", "quantity": 1, "chance": 0.0005, "questLink": "N/A"},
+            {"item": "CardsJ8", "quantity": 1, "chance": 4e-07, "questLink": "N/A"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ],
+        "mapData": {
+            "enemy": "w7a8",
+            "world": "Shimmerfin Deep",
+            "map": {"intName": "uAquaA8", "name": "Puffpuff Overpass", "id": 308},
+            "portalRequirements": [60000000]
+        },
+        "navigation": {
+            "prev": "w7a7",
+            "next": "w7a9",
+            "hasCrystal": true,
+            "crystalName": "Crystal6",
+            "hasCard": true
+        },
+        "bossData": null
+    },
+    "w7a10": {
+        "details": {
+            "Name": "Spearfish",
+            "AFKtype": "Fighting",
+            "MonsterFace": 101,
+            "MonsterOffsetX": 34,
+            "MonsterOffsetY": 49,
+            "HeightOfMonster": 55,
+            "MonsterMoving": 1,
+            "MovingFrame": 6,
+            "RespawnTime": 45,
+            "DeathFrame": 15,
+            "MonsterHPTotal": 1e+23,
+            "Type": "monsterType",
+            "SpecialType": "",
+            "ExpGiven": 4e+10,
+            "ExpType": 0,
+            "Defence": 2500000,
+            "MoveSPEED": 5,
+            "Damages": [600000, 1],
+            "DefFor0": 333313
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 25300000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "w7A10", "quantity": 1, "chance": 0.0004, "questLink": "N/A"},
+            {"item": "CardsJ10", "quantity": 1, "chance": 2e-07, "questLink": "N/A"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ],
+        "mapData": {
+            "enemy": "w7a10",
+            "world": "Shimmerfin Deep",
+            "map": {"intName": "uAquaA10", "name": "Middle of Nowhere", "id": 310},
+            "portalRequirements": [500000000, 75000000]
+        },
+        "navigation": {
+            "prev": "w7a9",
+            "next": "w7a11",
+            "hasCrystal": true,
+            "crystalName": "Crystal6",
+            "hasCard": true
+        },
+        "bossData": null
+    },
+    "w7a9": {
+        "details": {
+            "Name": "Demonblub",
+            "AFKtype": "Fighting",
+            "MonsterFace": 100,
+            "MonsterOffsetX": 34,
+            "MonsterOffsetY": 49,
+            "HeightOfMonster": 55,
+            "MonsterMoving": 1,
+            "MovingFrame": 7,
+            "RespawnTime": 45,
+            "DeathFrame": 17,
+            "MonsterHPTotal": 5e+23,
+            "Type": "monsterType",
+            "SpecialType": "",
+            "ExpGiven": 6e+10,
+            "ExpType": 0,
+            "Defence": 2500000,
+            "MoveSPEED": 2,
+            "Damages": [600000, 1],
+            "DefFor0": 333313
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 17000000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "w7A9", "quantity": 1, "chance": 0.00045, "questLink": "N/A"},
+            {"item": "CardsJ9", "quantity": 1, "chance": 3e-07, "questLink": "N/A"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ],
+        "mapData": {
+            "enemy": "w7a9",
+            "world": "Shimmerfin Deep",
+            "map": {"intName": "uAquaA9", "name": "Pinpoint Summit", "id": 309},
+            "portalRequirements": [0]
+        },
+        "navigation": {
+            "prev": "w7a8",
+            "next": "w7a10",
+            "hasCrystal": true,
+            "crystalName": "Crystal6",
+            "hasCard": true
+        },
+        "bossData": null
+    },
+    "w7a11": {
+        "details": {
+            "Name": "Coralcave Crab",
+            "AFKtype": "Fighting",
+            "MonsterFace": 102,
+            "MonsterOffsetX": 34,
+            "MonsterOffsetY": 49,
+            "HeightOfMonster": 55,
+            "MonsterMoving": 1,
+            "MovingFrame": 8,
+            "RespawnTime": 45,
+            "DeathFrame": 18,
+            "MonsterHPTotal": 8e+24,
+            "Type": "monsterType",
+            "SpecialType": "",
+            "ExpGiven": 1.3e+11,
+            "ExpType": 0,
+            "Defence": 2500000,
+            "MoveSPEED": 4,
+            "Damages": [600000, 1],
+            "DefFor0": 333313
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 35000000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "w7A11", "quantity": 1, "chance": 0.00033, "questLink": "N/A"},
+            {"item": "CardsJ11", "quantity": 1, "chance": 1.5e-07, "questLink": "N/A"},
+            {"item": "Coral3", "quantity": 1, "chance": 1e-07, "questLink": "N/A"},
+            {"item": "SmithingRecipes7", "quantity": 3, "chance": 1e-08, "questLink": "N/A"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ],
+        "mapData": {
+            "enemy": "w7a11",
+            "world": "Shimmerfin Deep",
+            "map": {"intName": "uAquaA11", "name": "Coralcave Outskirts", "id": 311},
+            "portalRequirements": [1000000000]
+        },
+        "navigation": {
+            "prev": "w7a10",
+            "next": "w7a12",
+            "hasCrystal": true,
+            "crystalName": "Crystal6",
+            "hasCard": true
+        },
+        "bossData": null
+    },
+    "w7a12": {
+        "details": {
+            "Name": "Coralcave Guardian",
+            "AFKtype": "Fighting",
+            "MonsterFace": 103,
+            "MonsterOffsetX": 34,
+            "MonsterOffsetY": 49,
+            "HeightOfMonster": 75,
+            "MonsterMoving": 1,
+            "MovingFrame": 8,
+            "RespawnTime": 45,
+            "DeathFrame": 19,
+            "MonsterHPTotal": 2e+26,
+            "Type": "monsterType",
+            "SpecialType": "",
+            "ExpGiven": 3e+11,
+            "ExpType": 0,
+            "Defence": 2500000,
+            "MoveSPEED": 3,
+            "Damages": [600000, 1],
+            "DefFor0": 333313
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 50000000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "w7A12", "quantity": 1, "chance": 0.00025, "questLink": "N/A"},
+            {"item": "CardsJ12", "quantity": 1, "chance": 1e-07, "questLink": "N/A"},
+            {"item": "SmithingRecipes7", "quantity": 4, "chance": 5e-09, "questLink": "N/A"},
+            {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ],
+        "mapData": {
+            "enemy": "w7a12",
+            "world": "Shimmerfin Deep",
+            "map": {"intName": "uAquaA12", "name": "Coralcave Perimeter", "id": 312},
+            "portalRequirements": [0]
+        },
+        "navigation": {
+            "prev": "w7a11",
+            "next": "Crystal6",
+            "hasCrystal": true,
+            "crystalName": "Crystal6",
+            "hasCard": true
+        },
+        "bossData": null
+    },
+    "w7e1": {
+        "details": {
+            "Name": "Whallamus",
+            "AFKtype": "Fighting",
+            "MonsterFace": 24,
+            "MonsterOffsetX": 22,
+            "MonsterOffsetY": 38,
+            "HeightOfMonster": 50,
+            "MonsterMoving": 1,
+            "MovingFrame": 14,
+            "RespawnTime": 1200,
+            "DeathFrame": 26,
+            "MonsterHPTotal": 100000,
+            "Type": "monsterType",
+            "SpecialType": "a",
+            "ExpGiven": 1000,
+            "ExpType": 0,
+            "Defence": 5,
+            "MoveSPEED": 4,
+            "Damages": [100, 1],
+            "DefFor0": 94.54
+        },
+        "drops": null,
+        "mapData": null,
+        "navigation": null,
+        "bossData": null
+    },
     "w7d1": {
         "details": {
             "Name": "RIP Tide",
@@ -5801,8 +6459,7 @@
             {"item": "COIN", "quantity": 65000, "chance": 0.5, "questLink": "N/A"},
             {"item": "SpiA1", "quantity": 1, "chance": 0.16, "questLink": "N/A"},
             {"item": "CardsI1", "quantity": 1, "chance": 2.5e-05, "questLink": "N/A"},
-            {"item": "SmithingRecipes6", "quantity": 4, "chance": 2e-08, "questLink": "N/A"},
-            {"item": "DropTable29", "quantity": 1, "chance": 0.0025, "questLink": "N/A"}
+            {"item": "DropTable34", "quantity": 1, "chance": 0.0025, "questLink": "N/A"}
         ],
         "mapData": null,
         "navigation": null,
@@ -6012,18 +6669,18 @@
             "hasCard": true
         },
         "bossData": {
-            "health": 30000,
+            "health": 60000,
             "defence": 5,
             "exp": 15000,
             "keys": 1,
             "attacks": [
-                {"name": "Fireball", "damage": 29},
-                {"name": "Stomp", "damage": 50},
-                {"name": "Rock Spikes", "damage": 32},
+                {"name": "Fireball", "damage": 50},
+                {"name": "Stomp", "damage": 70},
+                {"name": "Rock Spikes", "damage": 50},
                 {"name": "Spike Traps", "damage": 35},
-                {"name": "Sword Swing", "damage": 40},
-                {"name": "Uppercut", "damage": 100},
-                {"name": "Rocketfist", "damage": 35}
+                {"name": "Sword Swing", "damage": 100},
+                {"name": "Uppercut", "damage": 150},
+                {"name": "Rocketfist", "damage": 90}
             ]
         }
     },
@@ -6187,7 +6844,7 @@
             "hasCard": true
         },
         "bossData": {
-            "health": 1000000,
+            "health": 4000000,
             "defence": 150,
             "exp": 100000,
             "keys": 1,
@@ -7084,9 +7741,7 @@
             {"item": "CardsZ26", "quantity": 1, "chance": 0.99, "questLink": "N/A"},
             {"item": "EquipmentPendant32", "quantity": 1, "chance": 1, "questLink": "N/A"},
             {"item": "EquipmentShoes7", "quantity": 1, "chance": 0.3, "questLink": "N/A"},
-            {"item": "Jungle1", "quantity": 25, "chance": 1, "questLink": "N/A"},
-            {"item": "Jungle1", "quantity": 25, "chance": 1, "questLink": "N/A"},
-            {"item": "Jungle1", "quantity": 25, "chance": 1, "questLink": "N/A"},
+            {"item": "Jungle1", "quantity": 1, "chance": 1, "questLink": "N/A"},
             {"item": "DropTable3", "quantity": 2, "chance": 1, "questLink": "N/A"}
         ],
         "mapData": null,
@@ -7286,7 +7941,7 @@
             {"item": "StoneA3b", "quantity": 1, "chance": 0.04, "questLink": "N/A"},
             {"item": "PetEgg", "quantity": 1, "chance": 0.6, "questLink": "N/A"},
             {"item": "Ladle", "quantity": 3, "chance": 1, "questLink": "N/A"},
-            {"item": "SmithingRecipes4", "quantity": 56, "chance": 0.008, "questLink": "N/A"},
+            {"item": "SmithingRecipes4", "quantity": 50, "chance": 0.008, "questLink": "N/A"},
             {"item": "DropTable13", "quantity": 1, "chance": 0.5, "questLink": "N/A"}
         ],
         "mapData": null,
@@ -8166,7 +8821,7 @@
     },
     "Pet1": {
         "details": {
-            "Name": "Piggo",
+            "Name": "Mr Pig",
             "AFKtype": "Fighting",
             "MonsterFace": 23,
             "MonsterOffsetX": 38,
@@ -8585,6 +9240,7 @@
         "drops": [
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
             {"item": "CardsC3", "quantity": 1, "chance": 0.00011, "questLink": "N/A"},
+            {"item": "SmithingRecipes2", "quantity": 48, "chance": 0.005, "questLink": "N/A"},
             {"item": "DropTable4", "quantity": 1, "chance": 0.0075, "questLink": "N/A"}
         ],
         "mapData": null,
@@ -8825,6 +9481,37 @@
             "map": {"intName": "MininggF", "name": "Motherlode Pit", "id": 32},
             "portalRequirements": [0]
         },
+        "navigation": null,
+        "bossData": null
+    },
+    "Prehistrium": {
+        "details": {
+            "Name": "Prehistrium",
+            "AFKtype": "Mining",
+            "MonsterFace": 0,
+            "MonsterOffsetX": 22,
+            "MonsterOffsetY": 38,
+            "HeightOfMonster": 30,
+            "MonsterMoving": 0,
+            "MovingFrame": 0,
+            "RespawnTime": 600,
+            "DeathFrame": 1,
+            "MonsterHPTotal": 5,
+            "Type": "oreType",
+            "SpecialType": "",
+            "ExpGiven": 5000,
+            "ExpType": 1,
+            "Defence": 1200000000,
+            "MoveSPEED": 0,
+            "Damages": [0, 1],
+            "DefFor0": 0.22
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsF44", "quantity": 1, "chance": 1e-06, "questLink": "N/A"},
+            {"item": "DropTable4", "quantity": 2, "chance": 0.015, "questLink": "N/A"}
+        ],
+        "mapData": null,
         "navigation": null,
         "bossData": null
     },
@@ -9380,6 +10067,37 @@
         "drops": [
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
             {"item": "CardsF35", "quantity": 1, "chance": 4e-08, "questLink": "N/A"},
+            {"item": "DropTable33", "quantity": 1, "chance": 0.0089, "questLink": "N/A"}
+        ],
+        "mapData": null,
+        "navigation": null,
+        "bossData": null
+    },
+    "Tree14": {
+        "details": {
+            "Name": "Ancient Seaweed",
+            "AFKtype": "Choppin",
+            "MonsterFace": 0,
+            "MonsterOffsetX": 32,
+            "MonsterOffsetY": 0,
+            "HeightOfMonster": 100,
+            "MonsterMoving": 0,
+            "MovingFrame": 6,
+            "RespawnTime": 0,
+            "DeathFrame": 17,
+            "MonsterHPTotal": 5,
+            "Type": "treeType",
+            "SpecialType": "",
+            "ExpGiven": 150000,
+            "ExpType": 3,
+            "Defence": 2000000000,
+            "MoveSPEED": 0,
+            "Damages": [0, 1],
+            "DefFor0": 0.22
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsF40", "quantity": 1, "chance": 1e-08, "questLink": "N/A"},
             {"item": "DropTable33", "quantity": 1, "chance": 0.0089, "questLink": "N/A"}
         ],
         "mapData": null,
@@ -10418,6 +11136,36 @@
         "navigation": null,
         "bossData": null
     },
+    "BugNest15": {
+        "details": {
+            "Name": "Litter Nest",
+            "AFKtype": "Fighting",
+            "MonsterFace": 0,
+            "MonsterOffsetX": 32,
+            "MonsterOffsetY": 30,
+            "HeightOfMonster": 100,
+            "MonsterMoving": 0,
+            "MovingFrame": 207,
+            "RespawnTime": 8640000,
+            "DeathFrame": 11,
+            "MonsterHPTotal": 999999999,
+            "Type": "monsterType",
+            "SpecialType": "",
+            "ExpGiven": 2,
+            "ExpType": 6,
+            "Defence": 1,
+            "MoveSPEED": 0,
+            "Damages": [6, 1],
+            "DefFor0": 2.67
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "Grasslands2", "quantity": 2, "chance": 0, "questLink": "N/A"}
+        ],
+        "mapData": null,
+        "navigation": null,
+        "bossData": null
+    },
     "Bug1": {
         "details": {
             "Name": "Flies",
@@ -10474,6 +11222,7 @@
         "drops": [
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
             {"item": "CardsC12", "quantity": 1, "chance": 0.0003, "questLink": "N/A"},
+            {"item": "SmithingRecipes2", "quantity": 67, "chance": 0.005, "questLink": "N/A"},
             {"item": "ButterBar", "quantity": 1, "chance": 0.01, "questLink": "N/A"},
             {"item": "DropTable12", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
         ],
@@ -10827,6 +11576,37 @@
         "navigation": null,
         "bossData": null
     },
+    "Bug15": {
+        "details": {
+            "Name": "Litterbug",
+            "AFKtype": "Catching",
+            "MonsterFace": 0,
+            "MonsterOffsetX": 32,
+            "MonsterOffsetY": 50,
+            "HeightOfMonster": 100,
+            "MonsterMoving": 0,
+            "MovingFrame": 1,
+            "RespawnTime": 0,
+            "DeathFrame": 10,
+            "MonsterHPTotal": 5,
+            "Type": "bugType",
+            "SpecialType": "",
+            "ExpGiven": 110000,
+            "ExpType": 6,
+            "Defence": 2000000000,
+            "MoveSPEED": 0,
+            "Damages": [6, 1],
+            "DefFor0": 2.67
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsF46", "quantity": 1, "chance": 1e-06, "questLink": "N/A"},
+            {"item": "DropTable30", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
+        ],
+        "mapData": null,
+        "navigation": null,
+        "bossData": null
+    },
     "Bug14": {
         "details": {
             "Name": "Fractalfly",
@@ -10853,6 +11633,254 @@
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
             {"item": "CardsF39", "quantity": 1, "chance": 0, "questLink": "N/A"},
             {"item": "DropTable4", "quantity": 2, "chance": 1e-08, "questLink": "N/A"}
+        ],
+        "mapData": null,
+        "navigation": null,
+        "bossData": null
+    },
+    "Spelunking0": {
+        "details": {
+            "Name": "Fearful Tunnel",
+            "AFKtype": "Spelunking",
+            "MonsterFace": 0,
+            "MonsterOffsetX": 22,
+            "MonsterOffsetY": 38,
+            "HeightOfMonster": 30,
+            "MonsterMoving": 0,
+            "MovingFrame": 0,
+            "RespawnTime": 120,
+            "DeathFrame": 1,
+            "MonsterHPTotal": 5,
+            "Type": "oreType",
+            "SpecialType": "",
+            "ExpGiven": 5,
+            "ExpType": 19,
+            "Defence": 100,
+            "MoveSPEED": 0,
+            "Damages": [0, 1],
+            "DefFor0": 0.22
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsF41", "quantity": 1, "chance": 0.0002, "questLink": "N/A"},
+            {"item": "DropTable4", "quantity": 1, "chance": 0, "questLink": "N/A"}
+        ],
+        "mapData": null,
+        "navigation": null,
+        "bossData": null
+    },
+    "Spelunking1": {
+        "details": {
+            "Name": "Decaying Crevasse",
+            "AFKtype": "Spelunking",
+            "MonsterFace": 0,
+            "MonsterOffsetX": 22,
+            "MonsterOffsetY": 38,
+            "HeightOfMonster": 30,
+            "MonsterMoving": 0,
+            "MovingFrame": 0,
+            "RespawnTime": 120,
+            "DeathFrame": 1,
+            "MonsterHPTotal": 5,
+            "Type": "oreType",
+            "SpecialType": "",
+            "ExpGiven": 18,
+            "ExpType": 19,
+            "Defence": 2500,
+            "MoveSPEED": 0,
+            "Damages": [0, 1],
+            "DefFor0": 0.22
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsF42", "quantity": 1, "chance": 8e-05, "questLink": "N/A"},
+            {"item": "DropTable4", "quantity": 1, "chance": 0, "questLink": "N/A"}
+        ],
+        "mapData": null,
+        "navigation": null,
+        "bossData": null
+    },
+    "Spelunking2": {
+        "details": {
+            "Name": "Buried Church",
+            "AFKtype": "Spelunking",
+            "MonsterFace": 0,
+            "MonsterOffsetX": 22,
+            "MonsterOffsetY": 38,
+            "HeightOfMonster": 30,
+            "MonsterMoving": 0,
+            "MovingFrame": 0,
+            "RespawnTime": 120,
+            "DeathFrame": 1,
+            "MonsterHPTotal": 5,
+            "Type": "oreType",
+            "SpecialType": "",
+            "ExpGiven": 70,
+            "ExpType": 19,
+            "Defence": 100000,
+            "MoveSPEED": 0,
+            "Damages": [0, 1],
+            "DefFor0": 0.22
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsF43", "quantity": 1, "chance": 3e-05, "questLink": "N/A"},
+            {"item": "DropTable4", "quantity": 1, "chance": 0, "questLink": "N/A"}
+        ],
+        "mapData": null,
+        "navigation": null,
+        "bossData": null
+    },
+    "Spelunking3": {
+        "details": {
+            "Name": "One Way Opening",
+            "AFKtype": "Spelunking",
+            "MonsterFace": 0,
+            "MonsterOffsetX": 22,
+            "MonsterOffsetY": 38,
+            "HeightOfMonster": 30,
+            "MonsterMoving": 0,
+            "MovingFrame": 0,
+            "RespawnTime": 120,
+            "DeathFrame": 1,
+            "MonsterHPTotal": 5,
+            "Type": "oreType",
+            "SpecialType": "",
+            "ExpGiven": 500,
+            "ExpType": 19,
+            "Defence": 5000000,
+            "MoveSPEED": 0,
+            "Damages": [0, 1],
+            "DefFor0": 0.22
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsF48", "quantity": 1, "chance": 5e-06, "questLink": "N/A"},
+            {"item": "DropTable4", "quantity": 1, "chance": 0, "questLink": "N/A"}
+        ],
+        "mapData": null,
+        "navigation": null,
+        "bossData": null
+    },
+    "SpelunkingCard0": {
+        "details": {
+            "Name": "Fearful Tunnel",
+            "AFKtype": "Fighting",
+            "MonsterFace": 4,
+            "MonsterOffsetX": 42,
+            "MonsterOffsetY": 28,
+            "HeightOfMonster": 85,
+            "MonsterMoving": 1,
+            "MovingFrame": 4,
+            "RespawnTime": 86400,
+            "DeathFrame": 13,
+            "MonsterHPTotal": 420,
+            "Type": "monsterType",
+            "SpecialType": "a",
+            "ExpGiven": 12000,
+            "ExpType": 0,
+            "Defence": 600,
+            "MoveSPEED": 3,
+            "Damages": [1000, 1],
+            "DefFor0": 1223.26
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsD10", "quantity": 1, "chance": 0, "questLink": "N/A"},
+            {"item": "Spelunking0", "quantity": 1, "chance": 1, "questLink": "N/A"}
+        ],
+        "mapData": null,
+        "navigation": null,
+        "bossData": null
+    },
+    "SpelunkingCard1": {
+        "details": {
+            "Name": "Decaying Crevasse",
+            "AFKtype": "Fighting",
+            "MonsterFace": 4,
+            "MonsterOffsetX": 42,
+            "MonsterOffsetY": 28,
+            "HeightOfMonster": 85,
+            "MonsterMoving": 1,
+            "MovingFrame": 4,
+            "RespawnTime": 86400,
+            "DeathFrame": 13,
+            "MonsterHPTotal": 420,
+            "Type": "monsterType",
+            "SpecialType": "a",
+            "ExpGiven": 12000,
+            "ExpType": 0,
+            "Defence": 600,
+            "MoveSPEED": 3,
+            "Damages": [1000, 1],
+            "DefFor0": 1223.26
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsD10", "quantity": 1, "chance": 0, "questLink": "N/A"},
+            {"item": "Spelunking1", "quantity": 1, "chance": 1, "questLink": "N/A"}
+        ],
+        "mapData": null,
+        "navigation": null,
+        "bossData": null
+    },
+    "SpelunkingCard2": {
+        "details": {
+            "Name": "Buried Church",
+            "AFKtype": "Fighting",
+            "MonsterFace": 4,
+            "MonsterOffsetX": 42,
+            "MonsterOffsetY": 28,
+            "HeightOfMonster": 85,
+            "MonsterMoving": 1,
+            "MovingFrame": 4,
+            "RespawnTime": 86400,
+            "DeathFrame": 13,
+            "MonsterHPTotal": 420,
+            "Type": "monsterType",
+            "SpecialType": "a",
+            "ExpGiven": 12000,
+            "ExpType": 0,
+            "Defence": 600,
+            "MoveSPEED": 3,
+            "Damages": [1000, 1],
+            "DefFor0": 1223.26
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsD10", "quantity": 1, "chance": 0, "questLink": "N/A"},
+            {"item": "Spelunking2", "quantity": 1, "chance": 1, "questLink": "N/A"}
+        ],
+        "mapData": null,
+        "navigation": null,
+        "bossData": null
+    },
+    "SpelunkingCard3": {
+        "details": {
+            "Name": "One Way Opening",
+            "AFKtype": "Fighting",
+            "MonsterFace": 4,
+            "MonsterOffsetX": 42,
+            "MonsterOffsetY": 28,
+            "HeightOfMonster": 85,
+            "MonsterMoving": 1,
+            "MovingFrame": 4,
+            "RespawnTime": 86400,
+            "DeathFrame": 13,
+            "MonsterHPTotal": 420,
+            "Type": "monsterType",
+            "SpecialType": "a",
+            "ExpGiven": 12000,
+            "ExpType": 0,
+            "Defence": 600,
+            "MoveSPEED": 3,
+            "Damages": [1000, 1],
+            "DefFor0": 1223.26
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
+            {"item": "CardsD10", "quantity": 1, "chance": 0, "questLink": "N/A"},
+            {"item": "Spelunking3", "quantity": 1, "chance": 1, "questLink": "N/A"}
         ],
         "mapData": null,
         "navigation": null,

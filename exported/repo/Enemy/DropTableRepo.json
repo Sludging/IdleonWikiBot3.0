@@ -3,8 +3,6 @@
         "drops": [
             {"item": "COIN", "quantity": 1, "chance": 0, "questLink": "N/A"},
             {"item": "SmithingRecipes1", "quantity": 27, "chance": 0.008, "questLink": "N/A"},
-            {"item": "FoodHealth1", "quantity": 10, "chance": 0.25, "questLink": "N/A"},
-            {"item": "FoodPotMana1", "quantity": 5, "chance": 0.1, "questLink": "N/A"},
             {"item": "EquipmentHats5", "quantity": 1, "chance": 0.01, "questLink": "N/A"},
             {"item": "EquipmentPants10", "quantity": 1, "chance": 0.02, "questLink": "N/A"},
             {"item": "StampB3", "quantity": 1, "chance": 0.0012, "questLink": "N/A"},
@@ -17,9 +15,7 @@
     "DropTable2": {
         "drops": [
             {"item": "COIN", "quantity": 1, "chance": 0, "questLink": "N/A"},
-            {"item": "FoodHealth3", "quantity": 15, "chance": 0.35, "questLink": "N/A"},
             {"item": "EquipmentStatues1", "quantity": 1, "chance": 0.12, "questLink": "N/A"},
-            {"item": "FoodPotGr1", "quantity": 5, "chance": 0.1, "questLink": "N/A"},
             {"item": "FoodPotOr2", "quantity": 10, "chance": 0.2, "questLink": "N/A"},
             {"item": "rtt0", "quantity": 1, "chance": 0.02, "questLink": "N/A"},
             {"item": "EquipmentShirts21", "quantity": 1, "chance": 0.01, "questLink": "N/A"},
@@ -33,10 +29,8 @@
     "DropTable3": {
         "drops": [
             {"item": "COIN", "quantity": 1, "chance": 0, "questLink": "N/A"},
-            {"item": "FoodHealth2", "quantity": 15, "chance": 0.42, "questLink": "N/A"},
             {"item": "EquipmentStatues5", "quantity": 1, "chance": 0.12, "questLink": "N/A"},
             {"item": "SmithingRecipes1", "quantity": 39, "chance": 5e-05, "questLink": "N/A"},
-            {"item": "FoodPotMana2", "quantity": 10, "chance": 0.25, "questLink": "N/A"},
             {"item": "StoneT2", "quantity": 1, "chance": 0.03, "questLink": "N/A"},
             {"item": "rtt0", "quantity": 1, "chance": 0.05, "questLink": "N/A"},
             {"item": "Quest24", "quantity": 6, "chance": 0.5, "questLink": "Mutton4"},
@@ -229,11 +223,11 @@
         "drops": [
             {"item": "ExpBalloon1", "quantity": 1, "chance": 0.5, "questLink": "N/A"},
             {"item": "PremiumGem", "quantity": 4, "chance": 1, "questLink": "N/A"},
-            {"item": "Timecandy1", "quantity": 1, "chance": 0.4, "questLink": "N/A"},
-            {"item": "Timecandy2", "quantity": 1, "chance": 0.2, "questLink": "N/A"},
-            {"item": "Timecandy3", "quantity": 1, "chance": 0.05, "questLink": "N/A"},
-            {"item": "Timecandy4", "quantity": 1, "chance": 0.01, "questLink": "N/A"},
-            {"item": "Timecandy5", "quantity": 1, "chance": 0.003, "questLink": "N/A"},
+            {"item": "Timecandy1", "quantity": 1, "chance": 0.6, "questLink": "N/A"},
+            {"item": "Timecandy2", "quantity": 1, "chance": 0.4, "questLink": "N/A"},
+            {"item": "Timecandy3", "quantity": 1, "chance": 0.1, "questLink": "N/A"},
+            {"item": "Timecandy4", "quantity": 1, "chance": 0.03, "questLink": "N/A"},
+            {"item": "Timecandy5", "quantity": 1, "chance": 0.005, "questLink": "N/A"},
             {"item": "Timecandy6", "quantity": 1, "chance": 0.0003, "questLink": "N/A"}
         ],
         "subTable": "DropTable13"
@@ -528,5 +522,58 @@
             {"item": "StoneZ4", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
         ],
         "subTable": "SuperDropTable6"
+    },
+    "DropTable34": {
+        "drops": [
+            {"item": "COIN", "quantity": 1, "chance": 0, "questLink": "N/A"},
+            {"item": "FoodG14", "quantity": 1, "chance": 0.0004, "questLink": "N/A"},
+            {"item": "EquipmentStatues31", "quantity": 1, "chance": 0.0008, "questLink": "N/A"},
+            {"item": "Quest24", "quantity": 8, "chance": 0.5, "questLink": "Mutton4"},
+            {"item": "Quest22", "quantity": 3, "chance": 0.2, "questLink": "Mutton4"},
+            {"item": "SuperDropTable7", "quantity": 1, "chance": 0.005, "questLink": "N/A"}
+        ],
+        "subTable": "DropTable34"
+    },
+    "DropTable35": {
+        "drops": [
+            {"item": "COIN", "quantity": 1, "chance": 0, "questLink": "N/A"},
+            {"item": "Quest24", "quantity": 8, "chance": 0.5, "questLink": "Mutton4"},
+            {"item": "Quest22", "quantity": 3, "chance": 0.2, "questLink": "Mutton4"},
+            {"item": "SuperDropTable7", "quantity": 1, "chance": 0.005, "questLink": "N/A"}
+        ],
+        "subTable": "DropTable35"
+    },
+    "DropTable36": {
+        "drops": [
+            {"item": "COIN", "quantity": 1, "chance": 0, "questLink": "N/A"},
+            {"item": "Quest24", "quantity": 8, "chance": 0.5, "questLink": "Mutton4"},
+            {"item": "Quest22", "quantity": 3, "chance": 0.2, "questLink": "Mutton4"},
+            {"item": "SuperDropTable7", "quantity": 1, "chance": 0.005, "questLink": "N/A"}
+        ],
+        "subTable": "DropTable36"
+    },
+    "DropTable37": {
+        "drops": [
+            {"item": "COIN", "quantity": 1, "chance": 0, "questLink": "N/A"},
+            {"item": "Quest24", "quantity": 8, "chance": 0.5, "questLink": "Mutton4"},
+            {"item": "Quest22", "quantity": 3, "chance": 0.2, "questLink": "Mutton4"},
+            {"item": "SuperDropTable7", "quantity": 1, "chance": 0.005, "questLink": "N/A"}
+        ],
+        "subTable": "DropTable37"
+    },
+    "DropTable38": {
+        "drops": [
+            {"item": "COIN", "quantity": 1, "chance": 0, "questLink": "N/A"},
+            {"item": "SuperDropTable6", "quantity": 1, "chance": 0.006, "questLink": "N/A"}
+        ],
+        "subTable": "DropTable38"
+    },
+    "SuperDropTable7": {
+        "drops": [
+            {"item": "COIN", "quantity": 1, "chance": 0, "questLink": "N/A"},
+            {"item": "EquipmentStatues32", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "Trophy25", "quantity": 1, "chance": 2e-07, "questLink": "N/A"}
+        ],
+        "subTable": "SuperDropTable7"
     }
 }

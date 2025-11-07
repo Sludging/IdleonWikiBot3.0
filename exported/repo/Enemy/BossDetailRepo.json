@@ -1,17 +1,17 @@
 {
     "wolfA": {
-        "health": 30000,
+        "health": 60000,
         "defence": 5,
         "exp": 15000,
         "keys": 1,
         "attacks": [
-            {"name": "Fireball", "damage": 29},
-            {"name": "Stomp", "damage": 50},
-            {"name": "Rock Spikes", "damage": 32},
+            {"name": "Fireball", "damage": 50},
+            {"name": "Stomp", "damage": 70},
+            {"name": "Rock Spikes", "damage": 50},
             {"name": "Spike Traps", "damage": 35},
-            {"name": "Sword Swing", "damage": 40},
-            {"name": "Uppercut", "damage": 100},
-            {"name": "Rocketfist", "damage": 35}
+            {"name": "Sword Swing", "damage": 100},
+            {"name": "Uppercut", "damage": 150},
+            {"name": "Rocketfist", "damage": 90}
         ]
     },
     "wolfB": {
@@ -45,7 +45,7 @@
         ]
     },
     "Boss2A": {
-        "health": 1000000,
+        "health": 4000000,
         "defence": 150,
         "exp": 100000,
         "keys": 1,

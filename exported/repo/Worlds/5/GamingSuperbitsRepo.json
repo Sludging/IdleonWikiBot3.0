@@ -1,6 +1,6 @@
 {
-    "x1.03\u20a3 per Achievement you've unlocked (). Total bonus: x\u20a3": {
-        "description": "x1.03₣ per Achievement you've unlocked (). Total bonus: x₣",
+    "x1.03\u20a3 per Achievement you've unlocked ().   Total bonus: x\u20a3": {
+        "description": "x1.03₣ per Achievement you've unlocked ().   Total bonus: x₣",
         "x1": 1,
         "x2": 9,
         "name": "Bits Per Achievement"
@@ -71,8 +71,8 @@
         "x2": 38,
         "name": "MSA Class EXP"
     },
-    "+1% faster Library Checkout Speed per Gaming Lv. Total Bonus: +{% Spd": {
-        "description": "+1% faster Library Checkout Speed per Gaming Lv. Total Bonus: +{% Spd",
+    "+1% Library Checkout Speed per Gaming Lv.   Total Bonus: +{% Spd": {
+        "description": "+1% Library Checkout Speed per Gaming Lv.   Total Bonus: +{% Spd",
         "x1": 4,
         "x2": 19,
         "name": "Library Checkouts"
@@ -133,14 +133,152 @@
     },
     "+30% chance for +1 more bubble boosted by No Bubble Left Behind": {
         "description": "+30% chance for +1 more bubble boosted by No Bubble Left Behind",
-        "x1": 8,
-        "x2": 50,
+        "x1": 4,
+        "x2": 45,
         "name": "Even Moar Bubbles"
     },
     "All atoms now have +10 Max LV": {
         "description": "All atoms now have +10 Max LV",
-        "x1": 9,
-        "x2": 52,
+        "x1": 2,
+        "x2": 50,
         "name": "Isotope Discovery"
+    },
+    "1.01x Class EXP per Spelunk Discovery.           Total Bonus: x EXP": {
+        "description": "1.01x Class EXP per Spelunk Discovery.           Total Bonus: x EXP",
+        "x1": 5,
+        "x2": 51,
+        "name": "Classy Discoveries"
+    },
+    "Adds a new bonus to The Slab: +% Total Spelunking POW": {
+        "description": "Adds a new bonus to The Slab: +% Total Spelunking POW",
+        "x1": 2,
+        "x2": 53,
+        "name": "Slabby Spelunking"
+    },
+    "1.02x Artifact chance per Spelunk Discovery.          Total Bonus: x": {
+        "description": "1.02x Artifact chance per Spelunk Discovery.          Total Bonus: x",
+        "x1": 6,
+        "x2": 55,
+        "name": "Artifacto Discoveries"
+    },
+    "MSA now gives +1% Spelunking POW per 10 total Waves": {
+        "description": "MSA now gives +1% Spelunking POW per 10 total Waves",
+        "x1": 6,
+        "x2": 58,
+        "name": "MSA Spelunking"
+    },
+    "+20% Palette Luck per Snail LV over 25.        Total Bonus: +{% Luck": {
+        "description": "+20% Palette Luck per Snail LV over 25.        Total Bonus: +{% Luck",
+        "x1": 6,
+        "x2": 65,
+        "name": "Lucky Snail"
+    },
+    "The Immortal Snail now has +10 Max LV": {
+        "description": "The Immortal Snail now has +10 Max LV",
+        "x1": 5,
+        "x2": 71,
+        "name": "Snail Genesis"
+    },
+    "The Immortal Snail now has +5 Max LV": {
+        "description": "The Immortal Snail now has +5 Max LV",
+        "x1": 3,
+        "x2": 52,
+        "name": "Snail Omega"
+    },
+    "Monument reward multi increases normally for +10 more days": {
+        "description": "Monument reward multi increases normally for +10 more days",
+        "x1": 9,
+        "x2": 54,
+        "name": "Monument Infimulti"
+    },
+    "1.05x Collectible chance per Spelunk Discovery.       Total Bonus: x": {
+        "description": "1.05x Collectible chance per Spelunk Discovery.       Total Bonus: x",
+        "x1": 8,
+        "x2": 57,
+        "name": "Jar Jar Collectible"
+    },
+    "Collect Ultimate Cogs while there are 5+ left to get a Jewel Cog (1/day)": {
+        "description": "Collect Ultimate Cogs while there are 5+ left to get a Jewel Cog (1/day)",
+        "x1": 2,
+        "x2": 59,
+        "name": "Jewel Cogs"
+    },
+    "Adds a new bonus to slab when W7 Skill 2 comes out": {
+        "description": "Adds a new bonus to slab when W7 Skill 2 comes out",
+        "x1": 3,
+        "x2": 67,
+        "name": "Slabby Something"
+    },
+    "+10 Max LV for Equinox upgrades": {
+        "description": "+10 Max LV for Equinox upgrades",
+        "x1": 4,
+        "x2": 73,
+        "name": "Equinox Unending"
+    },
+    "Can use Spelunking tools you don't have enough stamina for": {
+        "description": "Can use Spelunking tools you don't have enough stamina for",
+        "x1": 6,
+        "x2": 58,
+        "name": "Any tool Any time"
+    },
+    "The Squirrel now has a new 3rd upgrade to spend acorns on": {
+        "description": "The Squirrel now has a new 3rd upgrade to spend acorns on",
+        "x1": 7,
+        "x2": 61,
+        "name": "Squirrel Triad"
+    },
+    "+1% Palette Luck per Total Colour LVs.          Total Bonus: +{% Luck": {
+        "description": "+1% Palette Luck per Total Colour LVs.          Total Bonus: +{% Luck",
+        "x1": 6,
+        "x2": 64,
+        "name": "Colourful Luck"
+    },
+    "If no Prayers equipped, get 2/5th bonus of all prayers, and no curses": {
+        "description": "If no Prayers equipped, get 2/5th bonus of all prayers, and no curses",
+        "x1": 2,
+        "x2": 69,
+        "name": "Prayers Begone"
+    },
+    "Adds a new bonus to slab when W7 Skill 3 comes out": {
+        "description": "Adds a new bonus to slab when W7 Skill 3 comes out",
+        "x1": 7,
+        "x2": 76,
+        "name": "Slabby Something"
+    },
+    "+1 Palette Colour Slot, and 2x total Palette Luck!": {
+        "description": "+1 Palette Colour Slot, and 2x total Palette Luck!",
+        "x1": 3,
+        "x2": 60,
+        "name": "Bigger Palette"
+    },
+    "Bolaia studies ALSO adjacent caverns, not just the selected one!": {
+        "description": "Bolaia studies ALSO adjacent caverns, not just the selected one!",
+        "x1": 6,
+        "x2": 63,
+        "name": "Peripheral Vision"
+    },
+    "MSA will give a bonus for W7 skill 2 when released...": {
+        "description": "MSA will give a bonus for W7 skill 2 when released...",
+        "x1": 1,
+        "x2": 68,
+        "name": "MSA Something"
+    },
+    "+3% Palette Luck per Gaming LV over 200.       Total Bonus: +{% Luck": {
+        "description": "+3% Palette Luck per Gaming LV over 200.       Total Bonus: +{% Luck",
+        "x1": 3,
+        "x2": 72,
+        "name": "Gamer Luck"
+    },
+    "MSA will give a bonus for W7 skill 3 when released...": {
+        "description": "MSA will give a bonus for W7 skill 3 when released...",
+        "x1": 6,
+        "x2": 74,
+        "name": "MSA Something"
+    },
+    "+1 LV for all Talents per 100 Class LV over 500.      Total Bonus: +{ LV": {
+        "description": "+1 LV for all Talents per 100 Class LV over 500.      Total Bonus: +{ LV",
+        "x1": 8,
+        "x2": 78,
+        "name": "Timmy Talented"
     }
 }

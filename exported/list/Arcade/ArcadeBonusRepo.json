@@ -288,7 +288,7 @@
         "barType": -1
     },
     {
-        "effect": "+{% Arti Find",
+        "effect": "+{% Artifact Find",
         "x1": 50,
         "x2": 100,
         "func": "decay",
@@ -493,5 +493,68 @@
         "type": "%",
         "lvlUpText": "+{% Bonus",
         "barType": 21
+    },
+    {
+        "effect": "+{% Spelunking Amber",
+        "x1": 50,
+        "x2": 100,
+        "func": "decay",
+        "type": "%",
+        "lvlUpText": "+{% Amber",
+        "barType": 28
+    },
+    {
+        "effect": "+{% Spelunk XP multi",
+        "x1": 30,
+        "x2": 100,
+        "func": "decay",
+        "type": "%",
+        "lvlUpText": "+{% XP multi",
+        "barType": 39
+    },
+    {
+        "effect": "+{% Daily Coral",
+        "x1": 10,
+        "x2": 100,
+        "func": "decay",
+        "type": "%",
+        "lvlUpText": "+{% Coral",
+        "barType": 41
+    },
+    {
+        "effect": "+{% Palette Luck",
+        "x1": 50,
+        "x2": 100,
+        "func": "decay",
+        "type": "%",
+        "lvlUpText": "+{% Luck",
+        "barType": 42
+    },
+    {
+        "effect": "+{% Meritocracy Bonus",
+        "x1": 10,
+        "x2": 100,
+        "func": "decay",
+        "type": "%",
+        "lvlUpText": "+{% Bonus",
+        "barType": 31
+    },
+    {
+        "effect": "+{% Class XP multi",
+        "x1": 50,
+        "x2": 100,
+        "func": "decay",
+        "type": "%",
+        "lvlUpText": "+{% XP multi",
+        "barType": 31
+    },
+    {
+        "effect": "+{% Kruk Bubble LVs",
+        "x1": 40,
+        "x2": 100,
+        "func": "decay",
+        "type": "%",
+        "lvlUpText": "+{% Bubble LV",
+        "barType": 22
     }
 ]

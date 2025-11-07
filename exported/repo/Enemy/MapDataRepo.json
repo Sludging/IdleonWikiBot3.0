@@ -69,7 +69,7 @@
         "enemy": "beanG",
         "world": "Blunder Hills",
         "map": {"intName": "GrasslandsC", "name": "Valley Of The Beans", "id": 14},
-        "portalRequirements": [40, 500]
+        "portalRequirements": [120, 2000]
     },
     "ratB": {
         "enemy": "ratB",
@@ -81,7 +81,7 @@
         "enemy": "slimeG",
         "world": "Blunder Hills",
         "map": {"intName": "JungleA", "name": "Jungle Perimeter", "id": 16},
-        "portalRequirements": [60, 3000]
+        "portalRequirements": [120, 3000]
     },
     "mushR": {
         "enemy": "mushR",
@@ -99,19 +99,19 @@
         "enemy": "snakeG",
         "world": "Blunder Hills",
         "map": {"intName": "JungleB", "name": "Winding Willows", "id": 19},
-        "portalRequirements": [100]
+        "portalRequirements": [130]
     },
     "carrotO": {
         "enemy": "carrotO",
         "world": "Blunder Hills",
         "map": {"intName": "JungleC", "name": "Vegetable Patch", "id": 24},
-        "portalRequirements": [125, 2000]
+        "portalRequirements": [130, 2000]
     },
     "goblinG": {
         "enemy": "goblinG",
         "world": "Blunder Hills",
         "map": {"intName": "ForestA", "name": "Forest Outskirts", "id": 26},
-        "portalRequirements": [150]
+        "portalRequirements": [130]
     },
     "plank": {
         "enemy": "plank",
@@ -153,19 +153,19 @@
         "enemy": "jarSand",
         "world": "Yum-Yum Desert",
         "map": {"intName": "zDesertCalmA", "name": "Jar Bridge", "id": 51},
-        "portalRequirements": [250]
+        "portalRequirements": [100]
     },
     "mimicA": {
         "enemy": "mimicA",
         "world": "Yum-Yum Desert",
         "map": {"intName": "zDesertCalmB", "name": "The Mimic Hole", "id": 52},
-        "portalRequirements": [600, 1000]
+        "portalRequirements": [120, 1000]
     },
     "crabcake": {
         "enemy": "crabcake",
         "world": "Yum-Yum Desert",
         "map": {"intName": "zDesertCalmC", "name": "Dessert Dunes", "id": 53},
-        "portalRequirements": [1000]
+        "portalRequirements": [150]
     },
     "FishSmall": {
         "enemy": "FishSmall",
@@ -183,25 +183,25 @@
         "enemy": "coconut",
         "world": "Yum-Yum Desert",
         "map": {"intName": "zDesertMildA", "name": "The Grandioso Canyon", "id": 57},
-        "portalRequirements": [1200]
+        "portalRequirements": [200]
     },
     "sandcastle": {
         "enemy": "sandcastle",
         "world": "Yum-Yum Desert",
         "map": {"intName": "zDesertMildB", "name": "Shifty Sandbox", "id": 58},
-        "portalRequirements": [1600]
+        "portalRequirements": [250]
     },
     "pincermin": {
         "enemy": "pincermin",
         "world": "Yum-Yum Desert",
         "map": {"intName": "zDesertMildC", "name": "Pincer Plateau", "id": 59},
-        "portalRequirements": [2000]
+        "portalRequirements": [300]
     },
     "potato": {
         "enemy": "potato",
         "world": "Yum-Yum Desert",
         "map": {"intName": "zDesertMildD", "name": "Slamabam Straightaway", "id": 60},
-        "portalRequirements": [2500, 0]
+        "portalRequirements": [500, 0]
     },
     "FishMed": {
         "enemy": "FishMed",
@@ -213,19 +213,19 @@
         "enemy": "steak",
         "world": "Yum-Yum Desert",
         "map": {"intName": "zDesertNightA", "name": "The Ring", "id": 62},
-        "portalRequirements": [3000]
+        "portalRequirements": [1000]
     },
     "moonman": {
         "enemy": "moonman",
         "world": "Yum-Yum Desert",
         "map": {"intName": "zDesertNightB", "name": "Up Up Down Down", "id": 63},
-        "portalRequirements": [4000]
+        "portalRequirements": [2000]
     },
     "sandgiant": {
         "enemy": "sandgiant",
         "world": "Yum-Yum Desert",
         "map": {"intName": "zDesertNightC", "name": "Sands of Time", "id": 64},
-        "portalRequirements": [5000]
+        "portalRequirements": [3000]
     },
     "snailZ": {
         "enemy": "snailZ",
@@ -568,5 +568,77 @@
         "world": "Spirited Valley",
         "map": {"intName": "vSpiritD3", "name": "Emperor's Castle Doorstep", "id": 264},
         "portalRequirements": [100]
+    },
+    "w7a1": {
+        "enemy": "w7a1",
+        "world": "Shimmerfin Deep",
+        "map": {"intName": "uAquaA1", "name": "Refraction Bend", "id": 301},
+        "portalRequirements": [100000]
+    },
+    "w7a2": {
+        "enemy": "w7a2",
+        "world": "Shimmerfin Deep",
+        "map": {"intName": "uAquaA2", "name": "Doodle Reef", "id": 302},
+        "portalRequirements": [250000]
+    },
+    "w7a3": {
+        "enemy": "w7a3",
+        "world": "Shimmerfin Deep",
+        "map": {"intName": "uAquaA3", "name": "Seaweed Street", "id": 303},
+        "portalRequirements": [10000000, 1500000]
+    },
+    "w7a4": {
+        "enemy": "w7a4",
+        "world": "Shimmerfin Deep",
+        "map": {"intName": "uAquaA4", "name": "Barnacle Curb", "id": 304},
+        "portalRequirements": [5000000]
+    },
+    "w7a5": {
+        "enemy": "w7a5",
+        "world": "Shimmerfin Deep",
+        "map": {"intName": "uAquaA5", "name": "Balloon Bay", "id": 305},
+        "portalRequirements": [20000000, 1000000]
+    },
+    "w7a6": {
+        "enemy": "w7a6",
+        "world": "Shimmerfin Deep",
+        "map": {"intName": "uAquaA6", "name": "The Clamworks", "id": 306},
+        "portalRequirements": [0]
+    },
+    "w7a7": {
+        "enemy": "w7a7",
+        "world": "Shimmerfin Deep",
+        "map": {"intName": "uAquaA7", "name": "Plastic Basin", "id": 307},
+        "portalRequirements": [250000000, 20000000]
+    },
+    "w7a8": {
+        "enemy": "w7a8",
+        "world": "Shimmerfin Deep",
+        "map": {"intName": "uAquaA8", "name": "Puffpuff Overpass", "id": 308},
+        "portalRequirements": [60000000]
+    },
+    "w7a9": {
+        "enemy": "w7a9",
+        "world": "Shimmerfin Deep",
+        "map": {"intName": "uAquaA9", "name": "Pinpoint Summit", "id": 309},
+        "portalRequirements": [0]
+    },
+    "w7a10": {
+        "enemy": "w7a10",
+        "world": "Shimmerfin Deep",
+        "map": {"intName": "uAquaA10", "name": "Middle of Nowhere", "id": 310},
+        "portalRequirements": [500000000, 75000000]
+    },
+    "w7a11": {
+        "enemy": "w7a11",
+        "world": "Shimmerfin Deep",
+        "map": {"intName": "uAquaA11", "name": "Coralcave Outskirts", "id": 311},
+        "portalRequirements": [1000000000]
+    },
+    "w7a12": {
+        "enemy": "w7a12",
+        "world": "Shimmerfin Deep",
+        "map": {"intName": "uAquaA12", "name": "Coralcave Perimeter", "id": 312},
+        "portalRequirements": [0]
     }
 }

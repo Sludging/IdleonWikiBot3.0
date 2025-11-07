@@ -335,5 +335,14 @@
     "Potti12": {"name": "Star Master", "difficulty": 7},
     "Potti15": {"name": "15 Time Champion", "difficulty": 8},
     "Potti18": {"name": "Armor of the Gods", "difficulty": 9},
-    "Potti21": {"name": "Spirit of the Hero", "difficulty": 8}
+    "Potti21": {"name": "Spirit of the Hero", "difficulty": 8},
+    "Sad Urie4": {"name": "Urie Wants to be a Millionaire", "difficulty": 7},
+    "Snootie2": {"name": "Lost Possum", "difficulty": 2},
+    "Snootie5": {"name": "Lost Amber", "difficulty": 4},
+    "Snootie8": {"name": "Lost Doll", "difficulty": 9},
+    "Bloo Radley1": {"name": "To Guide a Shypig", "difficulty": 2},
+    "Bloo Radley4": {"name": "The Hero's Journey", "difficulty": 4},
+    "Toobus Goobus4": {"name": "TUNNEL EXPLORING", "difficulty": 2},
+    "Toobus Goobus7": {"name": "FEAR HOLE! FEAR HOLE!", "difficulty": 1},
+    "Toobus Goobus10": {"name": "READING CHALLENGE", "difficulty": 3}
 }
