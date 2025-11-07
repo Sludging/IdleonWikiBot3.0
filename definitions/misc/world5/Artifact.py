@@ -16,3 +16,5 @@ class Artifact(IdleonModel):
 	eldritchBonusQty: Optional[Numeric] = None
 	sovereignBonus: Optional[str] = None
 	sovereignBonusQty: Optional[Numeric] = None
+	omnipotentBonus: Optional[str] = None
+	omnipotentBonusQty: Optional[Numeric] = None
