@@ -10,3 +10,4 @@ class Companion(IdleonModel):
 	x2: Integer
 	x3: Integer
 	x4: Integer
+	x5: Integer

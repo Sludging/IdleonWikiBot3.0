@@ -26,6 +26,9 @@ class IslandInfoRepo(Repository[IslandInfo]):
 
 			# Second index of box info has number of artifacts
 			line.append(boxInfo[n][2])
+			
+			# Convert string like '5000000000.0' to int safely
+			line[1] = int(float(line[1]))
 			cls.addList(IslandInfo.fromList(line))
 			if cls.contains(line[0]): continue
 			cls.add(line[0], IslandInfo.fromList(line))

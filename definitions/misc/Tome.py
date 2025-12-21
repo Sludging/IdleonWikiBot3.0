@@ -10,6 +10,7 @@ class TomeScaling(IdleonEnum):
 	decayLog = "1"
 	linearToMax = "2"
 	inverseDecay = "3"
+	boundedDecay = "4"
 
 
 class Tome(IdleonModel):
