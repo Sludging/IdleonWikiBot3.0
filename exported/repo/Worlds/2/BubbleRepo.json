@@ -6,7 +6,7 @@
                 "name": "Roid Ragin",
                 "x1": 1,
                 "x2": 0,
-                "func": "add",
+                "func": "addDECAY",
                 "description": "+{ Total STR for all players, always.",
                 "requirements": [{"item": "Copper", "quantity": 1}, {"liquidNo": "1", "quantity": 2}],
                 "bonusKey": "TotalSTR"
@@ -56,7 +56,7 @@
                 "name": "Big Meaty Claws",
                 "x1": 4,
                 "x2": 0,
-                "func": "add",
+                "func": "addDECAY",
                 "description": "Increases base damage by +$. This bonus increases based on how much Max HP you have above 250.",
                 "requirements": [{"item": "DesertB2", "quantity": 200}, {"liquidNo": "1", "quantity": 4}],
                 "bonusKey": "bdmgHP"
@@ -86,7 +86,7 @@
                 "name": "Fmj",
                 "x1": 0.5,
                 "x2": 0,
-                "func": "add",
+                "func": "addDECAY",
                 "description": "+{% more defence from Equipment. Also, +1 base Def per Class LV, up to +{.",
                 "requirements": [{"item": "Bug4", "quantity": 50}, {"liquidNo": "1", "quantity": 5}],
                 "bonusKey": "DefPct"
@@ -366,7 +366,7 @@
                 "name": "Swift Steppin",
                 "x1": 1,
                 "x2": 0,
-                "func": "add",
+                "func": "addDECAY",
                 "description": "+{ Total AGI for all players, always.",
                 "requirements": [{"item": "DesertA1", "quantity": 1}, {"liquidNo": "1", "quantity": 2}],
                 "bonusKey": "TotalAGI"
@@ -416,7 +416,7 @@
                 "name": "Quick Slap",
                 "x1": 4,
                 "x2": 0,
-                "func": "add",
+                "func": "addDECAY",
                 "description": "Increases base damage by +$. This bonus increases based on how much Movement Speed you have above 110%.",
                 "requirements": [{"item": "DesertB1", "quantity": 90}, {"liquidNo": "1", "quantity": 4}],
                 "bonusKey": "bdmgSPD"
@@ -446,7 +446,7 @@
                 "name": "Shaquracy",
                 "x1": 1,
                 "x2": 0,
-                "func": "add",
+                "func": "addDECAY",
                 "description": "Your secondary stat (WIS for warrior, STR for archer, AGI for mage) gives +{% more Accuracy than normal.",
                 "requirements": [{"item": "Fish4", "quantity": 65}, {"liquidNo": "1", "quantity": 5}],
                 "bonusKey": "AccPct"
@@ -726,7 +726,7 @@
                 "name": "Stable Jenius",
                 "x1": 1,
                 "x2": 0,
-                "func": "add",
+                "func": "addDECAY",
                 "description": "+{ Total WIS for all players, always.",
                 "requirements": [{"item": "OakTree", "quantity": 1}, {"liquidNo": "1", "quantity": 2}],
                 "bonusKey": "TotalWIS"
@@ -776,7 +776,7 @@
                 "name": "Name I Guess",
                 "x1": 4,
                 "x2": 0,
-                "func": "add",
+                "func": "addDECAY",
                 "description": "Increases base damage by +$. This bonus increases based on how much Max MP you have above 150.",
                 "requirements": [{"item": "Gold", "quantity": 40}, {"liquidNo": "1", "quantity": 4}],
                 "bonusKey": "bdmgMP"
@@ -1086,7 +1086,7 @@
                 "name": "Lotto Skills",
                 "x1": 1,
                 "x2": 0,
-                "func": "add",
+                "func": "addDECAY",
                 "description": "+{ LUK for all players, always.",
                 "requirements": [{"item": "CraftMat1", "quantity": 1}, {"liquidNo": "1", "quantity": 2}],
                 "bonusKey": "TotalLUK"
@@ -1136,7 +1136,7 @@
                 "name": "Stamp Tramp",
                 "x1": 1,
                 "x2": 0,
-                "func": "add",
+                "func": "addDECAY",
                 "description": "Increases the Max Lv of the 'Toilet Paper Postage' Talent to {. You unlock this talent by typing 'More like Poopy Pete' near Pete.",
                 "requirements": [{"item": "Bug2", "quantity": 45}, {"liquidNo": "1", "quantity": 4}],
                 "bonusKey": "TPpostage"
@@ -1186,7 +1186,7 @@
                 "name": "Cogs For Hands",
                 "x1": 4,
                 "x2": 0,
-                "func": "add",
+                "func": "addDECAY",
                 "description": "+{% Cog Production speed. Cogs are great. I really really like cogs. I guess you could say I think they're pretty Coggers...",
                 "requirements": [{"item": "SnowA2", "quantity": 50}, {"liquidNo": "2", "quantity": 3}],
                 "bonusKey": "CogMakeSpd"

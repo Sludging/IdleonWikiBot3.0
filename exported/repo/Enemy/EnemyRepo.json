@@ -1835,7 +1835,7 @@
             {"item": "DropTable8", "quantity": 1, "chance": 0.4, "questLink": "N/A"},
             {"item": "DropTable9", "quantity": 1, "chance": 0.6, "questLink": "N/A"},
             {"item": "DropTable11", "quantity": 1, "chance": 0.5, "questLink": "N/A"},
-            {"item": "DropTable5b", "quantity": 3, "chance": 1, "questLink": "N/A"}
+            {"item": "DropTable5c", "quantity": 3, "chance": 1, "questLink": "N/A"}
         ],
         "mapData": null,
         "navigation": {
@@ -2139,7 +2139,7 @@
             "enemy": "frogG",
             "world": "Blunder Hills",
             "map": {"intName": "GrasslandsB", "name": "Froggy Fields", "id": 2},
-            "portalRequirements": [30]
+            "portalRequirements": [25]
         },
         "navigation": {
             "prev": "mushR",
@@ -2185,7 +2185,7 @@
             "enemy": "beanG",
             "world": "Blunder Hills",
             "map": {"intName": "GrasslandsC", "name": "Valley Of The Beans", "id": 14},
-            "portalRequirements": [120, 2000]
+            "portalRequirements": [50, 2000]
         },
         "navigation": {
             "prev": "frogG",
@@ -2232,7 +2232,7 @@
             "enemy": "slimeG",
             "world": "Blunder Hills",
             "map": {"intName": "JungleA", "name": "Jungle Perimeter", "id": 16},
-            "portalRequirements": [120, 3000]
+            "portalRequirements": [60, 3000]
         },
         "navigation": {
             "prev": "beanG",
@@ -2281,7 +2281,7 @@
             "enemy": "snakeG",
             "world": "Blunder Hills",
             "map": {"intName": "JungleB", "name": "Winding Willows", "id": 19},
-            "portalRequirements": [130]
+            "portalRequirements": [90]
         },
         "navigation": {
             "prev": "slimeG",
@@ -2325,7 +2325,7 @@
             "enemy": "carrotO",
             "world": "Blunder Hills",
             "map": {"intName": "JungleC", "name": "Vegetable Patch", "id": 24},
-            "portalRequirements": [130, 2000]
+            "portalRequirements": [120, 2000]
         },
         "navigation": {
             "prev": "snakeG",
@@ -2409,6 +2409,7 @@
             {"item": "CardsA8", "quantity": 1, "chance": 0.018, "questLink": "N/A"},
             {"item": "SmithingRecipes1", "quantity": 48, "chance": 3e-05, "questLink": "N/A"},
             {"item": "Quest12", "quantity": 1, "chance": 0.3, "questLink": "Dog_Bone1"},
+            {"item": "FoodHealth3", "quantity": 1, "chance": 0.02, "questLink": "N/A"},
             {"item": "EquipmentShirts19", "quantity": 1, "chance": 1e-05, "questLink": "N/A"},
             {"item": "DropTable3", "quantity": 1, "chance": 0.0045, "questLink": "N/A"}
         ],
@@ -2454,6 +2455,7 @@
             {"item": "Forest3", "quantity": 1, "chance": 0.14, "questLink": "N/A"},
             {"item": "CardsA9", "quantity": 1, "chance": 0.007, "questLink": "N/A"},
             {"item": "StampA10", "quantity": 1, "chance": 3e-05, "questLink": "N/A"},
+            {"item": "FoodHealth3", "quantity": 1, "chance": 0.01, "questLink": "N/A"},
             {"item": "FoodPotRe2", "quantity": 5, "chance": 0.001, "questLink": "N/A"},
             {"item": "StampA8", "quantity": 1, "chance": 0.0003, "questLink": "Papua_Piggea1"},
             {"item": "ObolBronzePop", "quantity": 1, "chance": 1e-05, "questLink": "N/A"},
@@ -8143,6 +8145,44 @@
         "navigation": null,
         "bossData": null
     },
+    "xmasEvent4": {
+        "details": {
+            "Name": "Big Ol Giftmas Box",
+            "AFKtype": "Fighting",
+            "MonsterFace": 4,
+            "MonsterOffsetX": 42,
+            "MonsterOffsetY": 28,
+            "HeightOfMonster": 85,
+            "MonsterMoving": 1,
+            "MovingFrame": 4,
+            "RespawnTime": 86400,
+            "DeathFrame": 13,
+            "MonsterHPTotal": 750000,
+            "Type": "monsterType",
+            "SpecialType": "a",
+            "ExpGiven": 12000,
+            "ExpType": 0,
+            "Defence": 600,
+            "MoveSPEED": 3,
+            "Damages": [1000, 1],
+            "DefFor0": 1223.26
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 69, "chance": 0.5, "questLink": "N/A"},
+            {"item": "CardsY21", "quantity": 1, "chance": 0, "questLink": "N/A"},
+            {"item": "EquipmentNametag11", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentNametag14", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats125", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats126", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats42", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats88", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats85", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats111", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ],
+        "mapData": null,
+        "navigation": null,
+        "bossData": null
+    },
     "loveEvent": {
         "details": {
             "Name": "Loveulyte",
@@ -8520,13 +8560,49 @@
             {"item": "COIN", "quantity": 69, "chance": 0.5, "questLink": "N/A"},
             {"item": "CardsY2", "quantity": 1, "chance": 0, "questLink": "N/A"},
             {"item": "PremiumGem", "quantity": 1, "chance": 0.2, "questLink": "N/A"},
-            {"item": "Timecandy8", "quantity": 1, "chance": 0.1, "questLink": "N/A"},
             {"item": "EquipmentHats108", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
             {"item": "EquipmentHats116", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
             {"item": "EquipmentHats115", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
             {"item": "EquipmentHats24", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
             {"item": "EquipmentHats117", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
             {"item": "EquipmentHats47", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ],
+        "mapData": null,
+        "navigation": null,
+        "bossData": null
+    },
+    "cropfallEvent1": {
+        "details": {
+            "Name": "Bort The Cornhusk",
+            "AFKtype": "Fighting",
+            "MonsterFace": 4,
+            "MonsterOffsetX": 42,
+            "MonsterOffsetY": 28,
+            "HeightOfMonster": 85,
+            "MonsterMoving": 1,
+            "MovingFrame": 4,
+            "RespawnTime": 86400,
+            "DeathFrame": 13,
+            "MonsterHPTotal": 750000,
+            "Type": "monsterType",
+            "SpecialType": "a",
+            "ExpGiven": 12000,
+            "ExpType": 0,
+            "Defence": 600,
+            "MoveSPEED": 3,
+            "Damages": [1000, 1],
+            "DefFor0": 1223.26
+        },
+        "drops": [
+            {"item": "COIN", "quantity": 69, "chance": 0.5, "questLink": "N/A"},
+            {"item": "CardsY2", "quantity": 1, "chance": 0, "questLink": "N/A"},
+            {"item": "PremiumGem", "quantity": 1, "chance": 0.2, "questLink": "N/A"},
+            {"item": "Gfoodcoupon", "quantity": 1, "chance": 0.5, "questLink": "N/A"},
+            {"item": "EquipmentHats86", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats117", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentNametag12", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentNametag9", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats73", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
         ],
         "mapData": null,
         "navigation": null,
@@ -8965,7 +9041,7 @@
             "MonsterMoving": 1,
             "MovingFrame": 6,
             "RespawnTime": 40,
-            "DeathFrame": 13,
+            "DeathFrame": 14,
             "MonsterHPTotal": 14000,
             "Type": "monsterType",
             "SpecialType": "",
@@ -9019,7 +9095,7 @@
             "MonsterMoving": 1,
             "MovingFrame": 6,
             "RespawnTime": 40,
-            "DeathFrame": 12,
+            "DeathFrame": 13,
             "MonsterHPTotal": 14000,
             "Type": "monsterType",
             "SpecialType": "",
@@ -9100,7 +9176,7 @@
             "MonsterMoving": 1,
             "MovingFrame": 6,
             "RespawnTime": 40,
-            "DeathFrame": 11,
+            "DeathFrame": 12,
             "MonsterHPTotal": 14000,
             "Type": "monsterType",
             "SpecialType": "",
@@ -9135,6 +9211,33 @@
             "ExpType": 0,
             "Defence": 1,
             "MoveSPEED": 3,
+            "Damages": [2, 1],
+            "DefFor0": 0.5
+        },
+        "drops": null,
+        "mapData": null,
+        "navigation": null,
+        "bossData": null
+    },
+    "bubba": {
+        "details": {
+            "Name": "Bubba the Seal",
+            "AFKtype": "Fighting",
+            "MonsterFace": 23,
+            "MonsterOffsetX": 38,
+            "MonsterOffsetY": 47,
+            "HeightOfMonster": 70,
+            "MonsterMoving": 1,
+            "MovingFrame": 12,
+            "RespawnTime": 40,
+            "DeathFrame": 20,
+            "MonsterHPTotal": 14000,
+            "Type": "monsterType",
+            "SpecialType": "",
+            "ExpGiven": 420,
+            "ExpType": 0,
+            "Defence": 1,
+            "MoveSPEED": 4,
             "Damages": [2, 1],
             "DefFor0": 0.5
         },
@@ -11446,7 +11549,7 @@
         "drops": [
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
             {"item": "CardsF26", "quantity": 1, "chance": 2e-05, "questLink": "N/A"},
-            {"item": "DropTable25", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
+            {"item": "DropTable23", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
         ],
         "mapData": null,
         "navigation": null,
@@ -11477,7 +11580,7 @@
         "drops": [
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
             {"item": "CardsF27", "quantity": 1, "chance": 2e-05, "questLink": "N/A"},
-            {"item": "DropTable26", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
+            {"item": "DropTable23", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
         ],
         "mapData": null,
         "navigation": null,
@@ -11508,7 +11611,7 @@
         "drops": [
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
             {"item": "CardsF27", "quantity": 1, "chance": 1e-08, "questLink": "N/A"},
-            {"item": "DropTable26", "quantity": 1, "chance": 1e-08, "questLink": "N/A"}
+            {"item": "DropTable23", "quantity": 1, "chance": 1e-08, "questLink": "N/A"}
         ],
         "mapData": null,
         "navigation": null,
@@ -11539,7 +11642,7 @@
         "drops": [
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
             {"item": "CardsF37", "quantity": 1, "chance": 5e-06, "questLink": "N/A"},
-            {"item": "DropTable29", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
+            {"item": "DropTable23", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
         ],
         "mapData": null,
         "navigation": null,
@@ -11570,7 +11673,7 @@
         "drops": [
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
             {"item": "CardsF38", "quantity": 1, "chance": 1e-06, "questLink": "N/A"},
-            {"item": "DropTable30", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
+            {"item": "DropTable23", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
         ],
         "mapData": null,
         "navigation": null,
@@ -11601,7 +11704,7 @@
         "drops": [
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
             {"item": "CardsF46", "quantity": 1, "chance": 1e-06, "questLink": "N/A"},
-            {"item": "DropTable30", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
+            {"item": "DropTable23", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
         ],
         "mapData": null,
         "navigation": null,

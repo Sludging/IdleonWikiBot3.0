@@ -81,7 +81,6 @@
     "DropTable5b": {
         "sources": [
             {"name": "Crystal0", "chance": 1, "quantity": 2},
-            {"name": "Crystal1", "chance": 1, "quantity": 3},
             {"name": "Crystal2", "chance": 1, "quantity": 3},
             {"name": "mushW", "chance": 0.002, "quantity": 1}
         ]
@@ -152,6 +151,9 @@
             {"name": "PalmTree", "chance": 0.015, "quantity": 2}
         ]
     },
+    "DropTable5c": {"sources": [
+        {"name": "Crystal1", "chance": 1, "quantity": 3}
+    ]},
     "DropTable14": {
         "sources": [
             {"name": "Crystal2", "chance": 0.6, "quantity": 1},
@@ -263,8 +265,7 @@
             {"name": "Boss5A", "chance": 1, "quantity": 2},
             {"name": "Boss5B", "chance": 1, "quantity": 2},
             {"name": "Boss5C", "chance": 1, "quantity": 2},
-            {"name": "ChestA5", "chance": 1, "quantity": 1},
-            {"name": "Bug9", "chance": 0.015, "quantity": 1}
+            {"name": "ChestA5", "chance": 1, "quantity": 1}
         ]
     },
     "DropTable26": {
@@ -278,9 +279,7 @@
             {"name": "w5b6", "chance": 0.0035, "quantity": 1},
             {"name": "Boss5A", "chance": 1, "quantity": 2},
             {"name": "Boss5B", "chance": 1, "quantity": 2},
-            {"name": "ChestB5", "chance": 1, "quantity": 1},
-            {"name": "Bug10", "chance": 0.015, "quantity": 1},
-            {"name": "Bug11", "chance": 1e-08, "quantity": 1}
+            {"name": "ChestB5", "chance": 1, "quantity": 1}
         ]
     },
     "DropTable27": {
@@ -310,8 +309,7 @@
             {"name": "w6a5", "chance": 0.0037, "quantity": 1},
             {"name": "ChestA6", "chance": 1, "quantity": 1},
             {"name": "ChestB6", "chance": 1, "quantity": 1},
-            {"name": "ChestC6", "chance": 1, "quantity": 1},
-            {"name": "Bug12", "chance": 0.015, "quantity": 1}
+            {"name": "ChestC6", "chance": 1, "quantity": 1}
         ]
     },
     "DropTable30": {
@@ -324,9 +322,7 @@
             {"name": "Boss6", "chance": 1, "quantity": 2},
             {"name": "Boss6A", "chance": 1, "quantity": 2},
             {"name": "Boss6B", "chance": 1, "quantity": 2},
-            {"name": "Boss6C", "chance": 1, "quantity": 2},
-            {"name": "Bug13", "chance": 0.015, "quantity": 1},
-            {"name": "Bug15", "chance": 0.015, "quantity": 1}
+            {"name": "Boss6C", "chance": 1, "quantity": 2}
         ]
     },
     "DropTable31": {
@@ -412,7 +408,13 @@
     "DropTable23": {
         "sources": [
             {"name": "Bug7", "chance": 0.015, "quantity": 1},
-            {"name": "Bug8", "chance": 0.015, "quantity": 1}
+            {"name": "Bug8", "chance": 0.015, "quantity": 1},
+            {"name": "Bug9", "chance": 0.015, "quantity": 1},
+            {"name": "Bug10", "chance": 0.015, "quantity": 1},
+            {"name": "Bug11", "chance": 1e-08, "quantity": 1},
+            {"name": "Bug12", "chance": 0.015, "quantity": 1},
+            {"name": "Bug13", "chance": 0.015, "quantity": 1},
+            {"name": "Bug15", "chance": 0.015, "quantity": 1}
         ]
     },
     "SuperDropTable1": {
@@ -608,7 +610,13 @@
             {"name": "AlienTree", "chance": 4.89e-05, "quantity": 2},
             {"name": "Tree8", "chance": 5.34e-05, "quantity": 1},
             {"name": "Bug7", "chance": 9e-05, "quantity": 1},
-            {"name": "Bug8", "chance": 9e-05, "quantity": 1}
+            {"name": "Bug8", "chance": 9e-05, "quantity": 1},
+            {"name": "Bug9", "chance": 9e-05, "quantity": 1},
+            {"name": "Bug10", "chance": 9e-05, "quantity": 1},
+            {"name": "Bug11", "chance": 6e-11, "quantity": 1},
+            {"name": "Bug12", "chance": 9e-05, "quantity": 1},
+            {"name": "Bug13", "chance": 9e-05, "quantity": 1},
+            {"name": "Bug15", "chance": 9e-05, "quantity": 1}
         ]
     },
     "SuperDropTable5": {
@@ -623,7 +631,6 @@
             {"name": "Boss5B", "chance": 0.005, "quantity": 2},
             {"name": "Boss5C", "chance": 0.005, "quantity": 2},
             {"name": "ChestA5", "chance": 0.005, "quantity": 1},
-            {"name": "Bug9", "chance": 7.5e-05, "quantity": 1},
             {"name": "Crystal4", "chance": 0.001, "quantity": 1},
             {"name": "w5b1", "chance": 1.25e-05, "quantity": 1},
             {"name": "w5b2", "chance": 1.25e-05, "quantity": 1},
@@ -634,8 +641,6 @@
             {"name": "Boss5A", "chance": 0.005, "quantity": 2},
             {"name": "Boss5B", "chance": 0.005, "quantity": 2},
             {"name": "ChestB5", "chance": 0.005, "quantity": 1},
-            {"name": "Bug10", "chance": 7.5e-05, "quantity": 1},
-            {"name": "Bug11", "chance": 5e-11, "quantity": 1},
             {"name": "Crystal4", "chance": 0.00085, "quantity": 1},
             {"name": "w5c1", "chance": 1.4e-05, "quantity": 1},
             {"name": "w5c2", "chance": 1.75e-05, "quantity": 1},
@@ -658,7 +663,6 @@
             {"name": "ChestA6", "chance": 0.005, "quantity": 1},
             {"name": "ChestB6", "chance": 0.005, "quantity": 1},
             {"name": "ChestC6", "chance": 0.005, "quantity": 1},
-            {"name": "Bug12", "chance": 7.5e-05, "quantity": 1},
             {"name": "Crystal5", "chance": 0.001, "quantity": 1},
             {"name": "w6b1", "chance": 1.25e-05, "quantity": 1},
             {"name": "w6b2", "chance": 1.25e-05, "quantity": 1},
@@ -668,8 +672,6 @@
             {"name": "Boss6A", "chance": 0.005, "quantity": 2},
             {"name": "Boss6B", "chance": 0.005, "quantity": 2},
             {"name": "Boss6C", "chance": 0.005, "quantity": 2},
-            {"name": "Bug13", "chance": 7.5e-05, "quantity": 1},
-            {"name": "Bug15", "chance": 7.5e-05, "quantity": 1},
             {"name": "Crystal5", "chance": 0.00085, "quantity": 1},
             {"name": "w6c1", "chance": 1.65e-05, "quantity": 1},
             {"name": "w6c2", "chance": 1.75e-05, "quantity": 1},

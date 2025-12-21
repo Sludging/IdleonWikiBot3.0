@@ -15,7 +15,7 @@
         "enemy": "frogG",
         "world": "Blunder Hills",
         "map": {"intName": "GrasslandsB", "name": "Froggy Fields", "id": 2},
-        "portalRequirements": [30]
+        "portalRequirements": [25]
     },
     {
         "enemy": "JungleZ",
@@ -87,7 +87,7 @@
         "enemy": "beanG",
         "world": "Blunder Hills",
         "map": {"intName": "GrasslandsC", "name": "Valley Of The Beans", "id": 14},
-        "portalRequirements": [120, 2000]
+        "portalRequirements": [50, 2000]
     },
     {
         "enemy": "ratB",
@@ -99,7 +99,7 @@
         "enemy": "slimeG",
         "world": "Blunder Hills",
         "map": {"intName": "JungleA", "name": "Jungle Perimeter", "id": 16},
-        "portalRequirements": [120, 3000]
+        "portalRequirements": [60, 3000]
     },
     {
         "enemy": "mushR",
@@ -117,7 +117,7 @@
         "enemy": "snakeG",
         "world": "Blunder Hills",
         "map": {"intName": "JungleB", "name": "Winding Willows", "id": 19},
-        "portalRequirements": [130]
+        "portalRequirements": [90]
     },
     {
         "enemy": "Nothing",
@@ -147,7 +147,7 @@
         "enemy": "carrotO",
         "world": "Blunder Hills",
         "map": {"intName": "JungleC", "name": "Vegetable Patch", "id": 24},
-        "portalRequirements": [130, 2000]
+        "portalRequirements": [120, 2000]
     },
     {
         "enemy": "Nothing",

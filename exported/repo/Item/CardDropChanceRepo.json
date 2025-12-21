@@ -131,6 +131,7 @@
     "CardsJ11": {"dropChance": 1.5e-07},
     "CardsJ12": {"dropChance": 1e-07},
     "CardsY0": {"dropChance": 0.05},
+    "CardsY21": {"dropChance": 0},
     "CardsY3": {"dropChance": 0.05},
     "CardsY6": {"dropChance": 0.05},
     "CardsY7": {"dropChance": 0.05},

@@ -125,7 +125,7 @@
         "scalingType": "inverseDecay",
         "totalVal": 350,
         "decimalDisplay": null,
-        "desc": "In other words, the chance for a crystal mob spawn on kill, so 1 in N."
+        "desc": "This tracks your Crystal Mob spawn chance! While this is capped at 1 in 100, you get BONUS Exp and Drops if your Crystal Spawn is better! For example, if your average kills is 20, you're getting 5x Exp and Drops from Crystals!"
     },
     {
         "name": "Dungeon Rank",
@@ -169,9 +169,9 @@
     },
     {
         "name": "Total Bubble LV",
-        "keyQty": 200000,
-        "scalingType": "decay",
-        "totalVal": 1200,
+        "keyQty": 1000000,
+        "scalingType": "boundedDecay",
+        "totalVal": 1750,
         "decimalDisplay": null,
         "desc": null
     },
@@ -845,7 +845,7 @@
         "scalingType": "linearToMax",
         "totalVal": 250,
         "decimalDisplay": null,
-        "desc": "Hey this one's about me! In order to get credit for watching one of my streams, you need to get a gem drop from me while I'm live on twitch at Twitch.tv/lava贫flame2"
+        "desc": "Hey this one's about me! In order to get credit for watching one of my streams, you need to get a gem drop from me while I'm live on twitch at     Twitch.tv/ lava贫flame2"
     },
     {
         "name": "Nametags Found 膛",
@@ -854,5 +854,21 @@
         "totalVal": 700,
         "decimalDisplay": null,
         "desc": "This only counts the amount of unique nametags you found... but don't throw away your duplicate nametags! You'll need them for The Gallery in World 7!"
+    },
+    {
+        "name": "Megaflesh Earned from Bubba",
+        "keyQty": 12,
+        "scalingType": "decay",
+        "totalVal": 250,
+        "decimalDisplay": null,
+        "desc": null
+    },
+    {
+        "name": "Premium Hats Found 膛",
+        "keyQty": 75,
+        "scalingType": "linearToMax",
+        "totalVal": 700,
+        "decimalDisplay": null,
+        "desc": "This metric is based on the total hats you've deposited to the Hat Rack in World 3!"
     }
 ]

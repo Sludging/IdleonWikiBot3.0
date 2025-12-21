@@ -235,7 +235,7 @@
             {"item": "DropTable8", "quantity": 1, "chance": 0.4, "questLink": "N/A"},
             {"item": "DropTable9", "quantity": 1, "chance": 0.6, "questLink": "N/A"},
             {"item": "DropTable11", "quantity": 1, "chance": 0.5, "questLink": "N/A"},
-            {"item": "DropTable5b", "quantity": 3, "chance": 1, "questLink": "N/A"}
+            {"item": "DropTable5c", "quantity": 3, "chance": 1, "questLink": "N/A"}
         ]
     },
     "Crystal2": {
@@ -402,6 +402,7 @@
             {"item": "CardsA8", "quantity": 1, "chance": 0.018, "questLink": "N/A"},
             {"item": "SmithingRecipes1", "quantity": 48, "chance": 3e-05, "questLink": "N/A"},
             {"item": "Quest12", "quantity": 1, "chance": 0.3, "questLink": "Dog_Bone1"},
+            {"item": "FoodHealth3", "quantity": 1, "chance": 0.02, "questLink": "N/A"},
             {"item": "EquipmentShirts19", "quantity": 1, "chance": 1e-05, "questLink": "N/A"},
             {"item": "DropTable3", "quantity": 1, "chance": 0.0045, "questLink": "N/A"}
         ]
@@ -412,6 +413,7 @@
             {"item": "Forest3", "quantity": 1, "chance": 0.14, "questLink": "N/A"},
             {"item": "CardsA9", "quantity": 1, "chance": 0.007, "questLink": "N/A"},
             {"item": "StampA10", "quantity": 1, "chance": 3e-05, "questLink": "N/A"},
+            {"item": "FoodHealth3", "quantity": 1, "chance": 0.01, "questLink": "N/A"},
             {"item": "FoodPotRe2", "quantity": 5, "chance": 0.001, "questLink": "N/A"},
             {"item": "StampA8", "quantity": 1, "chance": 0.0003, "questLink": "Papua_Piggea1"},
             {"item": "ObolBronzePop", "quantity": 1, "chance": 1e-05, "questLink": "N/A"},
@@ -2002,6 +2004,20 @@
             {"item": "FoodEvent4", "quantity": 2, "chance": 0.25, "questLink": "N/A"}
         ]
     },
+    "xmasEvent4": {
+        "drops": [
+            {"item": "COIN", "quantity": 69, "chance": 0.5, "questLink": "N/A"},
+            {"item": "CardsY21", "quantity": 1, "chance": 0, "questLink": "N/A"},
+            {"item": "EquipmentNametag11", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentNametag14", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats125", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats126", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats42", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats88", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats85", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats111", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ]
+    },
     "slimeR": {
         "drops": [
             {"item": "COIN", "quantity": 10, "chance": 0.5, "questLink": "N/A"},
@@ -2169,13 +2185,25 @@
             {"item": "COIN", "quantity": 69, "chance": 0.5, "questLink": "N/A"},
             {"item": "CardsY2", "quantity": 1, "chance": 0, "questLink": "N/A"},
             {"item": "PremiumGem", "quantity": 1, "chance": 0.2, "questLink": "N/A"},
-            {"item": "Timecandy8", "quantity": 1, "chance": 0.1, "questLink": "N/A"},
             {"item": "EquipmentHats108", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
             {"item": "EquipmentHats116", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
             {"item": "EquipmentHats115", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
             {"item": "EquipmentHats24", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
             {"item": "EquipmentHats117", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
             {"item": "EquipmentHats47", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+        ]
+    },
+    "cropfallEvent1": {
+        "drops": [
+            {"item": "COIN", "quantity": 69, "chance": 0.5, "questLink": "N/A"},
+            {"item": "CardsY2", "quantity": 1, "chance": 0, "questLink": "N/A"},
+            {"item": "PremiumGem", "quantity": 1, "chance": 0.2, "questLink": "N/A"},
+            {"item": "Gfoodcoupon", "quantity": 1, "chance": 0.5, "questLink": "N/A"},
+            {"item": "EquipmentHats86", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats117", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentNametag12", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentNametag9", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats73", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
         ]
     },
     "Copper": {
@@ -2682,42 +2710,42 @@
         "drops": [
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
             {"item": "CardsF26", "quantity": 1, "chance": 2e-05, "questLink": "N/A"},
-            {"item": "DropTable25", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
+            {"item": "DropTable23", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
         ]
     },
     "Bug10": {
         "drops": [
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
             {"item": "CardsF27", "quantity": 1, "chance": 2e-05, "questLink": "N/A"},
-            {"item": "DropTable26", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
+            {"item": "DropTable23", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
         ]
     },
     "Bug11": {
         "drops": [
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
             {"item": "CardsF27", "quantity": 1, "chance": 1e-08, "questLink": "N/A"},
-            {"item": "DropTable26", "quantity": 1, "chance": 1e-08, "questLink": "N/A"}
+            {"item": "DropTable23", "quantity": 1, "chance": 1e-08, "questLink": "N/A"}
         ]
     },
     "Bug12": {
         "drops": [
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
             {"item": "CardsF37", "quantity": 1, "chance": 5e-06, "questLink": "N/A"},
-            {"item": "DropTable29", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
+            {"item": "DropTable23", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
         ]
     },
     "Bug13": {
         "drops": [
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
             {"item": "CardsF38", "quantity": 1, "chance": 1e-06, "questLink": "N/A"},
-            {"item": "DropTable30", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
+            {"item": "DropTable23", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
         ]
     },
     "Bug15": {
         "drops": [
             {"item": "COIN", "quantity": 0, "chance": 0, "questLink": "N/A"},
             {"item": "CardsF46", "quantity": 1, "chance": 1e-06, "questLink": "N/A"},
-            {"item": "DropTable30", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
+            {"item": "DropTable23", "quantity": 1, "chance": 0.015, "questLink": "N/A"}
         ]
     },
     "SoulCard1": {

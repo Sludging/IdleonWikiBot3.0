@@ -344,5 +344,6 @@
     "Bloo Radley4": {"name": "The Hero's Journey", "difficulty": 4},
     "Toobus Goobus4": {"name": "TUNNEL EXPLORING", "difficulty": 2},
     "Toobus Goobus7": {"name": "FEAR HOLE! FEAR HOLE!", "difficulty": 1},
-    "Toobus Goobus10": {"name": "READING CHALLENGE", "difficulty": 3}
+    "Toobus Goobus10": {"name": "READING CHALLENGE", "difficulty": 3},
+    "Zenelith1": {"name": "1 Million Statues", "difficulty": 9}
 }

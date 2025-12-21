@@ -13290,9 +13290,9 @@ export const initNpcRepo = () => {
                     "world": "Unknown",
                     "noQuest": 0,
                     "type": "Unknown",
-                    "birthWeight": 9.55,
-                    "starSign": "Capricorn",
-                    "mothersMaidenName": "Stahl",
+                    "birthWeight": 4.78,
+                    "starSign": "Aries",
+                    "mothersMaidenName": "Cataldi",
                     "notes": " "
                 },
                 "quests": {
@@ -16256,9 +16256,9 @@ export const initNpcRepo = () => {
                     "world": "Unknown",
                     "noQuest": 0,
                     "type": "Unknown",
-                    "birthWeight": 9.53,
-                    "starSign": "Aries",
-                    "mothersMaidenName": "Schuster",
+                    "birthWeight": 6.75,
+                    "starSign": "Leo",
+                    "mothersMaidenName": "Tapia",
                     "notes": " "
                 },
                 "quests": {},
@@ -16289,9 +16289,9 @@ export const initNpcRepo = () => {
                     "world": "Unknown",
                     "noQuest": 0,
                     "type": "Unknown",
-                    "birthWeight": 4.91,
-                    "starSign": "Aries",
-                    "mothersMaidenName": "Knutson",
+                    "birthWeight": 3.71,
+                    "starSign": "Virgo",
+                    "mothersMaidenName": "Ingram",
                     "notes": " "
                 },
                 "quests": {},
@@ -16310,9 +16310,9 @@ export const initNpcRepo = () => {
                     "world": "Unknown",
                     "noQuest": 0,
                     "type": "Unknown",
-                    "birthWeight": 6.69,
-                    "starSign": "Aquarius",
-                    "mothersMaidenName": "Hancock",
+                    "birthWeight": 2.08,
+                    "starSign": "Capricorn",
+                    "mothersMaidenName": "Miller",
                     "notes": " "
                 },
                 "quests": {
@@ -16383,9 +16383,9 @@ export const initNpcRepo = () => {
                     "world": "Unknown",
                     "noQuest": 0,
                     "type": "Unknown",
-                    "birthWeight": 9.85,
+                    "birthWeight": 9.12,
                     "starSign": "Leo",
-                    "mothersMaidenName": "Trussel",
+                    "mothersMaidenName": "Lewis",
                     "notes": " "
                 },
                 "quests": {
@@ -16510,9 +16510,9 @@ export const initNpcRepo = () => {
                     "world": "Unknown",
                     "noQuest": 0,
                     "type": "Unknown",
-                    "birthWeight": 6.25,
-                    "starSign": "Gemini",
-                    "mothersMaidenName": "Kaskel",
+                    "birthWeight": 8.25,
+                    "starSign": "Aries",
+                    "mothersMaidenName": "Trussel",
                     "notes": " "
                 },
                 "quests": {
@@ -16598,9 +16598,9 @@ export const initNpcRepo = () => {
                     "world": "Unknown",
                     "noQuest": 0,
                     "type": "Unknown",
-                    "birthWeight": 6.54,
+                    "birthWeight": 5.64,
                     "starSign": "Libra",
-                    "mothersMaidenName": "Ventotla",
+                    "mothersMaidenName": "Nugent",
                     "notes": " "
                 },
                 "quests": {
@@ -16733,6 +16733,105 @@ export const initNpcRepo = () => {
                         "Type": QuestTypeEnum.NoQuest,
                         "DialogueText": "AIGHT THAT'S ALL I GOT FOR YA I'LL SHOW YOU 'ROUND THE NEXT SKILL WHEN IT COMES OUT!",
                         "NextIndex": 12,
+                        "Name": ""
+                    }
+                ]
+            }),
+        new NpcBase("Bort", <NpcModel>{
+                "head": <NpcHeadModel>{
+                    "location": "Unknown",
+                    "world": "Unknown",
+                    "noQuest": 0,
+                    "type": "Unknown",
+                    "birthWeight": 7.12,
+                    "starSign": "Pisces",
+                    "mothersMaidenName": "McCormack",
+                    "notes": " "
+                },
+                "quests": {},
+                "dialogue": [
+                    <DialogueLineModel>{
+                        "Type": QuestTypeEnum.NoQuest,
+                        "DialogueText": "AAAAAH!!! <br> AAAAAAAAAH!!! <br> AAAAAAAAAAAAH!!!",
+                        "NextIndex": 1,
+                        "Name": ""
+                    },
+                    <DialogueLineModel>{
+                        "Type": QuestTypeEnum.NoQuest,
+                        "DialogueText": "WHY AM I ALIVE AAAAAAAAH I DONT WANT TO LIVE ANYM... <br> oh hey is that an IdleOn event point??",
+                        "NextIndex": 2,
+                        "Name": ""
+                    },
+                    <DialogueLineModel>{
+                        "Type": QuestTypeEnum.NoQuest,
+                        "DialogueText": "Those are freakin' sweet!!! Give me some and I'll give you some permanent bonuses!",
+                        "NextIndex": 9999,
+                        "Name": ""
+                    }
+                ]
+            }),
+        new NpcBase("Zenelith", <NpcModel>{
+                "head": <NpcHeadModel>{
+                    "location": "Unknown",
+                    "world": "Unknown",
+                    "noQuest": 0,
+                    "type": "Unknown",
+                    "birthWeight": 7.19,
+                    "starSign": "Cancer",
+                    "mothersMaidenName": "Cannon",
+                    "notes": " "
+                },
+                "quests": {
+                    "1 Million Statues": <ItemQuestModel>{
+                        "Type": QuestTypeEnum.ItemsAndSpaceRequired,
+                        "DialogueText": "...well I suppose we haven't gotten there JUST yet. <br> QUEST:Bring 1000000 Power Statues and youll get to make ZENITH STATUES!",
+                        "NextIndex": 3,
+                        "Name": "1 Million Statues",
+                        "ConsumeItems": true,
+                        "InventorySpacesNeeded": 1,
+                        "NoSpaceIndex": 2,
+                        "Rewards": [<ComponentModel>{"item": "SmithingHammerChisel4", "quantity": 1}],
+                        "QuestName": "Zenelith1",
+                        "Difficulty": 9,
+                        "note": <NoteModel>{"note": " "},
+                        "ItemReq": [<ComponentModel>{"item": "EquipmentStatues1", "quantity": 1000000}]
+                    }
+                },
+                "dialogue": [
+                    <DialogueLineModel>{
+                        "Type": QuestTypeEnum.NoQuest,
+                        "DialogueText": "After all these years... <br> Stone to Gold... <br> Gold to Onyx... <br> Onyx to...",
+                        "NextIndex": 1,
+                        "Name": ""
+                    },
+                    <DialogueLineModel>{
+                        "Type": QuestTypeEnum.ItemsAndSpaceRequired,
+                        "DialogueText": "...well I suppose we haven't gotten there JUST yet. <br> QUEST:Bring 1000000 Power Statues and youll get to make ZENITH STATUES!",
+                        "NextIndex": 3,
+                        "Name": "1 Million Statues"
+                    },
+                    <DialogueLineModel>{
+                        "Type": QuestTypeEnum.NoQuest,
+                        "DialogueText": "Clear some inventory Space!!",
+                        "NextIndex": 1,
+                        "Name": ""
+                    },
+                    <DialogueLineModel>{
+                        "Type": QuestTypeEnum.NoQuest,
+                        "DialogueText": "I have turned your Power Statue into a Zenith Power Statue its final form. You wont stop there though I know you wont.",
+                        "NextIndex": 4,
+                        "Name": ""
+                    },
+                    <DialogueLineModel>{
+                        "Type": QuestTypeEnum.NoQuest,
+                        "DialogueText": "Go on drop the Chisel on the Statue Man in World 1. <br> But that's not all... come talk to me after...",
+                        "NextIndex": 5,
+                        "Name": ""
+                    },
+                    <DialogueLineModel>{
+                        "Type": QuestTypeEnum.NoQuest,
+                        "DialogueText": "We are never beating the Cantread Allegations... <br> I said go drop the chisel on the Statue Man and don't talk to me until you do!",
+                        "NextIndex": 5,
                         "Name": ""
                     }
                 ]
