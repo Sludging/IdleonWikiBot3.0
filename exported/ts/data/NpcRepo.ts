@@ -13290,9 +13290,9 @@ export const initNpcRepo = () => {
                     "world": "Unknown",
                     "noQuest": 0,
                     "type": "Unknown",
-                    "birthWeight": 4.78,
-                    "starSign": "Aries",
-                    "mothersMaidenName": "Cataldi",
+                    "birthWeight": 1.25,
+                    "starSign": "Sagittarius",
+                    "mothersMaidenName": "Fietzer",
                     "notes": " "
                 },
                 "quests": {
@@ -16256,9 +16256,9 @@ export const initNpcRepo = () => {
                     "world": "Unknown",
                     "noQuest": 0,
                     "type": "Unknown",
-                    "birthWeight": 6.75,
-                    "starSign": "Leo",
-                    "mothersMaidenName": "Tapia",
+                    "birthWeight": 8.05,
+                    "starSign": "Cancer",
+                    "mothersMaidenName": "Rogers",
                     "notes": " "
                 },
                 "quests": {},
@@ -16289,9 +16289,9 @@ export const initNpcRepo = () => {
                     "world": "Unknown",
                     "noQuest": 0,
                     "type": "Unknown",
-                    "birthWeight": 3.71,
-                    "starSign": "Virgo",
-                    "mothersMaidenName": "Ingram",
+                    "birthWeight": 8.17,
+                    "starSign": "Aquarius",
+                    "mothersMaidenName": "Dugan",
                     "notes": " "
                 },
                 "quests": {},
@@ -16310,9 +16310,9 @@ export const initNpcRepo = () => {
                     "world": "Unknown",
                     "noQuest": 0,
                     "type": "Unknown",
-                    "birthWeight": 2.08,
-                    "starSign": "Capricorn",
-                    "mothersMaidenName": "Miller",
+                    "birthWeight": 1.67,
+                    "starSign": "Virgo",
+                    "mothersMaidenName": "Hesch",
                     "notes": " "
                 },
                 "quests": {
@@ -16383,9 +16383,9 @@ export const initNpcRepo = () => {
                     "world": "Unknown",
                     "noQuest": 0,
                     "type": "Unknown",
-                    "birthWeight": 9.12,
-                    "starSign": "Leo",
-                    "mothersMaidenName": "Lewis",
+                    "birthWeight": 1.68,
+                    "starSign": "Scorpio",
+                    "mothersMaidenName": "Zeller",
                     "notes": " "
                 },
                 "quests": {
@@ -16510,9 +16510,9 @@ export const initNpcRepo = () => {
                     "world": "Unknown",
                     "noQuest": 0,
                     "type": "Unknown",
-                    "birthWeight": 8.25,
-                    "starSign": "Aries",
-                    "mothersMaidenName": "Trussel",
+                    "birthWeight": 7.87,
+                    "starSign": "Aquarius",
+                    "mothersMaidenName": "Wagner",
                     "notes": " "
                 },
                 "quests": {
@@ -16598,9 +16598,9 @@ export const initNpcRepo = () => {
                     "world": "Unknown",
                     "noQuest": 0,
                     "type": "Unknown",
-                    "birthWeight": 5.64,
-                    "starSign": "Libra",
-                    "mothersMaidenName": "Nugent",
+                    "birthWeight": 7.76,
+                    "starSign": "Leo",
+                    "mothersMaidenName": "Johnsen",
                     "notes": " "
                 },
                 "quests": {
@@ -16743,9 +16743,9 @@ export const initNpcRepo = () => {
                     "world": "Unknown",
                     "noQuest": 0,
                     "type": "Unknown",
-                    "birthWeight": 7.12,
-                    "starSign": "Pisces",
-                    "mothersMaidenName": "McCormack",
+                    "birthWeight": 8.08,
+                    "starSign": "Gemini",
+                    "mothersMaidenName": "Kaskel",
                     "notes": " "
                 },
                 "quests": {},
@@ -16776,9 +16776,9 @@ export const initNpcRepo = () => {
                     "world": "Unknown",
                     "noQuest": 0,
                     "type": "Unknown",
-                    "birthWeight": 7.19,
-                    "starSign": "Cancer",
-                    "mothersMaidenName": "Cannon",
+                    "birthWeight": 1.94,
+                    "starSign": "Scorpio",
+                    "mothersMaidenName": "Valente",
                     "notes": " "
                 },
                 "quests": {
