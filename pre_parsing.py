@@ -19,6 +19,10 @@ spaced = [
 	(
 		""""EquipmentKeychain0;TIER_1_KEYCHAIN;Gives_you_40_keychain_fragments,_enough_to_claim_a_Tier_1_Keychain_from_the_Frog_Dungeon_Lobby!_These_keychains_randomly_give_the_following_bonuses:_Base_Def, Accuracy,_Move_speed,_Base_Dmg,_Card_Drop_rate,_Money,_Base_Stat;150;86;100000;0;0".split(";")""",
 		""""EquipmentKeychain0 TIER_1_KEYCHAIN Gives_you_40_keychain_fragments,_enough_to_claim_a_Tier_1_Keychain_from_the_Frog_Dungeon_Lobby!_These_keychains_randomly_give_the_following_bonuses:_Base_Def,_Accuracy,_Move_speed,_Base_Dmg,_Card_Drop_rate,_Money,_Base_Stat 150 86 100000 0 0".split(" ")"""
+	),
+	(
+		"""Kingdom_Flags ;5000;9;1900;0;1;39;f".split(";")""",
+		"""Kingdom_Flags 5000 9 1900 0 1 39 f".split(" ")"""
 	)
 
 ]
