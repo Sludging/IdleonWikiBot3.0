@@ -174,6 +174,8 @@ class IdleonReader:
 
 		self.codeReader.addSection("CompanionDB = function ()", "Companion")
 
+		self.codeReader.addSection("GamingPalette = function ()", "GamingPalette")
+
 		# Weekly Bosses
 		self.codeReader.addSection("WeeklyBOSS = function ()", "WeeklyBoss")
 		self.codeReader.addSection("WeeklyTASK = function ()", "WeeklyTask")
@@ -199,11 +201,29 @@ class IdleonReader:
 		self.codeReader.addSection("SummonUnits = function ()", "SummonUnits")
 		self.codeReader.addSection("NjEQ = function ()", "NinjaItems")
 		self.codeReader.addSection("NinjaInfo = function ()", "NinjaInfo")
+		self.codeReader.addSection("ZenithMarket = function ()", "ZenithMarket")
 
-		# Tomb
+		# World 7
+
+		#Spelunking
+		self.codeReader.addSection("Spelunky = function ()", "Spelunking")
+		self.codeReader.addSection("SpelunkChapters = function ()", "SpelunkChapters")
+		self.codeReader.addSection("SpelunkUpg = function ()", "SpelunkUpg")
+		self.codeReader.addSection("SpelunkRocks = function ()", "SpelunkRocks")
+
+		# Legend Talents
+		self.codeReader.addSection("LegendTalents = function ()", "LegendTalents")
+
+		# Coral Reefs
+		self.codeReader.addSection("CoralReef = function ()", "CoralReef")
+
+
+		# Tome
 		self.codeReader.addSection("Tome = function ()", "TomeInfo")
 
+		# Idle Clickers
 		self.codeReader.addSection("Owlz = function ()", "Owlz")
+		self.codeReader.addSection("BubbaUpg = function ()", "BubbaUpg")
 
 		# Hole
 		self.codeReader.addSection("HolesBuildings = function ()", "HoleBuilding")
