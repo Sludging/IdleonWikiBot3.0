@@ -10,7 +10,7 @@ from repositories.misc.world5.SlabItemSortRepo import SlabItemSortRepo
 from repositories.npc.NpcRepo import NpcRepo
 from repositories.talents.TalentTreeRepo import TalentTreeRepo
 
-idleonReader = IdleonReader("1.04", steam = True)
+idleonReader = IdleonReader("1.05", steam = True)
 
 for repo in AllRepos:
 	repo.initialise(idleonReader.codeReader)
