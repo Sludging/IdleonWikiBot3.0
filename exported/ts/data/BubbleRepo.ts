@@ -2309,6 +2309,16 @@ export const initBubbleRepo = () => {
                     },
                     <BubbleModel>{
                         "cauldron": "Liquid Shop",
+                        "name": "Weak Upg Stone",
+                        "x1": 1,
+                        "x2": 1,
+                        "func": "0",
+                        "description": "`Slaps roof of car` This bad boy can upgrade so many equipm... wait, how'd a car get in here? Gives 1 random low-quality Upgrade Stone.",
+                        "requirements": [<LiquidComponentModel>{"liquidNo": "1", "quantity": 5}],
+                        "bonusKey": "1"
+                    },
+                    <BubbleModel>{
+                        "cauldron": "Liquid Shop",
                         "name": "Distilled Water",
                         "x1": 1,
                         "x2": 1,

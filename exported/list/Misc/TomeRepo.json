@@ -1,5 +1,13 @@
 [
     {
+        "name": "Stamp Total LV",
+        "keyQty": 10000,
+        "scalingType": "decay",
+        "totalVal": 1000,
+        "decimalDisplay": null,
+        "desc": "Your Tome Score of # PTS is in the Top $ of all players in IdleOn! @   @ If you can reach ~ PTS, you'll be in the Top ` of all players!"
+    },
+    {
         "name": "Statue Total LV",
         "keyQty": 2300,
         "scalingType": "decay",
