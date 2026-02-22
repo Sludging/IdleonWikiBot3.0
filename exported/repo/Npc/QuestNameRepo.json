@@ -248,7 +248,7 @@
     "Giftmas Blobulyte11": {"name": "Giftmas Time!", "difficulty": 2},
     "Carpenter Cardinal1": {"name": "Restoring Power, once again, to a Portal", "difficulty": 8},
     "Gobo3": {"name": "Breeding in Outer Space", "difficulty": 1},
-    "Gobo6": {"name": "Intense Pet Fighting", "difficulty": 1},
+    "Gobo6": {"name": "Intense Mob Fighting", "difficulty": 1},
     "Gobo9": {"name": "Squirrel Tactics", "difficulty": 1},
     "Gobo12": {"name": "Spicy Cooking", "difficulty": 1},
     "Gobo16": {"name": "Lab Experimentation, Ft. You", "difficulty": 1},
@@ -345,5 +345,6 @@
     "Toobus Goobus4": {"name": "TUNNEL EXPLORING", "difficulty": 2},
     "Toobus Goobus7": {"name": "FEAR HOLE! FEAR HOLE!", "difficulty": 1},
     "Toobus Goobus10": {"name": "READING CHALLENGE", "difficulty": 3},
-    "Zenelith1": {"name": "1 Million Statues", "difficulty": 9}
+    "Zenelith1": {"name": "1 Million Statues", "difficulty": 9},
+    "Toobus Goobus13": {"name": "RESEARCH STUDIES", "difficulty": 1}
 }

@@ -7,7 +7,7 @@
         "x2": -22,
         "x3": -14,
         "x4": 2000,
-        "x5": 140
+        "x5": 165
     },
     {
         "id": "rift2",
@@ -17,7 +17,7 @@
         "x2": 6,
         "x3": -14,
         "x4": 450,
-        "x5": 130
+        "x5": 125
     },
     {
         "id": "ram",
@@ -27,17 +27,17 @@
         "x2": 16,
         "x3": -19,
         "x4": 150,
-        "x5": 125
+        "x5": 120
     },
     {
         "id": "Crystal3",
-        "desc": "{100% Drop Rate and Exp from monsters",
+        "desc": "{100% Drop Rate and Class Exp",
         "bonus": 100,
         "x1": -19,
         "x2": 20,
         "x3": -8,
         "x4": 150,
-        "x5": 120
+        "x5": 110
     },
     {
         "id": "sheep",
@@ -47,7 +47,7 @@
         "x2": 0,
         "x3": -11,
         "x4": 10,
-        "x5": 110
+        "x5": 80
     },
     {
         "id": "w5b1",
@@ -57,7 +57,7 @@
         "x2": 0,
         "x3": -5,
         "x4": 10,
-        "x5": 110
+        "x5": 70
     },
     {
         "id": "beanG",
@@ -67,7 +67,7 @@
         "x2": 0,
         "x3": -22,
         "x4": 10,
-        "x5": 110
+        "x5": 65
     },
     {
         "id": "slimeG",
@@ -77,7 +77,7 @@
         "x2": 0,
         "x3": -1,
         "x4": 5,
-        "x5": 100
+        "x5": 50
     },
     {
         "id": "jarSand",
@@ -87,7 +87,7 @@
         "x2": 0,
         "x3": -3,
         "x4": 5,
-        "x5": 100
+        "x5": 50
     },
     {
         "id": "bloque",
@@ -97,7 +97,7 @@
         "x2": 0,
         "x3": -17,
         "x4": 5,
-        "x5": 100
+        "x5": 50
     },
     {
         "id": "frogG",
@@ -107,7 +107,7 @@
         "x2": 0,
         "x3": -5,
         "x4": 5,
-        "x5": 100
+        "x5": 40
     },
     {
         "id": "slimeBz",
@@ -137,7 +137,7 @@
         "x2": 0,
         "x3": -19,
         "x4": 250,
-        "x5": 130
+        "x5": 140
     },
     {
         "id": "rift3",
@@ -157,7 +157,7 @@
         "x2": 0,
         "x3": -19,
         "x4": 100,
-        "x5": 120
+        "x5": 110
     },
     {
         "id": "Crystal4",
@@ -167,7 +167,7 @@
         "x2": 0,
         "x3": -5,
         "x4": 100,
-        "x5": 120
+        "x5": 110
     },
     {
         "id": "w5b6",
@@ -177,7 +177,7 @@
         "x2": 0,
         "x3": -15,
         "x4": 100,
-        "x5": 120
+        "x5": 100
     },
     {
         "id": "frogBIG",
@@ -187,7 +187,7 @@
         "x2": 0,
         "x3": -29,
         "x4": 10,
-        "x5": 110
+        "x5": 80
     },
     {
         "id": "potato",
@@ -197,7 +197,7 @@
         "x2": 0,
         "x3": -25,
         "x4": 10,
-        "x5": 110
+        "x5": 70
     },
     {
         "id": "w4b1",
@@ -207,7 +207,7 @@
         "x2": 0,
         "x3": -5,
         "x4": 10,
-        "x5": 110
+        "x5": 60
     },
     {
         "id": "frogP",
@@ -217,7 +217,7 @@
         "x2": 0,
         "x3": -5,
         "x4": 5,
-        "x5": 100
+        "x5": 55
     },
     {
         "id": "glass",
@@ -227,7 +227,7 @@
         "x2": 0,
         "x3": -5,
         "x4": 5,
-        "x5": 100
+        "x5": 50
     },
     {
         "id": "mushG",
@@ -237,7 +237,7 @@
         "x2": 0,
         "x3": -5,
         "x4": 5,
-        "x5": 100
+        "x5": 30
     },
     {
         "id": "Pet10",
@@ -257,7 +257,7 @@
         "x2": 0,
         "x3": -20,
         "x4": 500,
-        "x5": 100
+        "x5": 110
     },
     {
         "id": "Pet3",
@@ -277,7 +277,7 @@
         "x2": 0,
         "x3": -33,
         "x4": 500,
-        "x5": 135
+        "x5": 150
     },
     {
         "id": "w7d1",
@@ -297,7 +297,7 @@
         "x2": 0,
         "x3": -8,
         "x4": 100,
-        "x5": 80
+        "x5": 115
     },
     {
         "id": "Pet1",
@@ -307,7 +307,7 @@
         "x2": 0,
         "x3": -5,
         "x4": 100,
-        "x5": 100
+        "x5": 110
     },
     {
         "id": "Pet2",
@@ -317,7 +317,7 @@
         "x2": 0,
         "x3": -8,
         "x4": 100,
-        "x5": 15
+        "x5": 90
     },
     {
         "id": "Pet4",
@@ -327,7 +327,7 @@
         "x2": 0,
         "x3": -13,
         "x4": 100,
-        "x5": 120
+        "x5": 125
     },
     {
         "id": "Pet5",
@@ -337,7 +337,7 @@
         "x2": 0,
         "x3": -10,
         "x4": 100,
-        "x5": 15
+        "x5": 100
     },
     {
         "id": "Pet6",
@@ -347,7 +347,7 @@
         "x2": 0,
         "x3": -9,
         "x4": 100,
-        "x5": 15
+        "x5": 80
     },
     {
         "id": "Pet8",
@@ -357,7 +357,7 @@
         "x2": 0,
         "x3": -13,
         "x4": 100,
-        "x5": 15
+        "x5": 110
     },
     {
         "id": "Pet11",
@@ -367,7 +367,7 @@
         "x2": 0,
         "x3": -11,
         "x4": 100,
-        "x5": 15
+        "x5": 100
     },
     {
         "id": "w7e1",
@@ -387,7 +387,7 @@
         "x2": 0,
         "x3": -15,
         "x4": 250,
-        "x5": 140
+        "x5": 130
     },
     {
         "id": "w7a8",
@@ -397,7 +397,7 @@
         "x2": 30,
         "x3": -7,
         "x4": 250,
-        "x5": 130
+        "x5": 115
     },
     {
         "id": "w7a4",
@@ -407,7 +407,7 @@
         "x2": 20,
         "x3": -19,
         "x4": 100,
-        "x5": 120
+        "x5": 110
     },
     {
         "id": "Crystal6",
@@ -417,7 +417,7 @@
         "x2": 0,
         "x3": -14,
         "x4": 100,
-        "x5": 120
+        "x5": 105
     },
     {
         "id": "w7a3",
@@ -427,7 +427,7 @@
         "x2": 28,
         "x3": -17,
         "x4": 100,
-        "x5": 120
+        "x5": 90
     },
     {
         "id": "w7a7",
@@ -437,7 +437,7 @@
         "x2": 0,
         "x3": -19,
         "x4": 10,
-        "x5": 110
+        "x5": 80
     },
     {
         "id": "w7a10",
@@ -447,7 +447,7 @@
         "x2": 0,
         "x3": -15,
         "x4": 10,
-        "x5": 110
+        "x5": 75
     },
     {
         "id": "w7a1",
@@ -457,7 +457,7 @@
         "x2": 0,
         "x3": -5,
         "x4": 10,
-        "x5": 110
+        "x5": 65
     },
     {
         "id": "coconut",
@@ -467,7 +467,7 @@
         "x2": 0,
         "x3": -24,
         "x4": 5,
-        "x5": 100
+        "x5": 60
     },
     {
         "id": "snakeG",
@@ -477,7 +477,7 @@
         "x2": 0,
         "x3": -9,
         "x4": 5,
-        "x5": 100
+        "x5": 55
     },
     {
         "id": "mushP",
@@ -487,7 +487,7 @@
         "x2": 0,
         "x3": -11,
         "x4": 5,
-        "x5": 100
+        "x5": 50
     },
     {
         "id": "bubba",
@@ -497,6 +497,1056 @@
         "x2": 0,
         "x3": -37,
         "x4": 5,
+        "x5": 165
+    },
+    {
+        "id": "snakeR",
+        "desc": "{25% Class EXP, {25% Drop Rate, 1.01x Class EXP, and 1.01x Drop Rate",
+        "bonus": 25,
+        "x1": -3,
+        "x2": 0,
+        "x3": -9,
+        "x4": 0,
+        "x5": 60
+    },
+    {
+        "id": "w6c2b",
+        "desc": "3x bonuses from Orion, Poppy, and Bubba (and all future Clickers)",
+        "bonus": 2,
+        "x1": -21,
+        "x2": 0,
+        "x3": -11,
+        "x4": 100,
+        "x5": 130
+    },
+    {
+        "id": "w7b5",
+        "desc": "1.50x Research EXP gain (World 7 feature)",
+        "bonus": 0.5,
+        "x1": -24,
+        "x2": 0,
+        "x3": -18,
+        "x4": 1,
+        "x5": 120
+    },
+    {
+        "id": "w7b1b",
+        "desc": "100x Gaming Bits gained (World 5 feature)",
+        "bonus": 99,
+        "x1": -7,
+        "x2": 0,
+        "x3": -18,
+        "x4": 1,
+        "x5": 140
+    },
+    {
+        "id": "w7b6b",
+        "desc": "+1 new Research Shape, shows up after you get Research LV. 20",
+        "bonus": 1,
+        "x1": -24,
+        "x2": 0,
+        "x3": -26,
+        "x4": 1,
+        "x5": 165
+    },
+    {
+        "id": "w7b11",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": -26,
+        "x2": 0,
+        "x3": -28,
+        "x4": 1,
+        "x5": 200
+    },
+    {
+        "id": "w7b10",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": -43,
+        "x2": 0,
+        "x3": -30,
+        "x4": 1,
+        "x5": 260
+    },
+    {
+        "id": "w7b12",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": -36,
+        "x2": 0,
+        "x3": -41,
+        "x4": 1,
+        "x5": 340
+    },
+    {
+        "id": "bubbab",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": -47,
+        "x2": 0,
+        "x3": -35,
+        "x4": 1,
+        "x5": 420
+    },
+    {
+        "id": "acorn",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 60
+    },
+    {
+        "id": "babaHour",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 150
+    },
+    {
+        "id": "babayaga",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 150
+    },
+    {
+        "id": "branch",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 55
+    },
+    {
+        "id": "carrotO",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 80
+    },
+    {
+        "id": "caveA",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
         "x5": 100
+    },
+    {
+        "id": "caveB",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "crabcake",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 60
+    },
+    {
+        "id": "crabcakeB",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "Crystal0",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 105
+    },
+    {
+        "id": "Crystal1",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 105
+    },
+    {
+        "id": "Crystal2",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "Crystal5",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "demonP",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "frogGG",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 125
+    },
+    {
+        "id": "frogR",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 120
+    },
+    {
+        "id": "frogY",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 110
+    },
+    {
+        "id": "ghost",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "goblinG",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 45
+    },
+    {
+        "id": "mamoth",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "mimicA",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 40
+    },
+    {
+        "id": "moonman",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 70
+    },
+    {
+        "id": "mushR",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 40
+    },
+    {
+        "id": "mushW",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "pincermin",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 95
+    },
+    {
+        "id": "plank",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 50
+    },
+    {
+        "id": "potatoB",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 110
+    },
+    {
+        "id": "ratB",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 90
+    },
+    {
+        "id": "rift1",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "rift4",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "rift5",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "sandcastle",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 45
+    },
+    {
+        "id": "sandgiant",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 105
+    },
+    {
+        "id": "shovelR",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 50
+    },
+    {
+        "id": "shovel",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "skele",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "skele2",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "slimeB",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "slimmer",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "snailZ",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 115
+    },
+    {
+        "id": "snakeB",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "snakeY",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "snowball",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "speaker",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "steak",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 85
+    },
+    {
+        "id": "steakR",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "thermostat",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w4a2",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w4a3",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w4b2",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w4b3",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w4b4",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w4c1",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w4c2",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w4c3",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w4c4",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w5a1",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w5a2",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w5a3",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w5a4",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w5a5",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w5b3",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w5b4",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w5b5",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w5c1",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w5c2",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w6a1",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w6a2",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w6a3",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w6a4",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w6a5",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w6b1",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w6b2",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w6b3",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w6c1",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w6c2",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w6d1",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w6d2",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w7a2",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w7a6",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w7a9",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w7a11",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w7a12",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w7b1",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w7b2",
+        "desc": "20x total Spelunking POW, and 2x Minehead Currency Gain!",
+        "bonus": 20,
+        "x1": -20,
+        "x2": 0,
+        "x3": -19,
+        "x4": 1,
+        "x5": 190
+    },
+    {
+        "id": "w7b3",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w7b4",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w7b6",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w7b7zzz",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w7b8zzz",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "w7b9zzz",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 100
+    },
+    {
+        "id": "T1a",
+        "desc": "Congratulations on winning the Bronze Tournament in Season 1!",
+        "bonus": 1,
+        "x1": -26,
+        "x2": 0,
+        "x3": -19,
+        "x4": 1,
+        "x5": 10
+    },
+    {
+        "id": "T1b",
+        "desc": "Congratulations on winning the Silver Tournament in Season 1!",
+        "bonus": 1,
+        "x1": -26,
+        "x2": 0,
+        "x3": -19,
+        "x4": 1,
+        "x5": 10
+    },
+    {
+        "id": "T1c",
+        "desc": "Congratulations on winning the Gold Tournament in Season 1!",
+        "bonus": 1,
+        "x1": -26,
+        "x2": 0,
+        "x3": -24,
+        "x4": 1,
+        "x5": 10
+    },
+    {
+        "id": "rift5",
+        "desc": "Not officially in the game and may never be",
+        "bonus": 1,
+        "x1": 0,
+        "x2": 0,
+        "x3": 0,
+        "x4": 1,
+        "x5": 170
+    },
+    {
+        "id": "w7b3b",
+        "desc": "1.60x Kills multi, and 2x Artifact Find Chance for Sailing!",
+        "bonus": 0.6,
+        "x1": -16,
+        "x2": 0,
+        "x3": -22,
+        "x4": 1,
+        "x5": 160
     }
 ]

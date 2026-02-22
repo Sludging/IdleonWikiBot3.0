@@ -40,7 +40,7 @@
     {"intName": "SewerD", "name": "Meel's Crypt", "id": 38},
     {"intName": "GrasslandsE", "name": "Grandfrog's Backyard", "id": 39},
     {"intName": "Dungeon1", "name": "Grandfrog's Gazebo", "id": 40},
-    {"intName": "GrasslandsF", "name": "Companion Park", "id": 41},
+    {"intName": "GrasslandsF", "name": "Pet Park", "id": 41},
     {"intName": "GrasslandsG", "name": "Grand Owl Perch", "id": 42},
     {"intName": "Z", "name": "Z", "id": 43},
     {"intName": "Z", "name": "Z", "id": 44},
@@ -313,5 +313,17 @@
     {"intName": "uAquaA11", "name": "Coralcave Outskirts", "id": 311},
     {"intName": "uAquaA12", "name": "Coralcave Perimeter", "id": 312},
     {"intName": "uAquaA13", "name": "Unused", "id": 313},
-    {"intName": "uAquaA14", "name": "Unused", "id": 314}
+    {"intName": "uAquaA14", "name": "Unused", "id": 314},
+    {"intName": "uAquaB1", "name": "Deep End of the Koipond", "id": 315},
+    {"intName": "uAquaB2", "name": "Minefield", "id": 316},
+    {"intName": "uAquaB3", "name": "Pirate Upper Deck", "id": 317},
+    {"intName": "uAquaB4", "name": "Sushi Perimeter", "id": 318},
+    {"intName": "uAquaB5", "name": "Jellofish Fields", "id": 319},
+    {"intName": "uAquaB6", "name": "Where the Kelp Meets Trench", "id": 320},
+    {"intName": "uAquaB7", "name": "fillername", "id": 321},
+    {"intName": "uAquaB8", "name": "fillername", "id": 322},
+    {"intName": "uAquaB9", "name": "fillername", "id": 323},
+    {"intName": "uAquaB10", "name": "fillername", "id": 324},
+    {"intName": "uAquaB11", "name": "Pirate Mess Hall", "id": 325},
+    {"intName": "uAquaB12", "name": "fillername", "id": 326}
 ]

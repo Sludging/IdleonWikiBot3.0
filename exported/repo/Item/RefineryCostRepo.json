@@ -41,5 +41,32 @@
             {"item": "Soul4", "quantity": 5},
             {"item": "Refinery5", "quantity": 2}
         ]
+    },
+    "Refinery7": {
+        "cost": [
+            {"item": "SpiB2", "quantity": 10},
+            {"item": "Soul7", "quantity": 2},
+            {"item": "Critter11", "quantity": 1},
+            {"item": "Refinery6", "quantity": 1}
+        ]
+    },
+    "Refinery8": {
+        "cost": [
+            {"item": "w7A1", "quantity": 25},
+            {"item": "Fish12", "quantity": 5},
+            {"item": "Bug15", "quantity": 5},
+            {"item": "PrehistriumBar", "quantity": 5},
+            {"item": "Refinery7", "quantity": 2}
+        ]
+    },
+    "Refinery9": {
+        "cost": [
+            {"item": "w7B10", "quantity": 50},
+            {"item": "FillerMaterial", "quantity": 5},
+            {"item": "FillerMaterial", "quantity": 5},
+            {"item": "FillerMaterial", "quantity": 5},
+            {"item": "Soul8", "quantity": 5},
+            {"item": "Refinery8", "quantity": 2}
+        ]
     }
 }

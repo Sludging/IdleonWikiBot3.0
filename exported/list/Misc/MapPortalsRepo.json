@@ -313,5 +313,17 @@
     {"id": 311, "portalRequirements": [1000000000], "maxOnScreen": 20},
     {"id": 312, "portalRequirements": [0], "maxOnScreen": 40},
     {"id": 313, "portalRequirements": [0], "maxOnScreen": 19},
-    {"id": 314, "portalRequirements": [0], "maxOnScreen": 21}
+    {"id": 314, "portalRequirements": [0], "maxOnScreen": 21},
+    {"id": 315, "portalRequirements": [2000000], "maxOnScreen": 17},
+    {"id": 316, "portalRequirements": [6000000], "maxOnScreen": 18},
+    {"id": 317, "portalRequirements": [1000000000, 40000000], "maxOnScreen": 23},
+    {"id": 318, "portalRequirements": [60000000], "maxOnScreen": 16},
+    {"id": 319, "portalRequirements": [125000000], "maxOnScreen": 21},
+    {"id": 320, "portalRequirements": [250000000], "maxOnScreen": 18},
+    {"id": 321, "portalRequirements": [350000000], "maxOnScreen": 19},
+    {"id": 322, "portalRequirements": [500000000], "maxOnScreen": 20},
+    {"id": 323, "portalRequirements": [750000000], "maxOnScreen": 16},
+    {"id": 324, "portalRequirements": [1000000000], "maxOnScreen": 22},
+    {"id": 325, "portalRequirements": [2000000000], "maxOnScreen": 33},
+    {"id": 326, "portalRequirements": [0], "maxOnScreen": 43}
 ]

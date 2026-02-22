@@ -12,7 +12,9 @@
         "sovereignBonus": "All shrines level up +300% faster!",
         "sovereignBonusQty": 300,
         "omnipotentBonus": "All shrines level up +400% faster!",
-        "omnipotentBonusQty": 400
+        "omnipotentBonusQty": 400,
+        "transcendentBonus": "All shrines level up +500% faster!",
+        "transcendentBonusQty": 500
     },
     "Maneki Kat": {
         "name": "Maneki Kat",
@@ -27,7 +29,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "Ruble Cuble": {
         "name": "Ruble Cuble",
@@ -42,7 +46,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "Fauxory Tusk": {
         "name": "Fauxory Tusk",
@@ -57,7 +63,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "Gold Relic": {
         "name": "Gold Relic",
@@ -72,7 +80,9 @@
         "sovereignBonus": "Samples grow by 5% for 100 days instead!",
         "sovereignBonusQty": 3,
         "omnipotentBonus": "Samples grow by 6% for 120 days instead!",
-        "omnipotentBonusQty": 4
+        "omnipotentBonusQty": 4,
+        "transcendentBonus": "Samples grow by 7% for 140 days instead!",
+        "transcendentBonusQty": 5
     },
     "Genie Lamp": {
         "name": "Genie Lamp",
@@ -87,7 +97,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "Silver Ankh": {
         "name": "Silver Ankh",
@@ -102,7 +114,9 @@
         "sovereignBonus": "75% chance for +1 box when completing post office orders!",
         "sovereignBonusQty": 75,
         "omnipotentBonus": "90% chance for +1 box when completing post office orders!",
-        "omnipotentBonusQty": 90
+        "omnipotentBonusQty": 90,
+        "transcendentBonus": "95% chance for +1 box when completing post office orders!",
+        "transcendentBonusQty": 95
     },
     "Emerald Relic": {
         "name": "Emerald Relic",
@@ -117,7 +131,9 @@
         "sovereignBonus": "Get 1.90x more gold bars from converting!",
         "sovereignBonusQty": 110,
         "omnipotentBonus": "Get 2.50x more gold bars from converting!",
-        "omnipotentBonusQty": 170
+        "omnipotentBonusQty": 170,
+        "transcendentBonus": "Get 3.20x more gold bars from converting!",
+        "transcendentBonusQty": 240
     },
     "Fun Hippoete": {
         "name": "Fun Hippoete",
@@ -132,7 +148,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "Arrowhead": {
         "name": "Arrowhead",
@@ -147,7 +165,9 @@
         "sovereignBonus": "1.70x higher chance to get rare chests!",
         "sovereignBonusQty": 70,
         "omnipotentBonus": "1.90x higher chance to get rare chests!",
-        "omnipotentBonusQty": 90
+        "omnipotentBonusQty": 90,
+        "transcendentBonus": "2.10x higher chance to get rare chests!",
+        "transcendentBonusQty": 110
     },
     "10 AD Tablet": {
         "name": "10 AD Tablet",
@@ -162,7 +182,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "Ashen Urn": {
         "name": "Ashen Urn",
@@ -177,7 +199,9 @@
         "sovereignBonus": "Applies up to character level 800 instead!",
         "sovereignBonusQty": 600,
         "omnipotentBonus": "Applies up to character level 1000 instead!",
-        "omnipotentBonusQty": 800
+        "omnipotentBonusQty": 800,
+        "transcendentBonus": "Applies up to character level 1200 instead!",
+        "transcendentBonusQty": 1000
     },
     "Amberite": {
         "name": "Amberite",
@@ -192,7 +216,9 @@
         "sovereignBonus": "Affects +3 additional bubbles per day!",
         "sovereignBonusQty": 3,
         "omnipotentBonus": "Affects +4 additional bubbles per day!",
-        "omnipotentBonusQty": 4
+        "omnipotentBonusQty": 4,
+        "transcendentBonus": "Affects +5 additional bubbles per day!",
+        "transcendentBonusQty": 5
     },
     "Triagulon": {
         "name": "Triagulon",
@@ -207,7 +233,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "Billcye Tri": {
         "name": "Billcye Tri",
@@ -222,7 +250,9 @@
         "sovereignBonus": "75% chance for +1 box when completing post office orders!",
         "sovereignBonusQty": 75,
         "omnipotentBonus": "90% chance for +1 box when completing post office orders!",
-        "omnipotentBonusQty": 90
+        "omnipotentBonusQty": 90,
+        "transcendentBonus": "95% chance for +1 box when completing post office orders!",
+        "transcendentBonusQty": 95
     },
     "Frost Relic": {
         "name": "Frost Relic",
@@ -237,7 +267,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "Chilled Yarn": {
         "name": "Chilled Yarn",
@@ -252,7 +284,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "Causticolumn": {
         "name": "Causticolumn",
@@ -267,7 +301,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "Jade Rock": {
         "name": "Jade Rock",
@@ -282,7 +318,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "Dreamcatcher": {
         "name": "Dreamcatcher",
@@ -297,7 +335,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "Gummy Orb": {
         "name": "Gummy Orb",
@@ -312,7 +352,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "Fury Relic": {
         "name": "Fury Relic",
@@ -327,7 +369,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "Cloud Urn": {
         "name": "Cloud Urn",
@@ -342,7 +386,9 @@
         "sovereignBonus": "80% chance for +1 box when completing post office orders!",
         "sovereignBonusQty": 80,
         "omnipotentBonus": "95% chance for +1 box when completing post office orders!",
-        "omnipotentBonusQty": 95
+        "omnipotentBonusQty": 95,
+        "transcendentBonus": "97% chance for +1 box when completing post office orders!",
+        "transcendentBonusQty": 97
     },
     "Weatherbook": {
         "name": "Weatherbook",
@@ -357,14 +403,16 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "Giants Eye": {
         "name": "Giants Eye",
         "baseBonus": 10,
         "baseFindChance": 900,
         "qtyBonus": 25,
-        "bonus": "+{% shiny pet breed chance per day. Stacks until successfully breeding a shiny!",
+        "bonus": "+{% Shiny Mob breed chance per day. Stacks until successfully breeding a shiny!",
         "ancientBonus": "The artifact's main bonus is doubled!",
         "ancientBonusQty": 1,
         "eldritchBonus": "The artifact's main bonus is tripled!",
@@ -372,7 +420,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "Crystal Steak": {
         "name": "Crystal Steak",
@@ -387,7 +437,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "Trilobite Rock": {
         "name": "Trilobite Rock",
@@ -402,7 +454,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "Opera Mask": {
         "name": "Opera Mask",
@@ -417,7 +471,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "Socrates": {
         "name": "Socrates",
@@ -432,7 +488,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "The True Lantern": {
         "name": "The True Lantern",
@@ -447,7 +505,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "The Onyx Lantern": {
         "name": "The Onyx Lantern",
@@ -462,7 +522,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "The Shim Lantern": {
         "name": "The Shim Lantern",
@@ -477,7 +539,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "The Winz Lantern": {
         "name": "The Winz Lantern",
@@ -492,7 +556,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "Deathskull": {
         "name": "Deathskull",
@@ -507,7 +573,9 @@
         "sovereignBonus": "The artifact also gives +1 Grade to 1 more Gallery Slots!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact also gives +2 Grades to a Gallery Slot!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact also gives +3 Grades to a Gallery Slot!",
+        "transcendentBonusQty": 1
     },
     "Obsidian": {
         "name": "Obsidian",
@@ -522,7 +590,9 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "Pointagon": {
         "name": "Pointagon",
@@ -537,14 +607,16 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     },
     "Ender Pearl": {
         "name": "Ender Pearl",
         "baseBonus": 10,
         "baseFindChance": 100000000,
         "qtyBonus": 25,
-        "bonus": "To be revealed in Part 2 of World 7 updates...",
+        "bonus": "+1% Research AFK gains rate!",
         "ancientBonus": "The artifact's main bonus is doubled!",
         "ancientBonusQty": 1,
         "eldritchBonus": "The artifact's main bonus is tripled!",
@@ -552,6 +624,8 @@
         "sovereignBonus": "The artifact's main bonus is quadrupled!",
         "sovereignBonusQty": 1,
         "omnipotentBonus": "The artifact's main bonus is quintupled!",
-        "omnipotentBonusQty": 1
+        "omnipotentBonusQty": 1,
+        "transcendentBonus": "The artifact's main bonus is sixtupled!",
+        "transcendentBonusQty": 1
     }
 }

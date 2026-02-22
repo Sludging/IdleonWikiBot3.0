@@ -270,7 +270,7 @@
         "barType": -1
     },
     "Bonus 30": {
-        "effect": "+{% Breed Pet DMG",
+        "effect": "+{% Breed Mob DMG",
         "x1": 40,
         "x2": 100,
         "func": "decay",
@@ -556,5 +556,50 @@
         "type": "%",
         "lvlUpText": "+{% Bubble LV",
         "barType": 22
+    },
+    "Bonus 62": {
+        "effect": "+{% Minehead Currency",
+        "x1": 25,
+        "x2": 100,
+        "func": "decay",
+        "type": "%",
+        "lvlUpText": "+{% Currency",
+        "barType": 9
+    },
+    "Bonus 63": {
+        "effect": "+{% Research XP",
+        "x1": 20,
+        "x2": 100,
+        "func": "decay",
+        "type": "%",
+        "lvlUpText": "+{% XP",
+        "barType": 37
+    },
+    "Bonus 64": {
+        "effect": "+{% Megacrop Chance",
+        "x1": 50,
+        "x2": 100,
+        "func": "decay",
+        "type": "%",
+        "lvlUpText": "+{% Chance",
+        "barType": 4
+    },
+    "Bonus 65": {
+        "effect": "+{% New Crown Chance",
+        "x1": 15,
+        "x2": 100,
+        "func": "decay",
+        "type": "%",
+        "lvlUpText": "+{% Chance",
+        "barType": 21
+    },
+    "Bonus 66": {
+        "effect": "+{% Artifact Find",
+        "x1": 60,
+        "x2": 100,
+        "func": "decay",
+        "type": "%",
+        "lvlUpText": "+{% Chance",
+        "barType": 31
     }
 }

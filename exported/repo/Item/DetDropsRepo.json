@@ -55,6 +55,8 @@
             {"source": "Spelunking1", "quantity": 1, "chance": 0},
             {"source": "Spelunking2", "quantity": 1, "chance": 0},
             {"source": "Spelunking3", "quantity": 1, "chance": 0},
+            {"source": "Spelunking4", "quantity": 1, "chance": 0},
+            {"source": "Spelunking5", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 0},
             {"source": "OakTree", "quantity": 1, "chance": 0},
             {"source": "BirchTree", "quantity": 1, "chance": 0},
@@ -116,6 +118,8 @@
             {"source": "Spelunking1", "quantity": 1, "chance": 0},
             {"source": "Spelunking2", "quantity": 1, "chance": 0},
             {"source": "Spelunking3", "quantity": 1, "chance": 0},
+            {"source": "Spelunking4", "quantity": 1, "chance": 0},
+            {"source": "Spelunking5", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 0},
             {"source": "OakTree", "quantity": 1, "chance": 0},
             {"source": "BirchTree", "quantity": 1, "chance": 0},
@@ -509,6 +513,18 @@
             {"source": "w7a10", "quantity": 1, "chance": 0},
             {"source": "w7a11", "quantity": 1, "chance": 0},
             {"source": "w7a12", "quantity": 1, "chance": 0},
+            {"source": "w7b1", "quantity": 1, "chance": 0},
+            {"source": "w7b2", "quantity": 1, "chance": 0},
+            {"source": "w7b3", "quantity": 1, "chance": 0},
+            {"source": "w7b4", "quantity": 1, "chance": 0},
+            {"source": "w7b5", "quantity": 1, "chance": 0},
+            {"source": "w7b6", "quantity": 1, "chance": 0},
+            {"source": "w7b7", "quantity": 1, "chance": 0},
+            {"source": "w7b8", "quantity": 1, "chance": 0},
+            {"source": "w7b9", "quantity": 1, "chance": 0},
+            {"source": "w7b10", "quantity": 1, "chance": 0},
+            {"source": "w7b11", "quantity": 1, "chance": 0},
+            {"source": "w7b12", "quantity": 1, "chance": 0},
             {"source": "w7d1", "quantity": 1, "chance": 0},
             {"source": "Crystal6", "quantity": 1, "chance": 0},
             {"source": "w7a1", "quantity": 1, "chance": 0},
@@ -522,6 +538,18 @@
             {"source": "w7a10", "quantity": 1, "chance": 0},
             {"source": "w7a11", "quantity": 1, "chance": 0},
             {"source": "w7a12", "quantity": 1, "chance": 0},
+            {"source": "w7b1", "quantity": 1, "chance": 0},
+            {"source": "w7b2", "quantity": 1, "chance": 0},
+            {"source": "w7b3", "quantity": 1, "chance": 0},
+            {"source": "w7b4", "quantity": 1, "chance": 0},
+            {"source": "w7b5", "quantity": 1, "chance": 0},
+            {"source": "w7b6", "quantity": 1, "chance": 0},
+            {"source": "w7b7", "quantity": 1, "chance": 0},
+            {"source": "w7b8", "quantity": 1, "chance": 0},
+            {"source": "w7b9", "quantity": 1, "chance": 0},
+            {"source": "w7b10", "quantity": 1, "chance": 0},
+            {"source": "w7b11", "quantity": 1, "chance": 0},
+            {"source": "w7b12", "quantity": 1, "chance": 0},
             {"source": "w7d1", "quantity": 1, "chance": 0},
             {"source": "frogGG", "quantity": 25000, "chance": 1},
             {"source": "frogGR2", "quantity": 25000, "chance": 1},
@@ -678,6 +706,18 @@
             {"source": "w7a10", "quantity": 25300000, "chance": 0.5},
             {"source": "w7a11", "quantity": 35000000, "chance": 0.5},
             {"source": "w7a12", "quantity": 50000000, "chance": 0.5},
+            {"source": "w7b1", "quantity": 12500000, "chance": 0.5},
+            {"source": "w7b2", "quantity": 35000000, "chance": 0.5},
+            {"source": "w7b3", "quantity": 50000000, "chance": 0.5},
+            {"source": "w7b4", "quantity": 70000000, "chance": 0.5},
+            {"source": "w7b5", "quantity": 150000000, "chance": 0.5},
+            {"source": "w7b6", "quantity": 250000000, "chance": 0.5},
+            {"source": "w7b7", "quantity": 1100000, "chance": 0.5},
+            {"source": "w7b8", "quantity": 1100000, "chance": 0.5},
+            {"source": "w7b9", "quantity": 1100000, "chance": 0.5},
+            {"source": "w7b10", "quantity": 1100000, "chance": 0.5},
+            {"source": "w7b11", "quantity": 500000000, "chance": 0.5},
+            {"source": "w7b12", "quantity": 1100000, "chance": 0.5},
             {"source": "w7d1", "quantity": 65000, "chance": 0.5},
             {"source": "ChestA1", "quantity": 100, "chance": 1},
             {"source": "ChestB1", "quantity": 400, "chance": 1},
@@ -808,10 +848,14 @@
             {"source": "Spelunking1", "quantity": 0, "chance": 0},
             {"source": "Spelunking2", "quantity": 0, "chance": 0},
             {"source": "Spelunking3", "quantity": 0, "chance": 0},
+            {"source": "Spelunking4", "quantity": 0, "chance": 0},
+            {"source": "Spelunking5", "quantity": 0, "chance": 0},
             {"source": "SpelunkingCard0", "quantity": 0, "chance": 0},
             {"source": "SpelunkingCard1", "quantity": 0, "chance": 0},
             {"source": "SpelunkingCard2", "quantity": 0, "chance": 0},
-            {"source": "SpelunkingCard3", "quantity": 0, "chance": 0}
+            {"source": "SpelunkingCard3", "quantity": 0, "chance": 0},
+            {"source": "SpelunkingCard4", "quantity": 0, "chance": 0},
+            {"source": "SpelunkingCard5", "quantity": 0, "chance": 0}
         ]
     },
     "SmithingRecipes1": {
@@ -1068,6 +1112,18 @@
             {"source": "w7a10", "quantity": 8, "chance": 0.0005},
             {"source": "w7a11", "quantity": 8, "chance": 0.0005},
             {"source": "w7a12", "quantity": 8, "chance": 0.0005},
+            {"source": "w7b1", "quantity": 8, "chance": 0.0005},
+            {"source": "w7b2", "quantity": 8, "chance": 0.0005},
+            {"source": "w7b3", "quantity": 8, "chance": 0.0005},
+            {"source": "w7b4", "quantity": 8, "chance": 0.0005},
+            {"source": "w7b5", "quantity": 8, "chance": 0.0005},
+            {"source": "w7b6", "quantity": 8, "chance": 0.0005},
+            {"source": "w7b7", "quantity": 8, "chance": 0.0005},
+            {"source": "w7b8", "quantity": 8, "chance": 0.0005},
+            {"source": "w7b9", "quantity": 8, "chance": 0.0005},
+            {"source": "w7b10", "quantity": 8, "chance": 0.0005},
+            {"source": "w7b11", "quantity": 8, "chance": 0.0005},
+            {"source": "w7b12", "quantity": 8, "chance": 0.0005},
             {"source": "w7d1", "quantity": 8, "chance": 0.00125}
         ]
     },
@@ -1140,6 +1196,8 @@
             {"source": "Spelunking1", "quantity": 1, "chance": 0},
             {"source": "Spelunking2", "quantity": 1, "chance": 0},
             {"source": "Spelunking3", "quantity": 1, "chance": 0},
+            {"source": "Spelunking4", "quantity": 1, "chance": 0},
+            {"source": "Spelunking5", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 0.003},
             {"source": "OakTree", "quantity": 1, "chance": 4.8e-05},
             {"source": "BirchTree", "quantity": 1, "chance": 5.1e-05},
@@ -1344,6 +1402,8 @@
             {"source": "Spelunking1", "quantity": 1, "chance": 0},
             {"source": "Spelunking2", "quantity": 1, "chance": 0},
             {"source": "Spelunking3", "quantity": 1, "chance": 0},
+            {"source": "Spelunking4", "quantity": 1, "chance": 0},
+            {"source": "Spelunking5", "quantity": 1, "chance": 0},
             {"source": "ChestA1", "quantity": 1, "chance": 0.09}
         ]
     },
@@ -1370,6 +1430,8 @@
             {"source": "Spelunking1", "quantity": 1, "chance": 0},
             {"source": "Spelunking2", "quantity": 1, "chance": 0},
             {"source": "Spelunking3", "quantity": 1, "chance": 0},
+            {"source": "Spelunking4", "quantity": 1, "chance": 0},
+            {"source": "Spelunking5", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 0.015},
             {"source": "OakTree", "quantity": 1, "chance": 0.00024},
             {"source": "BirchTree", "quantity": 1, "chance": 0.000255},
@@ -1407,7 +1469,9 @@
             {"source": "Spelunking0", "quantity": 1, "chance": 0},
             {"source": "Spelunking1", "quantity": 1, "chance": 0},
             {"source": "Spelunking2", "quantity": 1, "chance": 0},
-            {"source": "Spelunking3", "quantity": 1, "chance": 0}
+            {"source": "Spelunking3", "quantity": 1, "chance": 0},
+            {"source": "Spelunking4", "quantity": 1, "chance": 0},
+            {"source": "Spelunking5", "quantity": 1, "chance": 0}
         ]
     },
     "FoodPotGr1": {
@@ -1432,7 +1496,9 @@
             {"source": "Spelunking0", "quantity": 5, "chance": 0},
             {"source": "Spelunking1", "quantity": 5, "chance": 0},
             {"source": "Spelunking2", "quantity": 5, "chance": 0},
-            {"source": "Spelunking3", "quantity": 5, "chance": 0}
+            {"source": "Spelunking3", "quantity": 5, "chance": 0},
+            {"source": "Spelunking4", "quantity": 5, "chance": 0},
+            {"source": "Spelunking5", "quantity": 5, "chance": 0}
         ]
     },
     "StampA13": {
@@ -1457,7 +1523,9 @@
             {"source": "Spelunking0", "quantity": 1, "chance": 0},
             {"source": "Spelunking1", "quantity": 1, "chance": 0},
             {"source": "Spelunking2", "quantity": 1, "chance": 0},
-            {"source": "Spelunking3", "quantity": 1, "chance": 0}
+            {"source": "Spelunking3", "quantity": 1, "chance": 0},
+            {"source": "Spelunking4", "quantity": 1, "chance": 0},
+            {"source": "Spelunking5", "quantity": 1, "chance": 0}
         ]
     },
     "ObolBronze3": {
@@ -1482,7 +1550,9 @@
             {"source": "Spelunking0", "quantity": 1, "chance": 0},
             {"source": "Spelunking1", "quantity": 1, "chance": 0},
             {"source": "Spelunking2", "quantity": 1, "chance": 0},
-            {"source": "Spelunking3", "quantity": 1, "chance": 0}
+            {"source": "Spelunking3", "quantity": 1, "chance": 0},
+            {"source": "Spelunking4", "quantity": 1, "chance": 0},
+            {"source": "Spelunking5", "quantity": 1, "chance": 0}
         ]
     },
     "Leaf1": {
@@ -1604,6 +1674,8 @@
             {"source": "Spelunking1", "quantity": 1, "chance": 0},
             {"source": "Spelunking2", "quantity": 1, "chance": 0},
             {"source": "Spelunking3", "quantity": 1, "chance": 0},
+            {"source": "Spelunking4", "quantity": 1, "chance": 0},
+            {"source": "Spelunking5", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 9e-07},
             {"source": "OakTree", "quantity": 1, "chance": 1.44e-08},
             {"source": "BirchTree", "quantity": 1, "chance": 1.53e-08},
@@ -1854,6 +1926,8 @@
             {"source": "Spelunking1", "quantity": 1, "chance": 0},
             {"source": "Spelunking2", "quantity": 1, "chance": 0},
             {"source": "Spelunking3", "quantity": 1, "chance": 0},
+            {"source": "Spelunking4", "quantity": 1, "chance": 0},
+            {"source": "Spelunking5", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 0.00021},
             {"source": "OakTree", "quantity": 1, "chance": 3.36e-06},
             {"source": "BirchTree", "quantity": 1, "chance": 3.57e-06},
@@ -2104,6 +2178,8 @@
             {"source": "Spelunking1", "quantity": 3623100, "chance": 0},
             {"source": "Spelunking2", "quantity": 3623100, "chance": 0},
             {"source": "Spelunking3", "quantity": 3623100, "chance": 0},
+            {"source": "Spelunking4", "quantity": 3623100, "chance": 0},
+            {"source": "Spelunking5", "quantity": 3623100, "chance": 0},
             {"source": "Crystal0", "quantity": 3623100, "chance": 0.0003},
             {"source": "OakTree", "quantity": 3623100, "chance": 4.8e-06},
             {"source": "BirchTree", "quantity": 3623100, "chance": 5.1e-06},
@@ -2165,6 +2241,8 @@
             {"source": "Spelunking1", "quantity": 362450, "chance": 0},
             {"source": "Spelunking2", "quantity": 362450, "chance": 0},
             {"source": "Spelunking3", "quantity": 362450, "chance": 0},
+            {"source": "Spelunking4", "quantity": 362450, "chance": 0},
+            {"source": "Spelunking5", "quantity": 362450, "chance": 0},
             {"source": "Crystal0", "quantity": 362450, "chance": 0.0003},
             {"source": "OakTree", "quantity": 362450, "chance": 4.8e-06},
             {"source": "BirchTree", "quantity": 362450, "chance": 5.1e-06},
@@ -2239,6 +2317,8 @@
             {"source": "Spelunking1", "quantity": 1, "chance": 0},
             {"source": "Spelunking2", "quantity": 1, "chance": 0},
             {"source": "Spelunking3", "quantity": 1, "chance": 0},
+            {"source": "Spelunking4", "quantity": 1, "chance": 0},
+            {"source": "Spelunking5", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 0.0003},
             {"source": "OakTree", "quantity": 1, "chance": 4.8e-06},
             {"source": "BirchTree", "quantity": 1, "chance": 5.1e-06},
@@ -2455,6 +2535,8 @@
             {"source": "Spelunking1", "quantity": 1, "chance": 0},
             {"source": "Spelunking2", "quantity": 1, "chance": 0},
             {"source": "Spelunking3", "quantity": 1, "chance": 0},
+            {"source": "Spelunking4", "quantity": 1, "chance": 0},
+            {"source": "Spelunking5", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 0.0015},
             {"source": "OakTree", "quantity": 1, "chance": 2.4e-05},
             {"source": "BirchTree", "quantity": 1, "chance": 2.55e-05},
@@ -2521,6 +2603,8 @@
             {"source": "Spelunking1", "quantity": 1, "chance": 0},
             {"source": "Spelunking2", "quantity": 1, "chance": 0},
             {"source": "Spelunking3", "quantity": 1, "chance": 0},
+            {"source": "Spelunking4", "quantity": 1, "chance": 0},
+            {"source": "Spelunking5", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 9.45e-05},
             {"source": "OakTree", "quantity": 1, "chance": 1.512e-06},
             {"source": "BirchTree", "quantity": 1, "chance": 1.6065e-06},
@@ -2586,6 +2670,8 @@
             {"source": "Spelunking1", "quantity": 1, "chance": 0},
             {"source": "Spelunking2", "quantity": 1, "chance": 0},
             {"source": "Spelunking3", "quantity": 1, "chance": 0},
+            {"source": "Spelunking4", "quantity": 1, "chance": 0},
+            {"source": "Spelunking5", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 9.765e-05},
             {"source": "OakTree", "quantity": 1, "chance": 1.5624e-06},
             {"source": "BirchTree", "quantity": 1, "chance": 1.66005e-06},
@@ -2651,6 +2737,8 @@
             {"source": "Spelunking1", "quantity": 1, "chance": 0},
             {"source": "Spelunking2", "quantity": 1, "chance": 0},
             {"source": "Spelunking3", "quantity": 1, "chance": 0},
+            {"source": "Spelunking4", "quantity": 1, "chance": 0},
+            {"source": "Spelunking5", "quantity": 1, "chance": 0},
             {"source": "Crystal0", "quantity": 1, "chance": 9.135e-05},
             {"source": "OakTree", "quantity": 1, "chance": 1.4616e-06},
             {"source": "BirchTree", "quantity": 1, "chance": 1.55295e-06},
@@ -2716,6 +2804,8 @@
             {"source": "Spelunking1", "quantity": 2, "chance": 0},
             {"source": "Spelunking2", "quantity": 2, "chance": 0},
             {"source": "Spelunking3", "quantity": 2, "chance": 0},
+            {"source": "Spelunking4", "quantity": 2, "chance": 0},
+            {"source": "Spelunking5", "quantity": 2, "chance": 0},
             {"source": "Crystal0", "quantity": 2, "chance": 0.00255},
             {"source": "OakTree", "quantity": 2, "chance": 4.08e-05},
             {"source": "BirchTree", "quantity": 2, "chance": 4.335e-05},
@@ -3807,6 +3897,18 @@
             {"source": "w7a10", "quantity": 3, "chance": 0.0002},
             {"source": "w7a11", "quantity": 3, "chance": 0.0002},
             {"source": "w7a12", "quantity": 3, "chance": 0.0002},
+            {"source": "w7b1", "quantity": 3, "chance": 0.0002},
+            {"source": "w7b2", "quantity": 3, "chance": 0.0002},
+            {"source": "w7b3", "quantity": 3, "chance": 0.0002},
+            {"source": "w7b4", "quantity": 3, "chance": 0.0002},
+            {"source": "w7b5", "quantity": 3, "chance": 0.0002},
+            {"source": "w7b6", "quantity": 3, "chance": 0.0002},
+            {"source": "w7b7", "quantity": 3, "chance": 0.0002},
+            {"source": "w7b8", "quantity": 3, "chance": 0.0002},
+            {"source": "w7b9", "quantity": 3, "chance": 0.0002},
+            {"source": "w7b10", "quantity": 3, "chance": 0.0002},
+            {"source": "w7b11", "quantity": 3, "chance": 0.0002},
+            {"source": "w7b12", "quantity": 3, "chance": 0.0002},
             {"source": "w7d1", "quantity": 3, "chance": 0.0005},
             {"source": "poopSmall", "quantity": 1, "chance": 0.23},
             {"source": "poopSmall", "quantity": 1, "chance": 0.23},
@@ -5019,6 +5121,18 @@
             {"source": "w7a10", "quantity": 1, "chance": 4e-07},
             {"source": "w7a11", "quantity": 1, "chance": 4e-07},
             {"source": "w7a12", "quantity": 1, "chance": 4e-07},
+            {"source": "w7b1", "quantity": 1, "chance": 4e-07},
+            {"source": "w7b2", "quantity": 1, "chance": 4e-07},
+            {"source": "w7b3", "quantity": 1, "chance": 4e-07},
+            {"source": "w7b4", "quantity": 1, "chance": 4e-07},
+            {"source": "w7b5", "quantity": 1, "chance": 4e-07},
+            {"source": "w7b6", "quantity": 1, "chance": 4e-07},
+            {"source": "w7b7", "quantity": 1, "chance": 4e-07},
+            {"source": "w7b8", "quantity": 1, "chance": 4e-07},
+            {"source": "w7b9", "quantity": 1, "chance": 4e-07},
+            {"source": "w7b10", "quantity": 1, "chance": 4e-07},
+            {"source": "w7b11", "quantity": 1, "chance": 4e-07},
+            {"source": "w7b12", "quantity": 1, "chance": 4e-07},
             {"source": "w7d1", "quantity": 1, "chance": 1e-06}
         ]
     },
@@ -5036,6 +5150,18 @@
             {"source": "w7a10", "quantity": 1, "chance": 8e-07},
             {"source": "w7a11", "quantity": 1, "chance": 8e-07},
             {"source": "w7a12", "quantity": 1, "chance": 8e-07},
+            {"source": "w7b1", "quantity": 1, "chance": 8e-07},
+            {"source": "w7b2", "quantity": 1, "chance": 8e-07},
+            {"source": "w7b3", "quantity": 1, "chance": 8e-07},
+            {"source": "w7b4", "quantity": 1, "chance": 8e-07},
+            {"source": "w7b5", "quantity": 1, "chance": 8e-07},
+            {"source": "w7b6", "quantity": 1, "chance": 8e-07},
+            {"source": "w7b7", "quantity": 1, "chance": 8e-07},
+            {"source": "w7b8", "quantity": 1, "chance": 8e-07},
+            {"source": "w7b9", "quantity": 1, "chance": 8e-07},
+            {"source": "w7b10", "quantity": 1, "chance": 8e-07},
+            {"source": "w7b11", "quantity": 1, "chance": 8e-07},
+            {"source": "w7b12", "quantity": 1, "chance": 8e-07},
             {"source": "w7d1", "quantity": 1, "chance": 2e-06}
         ]
     },
@@ -5053,6 +5179,18 @@
             {"source": "w7a10", "quantity": 1, "chance": 5e-06},
             {"source": "w7a11", "quantity": 1, "chance": 5e-06},
             {"source": "w7a12", "quantity": 1, "chance": 5e-06},
+            {"source": "w7b1", "quantity": 1, "chance": 5e-06},
+            {"source": "w7b2", "quantity": 1, "chance": 5e-06},
+            {"source": "w7b3", "quantity": 1, "chance": 5e-06},
+            {"source": "w7b4", "quantity": 1, "chance": 5e-06},
+            {"source": "w7b5", "quantity": 1, "chance": 5e-06},
+            {"source": "w7b6", "quantity": 1, "chance": 5e-06},
+            {"source": "w7b7", "quantity": 1, "chance": 5e-06},
+            {"source": "w7b8", "quantity": 1, "chance": 5e-06},
+            {"source": "w7b9", "quantity": 1, "chance": 5e-06},
+            {"source": "w7b10", "quantity": 1, "chance": 5e-06},
+            {"source": "w7b11", "quantity": 1, "chance": 5e-06},
+            {"source": "w7b12", "quantity": 1, "chance": 5e-06},
             {"source": "w7d1", "quantity": 1, "chance": 1.25e-05}
         ]
     },
@@ -5070,6 +5208,18 @@
             {"source": "w7a10", "quantity": 1, "chance": 5e-09},
             {"source": "w7a11", "quantity": 1, "chance": 5e-09},
             {"source": "w7a12", "quantity": 1, "chance": 5e-09},
+            {"source": "w7b1", "quantity": 1, "chance": 5e-09},
+            {"source": "w7b2", "quantity": 1, "chance": 5e-09},
+            {"source": "w7b3", "quantity": 1, "chance": 5e-09},
+            {"source": "w7b4", "quantity": 1, "chance": 5e-09},
+            {"source": "w7b5", "quantity": 1, "chance": 5e-09},
+            {"source": "w7b6", "quantity": 1, "chance": 5e-09},
+            {"source": "w7b7", "quantity": 1, "chance": 5e-09},
+            {"source": "w7b8", "quantity": 1, "chance": 5e-09},
+            {"source": "w7b9", "quantity": 1, "chance": 5e-09},
+            {"source": "w7b10", "quantity": 1, "chance": 5e-09},
+            {"source": "w7b11", "quantity": 1, "chance": 5e-09},
+            {"source": "w7b12", "quantity": 1, "chance": 5e-09},
             {"source": "w7d1", "quantity": 1, "chance": 1.25e-08}
         ]
     },
@@ -5087,6 +5237,18 @@
             {"source": "w7a10", "quantity": 1, "chance": 1e-12},
             {"source": "w7a11", "quantity": 1, "chance": 1e-12},
             {"source": "w7a12", "quantity": 1, "chance": 1e-12},
+            {"source": "w7b1", "quantity": 1, "chance": 1e-12},
+            {"source": "w7b2", "quantity": 1, "chance": 1e-12},
+            {"source": "w7b3", "quantity": 1, "chance": 1e-12},
+            {"source": "w7b4", "quantity": 1, "chance": 1e-12},
+            {"source": "w7b5", "quantity": 1, "chance": 1e-12},
+            {"source": "w7b6", "quantity": 1, "chance": 1e-12},
+            {"source": "w7b7", "quantity": 1, "chance": 1e-12},
+            {"source": "w7b8", "quantity": 1, "chance": 1e-12},
+            {"source": "w7b9", "quantity": 1, "chance": 1e-12},
+            {"source": "w7b10", "quantity": 1, "chance": 1e-12},
+            {"source": "w7b11", "quantity": 1, "chance": 1e-12},
+            {"source": "w7b12", "quantity": 1, "chance": 1e-12},
             {"source": "w7d1", "quantity": 1, "chance": 2.5e-12}
         ]
     },
@@ -5201,7 +5363,9 @@
             {"source": "Spelunking0", "quantity": 1, "chance": 0},
             {"source": "Spelunking1", "quantity": 1, "chance": 0},
             {"source": "Spelunking2", "quantity": 1, "chance": 0},
-            {"source": "Spelunking3", "quantity": 1, "chance": 0}
+            {"source": "Spelunking3", "quantity": 1, "chance": 0},
+            {"source": "Spelunking4", "quantity": 1, "chance": 0},
+            {"source": "Spelunking5", "quantity": 1, "chance": 0}
         ]
     },
     "DropTable5": {
@@ -5522,6 +5686,18 @@
             {"source": "w7a10", "quantity": 1, "chance": 0.001},
             {"source": "w7a11", "quantity": 1, "chance": 0.001},
             {"source": "w7a12", "quantity": 1, "chance": 0.001},
+            {"source": "w7b1", "quantity": 1, "chance": 0.001},
+            {"source": "w7b2", "quantity": 1, "chance": 0.001},
+            {"source": "w7b3", "quantity": 1, "chance": 0.001},
+            {"source": "w7b4", "quantity": 1, "chance": 0.001},
+            {"source": "w7b5", "quantity": 1, "chance": 0.001},
+            {"source": "w7b6", "quantity": 1, "chance": 0.001},
+            {"source": "w7b7", "quantity": 1, "chance": 0.001},
+            {"source": "w7b8", "quantity": 1, "chance": 0.001},
+            {"source": "w7b9", "quantity": 1, "chance": 0.001},
+            {"source": "w7b10", "quantity": 1, "chance": 0.001},
+            {"source": "w7b11", "quantity": 1, "chance": 0.001},
+            {"source": "w7b12", "quantity": 1, "chance": 0.001},
             {"source": "w7d1", "quantity": 1, "chance": 0.0025}
         ]
     },
@@ -6837,7 +7013,19 @@
             {"source": "w7a5", "quantity": 2, "chance": 5e-08},
             {"source": "w7a7", "quantity": 1, "chance": 4e-08},
             {"source": "w7a11", "quantity": 3, "chance": 1e-08},
-            {"source": "w7a12", "quantity": 4, "chance": 5e-09}
+            {"source": "w7a12", "quantity": 4, "chance": 5e-09},
+            {"source": "w7b1", "quantity": 0, "chance": 8e-07},
+            {"source": "w7b2", "quantity": 0, "chance": 8e-07},
+            {"source": "w7b3", "quantity": 0, "chance": 8e-07},
+            {"source": "w7b4", "quantity": 0, "chance": 8e-07},
+            {"source": "w7b5", "quantity": 0, "chance": 8e-07},
+            {"source": "w7b6", "quantity": 0, "chance": 8e-07},
+            {"source": "w7b7", "quantity": 0, "chance": 8e-07},
+            {"source": "w7b8", "quantity": 0, "chance": 8e-07},
+            {"source": "w7b9", "quantity": 0, "chance": 8e-07},
+            {"source": "w7b10", "quantity": 0, "chance": 8e-07},
+            {"source": "w7b11", "quantity": 0, "chance": 8e-07},
+            {"source": "w7b12", "quantity": 0, "chance": 8e-07}
         ]
     },
     "w7A2": {"sources": [
@@ -6917,6 +7105,84 @@
     ]},
     "CardsJ12": {"sources": [
         {"source": "w7a12", "quantity": 1, "chance": 1e-07}
+    ]},
+    "w7B1": {"sources": [
+        {"source": "w7b1", "quantity": 1, "chance": 0.001}
+    ]},
+    "w7B1b": {"sources": [
+        {"source": "w7b1", "quantity": 1, "chance": 1e-07}
+    ]},
+    "CardsJ13": {"sources": [
+        {"source": "w7b1", "quantity": 1, "chance": 1e-05}
+    ]},
+    "w7B2": {"sources": [
+        {"source": "w7b2", "quantity": 1, "chance": 0.001}
+    ]},
+    "CardsJ14": {"sources": [
+        {"source": "w7b2", "quantity": 1, "chance": 7e-06}
+    ]},
+    "w7B3": {"sources": [
+        {"source": "w7b3", "quantity": 1, "chance": 0.001}
+    ]},
+    "CardsJ15": {"sources": [
+        {"source": "w7b3", "quantity": 1, "chance": 5e-06}
+    ]},
+    "w7B4": {"sources": [
+        {"source": "w7b4", "quantity": 1, "chance": 0.001}
+    ]},
+    "CardsJ16": {"sources": [
+        {"source": "w7b4", "quantity": 1, "chance": 3e-06}
+    ]},
+    "Coral4": {"sources": [
+        {"source": "w7b4", "quantity": 1, "chance": 4e-08}
+    ]},
+    "w7B5": {"sources": [
+        {"source": "w7b5", "quantity": 1, "chance": 0.001}
+    ]},
+    "CardsJ17": {"sources": [
+        {"source": "w7b5", "quantity": 1, "chance": 1.5e-06}
+    ]},
+    "w7B6": {"sources": [
+        {"source": "w7b6", "quantity": 1, "chance": 0.001}
+    ]},
+    "CardsJ18": {"sources": [
+        {"source": "w7b6", "quantity": 1, "chance": 7e-07}
+    ]},
+    "w7B7": {"sources": [
+        {"source": "w7b7", "quantity": 1, "chance": 0.001}
+    ]},
+    "CardsJ19": {"sources": [
+        {"source": "w7b7", "quantity": 1, "chance": 5e-07}
+    ]},
+    "w7B8": {"sources": [
+        {"source": "w7b8", "quantity": 1, "chance": 0.001}
+    ]},
+    "CardsJ20": {"sources": [
+        {"source": "w7b8", "quantity": 1, "chance": 3e-07}
+    ]},
+    "w7B9": {"sources": [
+        {"source": "w7b9", "quantity": 1, "chance": 0.001}
+    ]},
+    "CardsJ21": {"sources": [
+        {"source": "w7b9", "quantity": 1, "chance": 2e-07}
+    ]},
+    "w7B10": {"sources": [
+        {"source": "w7b10", "quantity": 1, "chance": 0.001}
+    ]},
+    "CardsJ22": {"sources": [
+        {"source": "w7b10", "quantity": 1, "chance": 1e-07}
+    ]},
+    "w7B11": {"sources": [
+        {"source": "w7b11", "quantity": 1, "chance": 0.001}
+    ]},
+    "CardsJ23": {"sources": [
+        {"source": "w7b11", "quantity": 1, "chance": 1e-07}
+    ]},
+    "w7B12": {"sources": [
+        {"source": "w7b12", "quantity": 1, "chance": 0.001}
+    ]},
+    "CardsJ24": {"sources": [
+        {"source": "w7b12", "quantity": 1, "chance": 1e-07}
     ]},
     "OakTree": {"sources": [
         {"source": "ChestA1", "quantity": 40, "chance": 0.6}
@@ -7591,7 +7857,9 @@
             {"source": "SpelunkingCard0", "quantity": 1, "chance": 0},
             {"source": "SpelunkingCard1", "quantity": 1, "chance": 0},
             {"source": "SpelunkingCard2", "quantity": 1, "chance": 0},
-            {"source": "SpelunkingCard3", "quantity": 1, "chance": 0}
+            {"source": "SpelunkingCard3", "quantity": 1, "chance": 0},
+            {"source": "SpelunkingCard4", "quantity": 1, "chance": 0},
+            {"source": "SpelunkingCard5", "quantity": 1, "chance": 0}
         ]
     },
     "CardsD9": {
@@ -7677,6 +7945,12 @@
     "CardsF48": {"sources": [
         {"source": "Spelunking3", "quantity": 1, "chance": 5e-06}
     ]},
+    "CardsF49": {"sources": [
+        {"source": "Spelunking4", "quantity": 1, "chance": 1e-06}
+    ]},
+    "CardsF50": {"sources": [
+        {"source": "Spelunking5", "quantity": 1, "chance": 3e-07}
+    ]},
     "Spelunking0": {"sources": [
         {"source": "SpelunkingCard0", "quantity": 1, "chance": 1}
     ]},
@@ -7688,5 +7962,11 @@
     ]},
     "Spelunking3": {"sources": [
         {"source": "SpelunkingCard3", "quantity": 1, "chance": 1}
+    ]},
+    "Spelunking4": {"sources": [
+        {"source": "SpelunkingCard4", "quantity": 1, "chance": 1}
+    ]},
+    "Spelunking5": {"sources": [
+        {"source": "SpelunkingCard5", "quantity": 1, "chance": 1}
     ]}
 }

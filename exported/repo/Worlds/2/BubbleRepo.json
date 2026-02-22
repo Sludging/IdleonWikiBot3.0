@@ -1247,7 +1247,7 @@
                 "x1": 40,
                 "x2": 40,
                 "func": "decay",
-                "description": "+{% faster Egg Incubation Time in the Pet Nest. This will be an absolutely VITAL upgrade once you unlock pet egg rarity!",
+                "description": "+{% faster Egg Incubation Time in the Mob Nest. This will be an absolutely VITAL upgrade once you unlock mob egg rarity!",
                 "requirements": [{"spiceNo": "0", "quantity": 100}, {"liquidNo": "3", "quantity": 4}],
                 "bonusKey": "EggInc"
             },
@@ -1277,7 +1277,7 @@
                 "x1": 15,
                 "x2": 50,
                 "func": "decay",
-                "description": "+{% Shiny Pet Chance for every new Rift level you reach. Go find the Rift Ripper, above the Octodars in World 4.",
+                "description": "+{% Shiny Mob Chance for every new Rift level you reach. Go find the Rift Ripper, above the Octodars in World 4.",
                 "requirements": [{"item": "Critter10", "quantity": 100}, {"liquidNo": "3", "quantity": 5}],
                 "bonusKey": "NewPetRift"
             },
@@ -1954,7 +1954,7 @@
                 "x1": 2,
                 "x2": 0,
                 "func": "add",
-                "description": "+{% Pet Team Damage",
+                "description": "+{% Mob Team Damage",
                 "requirements": [{"item": "GalaxyC4", "quantity": -1}, {"liquidNo": "3", "quantity": -1}],
                 "bonusKey": "PetDmg"
             },
@@ -2231,10 +2231,10 @@
             {
                 "cauldron": "Vials",
                 "name": "Octosoda",
-                "x1": 0.4,
+                "x1": 0.2,
                 "x2": 0,
                 "func": "add",
-                "description": "+{% AFK Gains rate for all World 7 skills",
+                "description": "+{% AFK Gains rate for Spelunking",
                 "requirements": [{"item": "Soul8", "quantity": -1}, {"liquidNo": "4", "quantity": -1}],
                 "bonusKey": "7skillw7afk"
             },

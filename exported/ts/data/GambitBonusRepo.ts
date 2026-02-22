@@ -106,17 +106,17 @@ export const initGambitBonusRepo = () => {
             }),
         new GambitBonusBase(14, <GambitBonusModel>{
                 "index": 14,
-                "x0": 1,
+                "x0": 250,
                 "x1": 0,
-                "description": "no",
-                "name": "World 7 bonus... what will it be...?"
+                "description": "Spelunking is a World 7 skill",
+                "name": "+{% Spelunking EXP Gain"
             }),
         new GambitBonusBase(15, <GambitBonusModel>{
                 "index": 15,
-                "x0": 1,
+                "x0": 3,
                 "x1": 0,
-                "description": "no",
-                "name": "World 7 bonus... what will it be...?"
+                "description": "Research is a World 7 skill",
+                "name": "+{% Research AFK Gains rate"
             }),
         new GambitBonusBase(16, <GambitBonusModel>{
                 "index": 16,
@@ -130,7 +130,7 @@ export const initGambitBonusRepo = () => {
                 "x0": 1,
                 "x1": 0,
                 "description": "no",
-                "name": "World 7 bonus... what will it be...?"
+                "name": "World 8 bonus... what will it be...?"
             }),
         new GambitBonusBase(18, <GambitBonusModel>{
                 "index": 18,

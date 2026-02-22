@@ -4466,10 +4466,46 @@
             {
                 "wikiName": "[[Equinox Broadbass|Recipe from Equinox Broadbass]]",
                 "txtName": "Equinox Broadbass"
+            },
+            {"wikiName": "[[Trench Fish|Recipe from Trench Fish]]", "txtName": "Trench Fish"},
+            {"wikiName": "[[Boomy Mine|Recipe from Boomy Mine]]", "txtName": "Boomy Mine"},
+            {
+                "wikiName": "[[Pirate Underling|Recipe from Pirate Underling]]",
+                "txtName": "Pirate Underling"
+            },
+            {"wikiName": "[[Eggroll|Recipe from Eggroll]]", "txtName": "Eggroll"},
+            {"wikiName": "[[Jellofish|Recipe from Jellofish]]", "txtName": "Jellofish"},
+            {"wikiName": "[[Kelpfish|Recipe from Kelpfish]]", "txtName": "Kelpfish"},
+            {"wikiName": "[[Mantaray|Recipe from Mantaray]]", "txtName": "Mantaray"},
+            {"wikiName": "[[Glowfish|Recipe from Glowfish]]", "txtName": "Glowfish"},
+            {"wikiName": "[[Ancientfish|Recipe from Ancientfish]]", "txtName": "Ancientfish"},
+            {
+                "wikiName": "[[Magni Pufferfin|Recipe from Magni Pufferfin]]",
+                "txtName": "Magni Pufferfin"
+            },
+            {
+                "wikiName": "[[Pirate Deckhand|Recipe from Pirate Deckhand]]",
+                "txtName": "Pirate Deckhand"
+            },
+            {
+                "wikiName": "[[Dreadnaught Captain|Recipe from Dreadnaught Captain]]",
+                "txtName": "Dreadnaught Captain"
             }
         ],
         "recipeFrom": [
-            {"wikiName": "[[Equinox Broadbass]]", "txtName": "Equinox Broadbass"}
+            {"wikiName": "[[Equinox Broadbass]]", "txtName": "Equinox Broadbass"},
+            {"wikiName": "[[Trench Fish]]", "txtName": "Trench Fish"},
+            {"wikiName": "[[Boomy Mine]]", "txtName": "Boomy Mine"},
+            {"wikiName": "[[Pirate Underling]]", "txtName": "Pirate Underling"},
+            {"wikiName": "[[Eggroll]]", "txtName": "Eggroll"},
+            {"wikiName": "[[Jellofish]]", "txtName": "Jellofish"},
+            {"wikiName": "[[Kelpfish]]", "txtName": "Kelpfish"},
+            {"wikiName": "[[Mantaray]]", "txtName": "Mantaray"},
+            {"wikiName": "[[Glowfish]]", "txtName": "Glowfish"},
+            {"wikiName": "[[Ancientfish]]", "txtName": "Ancientfish"},
+            {"wikiName": "[[Magni Pufferfin]]", "txtName": "Magni Pufferfin"},
+            {"wikiName": "[[Pirate Deckhand]]", "txtName": "Pirate Deckhand"},
+            {"wikiName": "[[Dreadnaught Captain]]", "txtName": "Dreadnaught Captain"}
         ],
         "questAss": []
     },
@@ -4804,6 +4840,18 @@
             {"wikiName": "[[Spearfish]]", "txtName": "Spearfish"},
             {"wikiName": "[[Coralcave Crab]]", "txtName": "Coralcave Crab"},
             {"wikiName": "[[Coralcave Guardian]]", "txtName": "Coralcave Guardian"},
+            {"wikiName": "[[Trench Fish]]", "txtName": "Trench Fish"},
+            {"wikiName": "[[Boomy Mine]]", "txtName": "Boomy Mine"},
+            {"wikiName": "[[Pirate Underling]]", "txtName": "Pirate Underling"},
+            {"wikiName": "[[Eggroll]]", "txtName": "Eggroll"},
+            {"wikiName": "[[Jellofish]]", "txtName": "Jellofish"},
+            {"wikiName": "[[Kelpfish]]", "txtName": "Kelpfish"},
+            {"wikiName": "[[Mantaray]]", "txtName": "Mantaray"},
+            {"wikiName": "[[Glowfish]]", "txtName": "Glowfish"},
+            {"wikiName": "[[Ancientfish]]", "txtName": "Ancientfish"},
+            {"wikiName": "[[Magni Pufferfin]]", "txtName": "Magni Pufferfin"},
+            {"wikiName": "[[Pirate Deckhand]]", "txtName": "Pirate Deckhand"},
+            {"wikiName": "[[Dreadnaught Captain]]", "txtName": "Dreadnaught Captain"},
             {"wikiName": "[[RIP Tide]]", "txtName": "RIP Tide"},
             {
                 "wikiName": "[[Colosseum/Dewdrop#Bronze Chest(W1)|Dewdrop Bronze Chest(W1)]]",
@@ -5006,10 +5054,14 @@
             {"wikiName": "[[Decaying Crevasse]]", "txtName": "Decaying Crevasse"},
             {"wikiName": "[[Buried Church]]", "txtName": "Buried Church"},
             {"wikiName": "[[One Way Opening]]", "txtName": "One Way Opening"},
+            {"wikiName": "[[Plunder Cranny]]", "txtName": "Plunder Cranny"},
+            {"wikiName": "[[Kelp Forest]]", "txtName": "Kelp Forest"},
             {"wikiName": "[[Fearful Tunnel]]", "txtName": "Fearful Tunnel"},
             {"wikiName": "[[Decaying Crevasse]]", "txtName": "Decaying Crevasse"},
             {"wikiName": "[[Buried Church]]", "txtName": "Buried Church"},
             {"wikiName": "[[One Way Opening]]", "txtName": "One Way Opening"},
+            {"wikiName": "[[Plunder Cranny]]", "txtName": "Plunder Cranny"},
+            {"wikiName": "[[Kelp Forest]]", "txtName": "Kelp Forest"},
             {"wikiName": "[[DropTable1]]", "txtName": "DropTable1"},
             {"wikiName": "[[DropTable2]]", "txtName": "DropTable2"},
             {"wikiName": "[[DropTable3]]", "txtName": "DropTable3"},
@@ -5277,7 +5329,9 @@
             {"wikiName": "[[Fearful Tunnel]]", "txtName": "Fearful Tunnel"},
             {"wikiName": "[[Decaying Crevasse]]", "txtName": "Decaying Crevasse"},
             {"wikiName": "[[Buried Church]]", "txtName": "Buried Church"},
-            {"wikiName": "[[One Way Opening]]", "txtName": "One Way Opening"}
+            {"wikiName": "[[One Way Opening]]", "txtName": "One Way Opening"},
+            {"wikiName": "[[Plunder Cranny]]", "txtName": "Plunder Cranny"},
+            {"wikiName": "[[Kelp Forest]]", "txtName": "Kelp Forest"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -5723,6 +5777,18 @@
             {"wikiName": "[[Spearfish]]", "txtName": "Spearfish"},
             {"wikiName": "[[Coralcave Crab]]", "txtName": "Coralcave Crab"},
             {"wikiName": "[[Coralcave Guardian]]", "txtName": "Coralcave Guardian"},
+            {"wikiName": "[[Trench Fish]]", "txtName": "Trench Fish"},
+            {"wikiName": "[[Boomy Mine]]", "txtName": "Boomy Mine"},
+            {"wikiName": "[[Pirate Underling]]", "txtName": "Pirate Underling"},
+            {"wikiName": "[[Eggroll]]", "txtName": "Eggroll"},
+            {"wikiName": "[[Jellofish]]", "txtName": "Jellofish"},
+            {"wikiName": "[[Kelpfish]]", "txtName": "Kelpfish"},
+            {"wikiName": "[[Mantaray]]", "txtName": "Mantaray"},
+            {"wikiName": "[[Glowfish]]", "txtName": "Glowfish"},
+            {"wikiName": "[[Ancientfish]]", "txtName": "Ancientfish"},
+            {"wikiName": "[[Magni Pufferfin]]", "txtName": "Magni Pufferfin"},
+            {"wikiName": "[[Pirate Deckhand]]", "txtName": "Pirate Deckhand"},
+            {"wikiName": "[[Dreadnaught Captain]]", "txtName": "Dreadnaught Captain"},
             {"wikiName": "[[RIP Tide]]", "txtName": "RIP Tide"}
         ],
         "recipeFrom": [],
@@ -8010,12 +8076,12 @@
                 "txtName": "Gobo: Breeding in Outer Space"
             },
             {
-                "wikiName": "[[Gobo#Intense Pet Fighting|Intense Pet Fighting]]",
-                "txtName": "Gobo: Intense Pet Fighting"
+                "wikiName": "[[Gobo#Intense Mob Fighting|Intense Mob Fighting]]",
+                "txtName": "Gobo: Intense Mob Fighting"
             },
             {
-                "wikiName": "[[Gobo#Intense Pet Fighting|Intense Pet Fighting]]",
-                "txtName": "Gobo: Intense Pet Fighting"
+                "wikiName": "[[Gobo#Intense Mob Fighting|Intense Mob Fighting]]",
+                "txtName": "Gobo: Intense Mob Fighting"
             },
             {
                 "wikiName": "[[Gobo#Squirrel Tactics|Squirrel Tactics]]",
@@ -9354,6 +9420,188 @@
     "CardsJ12": {
         "sources": [
             {"wikiName": "[[Coralcave Guardian]]", "txtName": "Coralcave Guardian"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7B1": {
+        "sources": [
+            {"wikiName": "[[Trench Fish]]", "txtName": "Trench Fish"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7B1b": {
+        "sources": [
+            {"wikiName": "[[Trench Fish]]", "txtName": "Trench Fish"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ13": {
+        "sources": [
+            {"wikiName": "[[Trench Fish]]", "txtName": "Trench Fish"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7B2": {
+        "sources": [
+            {"wikiName": "[[Boomy Mine]]", "txtName": "Boomy Mine"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ14": {
+        "sources": [
+            {"wikiName": "[[Boomy Mine]]", "txtName": "Boomy Mine"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7B3": {
+        "sources": [
+            {"wikiName": "[[Pirate Underling]]", "txtName": "Pirate Underling"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ15": {
+        "sources": [
+            {"wikiName": "[[Pirate Underling]]", "txtName": "Pirate Underling"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7B4": {
+        "sources": [
+            {"wikiName": "[[Eggroll]]", "txtName": "Eggroll"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ16": {
+        "sources": [
+            {"wikiName": "[[Eggroll]]", "txtName": "Eggroll"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Coral4": {
+        "sources": [
+            {"wikiName": "[[Eggroll]]", "txtName": "Eggroll"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7B5": {
+        "sources": [
+            {"wikiName": "[[Jellofish]]", "txtName": "Jellofish"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ17": {
+        "sources": [
+            {"wikiName": "[[Jellofish]]", "txtName": "Jellofish"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7B6": {
+        "sources": [
+            {"wikiName": "[[Kelpfish]]", "txtName": "Kelpfish"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ18": {
+        "sources": [
+            {"wikiName": "[[Kelpfish]]", "txtName": "Kelpfish"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7B7": {
+        "sources": [
+            {"wikiName": "[[Mantaray]]", "txtName": "Mantaray"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ19": {
+        "sources": [
+            {"wikiName": "[[Mantaray]]", "txtName": "Mantaray"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7B8": {
+        "sources": [
+            {"wikiName": "[[Glowfish]]", "txtName": "Glowfish"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ20": {
+        "sources": [
+            {"wikiName": "[[Glowfish]]", "txtName": "Glowfish"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7B9": {
+        "sources": [
+            {"wikiName": "[[Ancientfish]]", "txtName": "Ancientfish"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ21": {
+        "sources": [
+            {"wikiName": "[[Ancientfish]]", "txtName": "Ancientfish"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7B10": {
+        "sources": [
+            {"wikiName": "[[Magni Pufferfin]]", "txtName": "Magni Pufferfin"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ22": {
+        "sources": [
+            {"wikiName": "[[Magni Pufferfin]]", "txtName": "Magni Pufferfin"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7B11": {
+        "sources": [
+            {"wikiName": "[[Pirate Deckhand]]", "txtName": "Pirate Deckhand"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ23": {
+        "sources": [
+            {"wikiName": "[[Pirate Deckhand]]", "txtName": "Pirate Deckhand"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "w7B12": {
+        "sources": [
+            {"wikiName": "[[Dreadnaught Captain]]", "txtName": "Dreadnaught Captain"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsJ24": {
+        "sources": [
+            {"wikiName": "[[Dreadnaught Captain]]", "txtName": "Dreadnaught Captain"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -11417,7 +11665,9 @@
             {"wikiName": "[[Fearful Tunnel]]", "txtName": "Fearful Tunnel"},
             {"wikiName": "[[Decaying Crevasse]]", "txtName": "Decaying Crevasse"},
             {"wikiName": "[[Buried Church]]", "txtName": "Buried Church"},
-            {"wikiName": "[[One Way Opening]]", "txtName": "One Way Opening"}
+            {"wikiName": "[[One Way Opening]]", "txtName": "One Way Opening"},
+            {"wikiName": "[[Plunder Cranny]]", "txtName": "Plunder Cranny"},
+            {"wikiName": "[[Kelp Forest]]", "txtName": "Kelp Forest"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -11575,6 +11825,20 @@
         "recipeFrom": [],
         "questAss": []
     },
+    "CardsF49": {
+        "sources": [
+            {"wikiName": "[[Plunder Cranny]]", "txtName": "Plunder Cranny"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsF50": {
+        "sources": [
+            {"wikiName": "[[Kelp Forest]]", "txtName": "Kelp Forest"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
     "Spelunking0": {
         "sources": [
             {"wikiName": "[[Fearful Tunnel]]", "txtName": "Fearful Tunnel"}
@@ -11599,6 +11863,20 @@
     "Spelunking3": {
         "sources": [
             {"wikiName": "[[One Way Opening]]", "txtName": "One Way Opening"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Spelunking4": {
+        "sources": [
+            {"wikiName": "[[Plunder Cranny]]", "txtName": "Plunder Cranny"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Spelunking5": {
+        "sources": [
+            {"wikiName": "[[Kelp Forest]]", "txtName": "Kelp Forest"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -11639,6 +11917,27 @@
         "questAss": []
     },
     "Refinery6": {
+        "sources": [
+            {"wikiName": "[[Construction#Refinery|Refinery]]", "txtName": "Construction: Refinery"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Refinery7": {
+        "sources": [
+            {"wikiName": "[[Construction#Refinery|Refinery]]", "txtName": "Construction: Refinery"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Refinery8": {
+        "sources": [
+            {"wikiName": "[[Construction#Refinery|Refinery]]", "txtName": "Construction: Refinery"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Refinery9": {
         "sources": [
             {"wikiName": "[[Construction#Refinery|Refinery]]", "txtName": "Construction: Refinery"}
         ],
@@ -15980,7 +16279,8 @@
             {
                 "wikiName": "[[Royal Worm#Bossin' the Boss|Bossin' the Boss]]",
                 "txtName": "Royal Worm: Bossin' the Boss"
-            }
+            },
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -16702,6 +17002,17 @@
         "recipeFrom": [],
         "questAss": []
     },
+    "Quest115": {
+        "sources": [
+            {
+                "wikiName": "[[Toobus Goobus#RESEARCH STUDIES|RESEARCH STUDIES]]",
+                "txtName": "Toobus Goobus: RESEARCH STUDIES"
+            },
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
     "SmithingHammerChisel4": {
         "sources": [
             {
@@ -16952,58 +17263,28 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "EquipmentHats40": {
-        "sources": [
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"},
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "EquipmentHats55": {
-        "sources": [
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"},
-            {"wikiName": "Steam Launch Event", "txtName": "Steam Launch Event"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "EquipmentHats75": {
+    "GemP25": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
         "recipeFrom": [],
         "questAss": []
     },
-    "EquipmentHats81": {
+    "EquipmentRings37": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
         "recipeFrom": [],
         "questAss": []
     },
-    "EquipmentHats82": {
+    "EquipmentPendant31": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
         "recipeFrom": [],
         "questAss": []
     },
-    "EquipmentHats112": {
-        "sources": [
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "EquipmentHats118": {
-        "sources": [
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "EquipmentHats122": {
+    "EquipmentNametag3": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
@@ -19510,6 +19791,13 @@
         "recipeFrom": [],
         "questAss": []
     },
+    "EquipmentHats55": {
+        "sources": [
+            {"wikiName": "Steam Launch Event", "txtName": "Steam Launch Event"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
     "EquipmentHats63": {
         "sources": [
             {"wikiName": "Summer Break Event", "txtName": "Summer Break Event"}
@@ -19728,6 +20016,13 @@
         "questAss": []
     },
     "EquipmentHats36": {
+        "sources": [
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentHats40": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
