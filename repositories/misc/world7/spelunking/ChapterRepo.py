@@ -17,7 +17,7 @@ class SpelunkingChapterRepo(Repository[SpelunkingChapter]):
     @classmethod
     def generateRepo(cls) -> None:
 
-        chapterNames = ["The fear within", "Decay surrounds", "This is gospel", "No escape"]
+        chapterNames = ["The fear within", "Decay surrounds", "This is gospel", "No escape", "Sunken Plunder", "Kelp Primeval", "FILLER"]
 
         # 2d array, bonuses grouped by chapter
         data = getFromArrayArray(cls.getSection(), repU = False)

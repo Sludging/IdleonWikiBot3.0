@@ -16,3 +16,5 @@ class Sigil(IdleonModel):
 	x2: Optional[Integer]
 	x3: Optional[Integer]
 	x4: Optional[Integer]
+	x5: Optional[Integer]
+	x6: Optional[Integer]
