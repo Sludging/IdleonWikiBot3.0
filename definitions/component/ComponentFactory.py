@@ -17,7 +17,7 @@ class ComponentFactory:
 	# Check _customBlock_removeitems = function
 	hardCodedComponents = {
 		"W6item0": ["Jade", ""],
-		"W6item1": ["Crop", "3"],
+		"W6item1": ["Crop", "4"],
 		"W6item2": ["Crop", "30"],
 		"W6item3": ["Crop", "46"],
 		"W6item4": ["Crop", "72"],
