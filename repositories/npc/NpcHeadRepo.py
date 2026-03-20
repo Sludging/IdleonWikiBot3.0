@@ -1,5 +1,4 @@
 import re
-from random import choice, randint
 from typing import List, Dict, Optional
 
 from mwparserfromhell import parse as mwparse
@@ -57,31 +56,41 @@ class NpcHeadRepo(FileRepository[NpcHead]):
 				selectedTemplate = template
 				break
 		codeWorld = cls.getWorld(rawName)
+		hardcoded = cls.hardcodedWorlds.get(rawName)
 		if selectedTemplate is None:
 			if codeWorld:
-				return cls.newHead(world = codeWorld)
+				hardcodedType = hardcoded["type"] if hardcoded else "Unknown"
+				return cls.newHead(world = codeWorld, typ = hardcodedType)
 			return cls.newHead()
 		typ = ""
 		if "npcType" in selectedTemplate:
-			if codeWorld:
-				typ = ""
 			typ = cls.getParsed(selectedTemplate, "npcType")
+		if hardcoded and hardcoded["type"]:
+			typ = hardcoded["type"]
 		notes = " "
 		if "notes" in selectedTemplate:
 			notes = re.escape(cls.getParsed(selectedTemplate, "notes")).replace('"', "'")
 		noQuest = 0
 		if "noquest" in selectedTemplate:
 			noQuest = cls.getParsed(selectedTemplate, "noquest")
+		resolvedWorld = codeWorld if codeWorld else cls.getParsed(selectedTemplate, "world")
+		if resolvedWorld == "Unknown":
+			raise ValueError(f"NPC '{dispName}' (raw: '{rawName}') has unknown world — add it to a RandoList or the hardcoded fallback")
 		return NpcHead(
 			location = cls.getParsed(selectedTemplate, "location"),
-			world = codeWorld if codeWorld else cls.getParsed(selectedTemplate, "world"),
+			world = resolvedWorld,
 			noQuest = noQuest,
 			type = typ,
-			birthWeight = cls.getParsed(selectedTemplate, "birthweight"),
-			starSign = cls.getParsed(selectedTemplate, "starsign"),
-			mothersMaidenName = cls.getParsed(selectedTemplate, "mmm"),
 			notes = notes
 		)
+
+	# NPCs not present in any RandoList — world and type assigned manually
+	hardcodedWorlds: Dict[str, Dict[str, str]] = {
+		"Humble_Hugh":       {"world": "Shimmerfin Deep", "type": ""},
+		"Coralcave_Prince":  {"world": "Shimmerfin Deep", "type": ""},
+		"Bort":              {"world": "Blunder Hills",   "type": "Event"},
+		"Luckulyte":         {"world": "Blunder Hills",   "type": "Event"},
+	}
 
 	@classmethod
 	def getWorld(cls, rawName: str) -> str:
@@ -90,24 +99,24 @@ class NpcHeadRepo(FileRepository[NpcHead]):
 			RandoListRepo.get(RandoListDescriptions.npcsInYumyum).elements,
 			RandoListRepo.get(RandoListDescriptions.npcsInFrostbite).elements,
 			RandoListRepo.get(RandoListDescriptions.npcsInNebulon).elements,
-			RandoListRepo.get(RandoListDescriptions.npcsInSmolderin).elements
+			RandoListRepo.get(RandoListDescriptions.npcsInSmolderin).elements,
+			RandoListRepo.get(RandoListDescriptions.npcsInSpirited).elements,
+			RandoListRepo.get(RandoListDescriptions.npcsInShimmerfin).elements,
 		]
 		for worldIndex, worldList in enumerate(npcInWorld):
 			if rawName in worldList:
 				return Constants.worlds[worldIndex]
+		if rawName in cls.hardcodedWorlds:
+			return cls.hardcodedWorlds[rawName]["world"]
 		return ""
 
 	@classmethod
-	def newHead(cls, world: str = "Unknown", noQuest: Integer = 0):
+	def newHead(cls, world: str = "Unknown", noQuest: Integer = 0, typ: str = "Unknown"):
 		return NpcHead(
 			location = "Unknown",
 			world = world,
 			noQuest = noQuest,
-			repeatable = "Unknown",
-			type = "Unknown",
-			birthWeight = cls.doBirthweight(),
-			starSign = cls.doStarsign(),
-			mothersMaidenName = cls.doMMM(),
+			type = typ,
 			notes = " "
 		)
 
@@ -116,170 +125,3 @@ class NpcHeadRepo(FileRepository[NpcHead]):
 		if cls.contains(key):
 			return super().get(key)
 		return cls.newHead()
-
-	@classmethod
-	def doStarsign(cls):
-		return choice(
-			["Aries", "Taurus", "Gemini", "Cancer", "Leo", "Virgo", "Libra", "Scorpio", "Sagittarius", "Capricorn",
-			 "Aquarius", "Pisces"])
-
-	@classmethod
-	def doMMM(cls):
-		return choice(
-			[
-				"Anderson",
-				"Ashwoon",
-				"Aikin",
-				"Bateman",
-				"Bongard",
-				"Bowers",
-				"Boyd",
-				"Cannon",
-				"Cast",
-				"Deitz",
-				"Dewalt",
-				"Ebner",
-				"Frick",
-				"Hancock",
-				"Haworth",
-				"Hesch",
-				"Hoffman",
-				"Kassing",
-				"Knutson",
-				"Lawless",
-				"Lawicki",
-				"Mccord",
-				"McCormack",
-				"Miller",
-				"Myers",
-				"Nugent",
-				"Ortiz",
-				"Orwig",
-				"Ory",
-				"Paiser",
-				"Pak",
-				"Pettigrew",
-				"Quinn",
-				"Quizoz",
-				"Ramachandran",
-				"Resnick",
-				"Sagar",
-				"Schickowski",
-				"Schiebel",
-				"Sellon",
-				"Severson",
-				"Shaffer",
-				"Solberg",
-				"Soloman",
-				"Sonderling",
-				"Soukup",
-				"Soulis",
-				"Stahl",
-				"Sweeney",
-				"Tandy",
-				"Trebil",
-				"Trusela",
-				"Trussel",
-				"Turco",
-				"Uddin",
-				"Uflan",
-				"Ulrich",
-				"Upson",
-				"Vader",
-				"Vail",
-				"Valente",
-				"Van Zandt",
-				"Vanderpoel",
-				"Ventotla",
-				"Vogal",
-				"Wagle",
-				"Wagner",
-				"Wakefield",
-				"Weinstein",
-				"Weiss",
-				"Woo",
-				"Yang",
-				"Yates",
-				"Yocum",
-				"Zeaser",
-				"Zeller",
-				"Ziegler",
-				"Bauer",
-				"Baxster",
-				"Casal",
-				"Cataldi",
-				"Caswell",
-				"Celedon",
-				"Chambers",
-				"Chapman",
-				"Christensen",
-				"Darnell",
-				"Davidson",
-				"Davis",
-				"DeLorenzo",
-				"Dinkins",
-				"Doran",
-				"Dugelman",
-				"Dugan",
-				"Duffman",
-				"Eastman",
-				"Ferro",
-				"Ferry",
-				"Fletcher",
-				"Fietzer",
-				"Hylan",
-				"Hydinger",
-				"Illingsworth",
-				"Ingram",
-				"Irwin",
-				"Jagtap",
-				"Jenson",
-				"Johnson",
-				"Johnsen",
-				"Jones",
-				"Jurgenson",
-				"Kalleg",
-				"Kaskel",
-				"Keller",
-				"Leisinger",
-				"LePage",
-				"Lewis",
-				"Linde",
-				"Lulloff",
-				"Maki",
-				"Martin",
-				"McGinnis",
-				"Mills",
-				"Moody",
-				"Moore",
-				"Napier",
-				"Nelson",
-				"Norquist",
-				"Nuttle",
-				"Olson",
-				"Ostrander",
-				"Reamer",
-				"Reardon",
-				"Reyes",
-				"Rice",
-				"Ripka",
-				"Roberts",
-				"Rogers",
-				"Root",
-				"Sandstrom",
-				"Sawyer",
-				"Schlicht",
-				"Schmitt",
-				"Schwager",
-				"Schutz",
-				"Schuster",
-				"Tapia",
-				"Thompson",
-				"Tiernan",
-				"Tisler",
-			]
-		)
-
-	@classmethod
-	def doBirthweight(cls):
-		return randint(100, 1000) / 100

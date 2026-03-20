@@ -10,9 +10,6 @@ class NpcHead(IdleonModel):
 	world: str
 	noQuest: Integer
 	type: str
-	birthWeight: Union[float, Integer]
-	starSign: str
-	mothersMaidenName: str
 	notes: str
 
 	def intToWiki(self) -> Dict[str, Union[Callable, str]]:
@@ -21,9 +18,6 @@ class NpcHead(IdleonModel):
 			"location": "location",
 			"noquest": "noQuest",
 			"npcType": "type",
-			"birthweight": "birthWeight",
-			"starsign": "starSign",
-			"mmm": "mothersMaidenName",
 			"notes": self.getNotes,
 		}
 
