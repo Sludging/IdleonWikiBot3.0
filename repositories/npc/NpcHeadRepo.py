@@ -87,10 +87,31 @@ class NpcHeadRepo(FileRepository[NpcHead]):
 	# NPCs not present in any RandoList — world and type assigned manually.
 	# Keys use raw underscore names (as they appear in game code / RandoLists).
 	hardcodedWorlds: Dict[str, Dict[str, str]] = {
-		"Humble_Hugh":       {"world": "Shimmerfin Deep", "type": ""},
-		"Coralcave_Prince":  {"world": "Shimmerfin Deep", "type": ""},
-		"Bort":              {"world": "Blunder Hills",   "type": "Event"},
-		"Luckulyte":         {"world": "Blunder Hills",   "type": "Event"},
+		# W1 — Blunder Hills
+		"Forest_Soul":       {"world": "Blunder Hills",      "type": ""},
+		"Root_Soul":         {"world": "Blunder Hills",      "type": ""},
+		"Pet_Dog":           {"world": "Blunder Hills",      "type": ""},
+		"Keymaster":         {"world": "Blunder Hills",      "type": ""},
+		"Bort":              {"world": "Blunder Hills",      "type": "Event"},
+		"Luckulyte":         {"world": "Blunder Hills",      "type": "Event"},
+		# W2 — Yum-Yum Desert
+		"Dune_Soul":         {"world": "Yum-Yum Desert",     "type": ""},
+		# W3 — Frostbite Tundra
+		"Frigid_Soul":       {"world": "Frostbite Tundra",   "type": ""},
+		# W4 — Hyperion Nebula
+		"Squish_Soul":       {"world": "Hyperion Nebula",    "type": ""},
+		# W5 — Smolderin' Plateau
+		"Oozie_Soul":        {"world": "Smolderin' Plateau", "type": ""},
+		# W6 — Spirited Valley
+		"Brezy_Soul":        {"world": "Spirited Valley",    "type": ""},
+		# W7 — Shimmerfin Deep
+		"Humble_Hugh":       {"world": "Shimmerfin Deep",    "type": ""},
+		"Coralcave_Prince":  {"world": "Shimmerfin Deep",    "type": ""},
+		"Coral_Kid":         {"world": "Shimmerfin Deep",    "type": ""},
+		"Musselini":         {"world": "Shimmerfin Deep",    "type": ""},
+		"Deeps_Soul":        {"world": "Shimmerfin Deep",    "type": ""},
+		"Glimbo":            {"world": "Shimmerfin Deep",    "type": ""},
+		"Minehead":          {"world": "Shimmerfin Deep",    "type": ""},
 	}
 
 	@classmethod
@@ -129,6 +150,8 @@ class NpcHeadRepo(FileRepository[NpcHead]):
 		# Try to resolve world from game code even if NPC has no wiki page
 		rawName = key.replace(" ", "_")
 		world = cls.getWorld(rawName)
+		if not world:
+			raise ValueError(f"NPC '{key}' (raw: '{rawName}') has unknown world — add it to a RandoList or the hardcoded fallback")
 		hardcoded = cls.hardcodedWorlds.get(rawName)
 		typ = hardcoded["type"] if hardcoded and hardcoded["type"] else "Unknown"
-		return cls.newHead(world = world if world else "Unknown", typ = typ)
+		return cls.newHead(world = world, typ = typ)
