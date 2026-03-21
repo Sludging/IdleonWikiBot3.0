@@ -84,7 +84,8 @@ class NpcHeadRepo(FileRepository[NpcHead]):
 			notes = notes
 		)
 
-	# NPCs not present in any RandoList — world and type assigned manually
+	# NPCs not present in any RandoList — world and type assigned manually.
+	# Keys use raw underscore names (as they appear in game code / RandoLists).
 	hardcodedWorlds: Dict[str, Dict[str, str]] = {
 		"Humble_Hugh":       {"world": "Shimmerfin Deep", "type": ""},
 		"Coralcave_Prince":  {"world": "Shimmerfin Deep", "type": ""},
@@ -94,6 +95,7 @@ class NpcHeadRepo(FileRepository[NpcHead]):
 
 	@classmethod
 	def getWorld(cls, rawName: str) -> str:
+		"""Return the world for rawName (underscore format), or empty string if unknown."""
 		npcInWorld = [
 			RandoListRepo.get(RandoListDescriptions.npcsInBlunder).elements,
 			RandoListRepo.get(RandoListDescriptions.npcsInYumyum).elements,
@@ -124,4 +126,9 @@ class NpcHeadRepo(FileRepository[NpcHead]):
 	def get(cls, key: str) -> Optional[NpcHead]:
 		if cls.contains(key):
 			return super().get(key)
-		return cls.newHead()
+		# Try to resolve world from game code even if NPC has no wiki page
+		rawName = key.replace(" ", "_")
+		world = cls.getWorld(rawName)
+		hardcoded = cls.hardcodedWorlds.get(rawName)
+		typ = hardcoded["type"] if hardcoded and hardcoded["type"] else "Unknown"
+		return cls.newHead(world = world if world else "Unknown", typ = typ)
