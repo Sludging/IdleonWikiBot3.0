@@ -23,3 +23,4 @@ class CardSetBonusRepo(Repository[BonusMap]):
 			toAdd = BonusMap(id = bonusId, bonus = bonus)
 			cls.add(f"{bonusId}", toAdd)
 			cls.addList(toAdd)
+			

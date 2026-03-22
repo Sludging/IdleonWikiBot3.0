@@ -1,17 +1,12 @@
 import re
 from queue import Queue
-from typing import List, Set, Any
-
-from pywikibot import Site
-from rich.progress import track
+from typing import List, Set
 
 from definitions.itemdef.Recipe import Recipe, Component, DetRecipeComponent, DetailedRecipe
-from helpers.CodeReader import IdleonReader
-from helpers.ColourPrinter import printYellow
 from helpers.CustomTypes import Integer
 from helpers.HelperFunctions import getFrom4dArray, getFromSplitArray
 from repositories.item.ItemDetailRepo import ItemDetailRepo
-from repositories.master.Repository import Repository, OldType
+from repositories.master.Repository import Repository
 
 
 class RecipeRepo(Repository[Recipe]):
@@ -132,72 +127,3 @@ class RecipeRepo(Repository[Recipe]):
 			sellPrice += ItemDetailRepo.get(component.item).sellPrice * component.quantity
 		recipe.sellPrice = sellPrice
 
-	@classmethod
-	def getWikiName(cls, name: str | int) -> str:
-		if isinstance(name, int):
-			return f"Anvil Tab {name}"
-		return ItemDetailRepo.getDisplayName(name)
-
-	@classmethod
-	def _overrideDict(cls) -> Set[str]:
-		return {"recipe"}
-
-	@classmethod
-	def compareVersions(cls, v1: IdleonReader, v2: IdleonReader, ignored: Set[str] = set(), useIgnore = True,
-	                    upload = False):
-		return super().compareVersions(v1, v2, {"detailedRecipe", "recipeFrom", 'intID'}, upload = upload)
-
-	@classmethod
-	def _getOldData(cls, item: str, data: Any):
-		return cls.writeTabWiki(item, data)
-
-	@classmethod
-	def upload(cls, debug: bool) -> None:
-		debugNum = 0
-		cls._createOldDir()
-		website = Site()
-		tabs = cls._convertToTabs()
-		for tab, items in track(tabs.items(), description = f"Uploading {cls.__name__}"):
-			name = f"Smithing/Anvil_Tab_{tab}"
-			if (oldStatus := cls._isOld(tab, items)) == OldType.Old:
-				continue
-			if debug:
-				debugNum += 1
-				continue
-			currentTab = cls.writeTabWiki(tab, items)
-			cls._upload(website, name, currentTab)
-			cls._writeOld(tab, items)
-
-		if debug:
-			printYellow(f"{cls.__name__} has {debugNum} changes")
-
-	@classmethod
-	def exportWikiMult(cls) -> None:
-		"""
-
-		Exports the entire repo into multiple files
-
-		"""
-
-		tabs = cls._convertToTabs()
-		for tab, items in tabs.items():
-			currentTab = cls.writeTabWiki(tab, items)
-			path = cls._getPath(f"wikitext/{cls.__name__}", "txt", nameOveride = f"Anvil Tab {tab}", noCat = True)
-			with open(path, mode = 'w') as outfile:
-				outfile.write(currentTab)
-
-	@classmethod
-	def writeTabWiki(cls, tab, items):
-		currentTab = "{{Smithing/head|"f"{tab}""}}\n"
-		currentTab += "".join(map(lambda x: x.writeWiki(), items))
-		currentTab += "|}"
-		return currentTab
-
-	@classmethod
-	def _convertToTabs(cls):
-		tabs = {}
-		for _, data in cls.items():
-			if data.tab not in tabs:
-				tabs[data.tab] = []
-			tabs[data.tab].append(data)
-		return tabs

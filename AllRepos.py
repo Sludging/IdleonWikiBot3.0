@@ -14,6 +14,7 @@ from repositories.item.VendorRepo import VendorRepo
 from repositories.misc.AchievementRepo import AchievementRepo
 from repositories.misc.EquipmentSetsRepo import EquipmentSetsRepo
 from repositories.misc.CardSetRepo import CardSetRepo
+from repositories.misc.bonusmap.CardSetBonusRepo import CardSetBonusRepo
 from repositories.misc.ColosseumRepo import ColosseumRepo
 from repositories.misc.CompanionRepo import CompanionRepo
 from repositories.misc.ConstellationsRepo import ConstellationsRepo
@@ -92,7 +93,7 @@ AllRepos = [*SpelunkingRepos, ItemDetailRepo, EquipmentSetsRepo, CosmoUpgradeRep
             RefineryCostRepo, BribeRepo, ConstellationsRepo, DungEnemyRepo, DungItemRepo, AchievementRepo,
             GuildBonusRepo,
             AnvilRepo, ArenaBonusRepo, ChipRepo, InfiniteTerritoryRepo, JewelRepo, LabBonusRepo, MealRepo, PetGeneRepo,
-            PetStatRepo, PetUpgradeRepo, TerritoryFightRepo, BossDetailRepo, CardSetRepo, FishPoolRepo, TrapBoxRepo,
+            PetStatRepo, PetUpgradeRepo, TerritoryFightRepo, BossDetailRepo, CardSetRepo, CardSetBonusRepo, FishPoolRepo, TrapBoxRepo,
             ArcadeBonusRepo, SigilRepo, TaskShopDescRepo, TaskDescriptionRepo, ColosseumRepo, ArtifactRepo,
             CaptainBonusRepo, DivinityStyleRepo, GamingBoxRepo, GamingUpgradeRepo, GodInfoRepo, IslandInfoRepo,
             SlabItemSortRepo, GamingSuperbitsRepo, CompanionRepo, AtomColliderRepo, WeeklyBossRepo, WeeklyActionRepo,

@@ -32,3 +32,5 @@ class HoleOrder(Enum):
 	MonumentBonusMultipliers = 37 # Monument bonus multipliers
 	# Cosmo Upgrade System
 	CosmoUpgradeEnhance = 56
+	# Jars
+	JarDescriptions = 65 # TODO: Actual Repo!

@@ -1,10 +1,6 @@
 import re
 from typing import List, Dict, Optional
 
-from mwparserfromhell import parse as mwparse
-from pywikibot import Site, Page
-from rich.progress import track
-
 from definitions.questdef.NpcHead import NpcHead
 from helpers.Constants import Constants
 from helpers.CustomTypes import Integer
@@ -32,56 +28,9 @@ class NpcHeadRepo(FileRepository[NpcHead]):
 
 	@classmethod
 	def generateRepo(cls) -> None:
-		website = Site()
-		reNpcs = r'..\.addDialogueFor\("([a-zA-Z0-9_]*)", [^\s"]*\)'
-
-		for n in range(len(cls.getSections())):
-			questText = formatStr(cls.getSection(n), ["\n"])
-			questData = re.split(reNpcs, questText)
-			for i in track(range(1, len(questData), 2), "Pulling heads..."):
-				npcName = replaceUnderscores(questData[i])
-				npcName = Constants.nameConflicts.get(npcName, npcName)
-				cls.add(npcName, cls.getHead(website, npcName, questData[i]))
-
-	@classmethod
-	def getHead(cls, website: Site, dispName: str, rawName: str) -> NpcHead:
-		if dispName in ["", " "]: return {}
-		text = Page(website, dispName).text
-		replacedText = text.replace("\n", Constants.newLineRep)
-		wikiCode = mwparse(replacedText)
-		templates = wikiCode.filter_templates(recursive = False)
-		selectedTemplate = None
-		for template in templates:
-			if "world" in template:
-				selectedTemplate = template
-				break
-		codeWorld = cls.getWorld(rawName)
-		hardcoded = cls.hardcodedWorlds.get(rawName)
-		if selectedTemplate is None:
-			if codeWorld:
-				hardcodedType = hardcoded["type"] if hardcoded else "Unknown"
-				return cls.newHead(world = codeWorld, typ = hardcodedType)
-			return cls.newHead()
-		typ = ""
-		if "npcType" in selectedTemplate:
-			typ = cls.getParsed(selectedTemplate, "npcType")
-		if hardcoded and hardcoded["type"]:
-			typ = hardcoded["type"]
-		notes = " "
-		if "notes" in selectedTemplate:
-			notes = re.escape(cls.getParsed(selectedTemplate, "notes")).replace('"', "'")
-		noQuest = 0
-		if "noquest" in selectedTemplate:
-			noQuest = cls.getParsed(selectedTemplate, "noquest")
-		resolvedWorld = codeWorld if codeWorld else cls.getParsed(selectedTemplate, "world")
-		if resolvedWorld == "Unknown":
-			raise ValueError(f"NPC '{dispName}' (raw: '{rawName}') has unknown world — add it to a RandoList or the hardcoded fallback")
-		return NpcHead(
-			location = cls.getParsed(selectedTemplate, "location"),
-			world = resolvedWorld,
-			noQuest = noQuest,
-			type = typ,
-			notes = notes
+		raise NotImplementedError(
+			"NpcHeadRepo cannot regenerate from wiki. Delete the cached JSON and re-run with a "
+			"wiki-connected machine if you need to rebuild from scratch."
 		)
 
 	# NPCs not present in any RandoList — world and type assigned manually.
