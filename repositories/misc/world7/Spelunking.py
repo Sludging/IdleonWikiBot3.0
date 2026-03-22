@@ -5,9 +5,9 @@ from repositories.misc.world7.spelunking.ElixirRepo import SpelunkingElixirRepo
 from repositories.misc.world7.spelunking.TunnelRepo import SpelunkingTunnelRepo
 
 SpelunkingRepos = [
-    SpelunkingUpgradeRepo, 
-    SpelunkingChapterRepo, 
-    SpelunkingDiscoveryRepo, 
+    SpelunkingUpgradeRepo,
+    SpelunkingChapterRepo,
+    SpelunkingDiscoveryRepo,
     SpelunkingElixirRepo,
     SpelunkingTunnelRepo
 ]

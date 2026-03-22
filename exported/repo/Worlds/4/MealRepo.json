@@ -582,5 +582,13 @@
         "bonusText": "+{% Research EXP gains",
         "description": "People always say 'That's Not Yo chip' for some reason... This is YES yo chip!",
         "bonusKey": "ResearchXP"
+    },
+    "2nd Wedding Cake": {
+        "name": "2nd Wedding Cake",
+        "cookingReq": 1e+66,
+        "bonusQty": 0.02,
+        "bonusText": "+{% Minehead Mine Currency gain",
+        "description": "Congrats on getting married again! I hope it lasts this time... I don't have a 3rd cake!",
+        "bonusKey": "MineCurr"
     }
 }

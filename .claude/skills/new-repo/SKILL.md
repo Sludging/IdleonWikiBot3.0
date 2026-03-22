@@ -42,12 +42,14 @@ from helpers.CustomTypes import Integer, Numeric
 
 
 class FeatureName(IdleonModel):
-    index: Integer
     name: str
     description: str
     someValue: Numeric
     someFlag: Integer
-    # Name unknown fields x1, x2 etc. — rename when purpose is discovered
+    # Only name fields if there's clear codefile evidence for their purpose.
+    # If usage is ambiguous, leave as x0, x1, x2 etc.
+    # Before naming a field, grep existing models to ensure consistency
+    # (e.g., every model uses `maxLevel`, not `maxLV` or `max_level`)
     x1: Integer
 ```
 
@@ -58,7 +60,6 @@ class FeatureName(IdleonModel):
 - **`Boolean`** for boolean fields (handles "1"/"0" conversion)
 - **`Optional[Type]`** for fields that may not exist in all entries
 - **`List[SubModel]`** for nested/related data (define sub-models in the same file)
-- Always include an `index: Integer` field
 
 ### When to use `fromList()`
 If the data is a flat array where field order matches model field order, the model needs NO custom code — `IdleonModel.fromList()` handles it automatically by zipping field names with the data list. This is the preferred approach for `.split()` data.
@@ -157,6 +158,7 @@ class FeatureNameRepo(Repository[FeatureName]):
 ### Key Patterns
 - Always call BOTH `cls.addList(item)` AND `cls.add(key, item)` for each entry
 - Keys for `cls.add()` are typically the name/display string, or index as string
+- **When entries can have duplicate names** (e.g., filler/placeholder entries), use the loop index as the key (`f"{n}"`) to avoid key collisions silently dropping entries. Many repos use this pattern: `SedimentRepo`, `StudyRepo`, `MeasurementRepo`, `ArcadeBonusRepo`, `SkullShopRepo`, etc.
 - Use `replaceUnderscores()` on display strings (converts `_` to spaces)
 - Comment the index mapping when data comes from indexed arrays (e.g., `# data[6] = tunnel names`)
 
@@ -204,8 +206,8 @@ AllRepos = [*FeatureRepos, ...]
 Run `python -m main` from the project root and verify:
 - Console shows `Generated FeatureNameRepo's repo with N Items` (green)
 - No red error messages for your repo
+- **Verify item count** — count the entries in the source JavaScript function (from Step 1) and confirm the TypeScript export (`exported/ts/data/`) matches. The TypeScript export is the primary output to get right. If the dict repo (`exported/repo/`) has fewer entries than the TS export, you have key collisions in `cls.add()` (e.g., duplicate names like "filler") — use index-based keys instead.
 - Check `exported/repo/{Category}/FeatureNameRepo.json` looks correct
-- Check `exported/list/{Category}/FeatureNameRepo.json` if using list storage
 
 ## Helper Function Reference
 

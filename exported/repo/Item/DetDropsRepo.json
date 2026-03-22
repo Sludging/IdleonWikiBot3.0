@@ -760,6 +760,8 @@
             {"source": "fallEvent1", "quantity": 69, "chance": 0.5},
             {"source": "anni4Event1", "quantity": 69, "chance": 0.5},
             {"source": "cropfallEvent1", "quantity": 69, "chance": 0.5},
+            {"source": "luckEvent1", "quantity": 69, "chance": 0.5},
+            {"source": "luckEvent2", "quantity": 69, "chance": 0.5},
             {"source": "Copper", "quantity": 0, "chance": 0},
             {"source": "Iron", "quantity": 0, "chance": 0},
             {"source": "Gold", "quantity": 0, "chance": 0},
@@ -3398,11 +3400,13 @@
             {"source": "ChestA6", "quantity": 1, "chance": 0.12},
             {"source": "ChestB6", "quantity": 1, "chance": 0.23},
             {"source": "ChestC6", "quantity": 1, "chance": 0.45},
+            {"source": "loveEvent2", "quantity": 1, "chance": 0.2},
             {"source": "EasterEvent2", "quantity": 1, "chance": 0.3},
             {"source": "springEvent2", "quantity": 1, "chance": 0.2},
             {"source": "fallEvent1", "quantity": 1, "chance": 0.2},
             {"source": "anni4Event1", "quantity": 1, "chance": 0.2},
-            {"source": "cropfallEvent1", "quantity": 1, "chance": 0.2}
+            {"source": "cropfallEvent1", "quantity": 1, "chance": 0.2},
+            {"source": "luckEvent1", "quantity": 1, "chance": 0.2}
         ]
     },
     "Timecandy1": {
@@ -5705,7 +5709,7 @@
         {"source": "mushG", "quantity": 1, "chance": 0.22}
     ]},
     "CardsA0": {"sources": [
-        {"source": "mushG", "quantity": 1, "chance": 0.001}
+        {"source": "mushG", "quantity": 1, "chance": 0.005}
     ]},
     "EquipmentShirts16": {"sources": [
         {"source": "mushG", "quantity": 1, "chance": 0.00035}
@@ -5717,7 +5721,7 @@
         {"source": "mushR", "quantity": 1, "chance": 0.2}
     ]},
     "CardsA1": {"sources": [
-        {"source": "mushR", "quantity": 1, "chance": 0.001}
+        {"source": "mushR", "quantity": 1, "chance": 0.1}
     ]},
     "Quest15": {"sources": [
         {"source": "mushW", "quantity": 1, "chance": 1e-05}
@@ -5759,7 +5763,7 @@
         ]
     },
     "CardsA2": {"sources": [
-        {"source": "frogG", "quantity": 1, "chance": 0.001}
+        {"source": "frogG", "quantity": 1, "chance": 0.05}
     ]},
     "Quest3": {"sources": [
         {"source": "frogG", "quantity": 1, "chance": 0.5}
@@ -5777,7 +5781,7 @@
         {"source": "beanG", "quantity": 1, "chance": 0.2}
     ]},
     "CardsA3": {"sources": [
-        {"source": "beanG", "quantity": 1, "chance": 0.001}
+        {"source": "beanG", "quantity": 1, "chance": 0.03}
     ]},
     "StoneA2": {
         "sources": [
@@ -5796,7 +5800,7 @@
         ]
     },
     "CardsA4": {"sources": [
-        {"source": "slimeG", "quantity": 1, "chance": 0.0395}
+        {"source": "slimeG", "quantity": 1, "chance": 0.025}
     ]},
     "OilBarrel2": {"sources": [
         {"source": "slimeG", "quantity": 10, "chance": 0.0003}
@@ -5805,7 +5809,7 @@
         {"source": "snakeG", "quantity": 1, "chance": 0.18}
     ]},
     "CardsA5": {"sources": [
-        {"source": "snakeG", "quantity": 1, "chance": 0.0294}
+        {"source": "snakeG", "quantity": 1, "chance": 0.023}
     ]},
     "FoodHealth2": {"sources": [
         {"source": "snakeG", "quantity": 3, "chance": 0.0005}
@@ -5823,7 +5827,7 @@
         {"source": "carrotO", "quantity": 1, "chance": 0.17}
     ]},
     "CardsA6": {"sources": [
-        {"source": "carrotO", "quantity": 1, "chance": 0.019}
+        {"source": "carrotO", "quantity": 1, "chance": 0.02}
     ]},
     "EquipmentBows4": {"sources": [
         {"source": "carrotO", "quantity": 1, "chance": 4e-05}
@@ -5832,7 +5836,7 @@
         {"source": "goblinG", "quantity": 1, "chance": 0.16}
     ]},
     "CardsA7": {"sources": [
-        {"source": "goblinG", "quantity": 1, "chance": 0.0186}
+        {"source": "goblinG", "quantity": 1, "chance": 0.018}
     ]},
     "StoneHelm1": {"sources": [
         {"source": "goblinG", "quantity": 1, "chance": 0.00015}
@@ -5841,7 +5845,7 @@
         {"source": "plank", "quantity": 1, "chance": 0.15}
     ]},
     "CardsA8": {"sources": [
-        {"source": "plank", "quantity": 1, "chance": 0.018}
+        {"source": "plank", "quantity": 1, "chance": 0.02}
     ]},
     "Quest12": {"sources": [
         {"source": "plank", "quantity": 1, "chance": 0.3}
@@ -5859,7 +5863,7 @@
         {"source": "frogBIG", "quantity": 1, "chance": 0.14}
     ]},
     "CardsA9": {"sources": [
-        {"source": "frogBIG", "quantity": 1, "chance": 0.007}
+        {"source": "frogBIG", "quantity": 1, "chance": 0.01}
     ]},
     "StampA10": {"sources": [
         {"source": "frogBIG", "quantity": 1, "chance": 3e-05}
@@ -6021,7 +6025,7 @@
         {"source": "jarSand", "quantity": 1, "chance": 0.22}
     ]},
     "CardsB1": {"sources": [
-        {"source": "jarSand", "quantity": 1, "chance": 0.0001}
+        {"source": "jarSand", "quantity": 1, "chance": 0.01}
     ]},
     "EquipmentHats9": {"sources": [
         {"source": "jarSand", "quantity": 1, "chance": 0.0001}
@@ -6036,7 +6040,7 @@
         {"source": "mimicA", "quantity": 1, "chance": 0.1}
     ]},
     "CardsB2": {"sources": [
-        {"source": "mimicA", "quantity": 1, "chance": 0.0001}
+        {"source": "mimicA", "quantity": 1, "chance": 0.009}
     ]},
     "InvBag101": {"sources": [
         {"source": "mimicA", "quantity": 1, "chance": 2.5e-05}
@@ -6045,7 +6049,7 @@
         {"source": "crabcake", "quantity": 1, "chance": 0.205}
     ]},
     "CardsB3": {"sources": [
-        {"source": "crabcake", "quantity": 1, "chance": 0.0001}
+        {"source": "crabcake", "quantity": 1, "chance": 0.008}
     ]},
     "DesertA3b": {"sources": [
         {"source": "crabcake", "quantity": 1, "chance": 5e-05}
@@ -6060,7 +6064,7 @@
         {"source": "coconut", "quantity": 1, "chance": 0.075}
     ]},
     "CardsB4": {"sources": [
-        {"source": "coconut", "quantity": 1, "chance": 0.0001}
+        {"source": "coconut", "quantity": 1, "chance": 0.007}
     ]},
     "DesertB2": {"sources": [
         {"source": "sandcastle", "quantity": 1, "chance": 0.19}
@@ -6069,13 +6073,13 @@
         {"source": "sandcastle", "quantity": 1, "chance": 0.05}
     ]},
     "CardsB5": {"sources": [
-        {"source": "sandcastle", "quantity": 1, "chance": 0.0001}
+        {"source": "sandcastle", "quantity": 1, "chance": 0.006}
     ]},
     "DesertB3": {"sources": [
         {"source": "pincermin", "quantity": 1, "chance": 0.18}
     ]},
     "CardsB6": {"sources": [
-        {"source": "pincermin", "quantity": 1, "chance": 0.0001}
+        {"source": "pincermin", "quantity": 1, "chance": 0.005}
     ]},
     "SmithingRecipes4": {
         "sources": [
@@ -6089,13 +6093,13 @@
         {"source": "potato", "quantity": 1, "chance": 0.17}
     ]},
     "CardsB7": {"sources": [
-        {"source": "potato", "quantity": 1, "chance": 0.0001}
+        {"source": "potato", "quantity": 1, "chance": 0.004}
     ]},
     "DesertC1": {"sources": [
         {"source": "steak", "quantity": 1, "chance": 0.18}
     ]},
     "CardsB8": {"sources": [
-        {"source": "steak", "quantity": 1, "chance": 0.0001}
+        {"source": "steak", "quantity": 1, "chance": 0.002}
     ]},
     "DesertC2": {"sources": [
         {"source": "moonman", "quantity": 1, "chance": 0.165}
@@ -6104,7 +6108,7 @@
         {"source": "moonman", "quantity": 1, "chance": 0.0005}
     ]},
     "CardsB9": {"sources": [
-        {"source": "moonman", "quantity": 1, "chance": 0.0001}
+        {"source": "moonman", "quantity": 1, "chance": 0.001}
     ]},
     "Quest18": {"sources": [
         {"source": "moonman", "quantity": 1, "chance": 0.0001}
@@ -6116,13 +6120,13 @@
         {"source": "sandgiant", "quantity": 1, "chance": 0.152}
     ]},
     "CardsB10": {"sources": [
-        {"source": "sandgiant", "quantity": 1, "chance": 0.0001}
+        {"source": "sandgiant", "quantity": 1, "chance": 0.001}
     ]},
     "DesertC4": {"sources": [
         {"source": "snailZ", "quantity": 1, "chance": 0.14}
     ]},
     "CardsB11": {"sources": [
-        {"source": "snailZ", "quantity": 1, "chance": 0.0001}
+        {"source": "snailZ", "quantity": 1, "chance": 0.001}
     ]},
     "EquipmentPendant14": {"sources": [
         {"source": "snailZ", "quantity": 1, "chance": 2e-06}
@@ -6212,7 +6216,7 @@
         {"source": "sheep", "quantity": 1, "chance": 0.16}
     ]},
     "CardsE0": {"sources": [
-        {"source": "sheep", "quantity": 1, "chance": 0.0001}
+        {"source": "sheep", "quantity": 1, "chance": 0.01}
     ]},
     "EquipmentStatues16": {
         "sources": [
@@ -6227,7 +6231,7 @@
         {"source": "flake", "quantity": 1, "chance": 0.16}
     ]},
     "CardsE1": {"sources": [
-        {"source": "flake", "quantity": 1, "chance": 0.0001}
+        {"source": "flake", "quantity": 1, "chance": 0.008}
     ]},
     "StampB7": {"sources": [
         {"source": "flake", "quantity": 1, "chance": 6e-05}
@@ -6242,7 +6246,7 @@
         {"source": "stache", "quantity": 1, "chance": 0.16}
     ]},
     "CardsE2": {"sources": [
-        {"source": "stache", "quantity": 1, "chance": 0.0001}
+        {"source": "stache", "quantity": 1, "chance": 0.004}
     ]},
     "FoodPotGr3": {"sources": [
         {"source": "stache", "quantity": 1, "chance": 0.002}
@@ -6269,7 +6273,7 @@
         {"source": "bloque", "quantity": 1, "chance": 0.16}
     ]},
     "CardsE3": {"sources": [
-        {"source": "bloque", "quantity": 1, "chance": 0.0001}
+        {"source": "bloque", "quantity": 1, "chance": 0.002}
     ]},
     "EquipmentStatues19": {
         "sources": [
@@ -6284,7 +6288,7 @@
         {"source": "mamoth", "quantity": 1, "chance": 0.16}
     ]},
     "CardsE4": {"sources": [
-        {"source": "mamoth", "quantity": 1, "chance": 0.0001}
+        {"source": "mamoth", "quantity": 1, "chance": 0.001}
     ]},
     "SnowB2a": {"sources": [
         {"source": "mamoth", "quantity": 1, "chance": 5e-05}
@@ -6303,7 +6307,7 @@
         {"source": "snowball", "quantity": 1, "chance": 0.16}
     ]},
     "CardsE5": {"sources": [
-        {"source": "snowball", "quantity": 1, "chance": 0.0001}
+        {"source": "snowball", "quantity": 1, "chance": 0.0005}
     ]},
     "StampB10": {"sources": [
         {"source": "snowball", "quantity": 1, "chance": 2.5e-05}
@@ -6312,7 +6316,7 @@
         {"source": "penguin", "quantity": 1, "chance": 0.16}
     ]},
     "CardsE6": {"sources": [
-        {"source": "penguin", "quantity": 1, "chance": 0.0001}
+        {"source": "penguin", "quantity": 1, "chance": 0.0003}
     ]},
     "SnowB4": {"sources": [
         {"source": "thermostat", "quantity": 1, "chance": 0.16}
@@ -7175,6 +7179,9 @@
     "w7B11": {"sources": [
         {"source": "w7b11", "quantity": 1, "chance": 0.001}
     ]},
+    "w7B11b": {"sources": [
+        {"source": "w7b11", "quantity": 1, "chance": 1e-07}
+    ]},
     "CardsJ23": {"sources": [
         {"source": "w7b11", "quantity": 1, "chance": 1e-07}
     ]},
@@ -7552,37 +7559,48 @@
     "FoodEvent5": {
         "sources": [
             {"source": "slimeR", "quantity": 5, "chance": 0.25},
-            {"source": "loveEvent", "quantity": 3, "chance": 0.25},
-            {"source": "loveEvent2", "quantity": 3, "chance": 0.25}
+            {"source": "loveEvent", "quantity": 3, "chance": 0.25}
         ]
     },
     "FoodEvent6": {
         "sources": [
             {"source": "slimeR", "quantity": 5, "chance": 0.25},
-            {"source": "loveEvent", "quantity": 3, "chance": 0.25},
-            {"source": "loveEvent2", "quantity": 3, "chance": 0.25}
+            {"source": "loveEvent", "quantity": 3, "chance": 0.25}
         ]
     },
     "FoodEvent7": {
         "sources": [
             {"source": "slimeR", "quantity": 5, "chance": 0.25},
-            {"source": "loveEvent", "quantity": 2, "chance": 0.25},
-            {"source": "loveEvent2", "quantity": 2, "chance": 0.25}
+            {"source": "loveEvent", "quantity": 2, "chance": 0.25}
         ]
     },
     "FoodEvent8": {
         "sources": [
             {"source": "slimeR", "quantity": 5, "chance": 0.25},
-            {"source": "loveEvent", "quantity": 2, "chance": 0.25},
-            {"source": "loveEvent2", "quantity": 2, "chance": 0.25}
+            {"source": "loveEvent", "quantity": 2, "chance": 0.25}
         ]
     },
-    "Quest40": {
+    "Quest40": {"sources": [
+        {"source": "loveEvent", "quantity": 1, "chance": 0.05}
+    ]},
+    "EquipmentHats51": {"sources": [
+        {"source": "loveEvent2", "quantity": 1, "chance": 0.001}
+    ]},
+    "EquipmentHats128": {"sources": [
+        {"source": "loveEvent2", "quantity": 1, "chance": 0.001}
+    ]},
+    "EquipmentHats129": {"sources": [
+        {"source": "loveEvent2", "quantity": 1, "chance": 0.001}
+    ]},
+    "EquipmentHats47": {
         "sources": [
-            {"source": "loveEvent", "quantity": 1, "chance": 0.05},
-            {"source": "loveEvent2", "quantity": 1, "chance": 0.05}
+            {"source": "loveEvent2", "quantity": 1, "chance": 0.001},
+            {"source": "anni4Event1", "quantity": 1, "chance": 0.001}
         ]
     },
+    "EquipmentHats48": {"sources": [
+        {"source": "loveEvent2", "quantity": 1, "chance": 0.001}
+    ]},
     "EquipmentCape8": {"sources": [
         {"source": "loveEvent3", "quantity": 1, "chance": 0.001429}
     ]},
@@ -7658,7 +7676,9 @@
             {"source": "springEvent2", "quantity": 1, "chance": 0},
             {"source": "fallEvent1", "quantity": 1, "chance": 0},
             {"source": "anni4Event1", "quantity": 1, "chance": 0},
-            {"source": "cropfallEvent1", "quantity": 1, "chance": 0}
+            {"source": "cropfallEvent1", "quantity": 1, "chance": 0},
+            {"source": "luckEvent1", "quantity": 1, "chance": 0},
+            {"source": "luckEvent2", "quantity": 1, "chance": 0}
         ]
     },
     "Quest71": {"sources": [
@@ -7697,9 +7717,12 @@
             {"source": "cropfallEvent1", "quantity": 1, "chance": 0.001}
         ]
     },
-    "EquipmentHats87": {"sources": [
-        {"source": "fallEvent1", "quantity": 1, "chance": 0.001}
-    ]},
+    "EquipmentHats87": {
+        "sources": [
+            {"source": "fallEvent1", "quantity": 1, "chance": 0.001},
+            {"source": "luckEvent1", "quantity": 1, "chance": 0.001}
+        ]
+    },
     "EquipmentHats31": {"sources": [
         {"source": "fallEvent1", "quantity": 1, "chance": 0.0007}
     ]},
@@ -7721,9 +7744,6 @@
             {"source": "cropfallEvent1", "quantity": 1, "chance": 0.001}
         ]
     },
-    "EquipmentHats47": {"sources": [
-        {"source": "anni4Event1", "quantity": 1, "chance": 0.001}
-    ]},
     "EquipmentNametag12": {
         "sources": [
             {"source": "cropfallEvent1", "quantity": 1, "chance": 0.001}
@@ -7739,6 +7759,30 @@
             {"source": "cropfallEvent1", "quantity": 1, "chance": 0.001}
         ]
     },
+    "EquipmentHats50": {"sources": [
+        {"source": "luckEvent1", "quantity": 1, "chance": 0.001}
+    ]},
+    "EquipmentHats96": {"sources": [
+        {"source": "luckEvent1", "quantity": 1, "chance": 0.001}
+    ]},
+    "EquipmentHats130": {"sources": [
+        {"source": "luckEvent1", "quantity": 1, "chance": 0.001}
+    ]},
+    "EquipmentHats131": {"sources": [
+        {"source": "luckEvent1", "quantity": 1, "chance": 0.001}
+    ]},
+    "EquipmentNametag33": {"sources": [
+        {"source": "luckEvent2", "quantity": 1, "chance": 0.01804}
+    ]},
+    "EquipmentNametag34": {"sources": [
+        {"source": "luckEvent2", "quantity": 1, "chance": 0.0336}
+    ]},
+    "Quest89": {"sources": [
+        {"source": "luckEvent2", "quantity": 1, "chance": 1}
+    ]},
+    "GfoodcouponS": {"sources": [
+        {"source": "luckEvent2", "quantity": 1, "chance": 1}
+    ]},
     "CardsC1": {"sources": [
         {"source": "Copper", "quantity": 1, "chance": 0.0002}
     ]},

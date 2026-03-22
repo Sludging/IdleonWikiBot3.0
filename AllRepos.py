@@ -88,6 +88,7 @@ from repositories.npc.NpcRepo import NpcRepo
 from repositories.talents.TalentTreeRepo import TalentTreeRepo
 from repositories.misc.world7.Spelunking import SpelunkingRepos
 from repositories.misc.world7.BubbaUpgradeRepo import BubbaUpgradeRepo
+from repositories.misc.world7.LegendTalentRepo import LegendTalentRepo
 from repositories.misc.world7.ZenithMarketRepo import ZenithMarketRepo
 
 AllRepos = [*SpelunkingRepos, ItemDetailRepo, EquipmentSetsRepo, CosmoUpgradeRepo, SpecificItemRepo, EnemyRepo, DropTableRepo, NpcRepo, RecipeRepo, BubbleRepo, TalentTreeRepo,
@@ -102,5 +103,6 @@ AllRepos = [*SpelunkingRepos, ItemDetailRepo, EquipmentSetsRepo, CosmoUpgradeRep
             WeeklyShopRepo, DreamChallengeRepo, DreamUpgradeRepo, SummonUpgradeRepo, NinjaUpgradeRepo, JadeUpgradeRepo,
             MarketInfoRepo, SeedInfoRepo, SummonEnemyRepo, SummonUnitRepo, NinjaItemRepo, FeatherRepo, TomeRepo,
             HoleBuildingRepo, MeasurementRepo, StudyRepo, BellActionRepo, BellImprovementRepo, BellBonusRepo, SedimentRepo, GambitBonusRepo,
-            HarpStringsRepo, HarpNotesRepo, MonumentRepo, SaltLickRepo, ZenithMarketRepo, BubbaUpgradeRepo
+            HarpStringsRepo, HarpNotesRepo, MonumentRepo, SaltLickRepo, ZenithMarketRepo, BubbaUpgradeRepo,
+            LegendTalentRepo
             ]

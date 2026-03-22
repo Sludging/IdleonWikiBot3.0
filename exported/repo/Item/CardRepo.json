@@ -241,11 +241,11 @@
     },
     "Blank": {
         "cardID": "A0",
-        "category": "Event",
+        "category": "Bosses",
         "perTier": 10,
         "effect": "+{% Base HP",
         "bonus": 3,
-        "order": 24
+        "order": 32
     },
     "Copper": {
         "cardID": "C1",
@@ -2150,5 +2150,21 @@
         "effect": "+{% Catching Away Gains",
         "bonus": 2,
         "order": 22
+    },
+    "luckEvent1": {
+        "cardID": "Y22",
+        "category": "Event",
+        "perTier": 5,
+        "effect": "+{% Drop Rate (Passive)",
+        "bonus": 3,
+        "order": 23
+    },
+    "luckEvent2": {
+        "cardID": "Y23",
+        "category": "Event",
+        "perTier": 5,
+        "effect": "+{% Money from Monsters",
+        "bonus": 4,
+        "order": 24
     }
 }

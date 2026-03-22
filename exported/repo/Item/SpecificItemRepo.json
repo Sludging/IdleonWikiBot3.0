@@ -742,7 +742,7 @@
     },
     "Critter6A": {
         "internalName": "Critter6A",
-        "displayName": "Eternal Lord of  The Undying Ember",
+        "displayName": "Eternal Lord of The Undying Ember",
         "sellPrice": 3,
         "typeGen": "dCritters",
         "Type": "Critter",
@@ -1467,7 +1467,7 @@
         "WIS": 8,
         "LUK": 8,
         "Defence": 38,
-        "miscUp1": "5% Drop Chance",
+        "miscUp1": "5% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 6,
         "Skill": "",
@@ -1615,7 +1615,7 @@
         "LUK": 50,
         "Defence": 160,
         "miscUp1": "30% Total Damage",
-        "miscUp2": "10% Drop Chance",
+        "miscUp2": "10% Drop Rate",
         "Upgrade_Slots_Left": 10,
         "Skill": "",
         "Skill_Power": 0
@@ -1656,7 +1656,7 @@
         "WIS": 65,
         "LUK": 65,
         "Defence": 210,
-        "miscUp1": "15% Drop Chance",
+        "miscUp1": "15% Drop Rate",
         "miscUp2": "22% Multikill Per Tier",
         "Upgrade_Slots_Left": 11,
         "Skill": "",
@@ -1677,7 +1677,7 @@
         "WIS": 80,
         "LUK": 80,
         "Defence": 270,
-        "miscUp1": "25% Drop Chance",
+        "miscUp1": "25% Drop Rate",
         "miscUp2": "30% Multikill Per Tier",
         "Upgrade_Slots_Left": 12,
         "Skill": "",
@@ -2056,7 +2056,7 @@
         "LUK": 0,
         "Defence": 5,
         "miscUp1": "4% Xp From Monsters",
-        "miscUp2": "3% Drop Chance",
+        "miscUp2": "3% Drop Rate",
         "Upgrade_Slots_Left": 3,
         "Skill": "",
         "Skill_Power": 0
@@ -2707,7 +2707,7 @@
         "LUK": 82,
         "Defence": 0,
         "miscUp1": "120% Total Damage",
-        "miscUp2": "40% Drop Chance",
+        "miscUp2": "40% Drop Rate",
         "Upgrade_Slots_Left": 7,
         "Speed": 10,
         "Reach": 96
@@ -2980,7 +2980,7 @@
         "LUK": 0,
         "Defence": 0,
         "miscUp1": "60% Total Damage",
-        "miscUp2": "20% Drop Chance",
+        "miscUp2": "20% Drop Rate",
         "Upgrade_Slots_Left": 7,
         "Speed": 9,
         "Reach": 132
@@ -3421,7 +3421,7 @@
         "LUK": 0,
         "Defence": 0,
         "miscUp1": "60% Total Damage",
-        "miscUp2": "20% Drop Chance",
+        "miscUp2": "20% Drop Rate",
         "Upgrade_Slots_Left": 7,
         "Speed": 10,
         "Reach": 370
@@ -3694,7 +3694,7 @@
         "LUK": 0,
         "Defence": 0,
         "miscUp1": "60% Total Damage",
-        "miscUp2": "20% Drop Chance",
+        "miscUp2": "20% Drop Rate",
         "Upgrade_Slots_Left": 7,
         "Speed": 9,
         "Reach": 80
@@ -4554,7 +4554,7 @@
         "WIS": 60,
         "LUK": 60,
         "Defence": 220,
-        "miscUp1": "30% Drop Chance",
+        "miscUp1": "30% Drop Rate",
         "miscUp2": "16% Multikill Per Tier",
         "Upgrade_Slots_Left": 10,
         "Skill": "",
@@ -4575,7 +4575,7 @@
         "WIS": 75,
         "LUK": 75,
         "Defence": 300,
-        "miscUp1": "40% Drop Chance",
+        "miscUp1": "40% Drop Rate",
         "miscUp2": "25% Multikill Per Tier",
         "Upgrade_Slots_Left": 11,
         "Skill": "",
@@ -5205,7 +5205,7 @@
         "WIS": 55,
         "LUK": 55,
         "Defence": 190,
-        "miscUp1": "25% Drop Chance",
+        "miscUp1": "25% Drop Rate",
         "miscUp2": "14% Multikill Per Tier",
         "Upgrade_Slots_Left": 10,
         "Skill": "",
@@ -5226,7 +5226,7 @@
         "WIS": 65,
         "LUK": 65,
         "Defence": 250,
-        "miscUp1": "35% Drop Chance",
+        "miscUp1": "35% Drop Rate",
         "miscUp2": "20% Multikill Per Tier",
         "Upgrade_Slots_Left": 11,
         "Skill": "",
@@ -6024,7 +6024,7 @@
         "WIS": 38,
         "LUK": 38,
         "Defence": 100,
-        "miscUp1": "15% Drop Chance",
+        "miscUp1": "15% Drop Rate",
         "miscUp2": "8% Total Damage",
         "Upgrade_Slots_Left": 8,
         "Skill": "",
@@ -6066,7 +6066,7 @@
         "WIS": 57,
         "LUK": 57,
         "Defence": 120,
-        "miscUp1": "30% Drop Chance",
+        "miscUp1": "30% Drop Rate",
         "miscUp2": "12% Multikill Per Tier",
         "Upgrade_Slots_Left": 9,
         "Skill": "",
@@ -6087,7 +6087,7 @@
         "WIS": 70,
         "LUK": 70,
         "Defence": 150,
-        "miscUp1": "40% Drop Chance",
+        "miscUp1": "40% Drop Rate",
         "miscUp2": "20% Multikill Per Tier",
         "Upgrade_Slots_Left": 10,
         "Skill": "",
@@ -6466,7 +6466,7 @@
         "LUK": 0,
         "Defence": 0,
         "miscUp1": "20% Total Damage",
-        "miscUp2": "5% Drop Chance",
+        "miscUp2": "5% Drop Rate",
         "Upgrade_Slots_Left": 4,
         "Skill": "",
         "Skill_Power": 0
@@ -6486,7 +6486,7 @@
         "WIS": 1,
         "LUK": 3,
         "Defence": 0,
-        "miscUp1": "3% Drop Chance",
+        "miscUp1": "3% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
@@ -7920,6 +7920,27 @@
         "Skill": "",
         "Skill_Power": 0
     },
+    "EquipmentRingsChat12": {
+        "internalName": "EquipmentRingsChat12",
+        "displayName": "Tournament Ring",
+        "sellPrice": 2500,
+        "typeGen": "aChatRingMTX",
+        "Type": "Chat Ring",
+        "lvReqToCraft": 55,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 0,
+        "STR": 0,
+        "AGI": 0,
+        "WIS": 0,
+        "LUK": 0,
+        "Defence": 0,
+        "miscUp1": "",
+        "miscUp2": "00",
+        "Upgrade_Slots_Left": 0,
+        "Skill": "",
+        "Skill_Power": 0
+    },
     "EquipmentCape0": {
         "internalName": "EquipmentCape0",
         "displayName": "Angel Wings",
@@ -8082,7 +8103,7 @@
         "WIS": 0,
         "LUK": 0,
         "Defence": 5,
-        "miscUp1": "30% Drop Chance",
+        "miscUp1": "30% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
@@ -8293,7 +8314,7 @@
         "LUK": 15,
         "Defence": 0,
         "miscUp1": "25% Class Exp Multi",
-        "miscUp2": "10% Drop Chance",
+        "miscUp2": "10% Drop Rate",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
         "Skill_Power": 0
@@ -15533,6 +15554,14 @@
         "Type": "Monster Drop",
         "description": "The second emblem given to veteran pirates, signifying their loyalty to the pirate crew. "
     },
+    "w7B11b": {
+        "internalName": "w7B11b",
+        "displayName": "Pirate Anchor",
+        "sellPrice": 150000,
+        "typeGen": "bCraft",
+        "Type": "Monster Drop",
+        "description": "Things would get even messier in the Mess Hall without these bad boys tying them down! "
+    },
     "w7B12": {
         "internalName": "w7B12",
         "displayName": "Pirate Mark III",
@@ -15564,7 +15593,7 @@
         "WIS": 0,
         "LUK": 0,
         "Defence": 0,
-        "miscUp1": "4% Drop Chance",
+        "miscUp1": "4% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "family": "STR",
@@ -15656,7 +15685,7 @@
         "WIS": 0,
         "LUK": 0,
         "Defence": 0,
-        "miscUp1": "10% Drop Chance",
+        "miscUp1": "10% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "family": "STR",
@@ -16852,7 +16881,7 @@
         "WIS": 0,
         "LUK": 2,
         "Defence": 0,
-        "miscUp1": "5% Drop Chance",
+        "miscUp1": "5% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "family": "Sixes",
@@ -16875,7 +16904,7 @@
         "WIS": 0,
         "LUK": 3,
         "Defence": 0,
-        "miscUp1": "7% Drop Chance",
+        "miscUp1": "7% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "family": "Sixes",
@@ -16898,7 +16927,7 @@
         "WIS": 0,
         "LUK": 5,
         "Defence": 0,
-        "miscUp1": "10% Drop Chance",
+        "miscUp1": "10% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "family": "Sixes",
@@ -16921,7 +16950,7 @@
         "WIS": 0,
         "LUK": 7,
         "Defence": 0,
-        "miscUp1": "15% Drop Chance",
+        "miscUp1": "15% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "family": "Sixes",
@@ -16944,7 +16973,7 @@
         "WIS": 0,
         "LUK": 1,
         "Defence": 1,
-        "miscUp1": "2% Drop Chance",
+        "miscUp1": "2% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "family": "Pop",
@@ -16967,7 +16996,7 @@
         "WIS": 0,
         "LUK": 3,
         "Defence": 2,
-        "miscUp1": "3% Drop Chance",
+        "miscUp1": "3% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "family": "Pop",
@@ -16990,7 +17019,7 @@
         "WIS": 0,
         "LUK": 6,
         "Defence": 3,
-        "miscUp1": "4% Drop Chance",
+        "miscUp1": "4% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "family": "Pop",
@@ -17013,7 +17042,7 @@
         "WIS": 0,
         "LUK": 9,
         "Defence": 4,
-        "miscUp1": "6% Drop Chance",
+        "miscUp1": "6% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "family": "Pop",
@@ -17036,7 +17065,7 @@
         "WIS": 0,
         "LUK": 12,
         "Defence": 5,
-        "miscUp1": "9% Drop Chance",
+        "miscUp1": "9% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "family": "Pop",
@@ -17956,7 +17985,7 @@
         "WIS": 0,
         "LUK": 10,
         "Defence": 0,
-        "miscUp1": "14% Drop Chance",
+        "miscUp1": "14% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "family": "Lava",
@@ -18003,7 +18032,7 @@
         "LUK": 0,
         "Defence": 2,
         "miscUp1": "12% Money",
-        "miscUp2": "1% Drop Chance",
+        "miscUp2": "1% Drop Rate",
         "Upgrade_Slots_Left": 0,
         "family": "Frog",
         "rarity": "Grumpy",
@@ -18025,7 +18054,7 @@
         "WIS": 3,
         "LUK": 3,
         "Defence": 5,
-        "miscUp1": "8% Drop Chance",
+        "miscUp1": "8% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "family": "Knight",
@@ -19394,7 +19423,7 @@
         "LUK": 10,
         "Defence": 30,
         "miscUp1": "100% Damage Bonus",
-        "miscUp2": "60% Drop Chance",
+        "miscUp2": "60% Drop Rate",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
         "Skill_Power": 0
@@ -19436,7 +19465,7 @@
         "LUK": 8,
         "Defence": 40,
         "miscUp1": "100% Bonus Class Exp",
-        "miscUp2": "75% Drop Chance",
+        "miscUp2": "75% Drop Rate",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
         "Skill_Power": 0
@@ -19477,7 +19506,7 @@
         "WIS": 6,
         "LUK": 6,
         "Defence": 25,
-        "miscUp1": "50% Drop Rarity",
+        "miscUp1": "50% Bonus Drop Rate",
         "miscUp2": "300% Extra Money",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
@@ -19728,7 +19757,7 @@
         "WIS": 0,
         "LUK": 0,
         "Defence": 3,
-        "miscUp1": "+ [3,5,8] % Drop Chance",
+        "miscUp1": "+ [3,5,8] % Drop Rate",
         "miscUp2": "[[Keychains#Misc 2 Rolling|Misc 2 Table]]",
         "Upgrade_Slots_Left": 0
     },
@@ -20332,7 +20361,7 @@
         "LUK": 0,
         "Defence": 35,
         "miscUp1": "35% Mining Efficincy",
-        "miscUp2": "10% Drop Chance",
+        "miscUp2": "10% Drop Rate",
         "Upgrade_Slots_Left": 7,
         "Skill": "Mining",
         "Skill_Power": 62,
@@ -20684,7 +20713,7 @@
         "LUK": 8,
         "Defence": 0,
         "miscUp1": "12% Chop Efficiency",
-        "miscUp2": "10% Drop Chance",
+        "miscUp2": "10% Drop Rate",
         "Upgrade_Slots_Left": 7,
         "Skill": "Choppin",
         "Skill_Power": 62,
@@ -20992,7 +21021,7 @@
         "LUK": 0,
         "Defence": 0,
         "miscUp1": "12% Fishin Efficincy",
-        "miscUp2": "10% Drop Chance",
+        "miscUp2": "10% Drop Rate",
         "Upgrade_Slots_Left": 7,
         "Skill": "Fishing",
         "Skill_Power": 85,
@@ -21278,7 +21307,7 @@
         "LUK": 0,
         "Defence": 0,
         "miscUp1": "12% Catch Efficincy",
-        "miscUp2": "10% Drop Chance",
+        "miscUp2": "10% Drop Rate",
         "Upgrade_Slots_Left": 7,
         "Skill": "Catching",
         "Skill_Power": 92,
@@ -21286,7 +21315,7 @@
     },
     "CatchingNet13": {
         "internalName": "CatchingNet13",
-        "displayName": "Wrangler of the Qoxzul",
+        "displayName": "Prehistoric Netting",
         "sellPrice": 17000,
         "typeGen": "aBugNet",
         "Type": "Bug Catching Net",
@@ -21582,7 +21611,7 @@
         "LUK": 0,
         "Defence": 0,
         "miscUp1": "4% All Afk Gain",
-        "miscUp2": "10% Drop Chance",
+        "miscUp2": "10% Drop Rate",
         "Upgrade_Slots_Left": 6,
         "Skill": "Trapping",
         "Skill_Power": 80,
@@ -21872,7 +21901,7 @@
         "LUK": 0,
         "Defence": 0,
         "miscUp1": "4% All Afk Gain",
-        "miscUp2": "10% Drop Chance",
+        "miscUp2": "10% Drop Rate",
         "Upgrade_Slots_Left": 6,
         "Skill": "Worship",
         "Skill_Power": 70,
@@ -21881,7 +21910,7 @@
     },
     "WorshipSkull12": {
         "internalName": "WorshipSkull12",
-        "displayName": "Crystal Skull of Esquire Vnoze",
+        "displayName": "Prehistoric Skull",
         "sellPrice": 100,
         "typeGen": "aSkull",
         "Type": "Worship Skull",
@@ -22617,8 +22646,8 @@
         "sellPrice": 100,
         "typeGen": "cFood",
         "Type": "Golden Food",
-        "description": "Increases Drop Rarity. Golden foods are never consumed.",
-        "goldenFoodData": {"effect": "Increases Drop Rarity by [%.", "amount": 8}
+        "description": "Increases Drop Rate. Golden foods are never consumed.",
+        "goldenFoodData": {"effect": "Increases Drop Rate by [%.", "amount": 8}
     },
     "FoodG14": {
         "internalName": "FoodG14",
@@ -23591,6 +23620,14 @@
         "Type": "Event Wish",
         "description": "Hold down on this candle to make a wish for new pets! Who knows, maybe they'll come true! "
     },
+    "Quest111": {
+        "internalName": "Quest111",
+        "displayName": "Lucky Candle",
+        "sellPrice": 100,
+        "typeGen": "dQuest",
+        "Type": "Event Wish",
+        "description": "Hold down on this candle to see the Goldrush Lucky Pet winners list! There's a new winner every hour! "
+    },
     "Quest96": {
         "internalName": "Quest96",
         "displayName": "Aethermoon",
@@ -23742,6 +23779,14 @@
         "typeGen": "dQuest",
         "Type": "Usable",
         "description": "Hold down to instantly gain 2 Hours of Research progress! That includes Minehead currency too! "
+    },
+    "Quest117": {
+        "internalName": "Quest117",
+        "displayName": "Edible Coin",
+        "sellPrice": 100,
+        "typeGen": "dQuest",
+        "Type": "Event Box",
+        "description": "Hold down to open! Contains a random Goldrush goodie, from gems to limited time Hats and Nametags! "
     },
     "EquipmentSmithingTabs2": {
         "internalName": "EquipmentSmithingTabs2",
@@ -28126,7 +28171,7 @@
         "WIS": 0,
         "LUK": 7,
         "Defence": 0,
-        "miscUp1": "7% Drop Chance",
+        "miscUp1": "7% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
@@ -28273,7 +28318,7 @@
         "WIS": 3,
         "LUK": 3,
         "Defence": 3,
-        "miscUp1": "3% Drop Chance",
+        "miscUp1": "3% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
@@ -28441,7 +28486,7 @@
         "WIS": 30,
         "LUK": 30,
         "Defence": 0,
-        "miscUp1": "42% Drop Chance",
+        "miscUp1": "42% Drop Rate",
         "miscUp2": "35% Total Damage",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
@@ -28504,7 +28549,7 @@
         "WIS": 0,
         "LUK": 50,
         "Defence": 0,
-        "miscUp1": "50% Drop Chance",
+        "miscUp1": "50% Drop Rate",
         "miscUp2": "5% Luk",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
@@ -28609,7 +28654,7 @@
         "WIS": 0,
         "LUK": 0,
         "Defence": 50,
-        "miscUp1": "777% Drop Chance",
+        "miscUp1": "777% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
@@ -28672,7 +28717,7 @@
         "WIS": 0,
         "LUK": 7,
         "Defence": 0,
-        "miscUp1": "7% Drop Chance",
+        "miscUp1": "7% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
@@ -28819,7 +28864,7 @@
         "WIS": 3,
         "LUK": 3,
         "Defence": 3,
-        "miscUp1": "3% Drop Chance",
+        "miscUp1": "3% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
@@ -28987,7 +29032,7 @@
         "WIS": 30,
         "LUK": 30,
         "Defence": 0,
-        "miscUp1": "42% Drop Chance",
+        "miscUp1": "42% Drop Rate",
         "miscUp2": "35% Total Damage",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
@@ -29050,7 +29095,7 @@
         "WIS": 0,
         "LUK": 50,
         "Defence": 0,
-        "miscUp1": "50% Drop Chance",
+        "miscUp1": "50% Drop Rate",
         "miscUp2": "5% Luk",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
@@ -29155,7 +29200,7 @@
         "WIS": 0,
         "LUK": 0,
         "Defence": 0,
-        "miscUp1": "777% Drop Chance",
+        "miscUp1": "777% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
@@ -29218,7 +29263,7 @@
         "WIS": 5,
         "LUK": 40,
         "Defence": 20,
-        "miscUp1": "40% Drop Chance",
+        "miscUp1": "40% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
@@ -29366,7 +29411,7 @@
         "LUK": 3,
         "Defence": 3,
         "miscUp1": "3% All Afk Gain",
-        "miscUp2": "3% Drop Chance",
+        "miscUp2": "3% Drop Rate",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
         "Skill_Power": 0
@@ -29555,7 +29600,7 @@
         "LUK": 0,
         "Defence": 30,
         "miscUp1": "80% All Afk Gain",
-        "miscUp2": "10% Drop Chance",
+        "miscUp2": "10% Drop Rate",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
         "Skill_Power": 0
@@ -29576,7 +29621,7 @@
         "LUK": 10,
         "Defence": 15,
         "miscUp1": "25% Drop Rate Multi",
-        "miscUp2": "35% Drop Chance",
+        "miscUp2": "35% Drop Rate",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
         "Skill_Power": 0
@@ -29596,7 +29641,7 @@
         "WIS": 0,
         "LUK": 10,
         "Defence": 15,
-        "miscUp1": "25% Drop Chance",
+        "miscUp1": "25% Drop Rate",
         "miscUp2": "25% Money",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
@@ -29617,7 +29662,7 @@
         "WIS": 0,
         "LUK": 0,
         "Defence": 0,
-        "miscUp1": "5% Drop Chance",
+        "miscUp1": "5% Drop Rate",
         "miscUp2": "5% Money",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
@@ -29812,6 +29857,69 @@
         "Skill": "",
         "Skill_Power": 0
     },
+    "EquipmentNametag32": {
+        "internalName": "EquipmentNametag32",
+        "displayName": "Sweet Chocolate Nametag",
+        "sellPrice": 1,
+        "typeGen": "aNametag",
+        "Type": "Nametag",
+        "lvReqToCraft": 55,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 0,
+        "STR": 0,
+        "AGI": 0,
+        "WIS": 0,
+        "LUK": 0,
+        "Defence": 0,
+        "miscUp1": "25% Xp From Monsters",
+        "miscUp2": "10% Drop Rate",
+        "Upgrade_Slots_Left": 0,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "EquipmentNametag33": {
+        "internalName": "EquipmentNametag33",
+        "displayName": "Pot of Gold Nametag",
+        "sellPrice": 1,
+        "typeGen": "aNametag",
+        "Type": "Nametag",
+        "lvReqToCraft": 55,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 0,
+        "STR": 0,
+        "AGI": 0,
+        "WIS": 0,
+        "LUK": 0,
+        "Defence": 0,
+        "miscUp1": "30% Drop Rate Multi",
+        "miscUp2": "100% Money",
+        "Upgrade_Slots_Left": 0,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "EquipmentNametag34": {
+        "internalName": "EquipmentNametag34",
+        "displayName": "Emerald Nametag",
+        "sellPrice": 1,
+        "typeGen": "aNametag",
+        "Type": "Nametag",
+        "lvReqToCraft": 55,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 0,
+        "STR": 0,
+        "AGI": 0,
+        "WIS": 0,
+        "LUK": 0,
+        "Defence": 0,
+        "miscUp1": "25% Kills In World 6",
+        "miscUp2": "00",
+        "Upgrade_Slots_Left": 0,
+        "Skill": "",
+        "Skill_Power": 0
+    },
     "EquipmentNametagReplica0": {
         "internalName": "EquipmentNametagReplica0",
         "displayName": "Replica Nametag",
@@ -29890,7 +29998,7 @@
         "WIS": 5,
         "LUK": 40,
         "Defence": 20,
-        "miscUp1": "40% Drop Chance",
+        "miscUp1": "40% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
@@ -30038,7 +30146,7 @@
         "LUK": 3,
         "Defence": 3,
         "miscUp1": "3% All Afk Gain",
-        "miscUp2": "3% Drop Chance",
+        "miscUp2": "3% Drop Rate",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
         "Skill_Power": 0
@@ -30227,7 +30335,7 @@
         "LUK": 0,
         "Defence": 30,
         "miscUp1": "80% All Afk Gain",
-        "miscUp2": "10% Drop Chance",
+        "miscUp2": "10% Drop Rate",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
         "Skill_Power": 0
@@ -30248,7 +30356,7 @@
         "LUK": 10,
         "Defence": 15,
         "miscUp1": "25% Drop Rate Multi",
-        "miscUp2": "35% Drop Chance",
+        "miscUp2": "35% Drop Rate",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
         "Skill_Power": 0
@@ -30268,7 +30376,7 @@
         "WIS": 0,
         "LUK": 10,
         "Defence": 15,
-        "miscUp1": "25% Drop Chance",
+        "miscUp1": "25% Drop Rate",
         "miscUp2": "25% Money",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
@@ -30289,7 +30397,7 @@
         "WIS": 0,
         "LUK": 0,
         "Defence": 0,
-        "miscUp1": "5% Drop Chance",
+        "miscUp1": "5% Drop Rate",
         "miscUp2": "5% Money",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
@@ -30484,6 +30592,69 @@
         "Skill": "",
         "Skill_Power": 0
     },
+    "EquipmentNametagReplica32": {
+        "internalName": "EquipmentNametagReplica32",
+        "displayName": "Sweet Chocolate Nametag",
+        "sellPrice": 1,
+        "typeGen": "aNametag",
+        "Type": "Replica Nametag",
+        "lvReqToCraft": 55,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 0,
+        "STR": 0,
+        "AGI": 0,
+        "WIS": 0,
+        "LUK": 0,
+        "Defence": 0,
+        "miscUp1": "25% Xp From Monsters",
+        "miscUp2": "10% Drop Rate",
+        "Upgrade_Slots_Left": 0,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "EquipmentNametagReplica33": {
+        "internalName": "EquipmentNametagReplica33",
+        "displayName": "Pot of Gold Nametag",
+        "sellPrice": 1,
+        "typeGen": "aNametag",
+        "Type": "Replica Nametag",
+        "lvReqToCraft": 55,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 0,
+        "STR": 0,
+        "AGI": 0,
+        "WIS": 0,
+        "LUK": 0,
+        "Defence": 0,
+        "miscUp1": "30% Drop Rate Multi",
+        "miscUp2": "100% Money",
+        "Upgrade_Slots_Left": 0,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "EquipmentNametagReplica34": {
+        "internalName": "EquipmentNametagReplica34",
+        "displayName": "Emerald Nametag",
+        "sellPrice": 1,
+        "typeGen": "aNametag",
+        "Type": "Replica Nametag",
+        "lvReqToCraft": 55,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 0,
+        "STR": 0,
+        "AGI": 0,
+        "WIS": 0,
+        "LUK": 0,
+        "Defence": 0,
+        "miscUp1": "25% Kills In World 6",
+        "miscUp2": "00",
+        "Upgrade_Slots_Left": 0,
+        "Skill": "",
+        "Skill_Power": 0
+    },
     "EquipmentHats31": {
         "internalName": "EquipmentHats31",
         "displayName": "Smitty's Bubble Blowing Hat",
@@ -30520,7 +30691,7 @@
         "WIS": 1,
         "LUK": 1,
         "Defence": 0,
-        "miscUp1": "2% Drop Chance",
+        "miscUp1": "2% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 5,
         "Skill": "",
@@ -30562,7 +30733,7 @@
         "WIS": 1,
         "LUK": 1,
         "Defence": 0,
-        "miscUp1": "3% Drop Chance",
+        "miscUp1": "3% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 5,
         "Skill": "",
@@ -30625,7 +30796,7 @@
         "WIS": 1,
         "LUK": 1,
         "Defence": 0,
-        "miscUp1": "2% Drop Chance",
+        "miscUp1": "2% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 5,
         "Skill": "",
@@ -30688,7 +30859,7 @@
         "WIS": 1,
         "LUK": 1,
         "Defence": 0,
-        "miscUp1": "4% Drop Chance",
+        "miscUp1": "4% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 5,
         "Skill": "",
@@ -30772,7 +30943,7 @@
         "WIS": 1,
         "LUK": 1,
         "Defence": 0,
-        "miscUp1": "3% Drop Chance",
+        "miscUp1": "3% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 5,
         "Skill": "",
@@ -30961,7 +31132,7 @@
         "WIS": 1,
         "LUK": 0,
         "Defence": 0,
-        "miscUp1": "10% Drop Chance",
+        "miscUp1": "10% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 5,
         "Skill": "",
@@ -31108,7 +31279,7 @@
         "WIS": 1,
         "LUK": 0,
         "Defence": 0,
-        "miscUp1": "5% Drop Chance",
+        "miscUp1": "5% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 5,
         "Skill": "",
@@ -31528,7 +31699,7 @@
         "WIS": 1,
         "LUK": 0,
         "Defence": 0,
-        "miscUp1": "10% Drop Chance",
+        "miscUp1": "10% Drop Rate",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 5,
         "Skill": "",
@@ -31717,7 +31888,91 @@
         "WIS": 1,
         "LUK": 0,
         "Defence": 0,
-        "miscUp1": "100% Drop Chance",
+        "miscUp1": "100% Drop Rate",
+        "miscUp2": "00",
+        "Upgrade_Slots_Left": 5,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "EquipmentHats128": {
+        "internalName": "EquipmentHats128",
+        "displayName": "Lovely Top Hat",
+        "sellPrice": 1,
+        "typeGen": "aHelmetMTX",
+        "Type": "Premium Helmet",
+        "lvReqToCraft": 5,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 0,
+        "STR": 0,
+        "AGI": 0,
+        "WIS": 0,
+        "LUK": 1,
+        "Defence": 0,
+        "miscUp1": "1% Damage Multi",
+        "miscUp2": "00",
+        "Upgrade_Slots_Left": 5,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "EquipmentHats129": {
+        "internalName": "EquipmentHats129",
+        "displayName": "Polkadot Beanie",
+        "sellPrice": 1,
+        "typeGen": "aHelmetMTX",
+        "Type": "Premium Helmet",
+        "lvReqToCraft": 5,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 0,
+        "STR": 0,
+        "AGI": 1,
+        "WIS": 0,
+        "LUK": 0,
+        "Defence": 0,
+        "miscUp1": "1% Drop Rate",
+        "miscUp2": "00",
+        "Upgrade_Slots_Left": 5,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "EquipmentHats130": {
+        "internalName": "EquipmentHats130",
+        "displayName": "Leprechaun Hat",
+        "sellPrice": 1,
+        "typeGen": "aHelmetMTX",
+        "Type": "Premium Helmet",
+        "lvReqToCraft": 5,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 0,
+        "STR": 0,
+        "AGI": 0,
+        "WIS": 0,
+        "LUK": 0,
+        "Defence": 0,
+        "miscUp1": "2% Drop Rate",
+        "miscUp2": "00",
+        "Upgrade_Slots_Left": 5,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "EquipmentHats131": {
+        "internalName": "EquipmentHats131",
+        "displayName": "Lucky Ducky Brim",
+        "sellPrice": 1,
+        "typeGen": "aHelmetMTX",
+        "Type": "Premium Helmet",
+        "lvReqToCraft": 5,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 0,
+        "STR": 0,
+        "AGI": 0,
+        "WIS": 0,
+        "LUK": 1,
+        "Defence": 0,
+        "miscUp1": "1% Damage Multi",
         "miscUp2": "00",
         "Upgrade_Slots_Left": 5,
         "Skill": "",
@@ -31737,7 +31992,7 @@
             "bonus": 12,
             "order": 1
         },
-        "dropChance": 0.001
+        "dropChance": 0.005
     },
     "CardsA1": {
         "internalName": "CardsA1",
@@ -31753,7 +32008,7 @@
             "bonus": 3,
             "order": 2
         },
-        "dropChance": 0.001
+        "dropChance": 0.1
     },
     "CardsA2": {
         "internalName": "CardsA2",
@@ -31785,7 +32040,7 @@
             "bonus": 7,
             "order": 4
         },
-        "dropChance": 0.001
+        "dropChance": 0.03
     },
     "CardsA4": {
         "internalName": "CardsA4",
@@ -31801,7 +32056,7 @@
             "bonus": 2,
             "order": 5
         },
-        "dropChance": 0.0395
+        "dropChance": 0.025
     },
     "CardsA5": {
         "internalName": "CardsA5",
@@ -31817,7 +32072,7 @@
             "bonus": 1,
             "order": 6
         },
-        "dropChance": 0.0294
+        "dropChance": 0.023
     },
     "CardsA6": {
         "internalName": "CardsA6",
@@ -31833,7 +32088,7 @@
             "bonus": 2,
             "order": 7
         },
-        "dropChance": 0.019
+        "dropChance": 0.02
     },
     "CardsA7": {
         "internalName": "CardsA7",
@@ -31849,7 +32104,7 @@
             "bonus": 2,
             "order": 8
         },
-        "dropChance": 0.0186
+        "dropChance": 0.018
     },
     "CardsA8": {
         "internalName": "CardsA8",
@@ -31865,7 +32120,7 @@
             "bonus": 2,
             "order": 9
         },
-        "dropChance": 0.018
+        "dropChance": 0.02
     },
     "CardsA9": {
         "internalName": "CardsA9",
@@ -32089,7 +32344,7 @@
             "bonus": 1,
             "order": 6
         },
-        "dropChance": 0.0001
+        "dropChance": 0.005
     },
     "CardsB7": {
         "internalName": "CardsB7",
@@ -32105,7 +32360,7 @@
             "bonus": 3,
             "order": 7
         },
-        "dropChance": 0.0001
+        "dropChance": 0.004
     },
     "CardsB8": {
         "internalName": "CardsB8",
@@ -32137,7 +32392,7 @@
             "bonus": 8,
             "order": 9
         },
-        "dropChance": 0.0001
+        "dropChance": 0.001
     },
     "CardsB10": {
         "internalName": "CardsB10",
@@ -32153,7 +32408,7 @@
             "bonus": 2,
             "order": 10
         },
-        "dropChance": 0.0001
+        "dropChance": 0.001
     },
     "CardsB11": {
         "internalName": "CardsB11",
@@ -32169,7 +32424,7 @@
             "bonus": 8,
             "order": 11
         },
-        "dropChance": 0.0001
+        "dropChance": 0.001
     },
     "CardsB12": {
         "internalName": "CardsB12",
@@ -32790,7 +33045,7 @@
             "bonus": 9,
             "order": 3
         },
-        "dropChance": 0.0001
+        "dropChance": 0.004
     },
     "CardsE3": {
         "internalName": "CardsE3",
@@ -32806,7 +33061,7 @@
             "bonus": 7,
             "order": 4
         },
-        "dropChance": 0.0001
+        "dropChance": 0.002
     },
     "CardsE4": {
         "internalName": "CardsE4",
@@ -32854,7 +33109,7 @@
             "bonus": 7,
             "order": 7
         },
-        "dropChance": 0.0001
+        "dropChance": 0.0003
     },
     "CardsE7": {
         "internalName": "CardsE7",
@@ -35340,7 +35595,7 @@
     },
     "CardsY3": {
         "internalName": "CardsY3",
-        "displayName": "Valentslime Card",
+        "displayName": "Valenslime Card",
         "sellPrice": 1,
         "typeGen": "dCard",
         "Type": "Card",
@@ -35641,6 +35896,38 @@
             "order": 22
         },
         "dropChance": 0
+    },
+    "CardsY22": {
+        "internalName": "CardsY22",
+        "displayName": "Luckulyte Card",
+        "sellPrice": 1,
+        "typeGen": "dCard",
+        "Type": "Card",
+        "cardData": {
+            "cardID": "Y22",
+            "category": "Event",
+            "perTier": 5,
+            "effect": "+{% Drop Rate (Passive)",
+            "bonus": 3,
+            "order": 23
+        },
+        "dropChance": 1
+    },
+    "CardsY23": {
+        "internalName": "CardsY23",
+        "displayName": "Potluck Card",
+        "sellPrice": 1,
+        "typeGen": "dCard",
+        "Type": "Card",
+        "cardData": {
+            "cardID": "Y23",
+            "category": "Event",
+            "perTier": 5,
+            "effect": "+{% Money from Monsters",
+            "bonus": 4,
+            "order": 24
+        },
+        "dropChance": 1
     },
     "CardsZ0": {
         "internalName": "CardsZ0",

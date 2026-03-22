@@ -4952,7 +4952,7 @@
             {"wikiName": "[[Ghost (Event)]]", "txtName": "Ghost (Event)"},
             {"wikiName": "[[Giftmas Blobulyte]]", "txtName": "Giftmas Blobulyte"},
             {"wikiName": "[[Big Ol Giftmas Box]]", "txtName": "Big Ol Giftmas Box"},
-            {"wikiName": "[[Valentslime]]", "txtName": "Valentslime"},
+            {"wikiName": "[[Valenslime]]", "txtName": "Valenslime"},
             {"wikiName": "[[Loveulyte]]", "txtName": "Loveulyte"},
             {"wikiName": "[[Chocco Box]]", "txtName": "Chocco Box"},
             {"wikiName": "[[Giant Rose]]", "txtName": "Giant Rose"},
@@ -4966,6 +4966,8 @@
             {"wikiName": "[[Falloween Pumpkin]]", "txtName": "Falloween Pumpkin"},
             {"wikiName": "[[IdleOn 4th Anniversary]]", "txtName": "IdleOn 4th Anniversary"},
             {"wikiName": "[[Bort The Cornhusk]]", "txtName": "Bort The Cornhusk"},
+            {"wikiName": "[[Luckulyte]]", "txtName": "Luckulyte"},
+            {"wikiName": "[[Potluck]]", "txtName": "Potluck"},
             {"wikiName": "[[Copper]]", "txtName": "Copper"},
             {"wikiName": "[[Iron]]", "txtName": "Iron"},
             {"wikiName": "[[Gold]]", "txtName": "Gold"},
@@ -7150,11 +7152,13 @@
                 "wikiName": "[[Colosseum/Whimsical#Golden Chest(W6)|Whimsical Golden Chest(W6)]]",
                 "txtName": "Colosseum: Whimsical Golden Chest(W6)"
             },
+            {"wikiName": "[[Chocco Box]]", "txtName": "Chocco Box"},
             {"wikiName": "[[Egg Capsule]]", "txtName": "Egg Capsule"},
             {"wikiName": "[[Spring Splendor]]", "txtName": "Spring Splendor"},
             {"wikiName": "[[Falloween Pumpkin]]", "txtName": "Falloween Pumpkin"},
             {"wikiName": "[[IdleOn 4th Anniversary]]", "txtName": "IdleOn 4th Anniversary"},
             {"wikiName": "[[Bort The Cornhusk]]", "txtName": "Bort The Cornhusk"},
+            {"wikiName": "[[Luckulyte]]", "txtName": "Luckulyte"},
             {
                 "wikiName": "[[Post Office#Simple Shippin|Simple Shippin]]",
                 "txtName": "Post Office: Simple Shippin"
@@ -9585,6 +9589,13 @@
         "recipeFrom": [],
         "questAss": []
     },
+    "w7B11b": {
+        "sources": [
+            {"wikiName": "[[Pirate Deckhand]]", "txtName": "Pirate Deckhand"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
     "CardsJ23": {
         "sources": [
             {"wikiName": "[[Pirate Deckhand]]", "txtName": "Pirate Deckhand"}
@@ -10954,7 +10965,7 @@
     },
     "CardsY3": {
         "sources": [
-            {"wikiName": "[[Valentslime]]", "txtName": "Valentslime"},
+            {"wikiName": "[[Valenslime]]", "txtName": "Valenslime"},
             {"wikiName": "[[Loveulyte]]", "txtName": "Loveulyte"},
             {"wikiName": "[[Chocco Box]]", "txtName": "Chocco Box"},
             {"wikiName": "[[Giant Rose]]", "txtName": "Giant Rose"}
@@ -10964,18 +10975,16 @@
     },
     "FoodEvent5": {
         "sources": [
-            {"wikiName": "[[Valentslime]]", "txtName": "Valentslime"},
-            {"wikiName": "[[Loveulyte]]", "txtName": "Loveulyte"},
-            {"wikiName": "[[Chocco Box]]", "txtName": "Chocco Box"}
+            {"wikiName": "[[Valenslime]]", "txtName": "Valenslime"},
+            {"wikiName": "[[Loveulyte]]", "txtName": "Loveulyte"}
         ],
         "recipeFrom": [],
         "questAss": []
     },
     "FoodEvent6": {
         "sources": [
-            {"wikiName": "[[Valentslime]]", "txtName": "Valentslime"},
+            {"wikiName": "[[Valenslime]]", "txtName": "Valenslime"},
             {"wikiName": "[[Loveulyte]]", "txtName": "Loveulyte"},
-            {"wikiName": "[[Chocco Box]]", "txtName": "Chocco Box"},
             {"wikiName": "[[2021 Giftmas Box]]", "txtName": "2021 Giftmas Box"}
         ],
         "recipeFrom": [],
@@ -10983,9 +10992,8 @@
     },
     "FoodEvent7": {
         "sources": [
-            {"wikiName": "[[Valentslime]]", "txtName": "Valentslime"},
+            {"wikiName": "[[Valenslime]]", "txtName": "Valenslime"},
             {"wikiName": "[[Loveulyte]]", "txtName": "Loveulyte"},
-            {"wikiName": "[[Chocco Box]]", "txtName": "Chocco Box"},
             {"wikiName": "[[2021 Giftmas Box]]", "txtName": "2021 Giftmas Box"}
         ],
         "recipeFrom": [],
@@ -10993,9 +11001,8 @@
     },
     "FoodEvent8": {
         "sources": [
-            {"wikiName": "[[Valentslime]]", "txtName": "Valentslime"},
+            {"wikiName": "[[Valenslime]]", "txtName": "Valenslime"},
             {"wikiName": "[[Loveulyte]]", "txtName": "Loveulyte"},
-            {"wikiName": "[[Chocco Box]]", "txtName": "Chocco Box"},
             {"wikiName": "[[2021 Giftmas Box]]", "txtName": "2021 Giftmas Box"}
         ],
         "recipeFrom": [],
@@ -11004,7 +11011,6 @@
     "Quest40": {
         "sources": [
             {"wikiName": "[[Loveulyte]]", "txtName": "Loveulyte"},
-            {"wikiName": "[[Chocco Box]]", "txtName": "Chocco Box"},
             {
                 "wikiName": "[[Loveulyte#Heart Hogger|Heart Hogger]]",
                 "txtName": "Loveulyte: Heart Hogger"
@@ -11013,6 +11019,43 @@
                 "wikiName": "[[Loveulyte#Heartbreaker|Heartbreaker]]",
                 "txtName": "Loveulyte: Heartbreaker"
             }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentHats51": {
+        "sources": [
+            {"wikiName": "[[Chocco Box]]", "txtName": "Chocco Box"},
+            {"wikiName": "Valenslimes Day Event", "txtName": "Valenslimes Day Event"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentHats128": {
+        "sources": [
+            {"wikiName": "[[Chocco Box]]", "txtName": "Chocco Box"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentHats129": {
+        "sources": [
+            {"wikiName": "[[Chocco Box]]", "txtName": "Chocco Box"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentHats47": {
+        "sources": [
+            {"wikiName": "[[Chocco Box]]", "txtName": "Chocco Box"},
+            {"wikiName": "[[IdleOn 4th Anniversary]]", "txtName": "IdleOn 4th Anniversary"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentHats48": {
+        "sources": [
+            {"wikiName": "[[Chocco Box]]", "txtName": "Chocco Box"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -11224,6 +11267,8 @@
             {"wikiName": "[[Falloween Pumpkin]]", "txtName": "Falloween Pumpkin"},
             {"wikiName": "[[IdleOn 4th Anniversary]]", "txtName": "IdleOn 4th Anniversary"},
             {"wikiName": "[[Bort The Cornhusk]]", "txtName": "Bort The Cornhusk"},
+            {"wikiName": "[[Luckulyte]]", "txtName": "Luckulyte"},
+            {"wikiName": "[[Potluck]]", "txtName": "Potluck"},
             {"wikiName": "[[2021 Giftmas Box]]", "txtName": "2021 Giftmas Box"},
             {"wikiName": "[[Choco Box]]", "txtName": "Choco Box"}
         ],
@@ -11346,7 +11391,8 @@
     },
     "EquipmentHats87": {
         "sources": [
-            {"wikiName": "[[Falloween Pumpkin]]", "txtName": "Falloween Pumpkin"}
+            {"wikiName": "[[Falloween Pumpkin]]", "txtName": "Falloween Pumpkin"},
+            {"wikiName": "[[Luckulyte]]", "txtName": "Luckulyte"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -11395,16 +11441,10 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "EquipmentHats47": {
-        "sources": [
-            {"wikiName": "[[IdleOn 4th Anniversary]]", "txtName": "IdleOn 4th Anniversary"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
     "EquipmentNametag12": {
         "sources": [
-            {"wikiName": "[[Bort The Cornhusk]]", "txtName": "Bort The Cornhusk"}
+            {"wikiName": "[[Bort The Cornhusk]]", "txtName": "Bort The Cornhusk"},
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -11419,6 +11459,62 @@
     "EquipmentHats73": {
         "sources": [
             {"wikiName": "[[Bort The Cornhusk]]", "txtName": "Bort The Cornhusk"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentHats50": {
+        "sources": [
+            {"wikiName": "[[Luckulyte]]", "txtName": "Luckulyte"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentHats96": {
+        "sources": [
+            {"wikiName": "[[Luckulyte]]", "txtName": "Luckulyte"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentHats130": {
+        "sources": [
+            {"wikiName": "[[Luckulyte]]", "txtName": "Luckulyte"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentHats131": {
+        "sources": [
+            {"wikiName": "[[Luckulyte]]", "txtName": "Luckulyte"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentNametag33": {
+        "sources": [
+            {"wikiName": "[[Potluck]]", "txtName": "Potluck"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentNametag34": {
+        "sources": [
+            {"wikiName": "[[Potluck]]", "txtName": "Potluck"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Quest89": {
+        "sources": [
+            {"wikiName": "[[Potluck]]", "txtName": "Potluck"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "GfoodcouponS": {
+        "sources": [
+            {"wikiName": "[[Potluck]]", "txtName": "Potluck"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -16279,8 +16375,7 @@
             {
                 "wikiName": "[[Royal Worm#Bossin' the Boss|Bossin' the Boss]]",
                 "txtName": "Royal Worm: Bossin' the Boss"
-            },
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -16997,7 +17092,8 @@
             {
                 "wikiName": "[[Toobus Goobus#READING CHALLENGE|READING CHALLENGE]]",
                 "txtName": "Toobus Goobus: READING CHALLENGE"
-            }
+            },
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -17007,8 +17103,7 @@
             {
                 "wikiName": "[[Toobus Goobus#RESEARCH STUDIES|RESEARCH STUDIES]]",
                 "txtName": "Toobus Goobus: RESEARCH STUDIES"
-            },
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -17263,28 +17358,21 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "GemP25": {
+    "Quest117": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
         "recipeFrom": [],
         "questAss": []
     },
-    "EquipmentRings37": {
+    "EquipmentNametag19": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
         "recipeFrom": [],
         "questAss": []
     },
-    "EquipmentPendant31": {
-        "sources": [
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "EquipmentNametag3": {
+    "EquipmentNametag5": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
@@ -19783,13 +19871,6 @@
                 "txtName": "Bill Brr: Coin Shenanigans"
             }
         ]
-    },
-    "EquipmentHats51": {
-        "sources": [
-            {"wikiName": "Valenslimes Day Event", "txtName": "Valenslimes Day Event"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
     },
     "EquipmentHats55": {
         "sources": [

@@ -10,5 +10,6 @@
     "8": {"id": 8, "bonus": "{%_more_Dungeon_Credits"},
     "9": {"id": 9, "bonus": "{%_Crit_Chance"},
     "10": {"id": 10, "bonus": "{%_Fight_AFK_Gain_Rate"},
-    "11": {"id": 11, "bonus": "{%_Multikill_Per_Tier"}
+    "11": {"id": 11, "bonus": "{%_Multikill_Per_Tier"},
+    "12": {"id": 12, "bonus": "{%_Class_Exp_(Multi)"}
 }

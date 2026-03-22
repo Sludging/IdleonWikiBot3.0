@@ -47,7 +47,7 @@
         ]
     },
     "EquipmentKeychain11": {"bonuses": [
-        {"bonus": "% Drop Chance", "lvl1": 3, "lvl2": 5, "lvl3": 8}
+        {"bonus": "% Drop Rate", "lvl1": 3, "lvl2": 5, "lvl3": 8}
     ]},
     "EquipmentKeychain12": {
         "bonuses": [

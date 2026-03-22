@@ -264,7 +264,7 @@
                 "x2": 60,
                 "func": "decay",
                 "description": "The effect STR has on Damage is increased by +{%",
-                "requirements": [{"cropId": "3", "quantity": 100}, {"liquidNo": "3", "quantity": 5}],
+                "requirements": [{"cropId": "4", "quantity": 100}, {"liquidNo": "3", "quantity": 5}],
                 "bonusKey": "W6"
             },
             {
