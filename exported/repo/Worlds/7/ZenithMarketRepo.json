@@ -1,0 +1,92 @@
+{
+    "TRUE ZEN": {
+        "name": "TRUE ZEN",
+        "unlockCost": 1,
+        "costExponent": 1.14,
+        "maxLevel": 250,
+        "bonusPerLevel": 2,
+        "x1": 1,
+        "description": "}x higher bonuses from Zenith Statues"
+    },
+    "KRUK BUBBLES": {
+        "name": "KRUK BUBBLES",
+        "unlockCost": 2,
+        "costExponent": 6,
+        "maxLevel": 5,
+        "bonusPerLevel": 1,
+        "x1": 1,
+        "description": "Adds a new bubble for Kattlekruk to boost!"
+    },
+    "LAMP BOOST": {
+        "name": "LAMP BOOST",
+        "unlockCost": 5,
+        "costExponent": 1.09,
+        "maxLevel": 200,
+        "bonusPerLevel": 1,
+        "x1": 1,
+        "description": "}x higher bonuses from The Lamp in Caverns"
+    },
+    "DOUBLE CLUSTER": {
+        "name": "DOUBLE CLUSTER",
+        "unlockCost": 8,
+        "costExponent": 1.17,
+        "maxLevel": 100,
+        "bonusPerLevel": 5,
+        "x1": 1,
+        "description": "+{% chance for a Double Zenith Cluster drop"
+    },
+    "BUBBLE BOOST": {
+        "name": "BUBBLE BOOST",
+        "unlockCost": 15,
+        "costExponent": 1.5,
+        "maxLevel": 25,
+        "bonusPerLevel": 2,
+        "x1": 1,
+        "description": "+{ daily LVs for all Kattlekruk bubbles"
+    },
+    "SUPER DUPERS": {
+        "name": "SUPER DUPERS",
+        "unlockCost": 50,
+        "costExponent": 1.7,
+        "maxLevel": 25,
+        "bonusPerLevel": 1,
+        "x1": 1,
+        "description": "Super Talents get +{ more LVs"
+    },
+    "MOST GRANDIOSE": {
+        "name": "MOST GRANDIOSE",
+        "unlockCost": 250,
+        "costExponent": 1.25,
+        "maxLevel": 50,
+        "bonusPerLevel": 4,
+        "x1": 1,
+        "description": "}x Grand Discovery Chance in Spelunking"
+    },
+    "GIGA SYMBOLS": {
+        "name": "GIGA SYMBOLS",
+        "unlockCost": 1000,
+        "costExponent": 1.15,
+        "maxLevel": 100,
+        "bonusPerLevel": 1,
+        "x1": 1,
+        "description": "}x Sneaking Symbol success chance"
+    },
+    "WOOZLE WUZZLE": {
+        "name": "WOOZLE WUZZLE",
+        "unlockCost": 5000,
+        "costExponent": 1.125,
+        "maxLevel": 30,
+        "bonusPerLevel": 1,
+        "x1": 1,
+        "description": "+{% EXP Gain for the Research skill!"
+    },
+    "CLASSY GOGO": {
+        "name": "CLASSY GOGO",
+        "unlockCost": 25000,
+        "costExponent": 1.115,
+        "maxLevel": 100,
+        "bonusPerLevel": 1,
+        "x1": 1,
+        "description": "}x Class EXP gain, for now..."
+    }
+}
