@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Squid",
+        "desc": "Unlocks the first 3 upgrades in the Tar Pit, visit through top left corner"
+    },
+    {"name": "Sequin", "desc": "Boosts all of Poppy's Bonuses by 1.5x their base amount"},
+    {
+        "name": "Nautilus",
+        "desc": "Adds two more Reset Spirals to upgrade, and gives +5 Pts when Fisheroo Resetting"
+    },
+    {"name": "Koi", "desc": "Boosts all of Poppy's Bonuses by 2x their base amount."},
+    {
+        "name": "Angler",
+        "desc": "Unlocks another 3 upgrades in the Tar Pit, and boosts Tartar Fish gain by 3x"
+    },
+    {
+        "name": "Leech",
+        "desc": "The Fishing Buddy upgrade now gives +50% Bluefin caught and +50% Shiny Speed per Lv past Lv.5!"
+    },
+    {"name": "Aquaray", "desc": "Boosts all of Poppy's Bonuses by 2.5x their base amount"},
+    {
+        "name": "Jettison",
+        "desc": "Unlocks the final 2 upgrades in the Tar Pit, and boosts Tartar Fish gain by another 3x"
+    },
+    {"name": "Shoal", "desc": "Boosts all of Poppy's Bonuses by 3x their base amount"},
+    {
+        "name": "Eel",
+        "desc": "Shiny fishing is 1% faster per upgrade LV of the Tasty Fishbait upgrade"
+    },
+    {
+        "name": "Marlin",
+        "desc": "All upgrades, including Tar Pit upgrades, are 5% cheaper per LV of King Worm upgrade"
+    },
+    {
+        "name": "Eclectic",
+        "desc": "Poppy's bonuses are now {x higher than they were at first"
+    }
+]

@@ -213,7 +213,7 @@ Run `python -m main` from the project root and verify:
 
 | Function | Input Format | Returns |
 |---|---|---|
-| `getFromSplitArray(section)` | `"a b c".split(" ")` repeated | `List[List[str]]` — list of split arrays |
+| `getFromSplitArray(section)` | `"a b c".split(" ")` repeated | `List[List[str]]` — list of split arrays. **WARNING:** Only captures `.split()` entries — array literals like `["a","b"]` in the same function are silently skipped. This means indices from `getFromSplitArray` may NOT match the raw codefile array indices. Always verify indices by counting only `.split()` entries, or by inspecting the actual parsed data. |
 | `getFromMixedArray(section)` | Mix of `.split()` and `[...]` | `List[List[str]]` |
 | `getFromArrayArray(section)` | `[[...],[...]]` | `List[List[str]]` |
 | `getFromSplit(section)` | Single `.split()` | `List[str]` |

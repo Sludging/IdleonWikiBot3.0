@@ -95,6 +95,18 @@ from repositories.misc.world7.BubbaCharismaBonusRepo import BubbaCharismaBonusRe
 from repositories.misc.world7.BubbaGiftRepo import BubbaGiftRepo
 from repositories.misc.world7.BubbaMegafleshRepo import BubbaMegafleshRepo
 from repositories.misc.world7.ClamworksBonusRepo import ClamworksBonusRepo
+from repositories.misc.world7.CoralReefUpgradeRepo import CoralReefUpgradeRepo
+from repositories.misc.world7.DancingCoralBonusRepo import DancingCoralBonusRepo
+from repositories.misc.world7.TomeEpilogueBonusRepo import TomeEpilogueBonusRepo
+from repositories.misc.world7.VoteBonusRepo import VoteBonusRepo
+from repositories.misc.world7.MeritocratyBonusRepo import MeritocratyBonusRepo
+from repositories.misc.world7.EventShopBonusRepo import EventShopBonusRepo
+from repositories.misc.world5.hole.HoleJarRepo import HoleJarRepo
+from repositories.misc.world5.hole.HoleJarBonusRepo import HoleJarBonusRepo
+from repositories.misc.world7.OrionUpgradeRepo import OrionUpgradeRepo
+from repositories.misc.world7.PoppyUpgradeRepo import PoppyUpgradeRepo
+from repositories.misc.world7.OrionMegafeatherRepo import OrionMegafeatherRepo
+from repositories.misc.world7.PoppyMegafishRepo import PoppyMegafishRepo
 
 AllRepos = [*SpelunkingRepos, ItemDetailRepo, EquipmentSetsRepo, CosmoUpgradeRepo, SpecificItemRepo, EnemyRepo, DropTableRepo, NpcRepo, RecipeRepo, BubbleRepo, TalentTreeRepo,
             UpgradeVaultRepo, GrimoireUpgradeRepo, CompassUpgradeRepo, TesseractUpgradeRepo, EmperorBonusRepo, PostOfficeUpgradesRepo, PostOfficeRepo, VendorRepo, PrayerRepo, GemShopRepo, BuildingRepo, ShrineRepo,
@@ -109,5 +121,8 @@ AllRepos = [*SpelunkingRepos, ItemDetailRepo, EquipmentSetsRepo, CosmoUpgradeRep
             MarketInfoRepo, SeedInfoRepo, SummonEnemyRepo, SummonUnitRepo, NinjaItemRepo, FeatherRepo, TomeRepo,
             HoleBuildingRepo, MeasurementRepo, StudyRepo, BellActionRepo, BellImprovementRepo, BellBonusRepo, SedimentRepo, GambitBonusRepo,
             HarpStringsRepo, HarpNotesRepo, MonumentRepo, SaltLickRepo, ZenithMarketRepo, BubbaUpgradeRepo,
-            LegendTalentsRepo, BigFishBonusRepo, BubbaCharismaBonusRepo, BubbaGiftRepo, BubbaMegafleshRepo, ClamworksBonusRepo
+            LegendTalentsRepo, BigFishBonusRepo, BubbaCharismaBonusRepo, BubbaGiftRepo, BubbaMegafleshRepo, ClamworksBonusRepo,
+            CoralReefUpgradeRepo, DancingCoralBonusRepo, TomeEpilogueBonusRepo, VoteBonusRepo, MeritocratyBonusRepo,
+            EventShopBonusRepo, HoleJarRepo, HoleJarBonusRepo, OrionUpgradeRepo, PoppyUpgradeRepo,
+            OrionMegafeatherRepo, PoppyMegafishRepo
             ]
