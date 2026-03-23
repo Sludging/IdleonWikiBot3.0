@@ -150,7 +150,6 @@ class IdleonReader:
 		self.codeReader.addSection("SigilDesc = function ()", "SigilDesc")
 		self.codeReader.addSection("SkullShopDesc = function ()", "SkullShop")
 		self.codeReader.addSection("MapName = function ()", "MapInternal")
-		self.codeReader.addSection("MapDetails = function ", "MapDetails")
 
 		self.codeReader.addSection("AtomInfo = function ()", "AtomInfo")
 
@@ -161,8 +160,6 @@ class IdleonReader:
 		self.codeReader.addSection("DivStyle = function ()", "DivStyle")
 		self.codeReader.addSection("GamingBoxes = function ()", "GamingBoxes")
 		self.codeReader.addSection("SailingMapPaths = function ()", "SailingMapPaths")
-		self.codeReader.addSection("BoatsInHarbor = function ()", "BoatsInHarbor")
-		self.codeReader.addSection("CloudsMap = function ()", "CloudsMap")
 		self.codeReader.addSection("IslandInfo = function ()", "IslandInfo")
 		self.codeReader.addSection("IslandInfobox = function ()", "IslandInfobox")
 		self.codeReader.addSection("CaptainBonuses = function ()", "CaptainBonuses")

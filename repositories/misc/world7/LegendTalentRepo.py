@@ -5,7 +5,7 @@ from helpers.HelperFunctions import getFromSplitArray, replaceUnderscores
 from repositories.master.Repository import Repository
 
 
-class LegendTalentRepo(Repository[LegendTalent]):
+class LegendTalentsRepo(Repository[LegendTalent]):
 	@classmethod
 	def getCategory(cls) -> str:
 		return "Worlds/7"
