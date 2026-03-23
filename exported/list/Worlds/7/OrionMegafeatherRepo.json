@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Maple",
+        "desc": "Multiplies all Feather generation by 10x. Multiplicative, so extra powerful!"
+    },
+    {
+        "name": "Amethyst",
+        "desc": "Boosts all of Orion's Bonuses by double their base amount."
+    },
+    {
+        "name": "Frostraven",
+        "desc": "All upgrades cost 1% less feathers per LV of Feather Generation."
+    },
+    {
+        "name": "Phoenix",
+        "desc": "Instead of double, all of Orion's Bonuses are now triple."
+    },
+    {
+        "name": "Obsidian",
+        "desc": "The Feather Cheapener upgrades now give +2 and +4 Feathers/sec each LV, respectively."
+    },
+    {"name": "Evergreen", "desc": "Forget triple, Orion's Bonuses are now quadruple!"},
+    {
+        "name": "Pristine",
+        "desc": "The upgrade Feather Restart now gives a 5x feather bonus instead of the previous 3x."
+    },
+    {
+        "name": "Lavathian",
+        "desc": "Quadruple? Pfft more like Noobruple, Orion's Bonuses are now Quintuple as big, that's 5x!"
+    },
+    {
+        "name": "Midas",
+        "desc": "The cost of Feather Generation upgrade now goes up 25% slower."
+    },
+    {
+        "name": "Fractal",
+        "desc": "Orion's bonuses are now {x higher than they were at first."
+    }
+]
