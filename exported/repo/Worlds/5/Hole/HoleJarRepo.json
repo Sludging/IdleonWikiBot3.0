@@ -1,0 +1,18 @@
+{
+    "0": {"name": "Simple Jar", "description": "Contains a random basic rupie"},
+    "1": {"name": "Tall Jar", "description": "Has a {% chance to contain an Opal"},
+    "2": {"name": "Ornate Jar", "description": "Has a {% chance to contain a new collectible"},
+    "3": {"name": "Great Jar", "description": "Contains a random decent rupie"},
+    "4": {
+        "name": "Enchanted Jar",
+        "description": "Has a {% chance to enchant a collectible doubling its bonus"
+    },
+    "5": {"name": "Artisan Jar", "description": "Contains a white rupee"},
+    "6": {"name": "Epic Jar", "description": "Contains a random elegant rupie"},
+    "7": {
+        "name": "Gilded Jar",
+        "description": "Doubles the amount of rupies from the next jar opened"
+    },
+    "8": {"name": "Ceremony Jar", "description": "Contains a dark rupie"},
+    "9": {"name": "Heirloom Jar", "description": "Contains the one and only master rupie"}
+}
