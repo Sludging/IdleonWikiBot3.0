@@ -1,0 +1,122 @@
+{
+    "0": {"text": "Multiplies everything in the game by 1.00x", "bonus": 0, "value": 0},
+    "1": {"text": "Multiplies all Gaming Bits gained by }x", "bonus": 700, "value": 0},
+    "2": {
+        "text": "Multiplies your chance to get Double Snail Mail each day by }x",
+        "bonus": 150,
+        "value": 0
+    },
+    "3": {
+        "text": "Kattlekruk gives }x more Bubble LVs than normal each day",
+        "bonus": 200,
+        "value": 0
+    },
+    "4": {
+        "text": "Multiplies how many Shiny Critters you get from Trapping by }x",
+        "bonus": 400,
+        "value": 0
+    },
+    "5": {
+        "text": "Multiplies your Total Damage dealt to monsters by }x",
+        "bonus": 200,
+        "value": 0
+    },
+    "6": {
+        "text": "Multiplies all the Jade your ninja twins find by }x",
+        "bonus": 900,
+        "value": 0
+    },
+    "7": {"text": "Multiplies your Monument Reward Multi by }x", "bonus": 200, "value": 0},
+    "8": {
+        "text": "Multiplies your total Palette Luck in Gaming by }x",
+        "bonus": 200,
+        "value": 0
+    },
+    "9": {
+        "text": "The Bonus Ballo... ugh, THAT guy... the Bonus Ballot's stuff is like }x more or whatever...",
+        "bonus": 100,
+        "value": 0
+    },
+    "10": {"text": "Multiplies Skill EXP gain by }x", "bonus": 125, "value": 0},
+    "11": {
+        "text": "You get }x more Ribbons added to your Ribbon Shelf every day",
+        "bonus": 100,
+        "value": 0
+    },
+    "12": {
+        "text": "Multiplies Feather and Fish production Rate by }x for your friends Orion and Poppy",
+        "bonus": 9900,
+        "value": 0
+    },
+    "13": {
+        "text": "Your Beryllium atom creates }x more PO Boxes each day while still using up just 1 Silver Pen",
+        "bonus": 200,
+        "value": 0
+    },
+    "14": {
+        "text": "All material costs for upgrading Stamp Max LV are }x lower",
+        "bonus": 100,
+        "value": 0
+    },
+    "15": {
+        "text": "You're guaranteed }x more Crystal Mobs than normal to start each day",
+        "bonus": 900,
+        "value": 0
+    },
+    "16": {
+        "text": "Get }x more Worship PTS while playing Tower Defence",
+        "bonus": 100,
+        "value": 0
+    },
+    "17": {
+        "text": "Stamina Regeneration Rate in Spelunking is }x faster",
+        "bonus": 200,
+        "value": 0
+    },
+    "18": {
+        "text": "Multiplies the chance for Killroy Skulls to drop by }x",
+        "bonus": 200,
+        "value": 0
+    },
+    "19": {
+        "text": "When you claim 48hrs or less of AFK gains on a Masterclass, you get }x more AFK items",
+        "bonus": 200,
+        "value": 0
+    },
+    "20": {
+        "text": "All of your Vials give }x higher bonuses than normal",
+        "bonus": 50,
+        "value": 0
+    },
+    "21": {
+        "text": "All of your Sigils give }x higher bonuses than normal",
+        "bonus": 40,
+        "value": 0
+    },
+    "22": {
+        "text": "All of your Starsigns give }x higher bonuses than normal",
+        "bonus": 60,
+        "value": 0
+    },
+    "23": {
+        "text": "All of your Slab give }x higher bonuses than normal",
+        "bonus": 30,
+        "value": 0
+    },
+    "24": {
+        "text": "Your Brain Coral gives }x more daily LVs for your Grind Time bubble",
+        "bonus": 200,
+        "value": 0
+    },
+    "25": {
+        "text": "All masterclasses find }x more Bones, Dust, and Tachyons",
+        "bonus": 200,
+        "value": 0
+    },
+    "26": {
+        "text": "All of your Statues give }x higher bonuses than normal",
+        "bonus": 50,
+        "value": 0
+    },
+    "27": {"text": "Multiplies Class EXP gain by }x", "bonus": 150, "value": 0}
+}
