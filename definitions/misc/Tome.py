@@ -20,3 +20,4 @@ class Tome(IdleonModel):
 	totalVal: Integer
 	decimalDisplay: Optional[Integer]
 	desc: Optional[str]
+	uiPositionIndex: Optional[Integer]
