@@ -6,5 +6,6 @@ export interface TomeModel {
     scalingType: TomeScalingEnum,
     totalVal: number,
     decimalDisplay?: number,
-    desc?: string
+    desc?: string,
+    uiPositionIndex?: number
 }
