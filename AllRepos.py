@@ -58,6 +58,7 @@ from repositories.misc.world5.ArtifactRepo import ArtifactRepo
 from repositories.misc.world5.CaptainBonusRepo import CaptainBonusRepo
 from repositories.misc.world5.DivinityStyleRepo import DivinityStyleRepo
 from repositories.misc.world5.GamingBoxRepo import GamingBoxRepo
+from repositories.misc.world5.GamingPaletteRepo import GamingPaletteRepo
 from repositories.misc.world5.GamingSuperbitsRepo import GamingSuperbitsRepo
 from repositories.misc.world5.GamingUpgradeRepo import GamingUpgradeRepo
 from repositories.misc.world5.GodInfoRepo import GodInfoRepo
@@ -94,7 +95,7 @@ AllRepos = [ItemDetailRepo, EquipmentSetsRepo, CosmoUpgradeRepo, SpecificItemRep
             PetStatRepo, PetUpgradeRepo, TerritoryFightRepo, BossDetailRepo, CardSetRepo, FishPoolRepo, TrapBoxRepo,
             ArcadeBonusRepo, SigilRepo, TaskShopDescRepo, TaskDescriptionRepo, ColosseumRepo, ArtifactRepo,
             CaptainBonusRepo, DivinityStyleRepo, GamingBoxRepo, GamingUpgradeRepo, GodInfoRepo, IslandInfoRepo,
-            SlabItemSortRepo, GamingSuperbitsRepo, CompanionRepo, AtomColliderRepo, WeeklyBossRepo, WeeklyActionRepo,
+            SlabItemSortRepo, GamingSuperbitsRepo, GamingPaletteRepo, CompanionRepo, AtomColliderRepo, WeeklyBossRepo, WeeklyActionRepo,
             WeeklyShopRepo, DreamChallengeRepo, DreamUpgradeRepo, SummonUpgradeRepo, NinjaUpgradeRepo, JadeUpgradeRepo,
             MarketInfoRepo, SeedInfoRepo, SummonEnemyRepo, SummonUnitRepo, NinjaItemRepo, FeatherRepo, TomeRepo,
             HoleBuildingRepo, MeasurementRepo, StudyRepo, BellActionRepo, BellImprovementRepo, BellBonusRepo, SedimentRepo, GambitBonusRepo,
