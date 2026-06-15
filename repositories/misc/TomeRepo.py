@@ -1,7 +1,7 @@
 from typing import List
 
 from definitions.misc.Tome import Tome
-from helpers.HelperFunctions import getFromSplitArray, replaceUnderscores
+from helpers.HelperFunctions import getFromMixedArray, getFromSplitArray, replaceUnderscores
 from repositories.master.Repository import Repository
 
 
@@ -13,11 +13,16 @@ class TomeRepo(Repository[Tome]):
 
 	@classmethod
 	def getSections(cls) -> List[str]:
-		return ["TomeInfo"]
+		return ["TomeInfo", "NinjaInfo"]
 
 	@classmethod
 	def generateRepo(cls) -> None:
-		data = getFromSplitArray(cls.getSection())
-		for n, bonus in enumerate(data):
-			cls.add(replaceUnderscores(bonus[0]), Tome.fromList(bonus, {"filler"}))
-			cls.addList(Tome.fromList(bonus, {"filler"}))
+		tomeData = getFromSplitArray(cls.getSection(0))
+		ninjaInfo = getFromMixedArray(cls.getSection(1))
+		uiOrder = [int(x) for x in ninjaInfo[32]]
+		uiOrderMap = {lineId: pos for pos, lineId in enumerate(uiOrder)}
+
+		for n, bonus in enumerate(tomeData):
+			tome = Tome.fromList([*bonus, uiOrderMap.get(n, len(uiOrder) + n)], {"filler"})
+			cls.add(replaceUnderscores(bonus[0]), tome)
+			cls.addList(tome)

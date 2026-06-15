@@ -13,7 +13,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 1000,
                 "decimalDisplay": undefined,
-                "desc": "Your Tome Score of # PTS is in the Top $ of all players in IdleOn! @   @ If you can reach ~ PTS, you'll be in the Top ` of all players!"
+                "desc": "Your Tome Score of # PTS is in the Top $ of all players in IdleOn! @   @ If you can reach ~ PTS, you'll be in the Top ` of all players!",
+                "uiPositionIndex": 5
             }),
         new TomeBase(1, <TomeModel>{
                 "name": "Statue Total LV",
@@ -21,7 +22,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 600,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 7
             }),
         new TomeBase(2, <TomeModel>{
                 "name": "Cards Total LV",
@@ -29,7 +31,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 1000,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 6
             }),
         new TomeBase(3, <TomeModel>{
                 "name": "Total Talent Max LV 膛 (Tap for more info)",
@@ -37,7 +40,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 600,
                 "decimalDisplay": undefined,
-                "desc": "For each talent, the tome counts the highest Max LV out of all your players."
+                "desc": "For each talent, the tome counts the highest Max LV out of all your players.",
+                "uiPositionIndex": 2
             }),
         new TomeBase(4, <TomeModel>{
                 "name": "Unique Quests Completed 膛",
@@ -45,7 +49,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 500,
                 "decimalDisplay": undefined,
-                "desc": "Doing the same quest on multiple players doesn't count for this."
+                "desc": "Doing the same quest on multiple players doesn't count for this.",
+                "uiPositionIndex": 9
             }),
         new TomeBase(5, <TomeModel>{
                 "name": "Account LV",
@@ -53,7 +58,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 1500,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 0
             }),
         new TomeBase(6, <TomeModel>{
                 "name": "Total Tasks Completed",
@@ -61,7 +67,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 470,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 10
             }),
         new TomeBase(7, <TomeModel>{
                 "name": "Total Achievements Completed",
@@ -69,7 +76,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 850,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 8
             }),
         new TomeBase(8, <TomeModel>{
                 "name": "Most Money held in Storage",
@@ -77,7 +85,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decayLog,
                 "totalVal": 500,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 12
             }),
         new TomeBase(9, <TomeModel>{
                 "name": "Most Spore Caps held in Inventory at once",
@@ -85,7 +94,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decayLog,
                 "totalVal": 200,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 13
             }),
         new TomeBase(10, <TomeModel>{
                 "name": "Trophies Found",
@@ -93,7 +103,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 700,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 15
             }),
         new TomeBase(11, <TomeModel>{
                 "name": "Account Skills LV",
@@ -101,7 +112,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 1200,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 1
             }),
         new TomeBase(12, <TomeModel>{
                 "name": "Best Spiketrap Surprise round",
@@ -109,7 +121,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 100,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 18
             }),
         new TomeBase(13, <TomeModel>{
                 "name": "Total AFK Hours claimed",
@@ -117,7 +130,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 350,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 22
             }),
         new TomeBase(14, <TomeModel>{
                 "name": "DPS Record on Shimmer Island",
@@ -125,7 +139,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decayLog,
                 "totalVal": 350,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 23
             }),
         new TomeBase(15, <TomeModel>{
                 "name": "Star Talent Points Owned",
@@ -133,7 +148,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 200,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 27
             }),
         new TomeBase(16, <TomeModel>{
                 "name": "Average kills for a Crystal Spawn 膛",
@@ -141,7 +157,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.inverseDecay,
                 "totalVal": 350,
                 "decimalDisplay": undefined,
-                "desc": "This tracks your Crystal Mob spawn chance! While this is capped at 1 in 100, you get BONUS Exp and Drops if your Crystal Spawn is better! For example, if your average kills is 20, you're getting 5x Exp and Drops from Crystals!"
+                "desc": "This tracks your Crystal Mob spawn chance! While this is capped at 1 in 100, you get BONUS Exp and Drops if your Crystal Spawn is better! For example, if your average kills is 20, you're getting 5x Exp and Drops from Crystals!",
+                "uiPositionIndex": 28
             }),
         new TomeBase(17, <TomeModel>{
                 "name": "Dungeon Rank",
@@ -149,7 +166,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 250,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 29
             }),
         new TomeBase(18, <TomeModel>{
                 "name": "Highest Drop Rate Multi",
@@ -157,7 +175,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 350,
                 "decimalDisplay": 1,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 30
             }),
         new TomeBase(19, <TomeModel>{
                 "name": "Constellations Completed",
@@ -165,7 +184,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 300,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 31
             }),
         new TomeBase(20, <TomeModel>{
                 "name": "Most DMG Dealt to Gravestone in a Weekly Battle 膛",
@@ -173,7 +193,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 200,
                 "decimalDisplay": undefined,
-                "desc": "Gravestone appears when you defeat all weekly bosses. This is the negative number shown after."
+                "desc": "Gravestone appears when you defeat all weekly bosses. This is the negative number shown after.",
+                "uiPositionIndex": 101
             }),
         new TomeBase(21, <TomeModel>{
                 "name": "Unique Obols Found",
@@ -181,7 +202,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 250,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 32
             }),
         new TomeBase(22, <TomeModel>{
                 "name": "Total Bubble LV",
@@ -189,7 +211,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.boundedDecay,
                 "totalVal": 1750,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 4
             }),
         new TomeBase(23, <TomeModel>{
                 "name": "Total Vial LV",
@@ -197,7 +220,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 600,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 33
             }),
         new TomeBase(24, <TomeModel>{
                 "name": "Total Sigil LV",
@@ -205,7 +229,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 500,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 34
             }),
         new TomeBase(25, <TomeModel>{
                 "name": "Jackpots Hit in Arcade",
@@ -213,7 +238,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 80,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 26
             }),
         new TomeBase(26, <TomeModel>{
                 "name": "Post Office PO Boxes Earned",
@@ -221,7 +247,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 300,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 35
             }),
         new TomeBase(27, <TomeModel>{
                 "name": "Highest Killroy Score on a Warrior",
@@ -229,7 +256,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 200,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 36
             }),
         new TomeBase(28, <TomeModel>{
                 "name": "Highest Killroy Score on an Archer",
@@ -237,7 +265,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 200,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 37
             }),
         new TomeBase(29, <TomeModel>{
                 "name": "Highest Killroy Score on a Mage",
@@ -245,7 +274,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 200,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 38
             }),
         new TomeBase(30, <TomeModel>{
                 "name": "Fastest Time to kill Chaotic Efaunt (in Seconds)",
@@ -253,7 +283,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.inverseDecay,
                 "totalVal": 200,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 42
             }),
         new TomeBase(31, <TomeModel>{
                 "name": "Largest Oak Log Printer Sample",
@@ -261,7 +292,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decayLog,
                 "totalVal": 400,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 43
             }),
         new TomeBase(32, <TomeModel>{
                 "name": "Largest Copper Ore Printer Sample",
@@ -269,7 +301,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decayLog,
                 "totalVal": 400,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 44
             }),
         new TomeBase(33, <TomeModel>{
                 "name": "Largest Spore Cap Printer Sample",
@@ -277,7 +310,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decayLog,
                 "totalVal": 300,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 45
             }),
         new TomeBase(34, <TomeModel>{
                 "name": "Largest Goldfish Printer Sample",
@@ -285,7 +319,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decayLog,
                 "totalVal": 300,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 46
             }),
         new TomeBase(35, <TomeModel>{
                 "name": "Largest Fly Printer Sample",
@@ -293,7 +328,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decayLog,
                 "totalVal": 300,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 47
             }),
         new TomeBase(36, <TomeModel>{
                 "name": "Best Non Duplicate Goblin Gorefest Wave 膛",
@@ -301,7 +337,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 200,
                 "decimalDisplay": undefined,
-                "desc": "Non Duplicate means you can only place 1 of each Wizard Type, 2 or more invalidates the attempt."
+                "desc": "Non Duplicate means you can only place 1 of each Wizard Type, 2 or more invalidates the attempt.",
+                "uiPositionIndex": 49
             }),
         new TomeBase(37, <TomeModel>{
                 "name": "Total Best Wave in Worship",
@@ -309,7 +346,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 300,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 48
             }),
         new TomeBase(38, <TomeModel>{
                 "name": "Total Digits of all Deathnote Kills 膛",
@@ -317,7 +355,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 600,
                 "decimalDisplay": undefined,
-                "desc": "For example, 1,520 kills would be 4 digits, and this is for all monster types."
+                "desc": "For example, 1,520 kills would be 4 digits, and this is for all monster types.",
+                "uiPositionIndex": 51
             }),
         new TomeBase(39, <TomeModel>{
                 "name": "Equinox Clouds Completed",
@@ -325,7 +364,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 750,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 56
             }),
         new TomeBase(40, <TomeModel>{
                 "name": "Total Refinery Rank",
@@ -333,7 +373,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 450,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 53
             }),
         new TomeBase(41, <TomeModel>{
                 "name": "Total Atom Upgrade LV",
@@ -341,7 +382,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 400,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 54
             }),
         new TomeBase(42, <TomeModel>{
                 "name": "Total Construct Buildings LV",
@@ -349,7 +391,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 900,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 55
             }),
         new TomeBase(43, <TomeModel>{
                 "name": "Most Tottoise in Storage 膛",
@@ -357,7 +400,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decayLog,
                 "totalVal": 150,
                 "decimalDisplay": undefined,
-                "desc": "Tottoise is the 11th Shiny Critter unlocked from the Jade Emporium in World 6"
+                "desc": "Tottoise is the 11th Shiny Critter unlocked from the Jade Emporium in World 6",
+                "uiPositionIndex": 102
             }),
         new TomeBase(44, <TomeModel>{
                 "name": "Most Greenstacks in Storage 膛",
@@ -365,7 +409,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 600,
                 "decimalDisplay": undefined,
-                "desc": "Greenstack is when you have 10,000,000 or more of a single item in your Storage Chest."
+                "desc": "Greenstack is when you have 10,000,000 or more of a single item in your Storage Chest.",
+                "uiPositionIndex": 57
             }),
         new TomeBase(45, <TomeModel>{
                 "name": "Rift Levels Completed",
@@ -373,7 +418,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 500,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 65
             }),
         new TomeBase(46, <TomeModel>{
                 "name": "Highest Power Mob",
@@ -381,7 +427,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decayLog,
                 "totalVal": 150,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 60
             }),
         new TomeBase(47, <TomeModel>{
                 "name": "Fastest Time reaching Round 100 Arena (in Seconds)",
@@ -389,7 +436,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.inverseDecay,
                 "totalVal": 180,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 61
             }),
         new TomeBase(48, <TomeModel>{
                 "name": "Total Kitchen Upgrade LV",
@@ -397,7 +445,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 200,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 59
             }),
         new TomeBase(49, <TomeModel>{
                 "name": "Total Shiny Mob LV",
@@ -405,7 +454,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 250,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 62
             }),
         new TomeBase(50, <TomeModel>{
                 "name": "Total Cooking Meals LV",
@@ -413,7 +463,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 750,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 58
             }),
         new TomeBase(51, <TomeModel>{
                 "name": "Total Mob Breedability LV",
@@ -421,7 +472,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 200,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 63
             }),
         new TomeBase(52, <TomeModel>{
                 "name": "Total Lab Chips Owned",
@@ -429,7 +481,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 150,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 64
             }),
         new TomeBase(53, <TomeModel>{
                 "name": "Total Colosseum Score",
@@ -437,7 +490,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decayLog,
                 "totalVal": 200,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 14
             }),
         new TomeBase(54, <TomeModel>{
                 "name": "Most Giants Killed in a Single Week",
@@ -445,7 +499,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 250,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 52
             }),
         new TomeBase(55, <TomeModel>{
                 "name": "Total Onyx Statues",
@@ -453,7 +508,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 450,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 66
             }),
         new TomeBase(56, <TomeModel>{
                 "name": "Fastest Time to Kill 200 Tremor Wurms (in Seconds)",
@@ -461,7 +517,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.inverseDecay,
                 "totalVal": 150,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 77
             }),
         new TomeBase(57, <TomeModel>{
                 "name": "Total Boat Upgrade LV",
@@ -469,7 +526,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 200,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 68
             }),
         new TomeBase(58, <TomeModel>{
                 "name": "God Rank in Divinity",
@@ -477,7 +535,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 200,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 76
             }),
         new TomeBase(59, <TomeModel>{
                 "name": "Total Gaming Plants Evolved",
@@ -485,7 +544,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 200,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 72
             }),
         new TomeBase(60, <TomeModel>{
                 "name": "Total Artifacts Found 膛",
@@ -493,7 +553,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 1000,
                 "decimalDisplay": undefined,
-                "desc": "Rarer versions of an artifact count for more, so an Ancient Form Artifact counts as +2, Eldritch Form counts as +3, and so on..."
+                "desc": "Rarer versions of an artifact count for more, so an Ancient Form Artifact counts as +2, Eldritch Form counts as +3, and so on...",
+                "uiPositionIndex": 67
             }),
         new TomeBase(61, <TomeModel>{
                 "name": "Gold Bar Sailing Treasure Owned",
@@ -501,7 +562,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decayLog,
                 "totalVal": 200,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 69
             }),
         new TomeBase(62, <TomeModel>{
                 "name": "Highest Captain LV",
@@ -509,7 +571,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 150,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 70
             }),
         new TomeBase(63, <TomeModel>{
                 "name": "Highest Immortal Snail LV",
@@ -517,7 +580,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 300,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 74
             }),
         new TomeBase(64, <TomeModel>{
                 "name": "Best Gold Nugget",
@@ -525,7 +589,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decayLog,
                 "totalVal": 200,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 73
             }),
         new TomeBase(65, <TomeModel>{
                 "name": "Items Found",
@@ -533,7 +598,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 1300,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 3
             }),
         new TomeBase(66, <TomeModel>{
                 "name": "Most Gaming Bits Owned",
@@ -541,7 +607,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decayLog,
                 "totalVal": 400,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 71
             }),
         new TomeBase(67, <TomeModel>{
                 "name": "Highest Crop OG",
@@ -549,7 +616,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decayLog,
                 "totalVal": 200,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 90
             }),
         new TomeBase(68, <TomeModel>{
                 "name": "Total Crops Discovered",
@@ -557,7 +625,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 350,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 88
             }),
         new TomeBase(69, <TomeModel>{
                 "name": "Total Golden Food Beanstacks 膛",
@@ -565,7 +634,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 400,
                 "decimalDisplay": undefined,
-                "desc": "Supersized Gold Food Beanstacks count as 2 Beanstacks!"
+                "desc": "Supersized Gold Food Beanstacks count as 2 Beanstacks!",
+                "uiPositionIndex": 89
             }),
         new TomeBase(70, <TomeModel>{
                 "name": "Total Summoning Upgrades LV",
@@ -573,7 +643,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 200,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 98
             }),
         new TomeBase(71, <TomeModel>{
                 "name": "Total Career Summoning Wins 膛",
@@ -581,7 +652,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 500,
                 "decimalDisplay": undefined,
-                "desc": "Rack up those wins! Endless Summoning wins count for this too, of course!"
+                "desc": "Rack up those wins! Endless Summoning wins count for this too, of course!",
+                "uiPositionIndex": 97
             }),
         new TomeBase(72, <TomeModel>{
                 "name": "Ninja Floors Unlocked",
@@ -589,7 +661,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 250,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 94
             }),
         new TomeBase(73, <TomeModel>{
                 "name": "Familiars Owned in Summoning 膛",
@@ -597,7 +670,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 150,
                 "decimalDisplay": undefined,
-                "desc": "Measured in terms of Grey Slime, so a Vrumbi would count as 3, Bloomy as 12, and so on."
+                "desc": "Measured in terms of Grey Slime, so a Vrumbi would count as 3, Bloomy as 12, and so on.",
+                "uiPositionIndex": 99
             }),
         new TomeBase(74, <TomeModel>{
                 "name": "Jade Emporium Upgrades Purchased",
@@ -605,7 +679,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 700,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 95
             }),
         new TomeBase(75, <TomeModel>{
                 "name": "Total Minigame Highscore 膛",
@@ -613,7 +688,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 100,
                 "decimalDisplay": undefined,
-                "desc": "This is Choppin game, Mining Cart game, Fishing game, Catching Hoops game, and Trapping game"
+                "desc": "This is Choppin game, Mining Cart game, Fishing game, Catching Hoops game, and Trapping game",
+                "uiPositionIndex": 21
             }),
         new TomeBase(76, <TomeModel>{
                 "name": "Total Prayer Upgrade LV",
@@ -621,7 +697,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 200,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 50
             }),
         new TomeBase(77, <TomeModel>{
                 "name": "Total Land Rank 膛",
@@ -629,7 +706,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 200,
                 "decimalDisplay": undefined,
-                "desc": "Land Ranks are from the Farming skill, in World 6. Unlocked from the Night Market!"
+                "desc": "Land Ranks are from the Farming skill, in World 6. Unlocked from the Night Market!",
+                "uiPositionIndex": 91
             }),
         new TomeBase(78, <TomeModel>{
                 "name": "Largest Magic Bean Trade",
@@ -637,7 +715,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 200,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 92
             }),
         new TomeBase(79, <TomeModel>{
                 "name": "Most Balls earned from LBoFaF 膛",
@@ -645,7 +724,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 150,
                 "decimalDisplay": undefined,
-                "desc": "LBoFaF means Lava's Ballpit of Fire and Fury, the bonus round in Arcade"
+                "desc": "LBoFaF means Lava's Ballpit of Fire and Fury, the bonus round in Arcade",
+                "uiPositionIndex": 25
             }),
         new TomeBase(80, <TomeModel>{
                 "name": "Total Arcade Gold Ball Shop Upgrade LV",
@@ -653,7 +733,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 1200,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 24
             }),
         new TomeBase(81, <TomeModel>{
                 "name": "Vault Upgrade bonus LV",
@@ -661,7 +742,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 1200,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 11
             }),
         new TomeBase(82, <TomeModel>{
                 "name": "Total Gambit Time (in Seconds) 膛",
@@ -669,7 +751,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 400,
                 "decimalDisplay": undefined,
-                "desc": "Gambit is the 14th Cavern in The Hole."
+                "desc": "Gambit is the 14th Cavern in The Hole.",
+                "uiPositionIndex": 86
             }),
         new TomeBase(83, <TomeModel>{
                 "name": "Total Digits of all Cavern Resources 膛",
@@ -677,7 +760,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 750,
                 "decimalDisplay": undefined,
-                "desc": "For example, if you had 1273 gravel and 422 gold dust, thats 7 Digits. If you then got 23 quaver notes from harp, thats another 2 digits, making your total 9 Digits."
+                "desc": "For example, if you had 1273 gravel and 422 gold dust, thats 7 Digits. If you then got 23 quaver notes from harp, thats another 2 digits, making your total 9 Digits.",
+                "uiPositionIndex": 80
             }),
         new TomeBase(84, <TomeModel>{
                 "name": "Total LV of Cavern Villagers",
@@ -685,7 +769,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 350,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 79
             }),
         new TomeBase(85, <TomeModel>{
                 "name": "Megafeathers Earned from Orion",
@@ -693,7 +778,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 250,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 39
             }),
         new TomeBase(86, <TomeModel>{
                 "name": "Megafish Earned from Poppy",
@@ -701,7 +787,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 250,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 40
             }),
         new TomeBase(87, <TomeModel>{
                 "name": "Best Bravery Monument Round 膛",
@@ -709,7 +796,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 250,
                 "decimalDisplay": undefined,
-                "desc": "Bravery Monument is the 4th Cavern in The Hole. The Hole is found in World 5."
+                "desc": "Bravery Monument is the 4th Cavern in The Hole. The Hole is found in World 5.",
+                "uiPositionIndex": 83
             }),
         new TomeBase(88, <TomeModel>{
                 "name": "Best Justice Monument Round 膛",
@@ -717,7 +805,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 250,
                 "decimalDisplay": undefined,
-                "desc": "Justice Monument is the 10th Cavern in The Hole. 'Best Round' here means your highest Court Case reached in a run."
+                "desc": "Justice Monument is the 10th Cavern in The Hole. 'Best Round' here means your highest Court Case reached in a run.",
+                "uiPositionIndex": 84
             }),
         new TomeBase(89, <TomeModel>{
                 "name": "Best Wisdom Monument Round 膛",
@@ -725,7 +814,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 250,
                 "decimalDisplay": undefined,
-                "desc": "Wisdom Monument is the 13th Cavern in The Hole."
+                "desc": "Wisdom Monument is the 13th Cavern in The Hole.",
+                "uiPositionIndex": 85
             }),
         new TomeBase(90, <TomeModel>{
                 "name": "Best Deathbringer Max Damage in Wraith Mode 膛",
@@ -733,7 +823,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decayLog,
                 "totalVal": 400,
                 "decimalDisplay": undefined,
-                "desc": "Deathbringer is the Blood Berserker's Master Class, given by Masterius NPC in World 6. You need to open your grimoire to register damage."
+                "desc": "Deathbringer is the Blood Berserker's Master Class, given by Masterius NPC in World 6. You need to open your grimoire to register damage.",
+                "uiPositionIndex": 103
             }),
         new TomeBase(91, <TomeModel>{
                 "name": "Best Dawg Den score 膛",
@@ -741,7 +832,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decayLog,
                 "totalVal": 250,
                 "decimalDisplay": undefined,
-                "desc": "The Dawg Den is the 3rd Cavern in The Hole. The Hole is found in World 5."
+                "desc": "The Dawg Den is the 3rd Cavern in The Hole. The Hole is found in World 5.",
+                "uiPositionIndex": 82
             }),
         new TomeBase(92, <TomeModel>{
                 "name": "Total Resource Layers Destroyed 膛",
@@ -749,7 +841,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 350,
                 "decimalDisplay": undefined,
-                "desc": "Destroying Layers includes the following caverns... Motherlode, Eternal Hive, and Evertree Cavern, with more added later!"
+                "desc": "Destroying Layers includes the following caverns... Motherlode, Eternal Hive, and Evertree Cavern, with more added later!",
+                "uiPositionIndex": 81
             }),
         new TomeBase(93, <TomeModel>{
                 "name": "Total Opals Found",
@@ -757,7 +850,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 400,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 78
             }),
         new TomeBase(94, <TomeModel>{
                 "name": "Best Pure Memory Round Reached 膛",
@@ -765,7 +859,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 50,
                 "decimalDisplay": undefined,
-                "desc": "Yea nah, I aint snitchin'. This is a SECRET mode."
+                "desc": "Yea nah, I aint snitchin'. This is a SECRET mode.",
+                "uiPositionIndex": 87
             }),
         new TomeBase(95, <TomeModel>{
                 "name": "Spirited Valley Emperor Boss Kills 膛",
@@ -773,7 +868,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 400,
                 "decimalDisplay": undefined,
-                "desc": "This counts your current Showdown for the Emperor boss in World 6, not the total amount of kills."
+                "desc": "This counts your current Showdown for the Emperor boss in World 6, not the total amount of kills.",
+                "uiPositionIndex": 106
             }),
         new TomeBase(96, <TomeModel>{
                 "name": "Total Summoning Boss Stone victories 膛",
@@ -781,7 +877,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 300,
                 "decimalDisplay": undefined,
-                "desc": "This is the TOTAL wins you have against all Summoning Bosses combined. These are the bossfights from the stones, like the one next to Tribal Shaman NPC!"
+                "desc": "This is the TOTAL wins you have against all Summoning Bosses combined. These are the bossfights from the stones, like the one next to Tribal Shaman NPC!",
+                "uiPositionIndex": 100
             }),
         new TomeBase(97, <TomeModel>{
                 "name": "Total Coral Reef upgrades 膛",
@@ -789,7 +886,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 400,
                 "decimalDisplay": undefined,
-                "desc": "The Coral Reef is a feature in World 7 town, unlocked by rescuing Humble Hugh's missing Fishies!"
+                "desc": "The Coral Reef is a feature in World 7 town, unlocked by rescuing Humble Hugh's missing Fishies!",
+                "uiPositionIndex": 107
             }),
         new TomeBase(98, <TomeModel>{
                 "name": "Deepest Depth reached in a single Delve 膛",
@@ -797,7 +895,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 300,
                 "decimalDisplay": undefined,
-                "desc": "This is for the Spelunking skill, it's just the deepest you've gone in a single attempt."
+                "desc": "This is for the Spelunking skill, it's just the deepest you've gone in a single attempt.",
+                "uiPositionIndex": 110
             }),
         new TomeBase(99, <TomeModel>{
                 "name": "Total Ninja Knowledge Upgrades LV 膛",
@@ -805,7 +904,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 500,
                 "decimalDisplay": undefined,
-                "desc": "Ninja Knowledge is the upgrade tree accessed within Sneaking. This includes mini knowledge upgrades, but you'll unlock those later..."
+                "desc": "Ninja Knowledge is the upgrade tree accessed within Sneaking. This includes mini knowledge upgrades, but you'll unlock those later...",
+                "uiPositionIndex": 96
             }),
         new TomeBase(100, <TomeModel>{
                 "name": "Best Windwalker Max Damage in Tempest Mode 膛",
@@ -813,7 +913,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decayLog,
                 "totalVal": 400,
                 "decimalDisplay": undefined,
-                "desc": "Windwalker is the Beast Masters's Master Class, given by Masterius NPC in World 6. You need to open your Compass to register damage."
+                "desc": "Windwalker is the Beast Masters's Master Class, given by Masterius NPC in World 6. You need to open your Compass to register damage.",
+                "uiPositionIndex": 104
             }),
         new TomeBase(101, <TomeModel>{
                 "name": "Best Arcane Cultist Max Damage in Arcanist Mode 膛",
@@ -821,7 +922,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decayLog,
                 "totalVal": 400,
                 "decimalDisplay": undefined,
-                "desc": "Arcane Cultist is the Bubonic Conjuror's Master Class, given by Masterius NPC in World 6. You need to open your Tesseract to register damage."
+                "desc": "Arcane Cultist is the Bubonic Conjuror's Master Class, given by Masterius NPC in World 6. You need to open your Tesseract to register damage.",
+                "uiPositionIndex": 105
             }),
         new TomeBase(102, <TomeModel>{
                 "name": "Biggest Haul in a single Delve 膛",
@@ -829,7 +931,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decayLog,
                 "totalVal": 300,
                 "decimalDisplay": undefined,
-                "desc": "This is for the Spelunking skill, it's just the most amount of Amber you've gotten in a single attempt."
+                "desc": "This is for the Spelunking skill, it's just the most amount of Amber you've gotten in a single attempt.",
+                "uiPositionIndex": 111
             }),
         new TomeBase(103, <TomeModel>{
                 "name": "Total Spelunk Shop Upgrades LV",
@@ -837,7 +940,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 500,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 108
             }),
         new TomeBase(104, <TomeModel>{
                 "name": "Total Spelunk Discoveries made 膛",
@@ -845,7 +949,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 300,
                 "decimalDisplay": undefined,
-                "desc": "A Discovery is when you destroy a rock for the first time in a cave. It's basically how many unique 'things' you've encountered while spelunking!"
+                "desc": "A Discovery is when you destroy a rock for the first time in a cave. It's basically how many unique 'things' you've encountered while spelunking!",
+                "uiPositionIndex": 109
             }),
         new TomeBase(105, <TomeModel>{
                 "name": "Highest leveled Spelunker 膛",
@@ -853,7 +958,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 200,
                 "decimalDisplay": undefined,
-                "desc": "In other words, this is the Spelunking LV of the highest leveled spelunker in your account."
+                "desc": "In other words, this is the Spelunking LV of the highest leveled spelunker in your account.",
+                "uiPositionIndex": 112
             }),
         new TomeBase(106, <TomeModel>{
                 "name": "Lava Dev Streams watched 膛",
@@ -861,7 +967,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 250,
                 "decimalDisplay": undefined,
-                "desc": "To get +1 Stream Watched, you need to tune in at Twitch.tv/ Lava贫Flame2 and keep an eye out for when I enable +1 TOME mode! It'll happen multiple times per stream."
+                "desc": "To get +1 Stream Watched, you need to tune in at Twitch.tv/ Lava贫Flame2 and keep an eye out for when I enable +1 TOME mode! It'll happen multiple times per stream.",
+                "uiPositionIndex": 20
             }),
         new TomeBase(107, <TomeModel>{
                 "name": "Nametags Found 膛",
@@ -869,7 +976,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 700,
                 "decimalDisplay": undefined,
-                "desc": "This only counts the amount of unique nametags you found... but don't throw away your duplicate nametags! You'll need them for The Gallery in World 7!"
+                "desc": "This only counts the amount of unique nametags you found... but don't throw away your duplicate nametags! You'll need them for The Gallery in World 7!",
+                "uiPositionIndex": 16
             }),
         new TomeBase(108, <TomeModel>{
                 "name": "Megaflesh Earned from Bubba",
@@ -877,7 +985,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 250,
                 "decimalDisplay": undefined,
-                "desc": undefined
+                "desc": undefined,
+                "uiPositionIndex": 41
             }),
         new TomeBase(109, <TomeModel>{
                 "name": "Premium Hats Found 膛",
@@ -885,7 +994,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 700,
                 "decimalDisplay": undefined,
-                "desc": "This metric is based on the total hats you've deposited to the Hat Rack in World 3!"
+                "desc": "This metric is based on the total hats you've deposited to the Hat Rack in World 3!",
+                "uiPositionIndex": 17
             }),
         new TomeBase(110, <TomeModel>{
                 "name": "Minehead Opponents Defeated 膛",
@@ -893,7 +1003,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 600,
                 "decimalDisplay": undefined,
-                "desc": "Haven't heard of Mr Minehead's Depth Charge game yet? It's great, you'll find it deep in World 7!"
+                "desc": "Haven't heard of Mr Minehead's Depth Charge game yet? It's great, you'll find it deep in World 7!",
+                "uiPositionIndex": 113
             }),
         new TomeBase(111, <TomeModel>{
                 "name": "Rat King Crowns Reclaimed 膛",
@@ -901,7 +1012,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 400,
                 "decimalDisplay": undefined,
-                "desc": "The Rat King is one of the last Import Items you buy in Gaming, and he unlocks the ROYALE sprout mutation, which, when harvested, has a chance to reclaim Crowns!"
+                "desc": "The Rat King is one of the last Import Items you buy in Gaming, and he unlocks the ROYALE sprout mutation, which, when harvested, has a chance to reclaim Crowns!",
+                "uiPositionIndex": 75
             }),
         new TomeBase(112, <TomeModel>{
                 "name": "Farming Stickers Found 膛",
@@ -909,7 +1021,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 300,
                 "decimalDisplay": undefined,
-                "desc": "You need to unlock the Sticker Depot from Research in World 7, and grow some Megacrops to find Stickers!"
+                "desc": "You need to unlock the Sticker Depot from Research in World 7, and grow some Megacrops to find Stickers!",
+                "uiPositionIndex": 93
             }),
         new TomeBase(113, <TomeModel>{
                 "name": "Tournaments Registrations 膛",
@@ -917,7 +1030,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 365,
                 "decimalDisplay": undefined,
-                "desc": "This metric tracks how many days you've registered for a Tournament! It currently caps at 365, so you aren't permanently behind if you miss a day!"
+                "desc": "This metric tracks how many days you've registered for a Tournament! It currently caps at 365, so you aren't permanently behind if you miss a day!",
+                "uiPositionIndex": 19
             }),
         new TomeBase(114, <TomeModel>{
                 "name": "Total Research Grid Upgrades 膛",
@@ -925,7 +1039,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 750,
                 "decimalDisplay": undefined,
-                "desc": "Research is a World 7 skill, you need to progress past the Ballonfish Map to unlock it!"
+                "desc": "Research is a World 7 skill, you need to progress past the Ballonfish Map to unlock it!",
+                "uiPositionIndex": 114
             }),
         new TomeBase(115, <TomeModel>{
                 "name": "Total Glimbo Trades 膛",
@@ -933,7 +1048,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 400,
                 "decimalDisplay": undefined,
-                "desc": "Glimbo can be found deep in World 7, he increases your Upgrade Vault max LV's in exchange for valuable items!"
+                "desc": "Glimbo can be found deep in World 7, he increases your Upgrade Vault max LV's in exchange for valuable items!",
+                "uiPositionIndex": 115
             }),
         new TomeBase(116, <TomeModel>{
                 "name": "Unique Sushi Created 膛",
@@ -941,7 +1057,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.linearToMax,
                 "totalVal": 800,
                 "decimalDisplay": undefined,
-                "desc": "Basically, the highest Tier of Sushi you've created over at the Sushi Station in World 7!"
+                "desc": "Basically, the highest Tier of Sushi you've created over at the Sushi Station in World 7!",
+                "uiPositionIndex": 116
             }),
         new TomeBase(117, <TomeModel>{
                 "name": "Button Presses 膛",
@@ -949,7 +1066,8 @@ export const initTomeRepo = () => {
                 "scalingType": TomeScalingEnum.decay,
                 "totalVal": 500,
                 "decimalDisplay": undefined,
-                "desc": "This is referring to THE BUTTON, found in the Mantaray map in World 7! This map is the 12th map away from town, to give you an idea of where this map is."
+                "desc": "This is referring to THE BUTTON, found in the Mantaray map in World 7! This map is the 12th map away from town, to give you an idea of where this map is.",
+                "uiPositionIndex": 117
             })    
 ]
 }

@@ -156,6 +156,7 @@ class IdleonReader:
 		# World 5
 		self.codeReader.addSection("GamingUpgrades = function ()", "GamingUpgrades")
 		self.codeReader.addSection("GamingUpg = function ()", "GamingSuperbits")
+		self.codeReader.addSection("GamingPalette = function ()", "GamingPalette")
 		self.codeReader.addSection("GodsInfo = function ()", "GodsInfo")
 		self.codeReader.addSection("DivStyle = function ()", "DivStyle")
 		self.codeReader.addSection("GamingBoxes = function ()", "GamingBoxes")
