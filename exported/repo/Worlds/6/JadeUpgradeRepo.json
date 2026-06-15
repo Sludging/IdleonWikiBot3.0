@@ -404,22 +404,31 @@
         "filler2": "filler",
         "bonus": "Adds a new bonus type to your crop scientist! Specifically '+1% Research EXP' per 10 Crops after 200! So 240 crops would only give +4%"
     },
-    "UNDER CONSTRUCTION": {
-        "name": "UNDER CONSTRUCTION",
+    "Depth Charge Disposal": {
+        "name": "Depth Charge Disposal",
         "costA": 500,
         "costB": 1,
         "imageId": 45,
         "filler1": "filler",
         "filler2": "filler",
-        "bonus": "This bonus isn't out yet, so you cant buy it! Please come back in a few updates, since this isn't out yet!"
+        "bonus": "All Minehead opponents in Mr. Minehead's Depth Charge game have 1 less Depth Charge to deploy! Less mines means less booms!"
     },
-    "IDK YET": {
-        "name": "IDK YET",
+    "Optimal Optometry": {
+        "name": "Optimal Optometry",
         "costA": 500,
         "costB": 1,
-        "imageId": 39,
+        "imageId": 46,
         "filler1": "filler",
         "filler2": "filler",
-        "bonus": "Idk yet"
+        "bonus": "Your Optical Monocles give 1.35x more Insight EXP/hr, and your Kaleidoscopes have a 1.06x larger boost to adjacent magnifiers!"
+    },
+    "UNDER CONSTRUCTION": {
+        "name": "UNDER CONSTRUCTION",
+        "costA": 500,
+        "costB": 1,
+        "imageId": 47,
+        "filler1": "filler",
+        "filler2": "filler",
+        "bonus": "This bonus isn't out yet, so you cant buy it! Please come back in a few updates, since this isn't out yet!"
     }
 }

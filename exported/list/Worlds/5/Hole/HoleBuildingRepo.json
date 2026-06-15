@@ -460,7 +460,7 @@
     },
     {
         "name": "Rift Guy",
-        "squareImageType": 3,
+        "squareImageType": 4,
         "costType": "Gravel",
         "baseCost": 10,
         "costCalcType": false,
@@ -834,7 +834,7 @@
         "baseCost": 10,
         "costCalcType": false,
         "desc": "Unlocks the Castle challenge in the Gambit cavern.",
-        "order": 51
+        "order": 97
     },
     {
         "name": "Noob Gambit",
@@ -843,6 +843,51 @@
         "baseCost": 10,
         "costCalcType": false,
         "desc": "Unlocks the Noob challenge in the Gambit cavern.",
+        "order": 94
+    },
+    {
+        "name": "Trench ~ Coin Synergy",
+        "squareImageType": 4,
+        "costType": "Gravel",
+        "baseCost": 500,
+        "costCalcType": true,
+        "desc": "Boosts the value of all coin types, also called Currencies, by 1.10x per Trench Depth you've cast! @ Total Bonus: {x",
+        "order": 98
+    },
+    {
+        "name": "Size DOES Matter",
+        "squareImageType": 4,
+        "costType": "Gravel",
+        "baseCost": 7500,
+        "costCalcType": true,
+        "desc": "When collecting a coinstack at The Fountain, you get +10% MULTI per stack height. Example:If a stack was 5 coins high, they'd all be worth 1.50x more!!!",
+        "order": 95
+    },
+    {
+        "name": "Monument Mogmaxing",
+        "squareImageType": 1,
+        "costType": "Gravel",
+        "baseCost": 25000,
+        "costCalcType": true,
+        "desc": "Monument Reward Multi now increases at the normal rate of +100% daily for 6 full days! Before this upgrade, it was only 4 days...",
+        "order": 96
+    },
+    {
+        "name": "Triple Decker Extender",
+        "squareImageType": 4,
+        "costType": "Gravel",
+        "baseCost": 150,
+        "costCalcType": true,
+        "desc": "All coinstacks at The Fountain can stack +3 coins higher than before!",
+        "order": 51
+    },
+    {
+        "name": "Trench Trickledown",
+        "squareImageType": 4,
+        "costType": "Gravel",
+        "baseCost": 2500,
+        "costCalcType": true,
+        "desc": "+15% All Skill Efficiency, and +10% All Skill EXP gain per Bottomless Trench Depth you've cast down to!",
         "order": 31
     }
 ]

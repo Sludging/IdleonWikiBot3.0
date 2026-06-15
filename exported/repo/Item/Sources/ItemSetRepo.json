@@ -612,10 +612,16 @@
     "EquipmentNametagReplica27": {"set": "Tome"},
     "EquipmentNametagReplica28": {"set": "Tome"},
     "EquipmentNametagReplica34": {"set": "Emerald"},
+    "EquipmentNametagReplica38": {"set": "Bronze"},
+    "EquipmentNametagReplica39": {"set": "Silver"},
+    "EquipmentNametagReplica40": {"set": "Gold"},
     "EquipmentHats49": {"set": "The"},
     "EquipmentHats50": {"set": "Green"},
     "EquipmentHats57": {"set": "Big"},
     "EquipmentHats65": {"set": "The"},
     "EquipmentHats95": {"set": "Gilded"},
-    "EquipmentHats131": {"set": "Lucky"}
+    "EquipmentHats131": {"set": "Lucky"},
+    "EquipmentHats136": {"set": "Bronze"},
+    "EquipmentHats137": {"set": "Silver"},
+    "EquipmentHats138": {"set": "Gold"}
 }

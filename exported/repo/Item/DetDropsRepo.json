@@ -712,12 +712,12 @@
             {"source": "w7b4", "quantity": 70000000, "chance": 0.5},
             {"source": "w7b5", "quantity": 150000000, "chance": 0.5},
             {"source": "w7b6", "quantity": 250000000, "chance": 0.5},
-            {"source": "w7b7", "quantity": 1100000, "chance": 0.5},
+            {"source": "w7b7", "quantity": 600000000, "chance": 0.5},
             {"source": "w7b8", "quantity": 1100000, "chance": 0.5},
             {"source": "w7b9", "quantity": 1100000, "chance": 0.5},
             {"source": "w7b10", "quantity": 1100000, "chance": 0.5},
             {"source": "w7b11", "quantity": 500000000, "chance": 0.5},
-            {"source": "w7b12", "quantity": 1100000, "chance": 0.5},
+            {"source": "w7b12", "quantity": 2000000000, "chance": 0.5},
             {"source": "w7d1", "quantity": 65000, "chance": 0.5},
             {"source": "ChestA1", "quantity": 100, "chance": 1},
             {"source": "ChestB1", "quantity": 400, "chance": 1},
@@ -762,6 +762,7 @@
             {"source": "cropfallEvent1", "quantity": 69, "chance": 0.5},
             {"source": "luckEvent1", "quantity": 69, "chance": 0.5},
             {"source": "luckEvent2", "quantity": 69, "chance": 0.5},
+            {"source": "anni5Event1", "quantity": 69, "chance": 0.5},
             {"source": "Copper", "quantity": 0, "chance": 0},
             {"source": "Iron", "quantity": 0, "chance": 0},
             {"source": "Gold", "quantity": 0, "chance": 0},
@@ -3406,7 +3407,8 @@
             {"source": "fallEvent1", "quantity": 1, "chance": 0.2},
             {"source": "anni4Event1", "quantity": 1, "chance": 0.2},
             {"source": "cropfallEvent1", "quantity": 1, "chance": 0.2},
-            {"source": "luckEvent1", "quantity": 1, "chance": 0.2}
+            {"source": "luckEvent1", "quantity": 1, "chance": 0.2},
+            {"source": "anni5Event1", "quantity": 1, "chance": 0.2}
         ]
     },
     "Timecandy1": {
@@ -5709,7 +5711,7 @@
         {"source": "mushG", "quantity": 1, "chance": 0.22}
     ]},
     "CardsA0": {"sources": [
-        {"source": "mushG", "quantity": 1, "chance": 0.005}
+        {"source": "mushG", "quantity": 1, "chance": 0.002}
     ]},
     "EquipmentShirts16": {"sources": [
         {"source": "mushG", "quantity": 1, "chance": 0.00035}
@@ -5763,7 +5765,7 @@
         ]
     },
     "CardsA2": {"sources": [
-        {"source": "frogG", "quantity": 1, "chance": 0.05}
+        {"source": "frogG", "quantity": 1, "chance": 0.003}
     ]},
     "Quest3": {"sources": [
         {"source": "frogG", "quantity": 1, "chance": 0.5}
@@ -5781,7 +5783,7 @@
         {"source": "beanG", "quantity": 1, "chance": 0.2}
     ]},
     "CardsA3": {"sources": [
-        {"source": "beanG", "quantity": 1, "chance": 0.03}
+        {"source": "beanG", "quantity": 1, "chance": 0.004}
     ]},
     "StoneA2": {
         "sources": [
@@ -5800,7 +5802,7 @@
         ]
     },
     "CardsA4": {"sources": [
-        {"source": "slimeG", "quantity": 1, "chance": 0.025}
+        {"source": "slimeG", "quantity": 1, "chance": 0.05}
     ]},
     "OilBarrel2": {"sources": [
         {"source": "slimeG", "quantity": 10, "chance": 0.0003}
@@ -7186,10 +7188,13 @@
         {"source": "w7b11", "quantity": 1, "chance": 1e-07}
     ]},
     "w7B12": {"sources": [
-        {"source": "w7b12", "quantity": 1, "chance": 0.001}
+        {"source": "w7b12", "quantity": 1, "chance": 0.0001}
+    ]},
+    "w7B12b": {"sources": [
+        {"source": "w7b12", "quantity": 1, "chance": 1e-09}
     ]},
     "CardsJ24": {"sources": [
-        {"source": "w7b12", "quantity": 1, "chance": 1e-07}
+        {"source": "w7b12", "quantity": 1, "chance": 3e-08}
     ]},
     "OakTree": {"sources": [
         {"source": "ChestA1", "quantity": 40, "chance": 0.6}
@@ -7678,7 +7683,8 @@
             {"source": "anni4Event1", "quantity": 1, "chance": 0},
             {"source": "cropfallEvent1", "quantity": 1, "chance": 0},
             {"source": "luckEvent1", "quantity": 1, "chance": 0},
-            {"source": "luckEvent2", "quantity": 1, "chance": 0}
+            {"source": "luckEvent2", "quantity": 1, "chance": 0},
+            {"source": "anni5Event1", "quantity": 1, "chance": 0}
         ]
     },
     "Quest71": {"sources": [
@@ -7732,16 +7738,20 @@
     "EquipmentHats116": {"sources": [
         {"source": "anni4Event1", "quantity": 1, "chance": 0.001}
     ]},
-    "EquipmentHats115": {"sources": [
-        {"source": "anni4Event1", "quantity": 1, "chance": 0.001}
-    ]},
+    "EquipmentHats115": {
+        "sources": [
+            {"source": "anni4Event1", "quantity": 1, "chance": 0.001},
+            {"source": "anni5Event1", "quantity": 1, "chance": 0.001}
+        ]
+    },
     "EquipmentHats24": {"sources": [
         {"source": "anni4Event1", "quantity": 1, "chance": 0.001}
     ]},
     "EquipmentHats117": {
         "sources": [
             {"source": "anni4Event1", "quantity": 1, "chance": 0.001},
-            {"source": "cropfallEvent1", "quantity": 1, "chance": 0.001}
+            {"source": "cropfallEvent1", "quantity": 1, "chance": 0.001},
+            {"source": "anni5Event1", "quantity": 1, "chance": 0.001}
         ]
     },
     "EquipmentNametag12": {
@@ -7782,6 +7792,21 @@
     ]},
     "GfoodcouponS": {"sources": [
         {"source": "luckEvent2", "quantity": 1, "chance": 1}
+    ]},
+    "EquipmentHats135": {"sources": [
+        {"source": "anni5Event1", "quantity": 1, "chance": 0.001}
+    ]},
+    "EquipmentHats133": {"sources": [
+        {"source": "anni5Event1", "quantity": 1, "chance": 0.001}
+    ]},
+    "EquipmentHats134": {"sources": [
+        {"source": "anni5Event1", "quantity": 1, "chance": 0.001}
+    ]},
+    "EquipmentHats109": {"sources": [
+        {"source": "anni5Event1", "quantity": 1, "chance": 0.001}
+    ]},
+    "EquipmentHats80": {"sources": [
+        {"source": "anni5Event1", "quantity": 1, "chance": 0.001}
     ]},
     "CardsC1": {"sources": [
         {"source": "Copper", "quantity": 1, "chance": 0.0002}

@@ -325,5 +325,5 @@
     "323": {"id": 323, "portalRequirements": [750000000], "maxOnScreen": 16},
     "324": {"id": 324, "portalRequirements": [1000000000], "maxOnScreen": 22},
     "325": {"id": 325, "portalRequirements": [2000000000], "maxOnScreen": 33},
-    "326": {"id": 326, "portalRequirements": [0], "maxOnScreen": 43}
+    "326": {"id": 326, "portalRequirements": [0], "maxOnScreen": 37}
 }

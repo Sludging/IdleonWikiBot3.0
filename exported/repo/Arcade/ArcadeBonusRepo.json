@@ -601,5 +601,32 @@
         "type": "%",
         "lvlUpText": "+{% Chance",
         "barType": 31
+    },
+    "Bonus 67": {
+        "effect": "+{% Sushi Bucks",
+        "x1": 25,
+        "x2": 100,
+        "func": "decay",
+        "type": "%",
+        "lvlUpText": "+{% Bucks",
+        "barType": 35
+    },
+    "Bonus 68": {
+        "effect": "+{% Fountain Speed",
+        "x1": 30,
+        "x2": 100,
+        "func": "decay",
+        "type": "%",
+        "lvlUpText": "+{% Fill Spd",
+        "barType": 35
+    },
+    "Bonus 69": {
+        "effect": "+{% Cook Mastery EXP",
+        "x1": 100,
+        "x2": 100,
+        "func": "decay",
+        "type": "%",
+        "lvlUpText": "+{% EXP",
+        "barType": 49
     }
 }

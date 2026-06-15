@@ -396,22 +396,22 @@
         "name": "Artistic Gamer"
     },
     {
-        "description": "Dont buy this. Not like you can afford it regardless.",
-        "x1": 2,
-        "x2": 150,
-        "name": "Not Yet"
+        "description": "Opponents in Mr. Minehead's Depth Charge always have 1 less mine.",
+        "x1": 1,
+        "x2": 80,
+        "name": "Less Charge"
     },
     {
-        "description": "You can't buy this. At least not with so few bits.",
+        "description": "Your sushi generate +100% more Bucks at the Sushi Station!",
         "x1": 2,
-        "x2": 150,
-        "name": "Nuh Uh"
+        "x2": 89,
+        "name": "Small Gratuity"
     },
     {
-        "description": "You can't buy this today, or tomorrow, or the next day.",
-        "x1": 2,
-        "x2": 150,
-        "name": "Not Today"
+        "description": "Boosts your Cooking Mastery EXP gain rate by 1.40x",
+        "x1": 4,
+        "x2": 100,
+        "name": "Cooking Master"
     },
     {
         "description": "You? Buying THIS?? YOU'RE BROOOOKE!!!",

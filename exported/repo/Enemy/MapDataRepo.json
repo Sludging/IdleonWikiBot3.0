@@ -680,7 +680,7 @@
     "w7b7": {
         "enemy": "w7b7",
         "world": "Shimmerfin Deep",
-        "map": {"intName": "uAquaB7", "name": "fillername", "id": 321},
+        "map": {"intName": "uAquaB7", "name": "Trench Precipice", "id": 321},
         "portalRequirements": [350000000]
     },
     "w7b8": {
@@ -710,7 +710,7 @@
     "w7b12": {
         "enemy": "w7b12",
         "world": "Shimmerfin Deep",
-        "map": {"intName": "uAquaB12", "name": "fillername", "id": 326},
+        "map": {"intName": "uAquaB12", "name": "Dreadnaught Chamber", "id": 326},
         "portalRequirements": [0]
     }
 }

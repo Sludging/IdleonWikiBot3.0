@@ -299,7 +299,7 @@
         "drops": [
             {"item": "COIN", "quantity": 5, "chance": 0.5, "questLink": "N/A"},
             {"item": "Grasslands1", "quantity": 1, "chance": 0.22, "questLink": "N/A"},
-            {"item": "CardsA0", "quantity": 1, "chance": 0.005, "questLink": "N/A"},
+            {"item": "CardsA0", "quantity": 1, "chance": 0.002, "questLink": "N/A"},
             {"item": "EquipmentShirts16", "quantity": 1, "chance": 0.00035, "questLink": "N/A"},
             {"item": "TalentBook1", "quantity": 3615100, "chance": 0.001, "questLink": "N/A"},
             {"item": "StoneW2", "quantity": 1, "chance": 5e-05, "questLink": "N/A"},
@@ -329,7 +329,7 @@
         "drops": [
             {"item": "COIN", "quantity": 35, "chance": 0.48, "questLink": "N/A"},
             {"item": "Grasslands2", "quantity": 1, "chance": 0.21, "questLink": "N/A"},
-            {"item": "CardsA2", "quantity": 1, "chance": 0.05, "questLink": "N/A"},
+            {"item": "CardsA2", "quantity": 1, "chance": 0.003, "questLink": "N/A"},
             {"item": "Quest3", "quantity": 1, "chance": 0.5, "questLink": "Picnic_Stowaway2"},
             {"item": "Quest4", "quantity": 1, "chance": 0.3, "questLink": "Picnic_Stowaway2"},
             {"item": "TalentBook1", "quantity": 3615100, "chance": 0.002, "questLink": "N/A"},
@@ -343,7 +343,7 @@
         "drops": [
             {"item": "COIN", "quantity": 70, "chance": 0.46, "questLink": "N/A"},
             {"item": "Grasslands3", "quantity": 1, "chance": 0.2, "questLink": "N/A"},
-            {"item": "CardsA3", "quantity": 1, "chance": 0.03, "questLink": "N/A"},
+            {"item": "CardsA3", "quantity": 1, "chance": 0.004, "questLink": "N/A"},
             {"item": "StoneA2", "quantity": 1, "chance": 5e-05, "questLink": "N/A"},
             {"item": "EquipmentHats25", "quantity": 1, "chance": 3.5e-05, "questLink": "N/A"},
             {"item": "TalentBook1", "quantity": 3615100, "chance": 0.0033, "questLink": "N/A"},
@@ -354,7 +354,7 @@
         "drops": [
             {"item": "COIN", "quantity": 110, "chance": 0.44, "questLink": "N/A"},
             {"item": "Jungle1", "quantity": 1, "chance": 0.19, "questLink": "N/A"},
-            {"item": "CardsA4", "quantity": 1, "chance": 0.025, "questLink": "N/A"},
+            {"item": "CardsA4", "quantity": 1, "chance": 0.05, "questLink": "N/A"},
             {"item": "SmithingRecipes1", "quantity": 43, "chance": 3e-05, "questLink": "N/A"},
             {"item": "TalentBook1", "quantity": 3615100, "chance": 0.004, "questLink": "N/A"},
             {"item": "OilBarrel2", "quantity": 10, "chance": 0.0003, "questLink": "N/A"},
@@ -1742,7 +1742,7 @@
     },
     "w7b7": {
         "drops": [
-            {"item": "COIN", "quantity": 1100000, "chance": 0.5, "questLink": "N/A"},
+            {"item": "COIN", "quantity": 600000000, "chance": 0.5, "questLink": "N/A"},
             {"item": "w7B7", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
             {"item": "CardsJ19", "quantity": 1, "chance": 5e-07, "questLink": "N/A"},
             {"item": "SmithingRecipes7", "quantity": 0, "chance": 8e-07, "questLink": "N/A"},
@@ -1788,9 +1788,10 @@
     },
     "w7b12": {
         "drops": [
-            {"item": "COIN", "quantity": 1100000, "chance": 0.5, "questLink": "N/A"},
-            {"item": "w7B12", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
-            {"item": "CardsJ24", "quantity": 1, "chance": 1e-07, "questLink": "N/A"},
+            {"item": "COIN", "quantity": 2e+09, "chance": 0.5, "questLink": "N/A"},
+            {"item": "w7B12", "quantity": 1, "chance": 0.0001, "questLink": "N/A"},
+            {"item": "w7B12b", "quantity": 1, "chance": 1e-09, "questLink": "N/A"},
+            {"item": "CardsJ24", "quantity": 1, "chance": 3e-08, "questLink": "N/A"},
             {"item": "SmithingRecipes7", "quantity": 0, "chance": 8e-07, "questLink": "N/A"},
             {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
         ]
@@ -2338,6 +2339,20 @@
             {"item": "EquipmentNametag34", "quantity": 1, "chance": 0.0336, "questLink": "N/A"},
             {"item": "Quest89", "quantity": 1, "chance": 1, "questLink": "N/A"},
             {"item": "GfoodcouponS", "quantity": 1, "chance": 1, "questLink": "N/A"}
+        ]
+    },
+    "anni5Event1": {
+        "drops": [
+            {"item": "COIN", "quantity": 69, "chance": 0.5, "questLink": "N/A"},
+            {"item": "CardsY2", "quantity": 1, "chance": 0, "questLink": "N/A"},
+            {"item": "PremiumGem", "quantity": 1, "chance": 0.2, "questLink": "N/A"},
+            {"item": "EquipmentHats135", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats133", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats134", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats117", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats115", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats109", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats80", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
         ]
     },
     "Copper": {

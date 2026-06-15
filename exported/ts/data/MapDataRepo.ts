@@ -1936,7 +1936,7 @@ export const initMapDataRepo = () => {
         new MapDataBase(321, <MapDataModel>{
                 "enemy": "w7b7",
                 "world": "Shimmerfin Deep",
-                "map": <MapNameModel>{"intName": "uAquaB7", "name": "fillername", "id": 321},
+                "map": <MapNameModel>{"intName": "uAquaB7", "name": "Trench Precipice", "id": 321},
                 "portalRequirements": [350000000]
             }),
         new MapDataBase(322, <MapDataModel>{
@@ -1966,7 +1966,7 @@ export const initMapDataRepo = () => {
         new MapDataBase(326, <MapDataModel>{
                 "enemy": "w7b12",
                 "world": "Shimmerfin Deep",
-                "map": <MapNameModel>{"intName": "uAquaB12", "name": "fillername", "id": 326},
+                "map": <MapNameModel>{"intName": "uAquaB12", "name": "Dreadnaught Chamber", "id": 326},
                 "portalRequirements": [0]
             })    
 ]

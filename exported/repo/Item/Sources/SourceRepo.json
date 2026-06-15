@@ -4968,6 +4968,7 @@
             {"wikiName": "[[Bort The Cornhusk]]", "txtName": "Bort The Cornhusk"},
             {"wikiName": "[[Luckulyte]]", "txtName": "Luckulyte"},
             {"wikiName": "[[Potluck]]", "txtName": "Potluck"},
+            {"wikiName": "[[IdleOn 5th Anniversary]]", "txtName": "IdleOn 5th Anniversary"},
             {"wikiName": "[[Copper]]", "txtName": "Copper"},
             {"wikiName": "[[Iron]]", "txtName": "Iron"},
             {"wikiName": "[[Gold]]", "txtName": "Gold"},
@@ -7159,6 +7160,7 @@
             {"wikiName": "[[IdleOn 4th Anniversary]]", "txtName": "IdleOn 4th Anniversary"},
             {"wikiName": "[[Bort The Cornhusk]]", "txtName": "Bort The Cornhusk"},
             {"wikiName": "[[Luckulyte]]", "txtName": "Luckulyte"},
+            {"wikiName": "[[IdleOn 5th Anniversary]]", "txtName": "IdleOn 5th Anniversary"},
             {
                 "wikiName": "[[Post Office#Simple Shippin|Simple Shippin]]",
                 "txtName": "Post Office: Simple Shippin"
@@ -9610,6 +9612,13 @@
         "recipeFrom": [],
         "questAss": []
     },
+    "w7B12b": {
+        "sources": [
+            {"wikiName": "[[Dreadnaught Captain]]", "txtName": "Dreadnaught Captain"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
     "CardsJ24": {
         "sources": [
             {"wikiName": "[[Dreadnaught Captain]]", "txtName": "Dreadnaught Captain"}
@@ -11269,6 +11278,7 @@
             {"wikiName": "[[Bort The Cornhusk]]", "txtName": "Bort The Cornhusk"},
             {"wikiName": "[[Luckulyte]]", "txtName": "Luckulyte"},
             {"wikiName": "[[Potluck]]", "txtName": "Potluck"},
+            {"wikiName": "[[IdleOn 5th Anniversary]]", "txtName": "IdleOn 5th Anniversary"},
             {"wikiName": "[[2021 Giftmas Box]]", "txtName": "2021 Giftmas Box"},
             {"wikiName": "[[Choco Box]]", "txtName": "Choco Box"}
         ],
@@ -11421,7 +11431,8 @@
     },
     "EquipmentHats115": {
         "sources": [
-            {"wikiName": "[[IdleOn 4th Anniversary]]", "txtName": "IdleOn 4th Anniversary"}
+            {"wikiName": "[[IdleOn 4th Anniversary]]", "txtName": "IdleOn 4th Anniversary"},
+            {"wikiName": "[[IdleOn 5th Anniversary]]", "txtName": "IdleOn 5th Anniversary"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -11436,15 +11447,15 @@
     "EquipmentHats117": {
         "sources": [
             {"wikiName": "[[IdleOn 4th Anniversary]]", "txtName": "IdleOn 4th Anniversary"},
-            {"wikiName": "[[Bort The Cornhusk]]", "txtName": "Bort The Cornhusk"}
+            {"wikiName": "[[Bort The Cornhusk]]", "txtName": "Bort The Cornhusk"},
+            {"wikiName": "[[IdleOn 5th Anniversary]]", "txtName": "IdleOn 5th Anniversary"}
         ],
         "recipeFrom": [],
         "questAss": []
     },
     "EquipmentNametag12": {
         "sources": [
-            {"wikiName": "[[Bort The Cornhusk]]", "txtName": "Bort The Cornhusk"},
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+            {"wikiName": "[[Bort The Cornhusk]]", "txtName": "Bort The Cornhusk"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -11515,6 +11526,41 @@
     "GfoodcouponS": {
         "sources": [
             {"wikiName": "[[Potluck]]", "txtName": "Potluck"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentHats135": {
+        "sources": [
+            {"wikiName": "[[IdleOn 5th Anniversary]]", "txtName": "IdleOn 5th Anniversary"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentHats133": {
+        "sources": [
+            {"wikiName": "[[IdleOn 5th Anniversary]]", "txtName": "IdleOn 5th Anniversary"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentHats134": {
+        "sources": [
+            {"wikiName": "[[IdleOn 5th Anniversary]]", "txtName": "IdleOn 5th Anniversary"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentHats109": {
+        "sources": [
+            {"wikiName": "[[IdleOn 5th Anniversary]]", "txtName": "IdleOn 5th Anniversary"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentHats80": {
+        "sources": [
+            {"wikiName": "[[IdleOn 5th Anniversary]]", "txtName": "IdleOn 5th Anniversary"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -17354,27 +17400,6 @@
                 "wikiName": "[[Dungeons#Loot Rolls|Dungeon Loot Rolls]]",
                 "txtName": "Dungeons: Flurbo Shop"
             }
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Quest117": {
-        "sources": [
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "EquipmentNametag19": {
-        "sources": [
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "EquipmentNametag5": {
-        "sources": [
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
         "recipeFrom": [],
         "questAss": []

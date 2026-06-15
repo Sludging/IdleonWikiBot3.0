@@ -126,5 +126,13 @@
         "description": "+{% DROP RATE",
         "formula": "50TOT",
         "formulaType": "TOT"
+    },
+    "16": {
+        "index": 16,
+        "itemRequirement": {"id": "30", "name": "Unknown30"},
+        "measurementType": {"type": "8", "name": "Slab Items"},
+        "description": "+{% FOUNTAIN COINS VALUE",
+        "formula": "10TOT",
+        "formulaType": "TOT"
     }
 }

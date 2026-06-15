@@ -1,13 +1,13 @@
 {
     "Quest90": {
-        "section": "Hats",
+        "section": "Limited Specials",
         "name": "Quest90",
         "mtxName": "2 Hour Lantern",
         "itemDisplayName": "Blinding Lantern",
-        "desc": "Gives you a Lantern usable item, use it to instantly get 2 hours of ALL cavern progress!! (Except for skilling caverns, like Motherlode) This item restocks each day.",
-        "cost": 160,
-        "no": 0,
-        "maxPurchases": 8,
+        "desc": "These aint.",
+        "cost": 95,
+        "no": 90,
+        "maxPurchases": 20,
         "qty": 1,
         "costIncrement": 0
     },
@@ -38,7 +38,7 @@
     "Blank": {
         "section": "Limited Specials",
         "name": "Blank",
-        "mtxName": "Nightshade Nametag",
+        "mtxName": "Yoyomah",
         "itemDisplayName": "ERROR",
         "desc": "This nametag gives +4% AFK Gains. Why no, this doesn't affect research, funny you should ask! Ahaha!",
         "cost": 750,
@@ -695,54 +695,6 @@
         "qty": 0,
         "costIncrement": 0
     },
-    "Quest117": {
-        "section": "Limited Specials",
-        "name": "Quest117",
-        "mtxName": "Edible Coins",
-        "itemDisplayName": "Edible Coin",
-        "desc": "50 FREE EDIBLE COINS! That's right, this single purchase gives you FIFTY coins! Good luck getting those new exclusive hats!",
-        "cost": 1,
-        "no": 87,
-        "maxPurchases": 1,
-        "qty": 50,
-        "costIncrement": 0
-    },
-    "EquipmentNametag12": {
-        "section": "Limited Specials",
-        "name": "EquipmentNametag12",
-        "mtxName": "Megafeather Nametag",
-        "itemDisplayName": "Megafeather Nametag",
-        "desc": "Equip this nametag to make your nameplate under your character look cooler! Also comes with a nifty 1.20x Damage Multi!",
-        "cost": 850,
-        "no": 88,
-        "maxPurchases": 1,
-        "qty": 1,
-        "costIncrement": 0
-    },
-    "EquipmentNametag19": {
-        "section": "Limited Specials",
-        "name": "EquipmentNametag19",
-        "mtxName": "Aethermoon Nametag",
-        "itemDisplayName": "Aethermoon Nametag",
-        "desc": "A bundle exclusive nametag... in the gemshop? Well THATS gonna be expensive... It gives +80% AFK Gains btw.",
-        "cost": 4000,
-        "no": 89,
-        "maxPurchases": 1,
-        "qty": 1,
-        "costIncrement": 0
-    },
-    "EquipmentNametag5": {
-        "section": "Limited Specials",
-        "name": "EquipmentNametag5",
-        "mtxName": "Spring Flowers Nametag",
-        "itemDisplayName": "Spring Flowers Nametag",
-        "desc": "A nice humble nametag that gives a pitiful +15% Skill EXP, how quaint!",
-        "cost": 490,
-        "no": 90,
-        "maxPurchases": 1,
-        "qty": 1,
-        "costIncrement": 0
-    },
     "GemP1": {
         "section": "Premium Stones",
         "name": "GemP1",
@@ -765,7 +717,7 @@
         "no": 104,
         "maxPurchases": 16,
         "qty": 0,
-        "costIncrement": 15
+        "costIncrement": 0
     },
     "GemP6": {
         "section": "Premium Stones",
@@ -777,7 +729,7 @@
         "no": 105,
         "maxPurchases": 4,
         "qty": 0,
-        "costIncrement": 50
+        "costIncrement": 0
     },
     "GemP7": {
         "section": "Premium Stones",
@@ -785,7 +737,7 @@
         "mtxName": "Bleach Liquid Cauldrons",
         "itemDisplayName": "",
         "desc": "Can assign +1 extra player to this cauldron. Also has 1.5x higher Liquid Cap, and 1.5x faster liquid regeneration rate. Unlike the Bubble Cauldrons, you have to buy these in order.",
-        "cost": 500,
+        "cost": 250,
         "no": 106,
         "maxPurchases": 4,
         "qty": 0,
@@ -797,11 +749,11 @@
         "mtxName": "Obol Storage Space",
         "itemDisplayName": "",
         "desc": "Every purchase gives +4 Circle Slots. Every 2nd purchase gives +4 Square Slots. Every 3rd purchase gives +4 Hexagon and +4 Sparkle Slots. So buying this 4 times would give +16 Circles, +8 square, and +4 Hexagon and Sparkle",
-        "cost": 250,
+        "cost": 125,
         "no": 57,
         "maxPurchases": 12,
         "qty": 0,
-        "costIncrement": 50
+        "costIncrement": 0
     },
     "GemP9": {
         "section": "Premium Stones",
@@ -833,11 +785,11 @@
         "mtxName": "Sigil Supercharge",
         "itemDisplayName": "",
         "desc": "Each purchase gives you a permanent bonus of +20% Sigil EXP gain! Remember, you must reach World 4 before you can level up sigils!",
-        "cost": 250,
+        "cost": 140,
         "no": 110,
         "maxPurchases": 10,
         "qty": 0,
-        "costIncrement": 30
+        "costIncrement": 0
     },
     "GemQ1": {
         "section": "World 1&2",
