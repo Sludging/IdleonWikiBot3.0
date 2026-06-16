@@ -7,14 +7,14 @@
 }}
 {{Talent
 |name=Mana Booster
-|textArr=Increases Max MP by (Table 1)
+|textArr=Increases Max MP by (Table 1), which is used to cast Class Attacks
 |form1=add
 |x1=1
 |x2=0.1
 }}
 {{Talent
 |name=Star Player
-|textArr=Gives (Table 1) Star Talent Points. Star Talents are found throughout the game!
+|textArr=Gives (Table 1) Star Talent Points. Star Talents are found later in the game
 |form1=add
 |x1=1
 |x2=0
@@ -28,7 +28,7 @@
 }}
 {{Talent
 |name=Sharpened Axe
-|textArr=Increases Base Weapon Power by (Table 1). This contributes to your total damage.
+|textArr=Increases Base Weapon Power by (Table 1). This increases damage!!
 |form1=add
 |x1=0.25
 |x2=0

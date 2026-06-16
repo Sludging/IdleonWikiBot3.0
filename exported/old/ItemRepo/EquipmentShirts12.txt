@@ -9,17 +9,12 @@
 |upgrade=2
 |defence=12
 |sellprice=8400
-|source=[[Smithing]], [[Dewdrop Golden Chest]]
+|setname = Iron
+|notes= 
 }}
-{{ForgeSlot
-|anvtab=1
-|craftnum=34
-|levelreq=13
-|expgiven=600
-|recipefrom=Start
-|resource1=Iron Bar|quantity1=150
-|resource2=Jungle Logs|quantity2=600
-}}
+{{detdrops/head}}
+{{detdrops|[[Dewdrop Golden Chest]]|0.04|1}}
+|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Iron Bar|150}}

@@ -1,0 +1,5 @@
+{{InfoItem
+|type=Usable
+|description=Collect 1000 of these to unlock AFK Bones for Deathbringer! Once you have 1000, hold down on this item. You will then earn 1 Charred Bone per 1hr AFK claimed on your Deathbringer. 
+|sellprice=100
+}}

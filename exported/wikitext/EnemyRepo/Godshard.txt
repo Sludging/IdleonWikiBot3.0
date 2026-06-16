@@ -1,0 +1,15 @@
+{{InfoEnemy
+|image=Godshard Walking.gif
+|attack=0
+|health=5
+|defence=40000000
+|exp=1600
+|respawn=600
+|defence0=0.22
+|area=Motherlode Pit
+|world=Blunder Hills
+}}
+{{DropTable/head|Droptable for Godshard}}
+{{DropTable/coin|0|0}}
+{{DropTable/card|0.000002}}
+{{DropTable/append|DropTable4|0.015|2}}

@@ -1,0 +1,8 @@
+{{InfoItem
+|type=Monster Drop
+|description=That's a nice tail! 
+|sellprice=500
+}}
+{{detdrops/head}}
+{{detdrops|[[Flying Worm]]|0.16|1}}
+|}

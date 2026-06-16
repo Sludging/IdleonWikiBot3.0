@@ -1,0 +1,103 @@
+[
+    {
+        "bonusId": 0,
+        "bonusName": "}x Ninja Stealth",
+        "bonusValue": 30,
+        "levelMappings": [
+            0,
+            2,
+            6,
+            11,
+            15,
+            19,
+            25,
+            32,
+            44
+        ]
+    },
+    {
+        "bonusId": 1,
+        "bonusName": "}x Deathbringer Extra Bones",
+        "bonusValue": 5,
+        "levelMappings": [
+            1,
+            4,
+            10,
+            16,
+            26,
+            37,
+            47
+        ]
+    },
+    {
+        "bonusId": 2,
+        "bonusName": "$% cheaper Farming Upgrades",
+        "bonusValue": 20,
+        "levelMappings": [
+            3,
+            7,
+            12,
+            17,
+            23,
+            36,
+            45
+        ]
+    },
+    {"bonusId": 3, "bonusName": "+{ Opals", "bonusValue": 1, "levelMappings": [9, 27]},
+    {
+        "bonusId": 4,
+        "bonusName": "}x Windwalker Extra Dust",
+        "bonusValue": 5,
+        "levelMappings": [
+            5,
+            8,
+            13,
+            18,
+            22,
+            29,
+            40
+        ]
+    },
+    {
+        "bonusId": 5,
+        "bonusName": "+{% Equinox Bar Fill Rate",
+        "bonusValue": 15,
+        "levelMappings": [14, 21, 28, 41]
+    },
+    {
+        "bonusId": 6,
+        "bonusName": "}x Arcane Cultist Extra Tachyons",
+        "bonusValue": 5,
+        "levelMappings": [20, 34, 43]
+    },
+    {
+        "bonusId": 7,
+        "bonusName": "}x Gaming Bit gain",
+        "bonusValue": 50,
+        "levelMappings": [24, 33, 38, 42]
+    },
+    {
+        "bonusId": 8,
+        "bonusName": "}x Summoning Winner Bonuses",
+        "bonusValue": 1,
+        "levelMappings": [31]
+    },
+    {
+        "bonusId": 9,
+        "bonusName": "+{% something World 7ish",
+        "bonusValue": 5,
+        "levelMappings": [35]
+    },
+    {
+        "bonusId": 10,
+        "bonusName": "+{% something World 7ish",
+        "bonusValue": 5,
+        "levelMappings": [39]
+    },
+    {
+        "bonusId": 11,
+        "bonusName": "+{% Drop Rate",
+        "bonusValue": 10,
+        "levelMappings": [30, 46]
+    }
+]

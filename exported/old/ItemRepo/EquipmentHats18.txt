@@ -6,19 +6,14 @@
 |agi=5
 |wis=5
 |upgrade=2
-|defence=9
+|defence=10
 |sellprice=10000
-|source=[[Smithing]], [[Sandstone Silver Chest]]
+|setname = Iron
+|notes= 
 }}
-{{ForgeSlot
-|anvtab=1
-|craftnum=33
-|levelreq=12
-|expgiven=520
-|recipefrom=Start
-|resource1=Iron Bar|quantity1=125
-|resource2=Glublin Ear|quantity2=300
-}}
+{{detdrops/head}}
+{{detdrops|[[Sandstone Silver Chest]]|0.02|1}}
+|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Iron Bar|125}}

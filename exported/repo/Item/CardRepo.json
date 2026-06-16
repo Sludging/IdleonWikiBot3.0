@@ -1,0 +1,2178 @@
+{
+    "mushG": {
+        "cardID": "A0",
+        "category": "Blunder Hills",
+        "perTier": 5,
+        "effect": "+{ Base HP",
+        "bonus": 12,
+        "order": 1
+    },
+    "mushR": {
+        "cardID": "A1",
+        "category": "Blunder Hills",
+        "perTier": 10,
+        "effect": "+{ Base LUK",
+        "bonus": 3,
+        "order": 2
+    },
+    "frogG": {
+        "cardID": "A2",
+        "category": "Blunder Hills",
+        "perTier": 6,
+        "effect": "+{ Base MP",
+        "bonus": 10,
+        "order": 3
+    },
+    "beanG": {
+        "cardID": "A3",
+        "category": "Blunder Hills",
+        "perTier": 7,
+        "effect": "+{ Base Damage",
+        "bonus": 7,
+        "order": 4
+    },
+    "slimeG": {
+        "cardID": "A4",
+        "category": "Blunder Hills",
+        "perTier": 8,
+        "effect": "+{ Base WIS",
+        "bonus": 2,
+        "order": 5
+    },
+    "snakeG": {
+        "cardID": "A5",
+        "category": "Blunder Hills",
+        "perTier": 9,
+        "effect": "+{ Move Spd",
+        "bonus": 1,
+        "order": 6
+    },
+    "carrotO": {
+        "cardID": "A6",
+        "category": "Blunder Hills",
+        "perTier": 10,
+        "effect": "+{ Base AGI",
+        "bonus": 2,
+        "order": 7
+    },
+    "goblinG": {
+        "cardID": "A7",
+        "category": "Blunder Hills",
+        "perTier": 10,
+        "effect": "+{% Total HP",
+        "bonus": 2,
+        "order": 8
+    },
+    "plank": {
+        "cardID": "A8",
+        "category": "Blunder Hills",
+        "perTier": 10,
+        "effect": "+{ Base STR",
+        "bonus": 2,
+        "order": 9
+    },
+    "frogBIG": {
+        "cardID": "A9",
+        "category": "Blunder Hills",
+        "perTier": 10,
+        "effect": "+{% Card Drop Chance",
+        "bonus": 5,
+        "order": 10
+    },
+    "poopSmall": {
+        "cardID": "A10",
+        "category": "Blunder Hills",
+        "perTier": 10,
+        "effect": "+{% Crystal Mob Spawn Chance",
+        "bonus": 10,
+        "order": 11
+    },
+    "ratB": {
+        "cardID": "A11",
+        "category": "Blunder Hills",
+        "perTier": 10,
+        "effect": "+{% Critical Chance",
+        "bonus": 1,
+        "order": 12
+    },
+    "branch": {
+        "cardID": "A12",
+        "category": "Blunder Hills",
+        "perTier": 10,
+        "effect": "+{ Base WIS",
+        "bonus": 5,
+        "order": 13
+    },
+    "acorn": {
+        "cardID": "A13",
+        "category": "Blunder Hills",
+        "perTier": 10,
+        "effect": "+{% Money from Monsters",
+        "bonus": 5,
+        "order": 14
+    },
+    "Crystal0": {
+        "cardID": "A14",
+        "category": "Blunder Hills",
+        "perTier": 3,
+        "effect": "+{% Total Drop Rate",
+        "bonus": 5,
+        "order": 15
+    },
+    "mushW": {
+        "cardID": "A16",
+        "category": "Blunder Hills",
+        "perTier": 10,
+        "effect": "+{% Total Accuracy",
+        "bonus": 5,
+        "order": 16
+    },
+    "jarSand": {
+        "cardID": "B1",
+        "category": "Yum Yum Desert",
+        "perTier": 10,
+        "effect": "+{% EXP Conversion from Talent",
+        "bonus": 12,
+        "order": 1
+    },
+    "mimicA": {
+        "cardID": "B2",
+        "category": "Yum Yum Desert",
+        "perTier": 10,
+        "effect": "+{% Total Drop Rate",
+        "bonus": 2,
+        "order": 2
+    },
+    "crabcake": {
+        "cardID": "B3",
+        "category": "Yum Yum Desert",
+        "perTier": 10,
+        "effect": "+{% To not consume Food",
+        "bonus": 5,
+        "order": 3
+    },
+    "coconut": {
+        "cardID": "B4",
+        "category": "Yum Yum Desert",
+        "perTier": 10,
+        "effect": "+{ Base AGI",
+        "bonus": 5,
+        "order": 4
+    },
+    "sandcastle": {
+        "cardID": "B5",
+        "category": "Yum Yum Desert",
+        "perTier": 10,
+        "effect": "+{% Total Accuracy",
+        "bonus": 4,
+        "order": 5
+    },
+    "pincermin": {
+        "cardID": "B6",
+        "category": "Yum Yum Desert",
+        "perTier": 10,
+        "effect": "+{ Weapon Power",
+        "bonus": 1,
+        "order": 6
+    },
+    "potato": {
+        "cardID": "B7",
+        "category": "Yum Yum Desert",
+        "perTier": 10,
+        "effect": "+{% Critical Damage",
+        "bonus": 3,
+        "order": 7
+    },
+    "steak": {
+        "cardID": "B8",
+        "category": "Yum Yum Desert",
+        "perTier": 10,
+        "effect": "+{ Base STR",
+        "bonus": 5,
+        "order": 8
+    },
+    "moonman": {
+        "cardID": "B9",
+        "category": "Yum Yum Desert",
+        "perTier": 10,
+        "effect": "+{% Monster EXP While Active",
+        "bonus": 8,
+        "order": 9
+    },
+    "sandgiant": {
+        "cardID": "B10",
+        "category": "Yum Yum Desert",
+        "perTier": 10,
+        "effect": "+{% Minimum Damage",
+        "bonus": 2,
+        "order": 10
+    },
+    "snailZ": {
+        "cardID": "B11",
+        "category": "Yum Yum Desert",
+        "perTier": 10,
+        "effect": "+{% Card Drop Chance",
+        "bonus": 8,
+        "order": 11
+    },
+    "shovelR": {
+        "cardID": "B12",
+        "category": "Yum Yum Desert",
+        "perTier": 10,
+        "effect": "+{ Base LUK",
+        "bonus": 6,
+        "order": 12
+    },
+    "Crystal1": {
+        "cardID": "B13",
+        "category": "Yum Yum Desert",
+        "perTier": 3,
+        "effect": "+{% EXP from monsters",
+        "bonus": 2,
+        "order": 13
+    },
+    "Bandit_Bob": {
+        "cardID": "B14",
+        "category": "Yum Yum Desert",
+        "perTier": 1,
+        "effect": "+{% Money from Monsters",
+        "bonus": 1,
+        "order": 14
+    },
+    "Blank": {
+        "cardID": "A0",
+        "category": "Event",
+        "perTier": 10,
+        "effect": "+{% Base HP",
+        "bonus": 3,
+        "order": 32
+    },
+    "Copper": {
+        "cardID": "C1",
+        "category": "Easy Resources",
+        "perTier": 10,
+        "effect": "+{ Base accuracy",
+        "bonus": 4,
+        "order": 1
+    },
+    "Iron": {
+        "cardID": "C2",
+        "category": "Easy Resources",
+        "perTier": 10,
+        "effect": "+{% Total Mining Efficiency",
+        "bonus": 5,
+        "order": 2
+    },
+    "Gold": {
+        "cardID": "C3",
+        "category": "Easy Resources",
+        "perTier": 10,
+        "effect": "+{% Mining EXP",
+        "bonus": 5,
+        "order": 3
+    },
+    "ForgeA": {
+        "cardID": "C16",
+        "category": "Easy Resources",
+        "perTier": 10,
+        "effect": "+{% Smithing EXP (Passive)",
+        "bonus": 4,
+        "order": 4
+    },
+    "OakTree": {
+        "cardID": "C4",
+        "category": "Easy Resources",
+        "perTier": 10,
+        "effect": "+{ Base Defence",
+        "bonus": 3,
+        "order": 5
+    },
+    "BirchTree": {
+        "cardID": "C5",
+        "category": "Easy Resources",
+        "perTier": 10,
+        "effect": "+{% Total Choppin Efficiency",
+        "bonus": 5,
+        "order": 6
+    },
+    "JungleTree": {
+        "cardID": "C6",
+        "category": "Easy Resources",
+        "perTier": 10,
+        "effect": "+{% Choppin EXP",
+        "bonus": 5,
+        "order": 7
+    },
+    "ForestTree": {
+        "cardID": "C7",
+        "category": "Easy Resources",
+        "perTier": 10,
+        "effect": "+{% EXP Conversion from Talent",
+        "bonus": 8,
+        "order": 8
+    },
+    "Fish1": {
+        "cardID": "C8",
+        "category": "Easy Resources",
+        "perTier": 10,
+        "effect": "+{% Total MP",
+        "bonus": 3,
+        "order": 9
+    },
+    "Fish2": {
+        "cardID": "C9",
+        "category": "Easy Resources",
+        "perTier": 10,
+        "effect": "+{% Total Fishing Efficiency",
+        "bonus": 5,
+        "order": 10
+    },
+    "Fish3": {
+        "cardID": "C10",
+        "category": "Easy Resources",
+        "perTier": 10,
+        "effect": "+{% Fishing EXP",
+        "bonus": 5,
+        "order": 11
+    },
+    "Bug1": {
+        "cardID": "C11",
+        "category": "Easy Resources",
+        "perTier": 10,
+        "effect": "+{% Monster EXP While Active",
+        "bonus": 4,
+        "order": 12
+    },
+    "Bug2": {
+        "cardID": "C12",
+        "category": "Easy Resources",
+        "perTier": 10,
+        "effect": "+{% Total Catching Efficiency",
+        "bonus": 5,
+        "order": 13
+    },
+    "Plat": {
+        "cardID": "D2",
+        "category": "Medium Resources",
+        "perTier": 10,
+        "effect": "+{% Mining Away Gains",
+        "bonus": 2,
+        "order": 1
+    },
+    "Dementia": {
+        "cardID": "D1",
+        "category": "Medium Resources",
+        "perTier": 10,
+        "effect": "+{% Mining Speed",
+        "bonus": 4,
+        "order": 2
+    },
+    "Void": {
+        "cardID": "D3",
+        "category": "Medium Resources",
+        "perTier": 10,
+        "effect": "+{% Total Mining Efficiency",
+        "bonus": 6,
+        "order": 3
+    },
+    "Lustre": {
+        "cardID": "D4",
+        "category": "Medium Resources",
+        "perTier": 10,
+        "effect": "+{% Mining Speed",
+        "bonus": 5,
+        "order": 4
+    },
+    "ForgeB": {
+        "cardID": "D16",
+        "category": "Medium Resources",
+        "perTier": 10,
+        "effect": "+{% Smithing EXP (Passive)",
+        "bonus": 7,
+        "order": 5
+    },
+    "PalmTree": {
+        "cardID": "D7",
+        "category": "Medium Resources",
+        "perTier": 10,
+        "effect": "+{% Choppin Away Gains",
+        "bonus": 2,
+        "order": 6
+    },
+    "ToiletTree": {
+        "cardID": "D5",
+        "category": "Medium Resources",
+        "perTier": 10,
+        "effect": "+{% Choppin Speed",
+        "bonus": 4,
+        "order": 7
+    },
+    "StumpTree": {
+        "cardID": "D6",
+        "category": "Medium Resources",
+        "perTier": 10,
+        "effect": "+{% Total Accuracy",
+        "bonus": 3,
+        "order": 8
+    },
+    "SaharanFoal": {
+        "cardID": "D8",
+        "category": "Medium Resources",
+        "perTier": 10,
+        "effect": "+{% Choppin Away Gains",
+        "bonus": 2.5,
+        "order": 9
+    },
+    "Tree7": {
+        "cardID": "F2",
+        "category": "Medium Resources",
+        "perTier": 10,
+        "effect": "+{% Choppin Speed",
+        "bonus": 6,
+        "order": 10
+    },
+    "AlienTree": {
+        "cardID": "F13",
+        "category": "Medium Resources",
+        "perTier": 10,
+        "effect": "+{% Total Choppin Efficiency",
+        "bonus": 8,
+        "order": 11
+    },
+    "Tree8": {
+        "cardID": "F12",
+        "category": "Medium Resources",
+        "perTier": 10,
+        "effect": "+{% Choppin Speed",
+        "bonus": 7,
+        "order": 12
+    },
+    "Fish4": {
+        "cardID": "D11",
+        "category": "Medium Resources",
+        "perTier": 10,
+        "effect": "+{% Fishing Away Gains",
+        "bonus": 2,
+        "order": 13
+    },
+    "Fish5": {
+        "cardID": "F20",
+        "category": "Medium Resources",
+        "perTier": 8,
+        "effect": "+{% Total Fishing Efficiency",
+        "bonus": 8,
+        "order": 14
+    },
+    "Fish6": {
+        "cardID": "F21",
+        "category": "Medium Resources",
+        "perTier": 10,
+        "effect": "+{% Fishing Speed",
+        "bonus": 4,
+        "order": 15
+    },
+    "Fish7": {
+        "cardID": "F22",
+        "category": "Medium Resources",
+        "perTier": 10,
+        "effect": "+{% Fishing EXP",
+        "bonus": 10,
+        "order": 16
+    },
+    "Fish8": {
+        "cardID": "F23",
+        "category": "Medium Resources",
+        "perTier": 10,
+        "effect": "+{% Fishing Away Gains",
+        "bonus": 3,
+        "order": 17
+    },
+    "Bug3": {
+        "cardID": "D10",
+        "category": "Medium Resources",
+        "perTier": 10,
+        "effect": "+{% Catching EXP",
+        "bonus": 5,
+        "order": 18
+    },
+    "Bug4": {
+        "cardID": "D9",
+        "category": "Medium Resources",
+        "perTier": 10,
+        "effect": "+{% Catching Away Gains",
+        "bonus": 2,
+        "order": 19
+    },
+    "Bug5": {
+        "cardID": "F8",
+        "category": "Medium Resources",
+        "perTier": 10,
+        "effect": "+{% Total Catching Efficiency",
+        "bonus": 7,
+        "order": 20
+    },
+    "Bug6": {
+        "cardID": "F9",
+        "category": "Medium Resources",
+        "perTier": 10,
+        "effect": "+{% Catching Away Gains",
+        "bonus": 2.5,
+        "order": 21
+    },
+    "Bug7": {
+        "cardID": "F14",
+        "category": "Medium Resources",
+        "perTier": 10,
+        "effect": "+{% Total Catching Efficiency",
+        "bonus": 8,
+        "order": 22
+    },
+    "SoulCard1": {
+        "cardID": "D17",
+        "category": "Medium Resources",
+        "perTier": 3,
+        "effect": "+{% Defence from Equipment",
+        "bonus": 3,
+        "order": 23
+    },
+    "SoulCard2": {
+        "cardID": "D18",
+        "category": "Medium Resources",
+        "perTier": 3,
+        "effect": "+{ Starting Pts in Worship",
+        "bonus": 4,
+        "order": 24
+    },
+    "SoulCard3": {
+        "cardID": "F3",
+        "category": "Medium Resources",
+        "perTier": 3,
+        "effect": "+{ Starting Pts in Worship",
+        "bonus": 6,
+        "order": 25
+    },
+    "SoulCard4": {
+        "cardID": "F10",
+        "category": "Medium Resources",
+        "perTier": 4,
+        "effect": "+{% Max Charge",
+        "bonus": 7,
+        "order": 26
+    },
+    "CritterCard1": {
+        "cardID": "D19",
+        "category": "Medium Resources",
+        "perTier": 4,
+        "effect": "+{% Shiny Critter Chance",
+        "bonus": 3,
+        "order": 27
+    },
+    "CritterCard2": {
+        "cardID": "D20",
+        "category": "Medium Resources",
+        "perTier": 4,
+        "effect": "+{% Trapping Efficiency",
+        "bonus": 5,
+        "order": 28
+    },
+    "CritterCard3": {
+        "cardID": "D21",
+        "category": "Medium Resources",
+        "perTier": 4,
+        "effect": "+{% Trapping EXP",
+        "bonus": 5,
+        "order": 29
+    },
+    "CritterCard4": {
+        "cardID": "F4",
+        "category": "Medium Resources",
+        "perTier": 4,
+        "effect": "+{% Shiny Critter Chance",
+        "bonus": 5,
+        "order": 30
+    },
+    "CritterCard5": {
+        "cardID": "F5",
+        "category": "Medium Resources",
+        "perTier": 4,
+        "effect": "+{% EXP from monsters",
+        "bonus": 1.25,
+        "order": 31
+    },
+    "sheep": {
+        "cardID": "E0",
+        "category": "Frostbite Tundra",
+        "perTier": 11,
+        "effect": "+{% Defence from Equipment",
+        "bonus": 3,
+        "order": 1
+    },
+    "flake": {
+        "cardID": "E1",
+        "category": "Frostbite Tundra",
+        "perTier": 12,
+        "effect": "+{ Base STR",
+        "bonus": 7,
+        "order": 2
+    },
+    "stache": {
+        "cardID": "E2",
+        "category": "Frostbite Tundra",
+        "perTier": 13,
+        "effect": "+{% Card Drop Chance",
+        "bonus": 9,
+        "order": 3
+    },
+    "bloque": {
+        "cardID": "E3",
+        "category": "Frostbite Tundra",
+        "perTier": 14,
+        "effect": "+{ Base AGI",
+        "bonus": 7,
+        "order": 4
+    },
+    "mamoth": {
+        "cardID": "E4",
+        "category": "Frostbite Tundra",
+        "perTier": 15,
+        "effect": "+{% Total HP",
+        "bonus": 3.5,
+        "order": 5
+    },
+    "snowball": {
+        "cardID": "E5",
+        "category": "Frostbite Tundra",
+        "perTier": 15,
+        "effect": "+{% Total Damage",
+        "bonus": 3,
+        "order": 6
+    },
+    "penguin": {
+        "cardID": "E6",
+        "category": "Frostbite Tundra",
+        "perTier": 15,
+        "effect": "+{ Base WIS",
+        "bonus": 7,
+        "order": 7
+    },
+    "thermostat": {
+        "cardID": "E7",
+        "category": "Frostbite Tundra",
+        "perTier": 15,
+        "effect": "+{% Critical Damage",
+        "bonus": 4,
+        "order": 8
+    },
+    "glass": {
+        "cardID": "E8",
+        "category": "Frostbite Tundra",
+        "perTier": 17,
+        "effect": "+{ Base LUK",
+        "bonus": 7,
+        "order": 9
+    },
+    "snakeB": {
+        "cardID": "E9",
+        "category": "Frostbite Tundra",
+        "perTier": 17,
+        "effect": "+{% MP regen rate",
+        "bonus": 5,
+        "order": 10
+    },
+    "speaker": {
+        "cardID": "E10",
+        "category": "Frostbite Tundra",
+        "perTier": 17,
+        "effect": "+{% Total Drop Rate",
+        "bonus": 3.5,
+        "order": 11
+    },
+    "eye": {
+        "cardID": "E11",
+        "category": "Frostbite Tundra",
+        "perTier": 17,
+        "effect": "+{% Total Accuracy",
+        "bonus": 5,
+        "order": 12
+    },
+    "ram": {
+        "cardID": "E14",
+        "category": "Frostbite Tundra",
+        "perTier": 20,
+        "effect": "+{ Weapon Power",
+        "bonus": 2,
+        "order": 13
+    },
+    "skele": {
+        "cardID": "E12",
+        "category": "Frostbite Tundra",
+        "perTier": 15,
+        "effect": "+{% Critical Chance",
+        "bonus": 1,
+        "order": 14
+    },
+    "skele2": {
+        "cardID": "E13",
+        "category": "Frostbite Tundra",
+        "perTier": 15,
+        "effect": "+{% Total Damage",
+        "bonus": 3,
+        "order": 15
+    },
+    "Crystal2": {
+        "cardID": "E15",
+        "category": "Frostbite Tundra",
+        "perTier": 10,
+        "effect": "+{% EXP from monsters",
+        "bonus": 3,
+        "order": 16
+    },
+    "Starfire": {
+        "cardID": "F16",
+        "category": "Hard Resources",
+        "perTier": 12,
+        "effect": "+{% Mining EXP",
+        "bonus": 8,
+        "order": 1
+    },
+    "Dreadlo": {
+        "cardID": "F29",
+        "category": "Hard Resources",
+        "perTier": 15,
+        "effect": "+{% Mining Away Gains",
+        "bonus": 3,
+        "order": 2
+    },
+    "Godshard": {
+        "cardID": "F39",
+        "category": "Hard Resources",
+        "perTier": 400,
+        "effect": "+{% Forge Cap and SPD (Passive)",
+        "bonus": 30,
+        "order": 3
+    },
+    "Prehistrium": {
+        "cardID": "F44",
+        "category": "Hard Resources",
+        "perTier": 5000,
+        "effect": "+{% Mining Away Gains",
+        "bonus": 5,
+        "order": 4
+    },
+    "Tree9": {
+        "cardID": "F24",
+        "category": "Hard Resources",
+        "perTier": 12,
+        "effect": "+{% Choppin Away Gains",
+        "bonus": 3,
+        "order": 5
+    },
+    "Tree10": {
+        "cardID": "F25",
+        "category": "Hard Resources",
+        "perTier": 15,
+        "effect": "+{% Choppin Speed",
+        "bonus": 8,
+        "order": 6
+    },
+    "Tree12": {
+        "cardID": "F34",
+        "category": "Hard Resources",
+        "perTier": 15,
+        "effect": "+{% Total Choppin Efficiency",
+        "bonus": 10,
+        "order": 7
+    },
+    "Tree13": {
+        "cardID": "F35",
+        "category": "Hard Resources",
+        "perTier": 15,
+        "effect": "+{% Choppin Away Gains",
+        "bonus": 4,
+        "order": 8
+    },
+    "Tree14": {
+        "cardID": "F40",
+        "category": "Hard Resources",
+        "perTier": 1000,
+        "effect": "+{% Choppin Away Gains",
+        "bonus": 5,
+        "order": 9
+    },
+    "Fish9": {
+        "cardID": "F30",
+        "category": "Hard Resources",
+        "perTier": 15,
+        "effect": "+{% Fishing EXP",
+        "bonus": 15,
+        "order": 10
+    },
+    "Fish10": {
+        "cardID": "F31",
+        "category": "Hard Resources",
+        "perTier": 18,
+        "effect": "+{% Total Fishing Efficiency",
+        "bonus": 12,
+        "order": 11
+    },
+    "Fish11": {
+        "cardID": "F32",
+        "category": "Hard Resources",
+        "perTier": 24,
+        "effect": "+{% Fishing Away Gains",
+        "bonus": 3.5,
+        "order": 12
+    },
+    "Fish12": {
+        "cardID": "F33",
+        "category": "Hard Resources",
+        "perTier": 30,
+        "effect": "+{% Fishing Speed",
+        "bonus": 7,
+        "order": 13
+    },
+    "Bug8": {
+        "cardID": "F15",
+        "category": "Hard Resources",
+        "perTier": 10,
+        "effect": "+{% Catching Speed",
+        "bonus": 4,
+        "order": 14
+    },
+    "Bug9": {
+        "cardID": "F26",
+        "category": "Hard Resources",
+        "perTier": 12,
+        "effect": "+{% Total Catching Efficiency",
+        "bonus": 10,
+        "order": 15
+    },
+    "Bug10": {
+        "cardID": "F27",
+        "category": "Hard Resources",
+        "perTier": 15,
+        "effect": "+{% Catching Away Gains",
+        "bonus": 3,
+        "order": 16
+    },
+    "Bug12": {
+        "cardID": "F37",
+        "category": "Hard Resources",
+        "perTier": 15,
+        "effect": "+{% Total Catching Efficiency",
+        "bonus": 5,
+        "order": 17
+    },
+    "Bug13": {
+        "cardID": "F38",
+        "category": "Hard Resources",
+        "perTier": 15,
+        "effect": "+{% Catching Speed",
+        "bonus": 5,
+        "order": 18
+    },
+    "Bug14": {
+        "cardID": "F46",
+        "category": "Hard Resources",
+        "perTier": 1000,
+        "effect": "+{% Total Catching Efficiency",
+        "bonus": 8,
+        "order": 19
+    },
+    "CritterCard6": {
+        "cardID": "F6",
+        "category": "Hard Resources",
+        "perTier": 5,
+        "effect": "+{% Shiny Critter Chance",
+        "bonus": 6,
+        "order": 20
+    },
+    "CritterCard7": {
+        "cardID": "F7",
+        "category": "Hard Resources",
+        "perTier": 6,
+        "effect": "+{% Skill AFK gain rate",
+        "bonus": 1,
+        "order": 21
+    },
+    "CritterCard8": {
+        "cardID": "F17",
+        "category": "Hard Resources",
+        "perTier": 7,
+        "effect": "+{% Trapping Efficiency",
+        "bonus": 7,
+        "order": 22
+    },
+    "CritterCard9": {
+        "cardID": "F18",
+        "category": "Hard Resources",
+        "perTier": 9,
+        "effect": "+{% Trapping EXP",
+        "bonus": 8,
+        "order": 23
+    },
+    "CritterCard10": {
+        "cardID": "F19",
+        "category": "Hard Resources",
+        "perTier": 12,
+        "effect": "+{% Shiny Critter Chance",
+        "bonus": 8,
+        "order": 24
+    },
+    "CritterCard11": {
+        "cardID": "F47",
+        "category": "Hard Resources",
+        "perTier": 50,
+        "effect": "+{% Shiny Critter Chance",
+        "bonus": 15,
+        "order": 25
+    },
+    "SoulCard5": {
+        "cardID": "F11",
+        "category": "Hard Resources",
+        "perTier": 5,
+        "effect": "+{% Charge Rate",
+        "bonus": 5,
+        "order": 26
+    },
+    "SoulCard6": {
+        "cardID": "F28",
+        "category": "Hard Resources",
+        "perTier": 7,
+        "effect": "+{% Max Charge",
+        "bonus": 10,
+        "order": 27
+    },
+    "SoulCard7": {
+        "cardID": "F36",
+        "category": "Hard Resources",
+        "perTier": 7,
+        "effect": "+{% Charge Rate",
+        "bonus": 7,
+        "order": 28
+    },
+    "SoulCard8": {
+        "cardID": "F45",
+        "category": "Hard Resources",
+        "perTier": 250,
+        "effect": "+{ Starting Pts in Worship",
+        "bonus": 50,
+        "order": 29
+    },
+    "SpelunkingCard0": {
+        "cardID": "F41",
+        "category": "Hard Resources",
+        "perTier": 100,
+        "effect": "+{% Spelunking EXP",
+        "bonus": 4,
+        "order": 30
+    },
+    "SpelunkingCard1": {
+        "cardID": "F42",
+        "category": "Hard Resources",
+        "perTier": 300,
+        "effect": "+{% Spelunking Efficiency",
+        "bonus": 8,
+        "order": 31
+    },
+    "SpelunkingCard2": {
+        "cardID": "F43",
+        "category": "Hard Resources",
+        "perTier": 3000,
+        "effect": "+{% Spelunking AFK Gain",
+        "bonus": 2,
+        "order": 32
+    },
+    "SpelunkingCard3": {
+        "cardID": "F48",
+        "category": "Hard Resources",
+        "perTier": 40000,
+        "effect": "+{% Spelunking EXP",
+        "bonus": 8,
+        "order": 33
+    },
+    "SpelunkingCard4": {
+        "cardID": "F49",
+        "category": "Hard Resources",
+        "perTier": 150000,
+        "effect": "+{% Spelunking AFK Gain",
+        "bonus": 2,
+        "order": 34
+    },
+    "SpelunkingCard5": {
+        "cardID": "F50",
+        "category": "Hard Resources",
+        "perTier": 2.5e+06,
+        "effect": "+{% Spelunking EXP",
+        "bonus": 15,
+        "order": 35
+    },
+    "mushP": {
+        "cardID": "G1",
+        "category": "Hyperion Nebula",
+        "perTier": 15,
+        "effect": "+{% Money from Monsters",
+        "bonus": 8,
+        "order": 1
+    },
+    "w4a2": {
+        "cardID": "G2",
+        "category": "Hyperion Nebula",
+        "perTier": 17,
+        "effect": "+{% Breeding EXP (Passive)",
+        "bonus": 5,
+        "order": 2
+    },
+    "w4a3": {
+        "cardID": "G3",
+        "category": "Hyperion Nebula",
+        "perTier": 18,
+        "effect": "+{% Defence from Equipment",
+        "bonus": 4,
+        "order": 3
+    },
+    "demonP": {
+        "cardID": "G4",
+        "category": "Hyperion Nebula",
+        "perTier": 19,
+        "effect": "+{% Crystal Mob Spawn Chance",
+        "bonus": 15,
+        "order": 4
+    },
+    "w4b2": {
+        "cardID": "G6",
+        "category": "Hyperion Nebula",
+        "perTier": 20,
+        "effect": "+{ Star Talent Pts (Passive)",
+        "bonus": 5,
+        "order": 5
+    },
+    "w4b1": {
+        "cardID": "G5",
+        "category": "Hyperion Nebula",
+        "perTier": 21,
+        "effect": "+{ Base WIS",
+        "bonus": 12,
+        "order": 6
+    },
+    "w4b3": {
+        "cardID": "G7",
+        "category": "Hyperion Nebula",
+        "perTier": 22,
+        "effect": "+{% Lab EXP gain",
+        "bonus": 4,
+        "order": 7
+    },
+    "w4b4": {
+        "cardID": "G8",
+        "category": "Hyperion Nebula",
+        "perTier": 23,
+        "effect": "+{ Weapon Power",
+        "bonus": 2.5,
+        "order": 8
+    },
+    "w4b5": {
+        "cardID": "G9",
+        "category": "Hyperion Nebula",
+        "perTier": 24,
+        "effect": "+{ Base AGI",
+        "bonus": 12,
+        "order": 9
+    },
+    "w4c1": {
+        "cardID": "G10",
+        "category": "Hyperion Nebula",
+        "perTier": 26,
+        "effect": "+{% Multikill per tier",
+        "bonus": 1.5,
+        "order": 10
+    },
+    "w4c2": {
+        "cardID": "G11",
+        "category": "Hyperion Nebula",
+        "perTier": 27,
+        "effect": "+{ Base STR",
+        "bonus": 12,
+        "order": 11
+    },
+    "w4c3": {
+        "cardID": "G12",
+        "category": "Hyperion Nebula",
+        "perTier": 28,
+        "effect": "+{% Critical Chance (Passive)",
+        "bonus": 1.5,
+        "order": 12
+    },
+    "w4c4": {
+        "cardID": "G13",
+        "category": "Hyperion Nebula",
+        "perTier": 30,
+        "effect": "+{% All Stat",
+        "bonus": 0.5,
+        "order": 13
+    },
+    "Crystal3": {
+        "cardID": "G14",
+        "category": "Hyperion Nebula",
+        "perTier": 10,
+        "effect": "+px Line Width (Passive)",
+        "bonus": 2,
+        "order": 14
+    },
+    "w5a1": {
+        "cardID": "H1",
+        "category": "Smolderin' Plateau",
+        "perTier": 25,
+        "effect": "+{% Multikill per tier",
+        "bonus": 2,
+        "order": 1
+    },
+    "w5a2": {
+        "cardID": "H2",
+        "category": "Smolderin' Plateau",
+        "perTier": 28,
+        "effect": "+{% Defence from Equipment",
+        "bonus": 5,
+        "order": 2
+    },
+    "w5a3": {
+        "cardID": "H3",
+        "category": "Smolderin' Plateau",
+        "perTier": 32,
+        "effect": "+{% Total Drop Rate",
+        "bonus": 6,
+        "order": 3
+    },
+    "w5a4": {
+        "cardID": "H4",
+        "category": "Smolderin' Plateau",
+        "perTier": 35,
+        "effect": "+{% Skill EXP (Passive)",
+        "bonus": 5,
+        "order": 4
+    },
+    "w5a5": {
+        "cardID": "H5",
+        "category": "Smolderin' Plateau",
+        "perTier": 45,
+        "effect": "+{% Divinity EXP (Passive)",
+        "bonus": 6,
+        "order": 5
+    },
+    "w5b1": {
+        "cardID": "H6",
+        "category": "Smolderin' Plateau",
+        "perTier": 48,
+        "effect": "+{% Money from mobs (Passive)",
+        "bonus": 7,
+        "order": 6
+    },
+    "w5b2": {
+        "cardID": "H7",
+        "category": "Smolderin' Plateau",
+        "perTier": 52,
+        "effect": "+{ Weapon Power (Passive)",
+        "bonus": 1,
+        "order": 7
+    },
+    "w5b3": {
+        "cardID": "H8",
+        "category": "Smolderin' Plateau",
+        "perTier": 60,
+        "effect": "+{% Total Damage",
+        "bonus": 4.5,
+        "order": 8
+    },
+    "w5b4": {
+        "cardID": "H9",
+        "category": "Smolderin' Plateau",
+        "perTier": 65,
+        "effect": "+{% EXP from monsters",
+        "bonus": 4,
+        "order": 9
+    },
+    "w5b5": {
+        "cardID": "H10",
+        "category": "Smolderin' Plateau",
+        "perTier": 70,
+        "effect": "+{ Base LUK",
+        "bonus": 15,
+        "order": 10
+    },
+    "w5b6": {
+        "cardID": "H11",
+        "category": "Smolderin' Plateau",
+        "perTier": 75,
+        "effect": "+{% Mining Speed",
+        "bonus": 6,
+        "order": 11
+    },
+    "w5c1": {
+        "cardID": "H12",
+        "category": "Smolderin' Plateau",
+        "perTier": 80,
+        "effect": "+{% Sailing Speed (Passive)",
+        "bonus": 4,
+        "order": 12
+    },
+    "w5c2": {
+        "cardID": "H13",
+        "category": "Smolderin' Plateau",
+        "perTier": 100,
+        "effect": "+{% All Stat",
+        "bonus": 1,
+        "order": 13
+    },
+    "caveB": {
+        "cardID": "H15",
+        "category": "Smolderin' Plateau",
+        "perTier": 5000,
+        "effect": "+{% Villager EXP (Passive)",
+        "bonus": 4,
+        "order": 14
+    },
+    "caveC": {
+        "cardID": "H16",
+        "category": "Smolderin' Plateau",
+        "perTier": 10000,
+        "effect": "+{% Total Drop Rate (Passive)",
+        "bonus": 4,
+        "order": 15
+    },
+    "Crystal4": {
+        "cardID": "H14",
+        "category": "Smolderin' Plateau",
+        "perTier": 15,
+        "effect": "+{% Skill Efficncy (Passive)",
+        "bonus": 3,
+        "order": 16
+    },
+    "w6a1": {
+        "cardID": "I1",
+        "category": "Spirited Valley",
+        "perTier": 50,
+        "effect": "+{% Total Damage",
+        "bonus": 5,
+        "order": 1
+    },
+    "w6a2": {
+        "cardID": "I2",
+        "category": "Spirited Valley",
+        "perTier": 60,
+        "effect": "+{% DEF from Equips (Passive)",
+        "bonus": 3,
+        "order": 2
+    },
+    "w6a3": {
+        "cardID": "I3",
+        "category": "Spirited Valley",
+        "perTier": 75,
+        "effect": "+{% All Stat",
+        "bonus": 1.5,
+        "order": 3
+    },
+    "w6a4": {
+        "cardID": "I4",
+        "category": "Spirited Valley",
+        "perTier": 85,
+        "effect": "+{% Sneaking EXP (Passive)",
+        "bonus": 3,
+        "order": 4
+    },
+    "w6a5": {
+        "cardID": "I5",
+        "category": "Spirited Valley",
+        "perTier": 100,
+        "effect": "+{% Multikill per tier",
+        "bonus": 3,
+        "order": 5
+    },
+    "w6b1": {
+        "cardID": "I6",
+        "category": "Spirited Valley",
+        "perTier": 150,
+        "effect": "+{% Summoning EXP (Passive)",
+        "bonus": 3,
+        "order": 6
+    },
+    "w6b2": {
+        "cardID": "I7",
+        "category": "Spirited Valley",
+        "perTier": 170,
+        "effect": "+{% Farming EXP (Passive)",
+        "bonus": 2,
+        "order": 7
+    },
+    "w6b3": {
+        "cardID": "I8",
+        "category": "Spirited Valley",
+        "perTier": 200,
+        "effect": "+{% Skill AFK gain rate",
+        "bonus": 2,
+        "order": 8
+    },
+    "w6b4": {
+        "cardID": "I9",
+        "category": "Spirited Valley",
+        "perTier": 250,
+        "effect": "+{% Jade Coin gain (Passive)",
+        "bonus": 4,
+        "order": 9
+    },
+    "w6c1": {
+        "cardID": "I10",
+        "category": "Spirited Valley",
+        "perTier": 400,
+        "effect": "+{% Cooking Spd Multi (Passive)",
+        "bonus": 5,
+        "order": 10
+    },
+    "w6c2": {
+        "cardID": "I11",
+        "category": "Spirited Valley",
+        "perTier": 500,
+        "effect": "+{ Base LUK",
+        "bonus": 20,
+        "order": 11
+    },
+    "w6d1": {
+        "cardID": "I12",
+        "category": "Spirited Valley",
+        "perTier": 900,
+        "effect": "+{% Fighting AFK (Passive)",
+        "bonus": 1,
+        "order": 12
+    },
+    "w6d2": {
+        "cardID": "I13",
+        "category": "Spirited Valley",
+        "perTier": 1300,
+        "effect": "+{% Total Drop Rate",
+        "bonus": 8,
+        "order": 13
+    },
+    "w6d3": {
+        "cardID": "I14",
+        "category": "Spirited Valley",
+        "perTier": 2500,
+        "effect": "+{% All AFK Gains(Passive)",
+        "bonus": 1.5,
+        "order": 14
+    },
+    "Crystal5": {
+        "cardID": "I15",
+        "category": "Spirited Valley",
+        "perTier": 5000,
+        "effect": "+{% Sneaking Stealth (Passive)",
+        "bonus": 4,
+        "order": 15
+    },
+    "w7a1": {
+        "cardID": "J1",
+        "category": "Shimmerfin Deep",
+        "perTier": 5000,
+        "effect": "+{% Spelunking Efficiency",
+        "bonus": 7,
+        "order": 1
+    },
+    "w7a2": {
+        "cardID": "J2",
+        "category": "Shimmerfin Deep",
+        "perTier": 7000,
+        "effect": "+{% Total Damage Multi",
+        "bonus": 3,
+        "order": 2
+    },
+    "w7a3": {
+        "cardID": "J3",
+        "category": "Shimmerfin Deep",
+        "perTier": 8500,
+        "effect": "+{% Class EXP Multi",
+        "bonus": 3,
+        "order": 3
+    },
+    "w7a4": {
+        "cardID": "J4",
+        "category": "Shimmerfin Deep",
+        "perTier": 11000,
+        "effect": "+{% Spelunking AFK Gain",
+        "bonus": 3,
+        "order": 4
+    },
+    "w7a5": {
+        "cardID": "J5",
+        "category": "Shimmerfin Deep",
+        "perTier": 15000,
+        "effect": "+{% Spelunk POW (Passive)",
+        "bonus": 4,
+        "order": 5
+    },
+    "w7a6": {
+        "cardID": "J6",
+        "category": "Shimmerfin Deep",
+        "perTier": 25000,
+        "effect": "+{% Spelunking EXP",
+        "bonus": 3,
+        "order": 6
+    },
+    "w7a7": {
+        "cardID": "J7",
+        "category": "Shimmerfin Deep",
+        "perTier": 35000,
+        "effect": "+{% Spelunk Amber (Passive)",
+        "bonus": 5,
+        "order": 7
+    },
+    "w7a8": {
+        "cardID": "J8",
+        "category": "Shimmerfin Deep",
+        "perTier": 65000,
+        "effect": "+{% Class EXP Multi",
+        "bonus": 3,
+        "order": 8
+    },
+    "w7a9": {
+        "cardID": "J9",
+        "category": "Shimmerfin Deep",
+        "perTier": 100000,
+        "effect": "+{% Daily Coral (Passive)",
+        "bonus": 2,
+        "order": 9
+    },
+    "w7a10": {
+        "cardID": "J10",
+        "category": "Shimmerfin Deep",
+        "perTier": 150000,
+        "effect": "+{% Stamina Regen (Passive)",
+        "bonus": 2,
+        "order": 10
+    },
+    "w7a11": {
+        "cardID": "J11",
+        "category": "Shimmerfin Deep",
+        "perTier": 250000,
+        "effect": "+{% Gallery Bonus (Passive)",
+        "bonus": 1,
+        "order": 11
+    },
+    "w7a12": {
+        "cardID": "J12",
+        "category": "Shimmerfin Deep",
+        "perTier": 400000,
+        "effect": "+{% Drop Rate Multi",
+        "bonus": 1,
+        "order": 12
+    },
+    "w7b1": {
+        "cardID": "J13",
+        "category": "Shimmerfin Deep",
+        "perTier": 100000,
+        "effect": "+{% Research EXP (Passive)",
+        "bonus": 1,
+        "order": 13
+    },
+    "w7b2": {
+        "cardID": "J14",
+        "category": "Shimmerfin Deep",
+        "perTier": 300000,
+        "effect": "+{% Gaming Bit Multi (Passive)",
+        "bonus": 20,
+        "order": 14
+    },
+    "w7b3": {
+        "cardID": "J15",
+        "category": "Shimmerfin Deep",
+        "perTier": 500000,
+        "effect": "+{% Flaggy Rate Multi (Passive)",
+        "bonus": 10,
+        "order": 15
+    },
+    "w7b4": {
+        "cardID": "J16",
+        "category": "Shimmerfin Deep",
+        "perTier": 900000,
+        "effect": "+{% Research EXP (Passive)",
+        "bonus": 2,
+        "order": 16
+    },
+    "w7b5": {
+        "cardID": "J17",
+        "category": "Shimmerfin Deep",
+        "perTier": 1.5e+06,
+        "effect": "+{% Farming EVO Multi (Passive)",
+        "bonus": 50,
+        "order": 17
+    },
+    "w7b6": {
+        "cardID": "J18",
+        "category": "Shimmerfin Deep",
+        "perTier": 3.5e+06,
+        "effect": "+{% Class EXP Multi",
+        "bonus": 5,
+        "order": 18
+    },
+    "w7b7": {
+        "cardID": "J19",
+        "category": "Shimmerfin Deep",
+        "perTier": 6e+06,
+        "effect": "+{% Drop Rate Multi",
+        "bonus": 1,
+        "order": 19
+    },
+    "w7b8": {
+        "cardID": "J20",
+        "category": "Shimmerfin Deep",
+        "perTier": 1e+07,
+        "effect": "+{% Research EXP (Passive)",
+        "bonus": 3,
+        "order": 20
+    },
+    "w7b9": {
+        "cardID": "J21",
+        "category": "Shimmerfin Deep",
+        "perTier": 2e+07,
+        "effect": "+{% Drop Rate Multi",
+        "bonus": 1,
+        "order": 21
+    },
+    "w7b10": {
+        "cardID": "J22",
+        "category": "Shimmerfin Deep",
+        "perTier": 3e+07,
+        "effect": "+{% Drop Rate Multi",
+        "bonus": 1,
+        "order": 22
+    },
+    "w7b11": {
+        "cardID": "J23",
+        "category": "Shimmerfin Deep",
+        "perTier": 2e+07,
+        "effect": "+{% Research AFK gain (Passive)",
+        "bonus": 1,
+        "order": 23
+    },
+    "w7b12": {
+        "cardID": "J24",
+        "category": "Shimmerfin Deep",
+        "perTier": 4e+07,
+        "effect": "+{% Spelunk Amber (Passive)",
+        "bonus": 10,
+        "order": 24
+    },
+    "Crystal6": {
+        "cardID": "J99",
+        "category": "Shimmerfin Deep",
+        "perTier": 2.5e+06,
+        "effect": "+{% Damage Multi (Passive)",
+        "bonus": 1.5,
+        "order": 25
+    },
+    "frogP": {
+        "cardID": "X0",
+        "category": "Dungeons",
+        "perTier": 1.5,
+        "effect": "+{ Base Dungeon MP",
+        "bonus": 2,
+        "order": 1
+    },
+    "frogD": {
+        "cardID": "X1",
+        "category": "Dungeons",
+        "perTier": 2,
+        "effect": "+{% Block Chance",
+        "bonus": 2,
+        "order": 2
+    },
+    "frogY": {
+        "cardID": "X2",
+        "category": "Dungeons",
+        "perTier": 2,
+        "effect": "+{ Base Dungeon Damage",
+        "bonus": 1.5,
+        "order": 3
+    },
+    "frogR": {
+        "cardID": "X14",
+        "category": "Dungeons",
+        "perTier": 2,
+        "effect": "+{% Dungeon Card Chance",
+        "bonus": 6,
+        "order": 4
+    },
+    "frogW": {
+        "cardID": "X15",
+        "category": "Dungeons",
+        "perTier": 3,
+        "effect": "+{% Dungeon Credits",
+        "bonus": 2.5,
+        "order": 5
+    },
+    "frogGG": {
+        "cardID": "X22",
+        "category": "Dungeons",
+        "perTier": 5,
+        "effect": "{% to start with RNG orb (Passive)",
+        "bonus": 20,
+        "order": 6
+    },
+    "frogGR": {
+        "cardID": "X3",
+        "category": "Dungeons",
+        "perTier": 1.5,
+        "effect": "{% to start with RNG orb (Passive)",
+        "bonus": 15,
+        "order": 7
+    },
+    "frogGR2": {
+        "cardID": "X4",
+        "category": "Dungeons",
+        "perTier": 1.5,
+        "effect": "+{% Dungeon Flurbos",
+        "bonus": 4,
+        "order": 8
+    },
+    "frogGR3": {
+        "cardID": "X5",
+        "category": "Dungeons",
+        "perTier": 1.5,
+        "effect": "+{% Dungeon Credits",
+        "bonus": 5,
+        "order": 9
+    },
+    "frogGR4": {
+        "cardID": "X21",
+        "category": "Dungeons",
+        "perTier": 1,
+        "effect": "+{% Dungeon Move Speed",
+        "bonus": 7,
+        "order": 10
+    },
+    "target": {
+        "cardID": "X6",
+        "category": "Dungeons",
+        "perTier": 2,
+        "effect": "+{ Base Dungeon HP",
+        "bonus": 2,
+        "order": 11
+    },
+    "rocky": {
+        "cardID": "X7",
+        "category": "Dungeons",
+        "perTier": 2,
+        "effect": "+{% Dungeon Card Chance",
+        "bonus": 8,
+        "order": 12
+    },
+    "steakR": {
+        "cardID": "X9",
+        "category": "Dungeons",
+        "perTier": 2,
+        "effect": "+{% Dungeon Money",
+        "bonus": 6,
+        "order": 13
+    },
+    "totem": {
+        "cardID": "X16",
+        "category": "Dungeons",
+        "perTier": 2,
+        "effect": "+{% RNG item rarity",
+        "bonus": 10,
+        "order": 14
+    },
+    "cactus": {
+        "cardID": "X8",
+        "category": "Dungeons",
+        "perTier": 2,
+        "effect": "+{% Dungeon Boss Dmg",
+        "bonus": 3,
+        "order": 15
+    },
+    "potatoB": {
+        "cardID": "X10",
+        "category": "Dungeons",
+        "perTier": 5,
+        "effect": "+{% Dungeon MP regen",
+        "bonus": 5,
+        "order": 16
+    },
+    "snakeZ": {
+        "cardID": "X11",
+        "category": "Dungeons",
+        "perTier": 1.5,
+        "effect": "+{% Dungeon Drop Rate",
+        "bonus": 4,
+        "order": 17
+    },
+    "snakeZ2": {
+        "cardID": "X12",
+        "category": "Dungeons",
+        "perTier": 1.5,
+        "effect": "+{% Total Dungeon Dmg",
+        "bonus": 5,
+        "order": 18
+    },
+    "snakeZ3": {
+        "cardID": "X13",
+        "category": "Dungeons",
+        "perTier": 1.5,
+        "effect": "+{% Dungeon Flurbos",
+        "bonus": 5,
+        "order": 19
+    },
+    "iceknight": {
+        "cardID": "X17",
+        "category": "Dungeons",
+        "perTier": 8,
+        "effect": "+{% Dungeon MP regen",
+        "bonus": 8,
+        "order": 20
+    },
+    "iceBossZ": {
+        "cardID": "X18",
+        "category": "Dungeons",
+        "perTier": 2,
+        "effect": "+{% Dungeon Card Chance",
+        "bonus": 15,
+        "order": 21
+    },
+    "iceBossZ2": {
+        "cardID": "X19",
+        "category": "Dungeons",
+        "perTier": 1.5,
+        "effect": "+{% Dungeon Credits",
+        "bonus": 8,
+        "order": 22
+    },
+    "iceBossZ3": {
+        "cardID": "X20",
+        "category": "Dungeons",
+        "perTier": 1.5,
+        "effect": "+{% Total Dungeon Dmg",
+        "bonus": 8,
+        "order": 23
+    },
+    "slimeB": {
+        "cardID": "Z26",
+        "category": "Bosses",
+        "perTier": 2,
+        "effect": "+{ Weapon Power",
+        "bonus": 2,
+        "order": 1
+    },
+    "babayaga": {
+        "cardID": "Z0",
+        "category": "Bosses",
+        "perTier": 1.5,
+        "effect": "+{% Money from Monsters",
+        "bonus": 10,
+        "order": 2
+    },
+    "poopBig": {
+        "cardID": "Z1",
+        "category": "Bosses",
+        "perTier": 1.5,
+        "effect": "+{% Total Damage",
+        "bonus": 5,
+        "order": 3
+    },
+    "poopD": {
+        "cardID": "A15",
+        "category": "Bosses",
+        "perTier": 1,
+        "effect": "+{% Fighting AFK gain rate",
+        "bonus": 1,
+        "order": 4
+    },
+    "wolfA": {
+        "cardID": "Z2",
+        "category": "Bosses",
+        "perTier": 1.5,
+        "effect": "+{% Skill AFK gain rate",
+        "bonus": 2.5,
+        "order": 5
+    },
+    "wolfB": {
+        "cardID": "Z4",
+        "category": "Bosses",
+        "perTier": 1.5,
+        "effect": "+{% Fighting AFK gain rate",
+        "bonus": 2.5,
+        "order": 6
+    },
+    "wolfC": {
+        "cardID": "Z14",
+        "category": "Bosses",
+        "perTier": 10,
+        "effect": "+{ Weapon Power",
+        "bonus": 3,
+        "order": 7
+    },
+    "babaHour": {
+        "cardID": "Z5",
+        "category": "Bosses",
+        "perTier": 1.5,
+        "effect": "+{% Double AFK claim chance",
+        "bonus": 3,
+        "order": 8
+    },
+    "babaMummy": {
+        "cardID": "Z6",
+        "category": "Bosses",
+        "perTier": 1.5,
+        "effect": "+{% Total Drop Rate",
+        "bonus": 6,
+        "order": 9
+    },
+    "Boss2A": {
+        "cardID": "Z3",
+        "category": "Bosses",
+        "perTier": 1.5,
+        "effect": "+{% EXP from monsters",
+        "bonus": 5,
+        "order": 10
+    },
+    "Boss2B": {
+        "cardID": "Z7",
+        "category": "Bosses",
+        "perTier": 1.5,
+        "effect": "+{% Skill EXP",
+        "bonus": 3.75,
+        "order": 11
+    },
+    "Boss2C": {
+        "cardID": "Z15",
+        "category": "Bosses",
+        "perTier": 11,
+        "effect": "+{ Star Talent Pts (Passive)",
+        "bonus": 15,
+        "order": 12
+    },
+    "mini3a": {
+        "cardID": "Z12",
+        "category": "Bosses",
+        "perTier": 5,
+        "effect": "+{% Money from Monsters",
+        "bonus": 12,
+        "order": 13
+    },
+    "Boss3A": {
+        "cardID": "Z8",
+        "category": "Bosses",
+        "perTier": 1.5,
+        "effect": "+{% Cog Build Spd (Passive)",
+        "bonus": 8,
+        "order": 14
+    },
+    "Boss3B": {
+        "cardID": "Z9",
+        "category": "Bosses",
+        "perTier": 1.5,
+        "effect": "+{% Shrine Effects (Passive)",
+        "bonus": 5,
+        "order": 15
+    },
+    "Boss3C": {
+        "cardID": "Z16",
+        "category": "Bosses",
+        "perTier": 12,
+        "effect": "+{% All Stat",
+        "bonus": 1.5,
+        "order": 16
+    },
+    "mini4a": {
+        "cardID": "Z13",
+        "category": "Bosses",
+        "perTier": 5,
+        "effect": "+{% Cooking EXP gain",
+        "bonus": 6,
+        "order": 17
+    },
+    "Boss4A": {
+        "cardID": "Z10",
+        "category": "Bosses",
+        "perTier": 2,
+        "effect": "+{% Kitchen Speed (Passive)",
+        "bonus": 6,
+        "order": 18
+    },
+    "Boss4B": {
+        "cardID": "Z11",
+        "category": "Bosses",
+        "perTier": 2,
+        "effect": "+{% All Skill Efficiency",
+        "bonus": 10,
+        "order": 19
+    },
+    "Boss4C": {
+        "cardID": "Z17",
+        "category": "Bosses",
+        "perTier": 4,
+        "effect": "+{% Total Damage",
+        "bonus": 7,
+        "order": 20
+    },
+    "mini5a": {
+        "cardID": "Z24",
+        "category": "Bosses",
+        "perTier": 4,
+        "effect": "+{% Total Drop Rate (Passive)",
+        "bonus": 1.5,
+        "order": 21
+    },
+    "Boss5A": {
+        "cardID": "Z18",
+        "category": "Bosses",
+        "perTier": 3,
+        "effect": "+{% Sailing Speed (Passive)",
+        "bonus": 6,
+        "order": 22
+    },
+    "Boss5B": {
+        "cardID": "Z19",
+        "category": "Bosses",
+        "perTier": 4,
+        "effect": "+{% EXP from monsters",
+        "bonus": 8,
+        "order": 23
+    },
+    "Boss5C": {
+        "cardID": "Z20",
+        "category": "Bosses",
+        "perTier": 5,
+        "effect": "+{% Money from Monsters",
+        "bonus": 18,
+        "order": 24
+    },
+    "mini6a": {
+        "cardID": "Z25",
+        "category": "Bosses",
+        "perTier": 5,
+        "effect": "+{% Fighting AFK gain rate",
+        "bonus": 2.5,
+        "order": 25
+    },
+    "Boss6A": {
+        "cardID": "Z21",
+        "category": "Bosses",
+        "perTier": 6,
+        "effect": "+{% Total Drop Rate",
+        "bonus": 12,
+        "order": 26
+    },
+    "Boss6B": {
+        "cardID": "Z22",
+        "category": "Bosses",
+        "perTier": 9,
+        "effect": "+{% Total Damage Multi",
+        "bonus": 8,
+        "order": 27
+    },
+    "Boss6C": {
+        "cardID": "Z23",
+        "category": "Bosses",
+        "perTier": 13,
+        "effect": "+{% Multikill per tier",
+        "bonus": 20,
+        "order": 28
+    },
+    "ghost": {
+        "cardID": "Y0",
+        "category": "Event",
+        "perTier": 2,
+        "effect": "+{% Monster EXP While Active",
+        "bonus": 3,
+        "order": 1
+    },
+    "xmasEvent": {
+        "cardID": "Y1",
+        "category": "Event",
+        "perTier": 1.5,
+        "effect": "+{% Total Drop Rate",
+        "bonus": 3,
+        "order": 2
+    },
+    "xmasEvent2": {
+        "cardID": "Y2",
+        "category": "Event",
+        "perTier": 1.5,
+        "effect": "+{% Money from Monsters",
+        "bonus": 3,
+        "order": 3
+    },
+    "slimeR": {
+        "cardID": "Y3",
+        "category": "Event",
+        "perTier": 2,
+        "effect": "+{% Defence from Equipment",
+        "bonus": 3,
+        "order": 4
+    },
+    "loveEvent": {
+        "cardID": "Y4",
+        "category": "Event",
+        "perTier": 1.5,
+        "effect": "+{% Total HP",
+        "bonus": 5,
+        "order": 5
+    },
+    "loveEvent2": {
+        "cardID": "Y5",
+        "category": "Event",
+        "perTier": 1.5,
+        "effect": "+{% Boost Food Effect",
+        "bonus": 4,
+        "order": 6
+    },
+    "loveEvent3": {
+        "cardID": "Y15",
+        "category": "Event",
+        "perTier": 1.5,
+        "effect": "+{% EXP from monsters",
+        "bonus": 3,
+        "order": 7
+    },
+    "sheepB": {
+        "cardID": "Y6",
+        "category": "Event",
+        "perTier": 3,
+        "effect": "+{% MP regen rate",
+        "bonus": 3,
+        "order": 8
+    },
+    "snakeY": {
+        "cardID": "Y7",
+        "category": "Event",
+        "perTier": 3,
+        "effect": "+{ Base LUK",
+        "bonus": 3,
+        "order": 9
+    },
+    "EasterEvent1": {
+        "cardID": "Y8",
+        "category": "Event",
+        "perTier": 1.5,
+        "effect": "+{% Card Drop Chance",
+        "bonus": 1,
+        "order": 10
+    },
+    "EasterEvent2": {
+        "cardID": "Y9",
+        "category": "Event",
+        "perTier": 1.5,
+        "effect": "+{% Critical Damage",
+        "bonus": 1,
+        "order": 11
+    },
+    "shovelY": {
+        "cardID": "Y13",
+        "category": "Event",
+        "perTier": 4,
+        "effect": "+{ Base Defence",
+        "bonus": 2,
+        "order": 12
+    },
+    "crabcakeB": {
+        "cardID": "Y10",
+        "category": "Event",
+        "perTier": 4,
+        "effect": "+{% Total Drop Rate",
+        "bonus": 3,
+        "order": 13
+    },
+    "SummerEvent1": {
+        "cardID": "Y11",
+        "category": "Event",
+        "perTier": 8,
+        "effect": "+{% Fishing Away Gains",
+        "bonus": 1,
+        "order": 14
+    },
+    "SummerEvent2": {
+        "cardID": "Y12",
+        "category": "Event",
+        "perTier": 8,
+        "effect": "+{% Catching EXP",
+        "bonus": 4,
+        "order": 15
+    },
+    "xmasEvent3": {
+        "cardID": "Y14",
+        "category": "Event",
+        "perTier": 1,
+        "effect": "+{% Defence from Equipment",
+        "bonus": 3,
+        "order": 16
+    },
+    "springEvent1": {
+        "cardID": "Y16",
+        "category": "Event",
+        "perTier": 1,
+        "effect": "+{% Class EXP (Passive)",
+        "bonus": 2,
+        "order": 17
+    },
+    "springEvent2": {
+        "cardID": "Y17",
+        "category": "Event",
+        "perTier": 1,
+        "effect": "+{% All Skill EXP (Passive)",
+        "bonus": 2,
+        "order": 18
+    },
+    "fallEvent1": {
+        "cardID": "Y18",
+        "category": "Event",
+        "perTier": 3,
+        "effect": "+{ Star Talent Pts (Passive)",
+        "bonus": 4,
+        "order": 19
+    },
+    "anni4Event1": {
+        "cardID": "Y19",
+        "category": "Event",
+        "perTier": 4,
+        "effect": "+{% Drop Rate (Passive)",
+        "bonus": 2,
+        "order": 20
+    },
+    "cropfallEvent1": {
+        "cardID": "Y20",
+        "category": "Event",
+        "perTier": 6,
+        "effect": "+{% Gold Food Effect (Passive)",
+        "bonus": 4,
+        "order": 21
+    },
+    "xmasEvent4": {
+        "cardID": "Y21",
+        "category": "Event",
+        "perTier": 1,
+        "effect": "+{% Catching Away Gains",
+        "bonus": 2,
+        "order": 22
+    },
+    "luckEvent1": {
+        "cardID": "Y22",
+        "category": "Event",
+        "perTier": 5,
+        "effect": "+{% Drop Rate (Passive)",
+        "bonus": 3,
+        "order": 23
+    },
+    "luckEvent2": {
+        "cardID": "Y23",
+        "category": "Event",
+        "perTier": 5,
+        "effect": "+{% Money from Monsters",
+        "bonus": 4,
+        "order": 24
+    },
+    "anni5Event1": {
+        "cardID": "Y24",
+        "category": "Event",
+        "perTier": 6,
+        "effect": "+{% Gold Food Effect (Passive)",
+        "bonus": 5,
+        "order": 25
+    }
+}

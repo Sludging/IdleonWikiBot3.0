@@ -1,63 +1,89 @@
 import re
-from typing import List, Dict
+from typing import List, Dict, Set
 
-from definitions.common.Component import Component
 from definitions.common.CustomReq import CustomReq
+from definitions.component.Component import Component
+from definitions.component.ComponentFactory import ComponentFactory
 from definitions.questdef.CustomQuest import CustomQuest
 from definitions.questdef.DialogueLine import DialogueLine
 from definitions.questdef.ItemQuest import ItemQuest
 from definitions.questdef.Npc import Npc
-from helpers.HelperFunctions import formatStr, replaceUnderscores, strToArray, camelCaseToTitle
+from definitions.questdef.Quest import ExpReward, CoinReward, RecipeReward, TalentReward
+from helpers.CodeReader import IdleonReader
+from helpers.Constants import Constants
+from helpers.HelperFunctions import formatStr, replaceUnderscores, strToArray, isRecipe, isTalent
+from repositories.item.ItemDetailRepo import ItemDetailRepo
+from repositories.item.RecipeRepo import RecipeRepo
 from repositories.master.Repository import Repository
+from repositories.npc.NPCNoteRepo import NpcNoteRepo
 from repositories.npc.NpcHeadRepo import NpcHeadRepo
 from repositories.npc.QuestNameRepo import QuestNameRepo
+from repositories.talents.TalentNameRepo import TalentNameRepo
 
 
 class NpcRepo(Repository[Npc]):
 	questToName: Dict[str, str] = {}
 
 	@classmethod
+	def getCategory(cls) -> str:
+		return "Npc"
+
+	@classmethod
+	def initDependencies(cls, log = True) -> None:
+		NpcHeadRepo.initialise(cls.codeReader)
+		QuestNameRepo.initialise(cls.codeReader, log)
+		NpcNoteRepo.initialise(cls.codeReader)
+		ItemDetailRepo.initialise(cls.codeReader, log)
+		RecipeRepo.initialise(cls.codeReader, log)
+		TalentNameRepo.initialise(cls.codeReader, log)
+
+	@classmethod
 	def getSections(cls) -> List[str]:
-		return ["Quests"]
+		return ["Quests", "Quests2"]
 
 	@classmethod
 	def generateRepo(cls) -> None:
 		reNpcs = r'..\.addDialogueFor\("([a-zA-Z0-9_]*)", [^\s"]*\)'
 		reQuest = r"\.addLine_([a-zA-Z]*)\({"
 		reQData = r" ?,?([a-zA-Z]*): "
-		questText = formatStr(cls.getSection(), ["\n"])
-		questData = re.split(reNpcs, questText)
 
-		for i in range(1, len(questData), 2):
-			if quests := re.split(reQuest, questData[i + 1]):
-				npcName = replaceUnderscores(questData[i])
-				currentNpc = Npc(
-					head = NpcHeadRepo.get(npcName),
-					dialogue = [],
-					quests = {}
-				)
-				for j in range(1, len(quests), 2):
-					temp = {"Type": quests[j]}
-					if data := re.split(reQData, quests[j + 1]):
-						for k in range(1, len(data), 2):
-							atr = formatStr(data[k])
-							val = formatStr(data[k + 1], ['"', ",})", " })", ";"])
-							val = strToArray(val) if "[" in val else formatStr(val, [","], replaceUnderscores = True)
-							temp[atr] = val
-					if qName := QuestNameRepo.get(f"{npcName}{j // 2}"):
-						temp["Difficulty"] = qName.difficulty
-						temp["Name"] = qName.name
-						if quests[j] != "None":
-							cls.questToName[temp["QuestName"]] = qName.name
-					cls.formatRewards(temp)
-					if quests[j] == "Custom":
-						cls.addCustomQuest(currentNpc, temp)
-					elif quests[j] == "ItemsAndSpaceRequired":
-						cls.addItemQuest(currentNpc, temp)
-					else:
+		for n in range(len(cls.getSections())):
+			questText = formatStr(cls.getSection(n), ["\n"])
+			questData = re.split(reNpcs, questText)
+
+			for i in range(1, len(questData), 2):
+				if quests := re.split(reQuest, questData[i + 1]):
+					npcName = replaceUnderscores(questData[i])
+					npcName = Constants.nameConflicts.get(npcName, npcName)
+					currentNpc = Npc(
+						head = NpcHeadRepo.get(npcName),
+						dialogue = [],
+						quests = {}
+					)
+					for j in range(1, len(quests), 2):
+						temp = {"Type": quests[j]}
+						if data := re.split(reQData, quests[j + 1]):
+							for k in range(1, len(data), 2):
+								atr = formatStr(data[k])
+								val = formatStr(data[k + 1], ['"', ",})", " })", ";"]).replace("@", "<br>")
+								val = strToArray(val) if "[" in val else formatStr(val, [","],
+								                                                   replaceUnderscores = True)
+								temp[atr] = val
+						if qName := QuestNameRepo.get(f"{npcName}{j // 2}"):
+							temp["Difficulty"] = qName.difficulty
+							temp["Name"] = qName.name
+							if quests[j] != "None":
+								cls.questToName[temp["QuestName"]] = qName.name
+								temp["note"] = NpcNoteRepo.getNote(npcName, qName.name)
+						cls.formatRewards(temp)
+						if quests[j] == "Custom":
+							cls.addCustomQuest(currentNpc, temp)
+						elif quests[j] == "ItemsAndSpaceRequired":
+							cls.addItemQuest(currentNpc, temp)
+
 						currentNpc.dialogue.append(DialogueLine.parse_obj(temp))
 
-				cls.add(npcName, currentNpc)
+					cls.add(npcName, currentNpc)
 
 	@classmethod
 	def addItemQuest(cls, currentNpc, temp):
@@ -65,10 +91,7 @@ class NpcRepo(Repository[Npc]):
 		items = temp.get("ItemTypeReq")
 		quants = temp.get("ItemNumReq")
 		for item, quant in zip(items, quants):
-			itemReqs.append(Component(
-				item = item,
-				quantity = quant
-			))
+			itemReqs.append(ComponentFactory.getComponent(item, quant))
 		temp["ItemReq"] = itemReqs.copy()
 		currentNpc.quests[temp.get("Name", "Filler")] = (ItemQuest.parse_obj(temp))
 
@@ -88,83 +111,59 @@ class NpcRepo(Repository[Npc]):
 
 	@classmethod
 	def formatRewards(cls, temp):
-		if rew := temp.get("Rewards"):
-			questRew = []
-			for k in range(0, len(rew), 2):
-				questRew.append(Component(
+		if "Rewards" not in temp:
+			return
+		rew = temp.get("Rewards")
+		questRew = []
+		for k in range(0, len(rew), 2):
+			if "Experience" == rew[k][:10]:
+				questRew.append(ExpReward(
 					item = rew[k],
 					quantity = rew[k + 1]
 				))
-			temp["Rewards"] = questRew.copy()
+				continue
+			if "COIN" in rew[k]:
+				questRew.append(CoinReward(
+					item = "",
+					quantity = rew[k + 1],
+				))
+				continue
+			if isRecipe(rew[k]):
+				questRew.append(RecipeReward(
+					item = rew[k],
+					quantity = rew[k + 1]
+				))
+				continue
+			if isTalent(rew[k]):
+				questRew.append(TalentReward(
+					item = rew[k],
+					quantity = rew[k + 1]
+				))
+				continue
+			questRew.append(Component(
+				item = rew[k],
+				quantity = rew[k + 1]
+			))
+		temp["Rewards"] = questRew.copy()
 
 	@classmethod
 	def getQuestByName(cls, name: str) -> str:
+		name = replaceUnderscores(name)
 		return cls.questToName.get(name)
 
 	@classmethod
-	def _writeChangelogChange(cls, item, change) -> str:
-		def head(v: str) -> str:
-			return "{{patchnote/head|changed=" + v + "}}\n"
-
-		def bold(v: str) -> str:
-			return "{{patchnote/bold|" + v + "}}\n"
-
-		def patchnote(v: str, o, n) -> str:
-			return "{{patchnote|" + f"{v}|{str(o)}|{str(n)}" + "}}\n"
-
-		res = head(cls.getWikiName(item))
-		for v, d in change.items():
-			if isinstance(d, tuple):
-				o, n = d
-				res += patchnote(v, o, n)
-			elif isinstance(d, list):
-				res += bold(camelCaseToTitle(v))
-				for i, subC in enumerate(d):
-					o, n = subC
-					res += patchnote(str(i), o, n)
-			elif isinstance(d, dict):
-				for quest, subC in d.items():
-					res += bold(camelCaseToTitle(quest))
-					for atr, val in subC.items():
-						o, n = val
-						res += patchnote(atr, o, n)
-
-		res += '|}\n'
-		return res
+	def isQuestName(cls, name: str) -> bool:
+		name = replaceUnderscores(name)
+		return name in cls.questToName
 
 	@classmethod
-	def _writeChangelogNew(cls, item, change) -> str:
-		def head(v: str) -> str:
-			return "{{patchnote/head|changed=" + v + "}}\n"
+	def compareVersions(cls, v1: IdleonReader, v2: IdleonReader, ignored: Set[str] = set(), useIgnore = True,
+	                    upload = False):
+		return super().compareVersions(v1, v2, ignored = {"head", "QuestName", "CustomType", "note", "NextIndex",
+		                                                  "dialogue", "NoSpaceIndex"}, upload = upload)
 
-		def bold(v: str) -> str:
-			return "{{patchnote/bold|" + v + "}}\n"
-
-		def italic(v: str) -> str:
-			return "{{patchnote/italic|" + v + "}}\n"
-
-		def patchnote(v: str, o, n) -> str:
-			return "{{patchnote|" + f"{v}|{str(o)}|{str(n)}" + "}}\n"
-
-		res = head(cls.getWikiName(item))
-		for v, d in change.items():
-			if isinstance(d, list):
-				res += bold(camelCaseToTitle(v))
-				for i, subC in enumerate(d):
-					res += patchnote(str(i), " ", subC)
-			elif isinstance(d, dict):
-				for quest, subC in d.items():
-					res += bold(camelCaseToTitle(quest))
-					for atr, val in subC.items():
-						if isinstance(val, list):
-							res += italic(camelCaseToTitle(atr))
-							for n, subV in enumerate(val):
-								res += patchnote(str(n), " ", subV)
-							continue
-						res += patchnote(atr, " ", val)
-			else:
-				if not d:
-					continue
-				res += patchnote(v, " ", d)
-		res += '|}\n'
-		return res
+	@classmethod
+	def _ignore(cls, name: str, data: Npc) -> bool:
+		if name in {"FillerNPC", "Game Message", "Unmade Character", "Omar Da Ogar", "Mecha Pete", "Fillerz"}:
+			return True
+		return False

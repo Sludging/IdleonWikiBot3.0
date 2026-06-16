@@ -1,0 +1,5 @@
+{{InfoItem
+|type=Usable
+|description=Collect 1000 of these to unlock AFK Dust for Windwalker! Once you have 1000, hold down on this item. You will then earn 1 Aethermoon per 2hr AFK claimed on your Windwalker. 
+|sellprice=100
+}}

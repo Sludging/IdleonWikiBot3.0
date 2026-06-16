@@ -1,0 +1,6 @@
+{{InfoItem
+|type=Event Item
+|description=Hold down on a letter to spawn a Valenslime! 
+|sellprice=1
+|notes= 
+}}

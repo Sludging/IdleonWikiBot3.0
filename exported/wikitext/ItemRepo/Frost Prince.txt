@@ -1,0 +1,13 @@
+{{InfoItem
+|type=Trophy
+|class=All
+|level=120
+|weaponpower=2
+|str=10
+|agi=10
+|wis=10
+|luck=10
+|misc=8% Total Damage
+|defence=50
+|sellprice=69
+}}

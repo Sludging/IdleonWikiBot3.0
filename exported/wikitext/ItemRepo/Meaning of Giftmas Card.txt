@@ -1,0 +1,15 @@
+{{InfoCard
+|title=Meaning of Giftmas Card
+|order=3
+|category=Event
+|effect=+% Money from Monsters
+|bonus=3
+|reqtier=1.5
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Bubbulyte]]|0|1}}
+{{detdrops|[[Spring Splendor]]|0|1}}
+{{detdrops|[[Falloween Pumpkin]]|0|1}}
+{{detdrops|[[IdleOn 4th Anniversary]]|0|1}}
+|}

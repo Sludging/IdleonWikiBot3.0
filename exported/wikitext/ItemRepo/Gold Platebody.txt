@@ -1,0 +1,26 @@
+{{InfoItem
+|type=Shirt
+|class=All
+|level=35
+|str=5
+|agi=5
+|wis=5
+|upgrade=3
+|defence=20
+|sellprice=120365
+|setname = Gold
+|notes= 
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Copper Platebody|1}}
+{{detrecipe|40|Copper Bar|25}}
+{{detrecipe|40|Trusty Nails|120}}
+{{detrecipe|3|Pocket Sand|1500}}
+{{detrecipe|3|Gold Bar|250}}
+|tot=
+{{detrecipe/totals|Pocket Sand|1500}}
+{{detrecipe/totals|Gold Bar|250}}
+{{detrecipe/totals|Copper Bar|25}}
+{{detrecipe/totals|Trusty Nails|120}}
+}}

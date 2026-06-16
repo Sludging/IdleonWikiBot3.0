@@ -1,0 +1,12 @@
+[
+    {"noteId": 0, "noteName": "Crotchet Note"},
+    {"noteId": 1, "noteName": "Natural Note"},
+    {"noteId": 2, "noteName": "Bass Note"},
+    {"noteId": 3, "noteName": "Treble Note"},
+    {"noteId": 4, "noteName": "Eighth Note"},
+    {"noteId": 5, "noteName": "Quaver Note"},
+    {"noteId": 6, "noteName": "Sharp Note"},
+    {"noteId": 7, "noteName": "(F)Clef Note"},
+    {"noteId": 8, "noteName": "(G)Clef Note"},
+    {"noteId": 9, "noteName": "Sixteenth Note"}
+]

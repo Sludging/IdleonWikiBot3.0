@@ -7,3 +7,11 @@
 |fishingpower=5
 |sellprice=50
 }}
+{{detdrops/head}}
+{{detdrops|[[Crystal Capybara]]|0.0000391|1}}
+{{detdrops|[[Crawler]]|0.000000644|1}}
+{{detdrops|[[Tremor Wurm]]|0.000000805|1}}
+{{detdrops|[[Kattlekruk]]|0.00023|2}}
+{{detdrops|[[Chaotic Kattlekruk]]|0.00023|2}}
+{{detdrops|[[Molten Golden Chest]]|0.00023|1}}
+|}

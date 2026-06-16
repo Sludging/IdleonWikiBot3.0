@@ -1,0 +1,11 @@
+{{InfoItem
+|type=Golden Food
+|description=Boosts coins dropped. Golden foods are never consumed.
+|sellprice=100
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Chillsnap Golden Chest(W3)]]|0.3|1}}
+{{detdrops|[[Molten Golden Chest(W5)]]|0.25|100}}
+|}
+{{gfoodbonus|30|Boosts coins dropped by mobs by [%.}}

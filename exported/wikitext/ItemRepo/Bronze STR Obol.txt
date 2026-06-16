@@ -1,0 +1,21 @@
+{{InfoItem
+|type=Circle Obol
+|class=All
+|str=1
+|family=STR
+|rarity=Bronze
+|sellprice=1
+|setname = Bronze
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.0006930000000000001|1}}
+{{detdrops|[[Green Mushroom]]|0.0000034650000000000007|1}}
+{{detdrops|[[Red Mushroom]]|0.000006006000000000001|1}}
+{{detdrops|[[Frog]]|0.000004389000000000001|1}}
+{{detdrops|[[Bored Bean]]|0.000005197500000000001|1}}
+{{detdrops|[[Baba Yaga]]|0.0011550000000000002|2}}
+{{detdrops|[[Amarok]]|0.0011550000000000002|2}}
+{{detdrops|[[Chaotic Amarok]]|0.0011550000000000002|4}}
+{{detdrops|[[Dewdrop Bronze Chest(W1)]]|0.0011550000000000002|1}}
+|}

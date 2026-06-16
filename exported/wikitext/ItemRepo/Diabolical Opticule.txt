@@ -1,0 +1,57 @@
+{{InfoItem
+|type=Wand
+|class=Mage
+|level=130
+|weaponpower=61
+|agi=13
+|wis=25
+|misc=8% Mob Respawn
+|misc2=6% Total Damage
+|upgrade=5
+|speed=7
+|reach=250
+|sellprice=3867200
+|setname = Diabolical
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Skullslip Hallow|1}}
+{{detrecipe|40|Grey Gatsby|1}}
+{{detrecipe|80|Spriggly Storm|1}}
+{{detrecipe|120|Crows Nest|1}}
+{{detrecipe|160|Starlight|1}}
+{{detrecipe|200|Quarterstaff|1}}
+{{detrecipe|240|Slime Sludge|125}}
+{{detrecipe|240|Copper Bar|100}}
+{{detrecipe|200|Chain Link|1000}}
+{{detrecipe|200|Distilled Water|8}}
+{{detrecipe|160|Golden Plop|3}}
+{{detrecipe|160|Fruitfly|4000}}
+{{detrecipe|120|Tundra Logs|10000}}
+{{detrecipe|120|Redox Salts|150}}
+{{detrecipe|80|Black Lense|2}}
+{{detrecipe|80|Frigid Soul|5000}}
+{{detrecipe|80|Dense Water|7}}
+{{detrecipe|40|Bunny|50000}}
+{{detrecipe|40|Dioxide Synthesis|500}}
+{{detrecipe|3|Squishy Soul|15000}}
+{{detrecipe|3|Starfire Bar|3000}}
+{{detrecipe|3|Nullo Salt|800}}
+|tot=
+{{detrecipe/totals|Squishy Soul|15000}}
+{{detrecipe/totals|Starfire Bar|3000}}
+{{detrecipe/totals|Nullo Salt|800}}
+{{detrecipe/totals|Bunny|50000}}
+{{detrecipe/totals|Dioxide Synthesis|500}}
+{{detrecipe/totals|Black Lense|2}}
+{{detrecipe/totals|Frigid Soul|5000}}
+{{detrecipe/totals|Dense Water|7}}
+{{detrecipe/totals|Tundra Logs|10000}}
+{{detrecipe/totals|Redox Salts|150}}
+{{detrecipe/totals|Golden Plop|3}}
+{{detrecipe/totals|Fruitfly|4000}}
+{{detrecipe/totals|Chain Link|1000}}
+{{detrecipe/totals|Distilled Water|8}}
+{{detrecipe/totals|Slime Sludge|125}}
+{{detrecipe/totals|Copper Bar|100}}
+}}

@@ -1,4 +1,8 @@
 {{InfoItem
 |type=Bar
 |sellprice=1
+|notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Molten Golden Chest]]|0.05|300}}
+|}

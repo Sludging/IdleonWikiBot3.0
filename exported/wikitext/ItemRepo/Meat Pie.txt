@@ -1,0 +1,17 @@
+{{InfoItem
+|type=Health Food
+|description=Auto-Used when your health goes below 50%. Restores 500 HP. Has a 30 second Cooldown. 
+|sellprice=80
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Crabal]]|0.21|15}}
+{{detdrops|[[Dig Doug]]|0.001344|15}}
+{{detdrops|[[Mafioso]]|0.001344|15}}
+{{detdrops|[[Sand Castle]]|0.00147|15}}
+{{detdrops|[[Pincermin]]|0.001554|15}}
+{{detdrops|[[Mashed Potato]]|0.001638|15}}
+{{detdrops|[[Efaunt]]|0.42|30}}
+{{detdrops|[[Chaotic Efaunt]]|0.42|30}}
+{{detdrops|[[Sandstone Silver Chest(W2)]]|0.42|15}}
+|}

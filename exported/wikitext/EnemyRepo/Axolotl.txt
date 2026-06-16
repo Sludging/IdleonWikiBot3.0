@@ -1,0 +1,10 @@
+{{InfoEnemy
+|image=Axolotl Walking.gif
+|attack=2
+|health=14000
+|defence=1
+|speed=3
+|exp=420
+|respawn=40
+|defence0=0.5
+}}

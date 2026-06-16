@@ -1,0 +1,46 @@
+{{InfoItem
+|type=Ring
+|class=All
+|level=80
+|weaponpower=3
+|agi=10
+|misc=2% Crit Chance
+|upgrade=4
+|defence=8
+|sellprice=102779
+|setname = Efaunt
+|notes= 
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Bandage Wraps|1}}
+{{detrecipe|40|The Stingers|3}}
+{{detrecipe|80|Copper Bar|60}}
+{{detrecipe|80|Trusty Nails|60}}
+{{detrecipe|40|Cue Tape|5000}}
+{{detrecipe|40|Potty Rolls|2000}}
+{{detrecipe|3|Pharaoh Bow|1}}
+{{detrecipe|40|Spiked Menace|1}}
+{{detrecipe|80|Birch Longbow|1}}
+{{detrecipe|120|Slime Sludge|125}}
+{{detrecipe|120|Bleach Logs|250}}
+{{detrecipe|80|Gold Bar|250}}
+{{detrecipe|80|Distilled Water|8}}
+{{detrecipe|40|Woodular Circle|3}}
+{{detrecipe|40|Bloach|1400}}
+{{detrecipe|3|Ribbed Tunic|4}}
+{{detrecipe|3|Ripped Tunic|15}}
+|tot=
+{{detrecipe/totals|Ribbed Tunic|4}}
+{{detrecipe/totals|Ripped Tunic|15}}
+{{detrecipe/totals|Cue Tape|5000}}
+{{detrecipe/totals|Potty Rolls|2000}}
+{{detrecipe/totals|Woodular Circle|3}}
+{{detrecipe/totals|Bloach|1400}}
+{{detrecipe/totals|Copper Bar|60}}
+{{detrecipe/totals|Trusty Nails|60}}
+{{detrecipe/totals|Gold Bar|250}}
+{{detrecipe/totals|Distilled Water|8}}
+{{detrecipe/totals|Slime Sludge|125}}
+{{detrecipe/totals|Bleach Logs|250}}
+}}

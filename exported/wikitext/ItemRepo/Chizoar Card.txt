@@ -1,0 +1,13 @@
+{{InfoCard
+|title=Chizoar Card
+|dropchance=0.007
+|order=14
+|category=Bosses
+|effect=+% Cog Build Spd (Passive)
+|bonus=8
+|reqtier=1.5
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Chizoar]]|0.007|1}}
+|}

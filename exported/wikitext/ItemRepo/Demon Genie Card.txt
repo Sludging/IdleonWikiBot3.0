@@ -1,0 +1,13 @@
+{{InfoCard
+|title=Demon Genie Card
+|dropchance=2e-05
+|order=4
+|category=Hyperion Nebula
+|effect=+% Crystal Mob Spawn Chance
+|bonus=15
+|reqtier=19.0
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Demon Genie]]|0.00002|1}}
+|}

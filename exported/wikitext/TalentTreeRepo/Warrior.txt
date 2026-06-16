@@ -1,9 +1,12 @@
 {{Talent
 |name=Power Strike
-|textArr=Slash forward dealing (Table 1)% damage to up to 3 monsters
+|textArr=Slash forward dealing (Table 1)% damage to up to 2 monsters
 |form1=bigBase
 |x1=130
 |x2=3
+|cooldown=3
+|actiontime=0.45
+|manacost=3
 }}
 {{Talent
 |name=Whirl
@@ -12,8 +15,11 @@
 |x1=60
 |x2=1.5
 |form2=intervalAdd
-|y1=4
-|y2=24
+|y1=5
+|y2=40
+|cooldown=5
+|actiontime=0.45
+|manacost=5
 }}
 {{Talent
 |name=Health Overdrive
@@ -38,6 +44,9 @@
 |form2=intervalAdd
 |y1=2
 |y2=4
+|cooldown=30
+|actiontime=1.5
+|manacost=5
 }}
 {{Talent
 |name=Strength In Numbers
@@ -47,11 +56,11 @@
 |x2=0
 }}
 {{Talent
-|name='Str'Ess Tested Garb
+|name='str'ess Tested Garb
 |textArr=All Equipment gives (Table 1)% more STR than what's listed
-|form1=decay
-|x1=200
-|x2=250
+|form1=add
+|x1=1.5
+|x2=0
 }}
 {{Talent
 |name=Carry A Big Stick
@@ -80,6 +89,9 @@
 |form1=bigBase
 |x1=150
 |x2=15
+|cooldown=12
+|actiontime=1.5
+|manacost=10
 }}
 {{Talent
 |name=Copper Collector

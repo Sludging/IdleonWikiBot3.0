@@ -1,0 +1,1010 @@
+{
+    "mushG": {
+        "prev": null,
+        "next": "mushR",
+        "hasCrystal": true,
+        "crystalName": "Crystal0",
+        "hasCard": true
+    },
+    "mushR": {
+        "prev": "mushG",
+        "next": "frogG",
+        "hasCrystal": true,
+        "crystalName": "Crystal0",
+        "hasCard": true
+    },
+    "frogG": {
+        "prev": "mushR",
+        "next": "beanG",
+        "hasCrystal": true,
+        "crystalName": "Crystal0",
+        "hasCard": true
+    },
+    "beanG": {
+        "prev": "frogG",
+        "next": "slimeG",
+        "hasCrystal": true,
+        "crystalName": "Crystal0",
+        "hasCard": true
+    },
+    "slimeG": {
+        "prev": "beanG",
+        "next": "snakeG",
+        "hasCrystal": true,
+        "crystalName": "Crystal0",
+        "hasCard": true
+    },
+    "snakeG": {
+        "prev": "slimeG",
+        "next": "carrotO",
+        "hasCrystal": true,
+        "crystalName": "Crystal0",
+        "hasCard": true
+    },
+    "carrotO": {
+        "prev": "snakeG",
+        "next": "goblinG",
+        "hasCrystal": true,
+        "crystalName": "Crystal0",
+        "hasCard": true
+    },
+    "goblinG": {
+        "prev": "carrotO",
+        "next": "plank",
+        "hasCrystal": true,
+        "crystalName": "Crystal0",
+        "hasCard": true
+    },
+    "plank": {
+        "prev": "goblinG",
+        "next": "frogBIG",
+        "hasCrystal": true,
+        "crystalName": "Crystal0",
+        "hasCard": true
+    },
+    "frogBIG": {
+        "prev": "plank",
+        "next": "poopSmall",
+        "hasCrystal": true,
+        "crystalName": "Crystal0",
+        "hasCard": true
+    },
+    "poopSmall": {
+        "prev": "frogBIG",
+        "next": "ratB",
+        "hasCrystal": true,
+        "crystalName": "Crystal0",
+        "hasCard": true
+    },
+    "ratB": {
+        "prev": "poopSmall",
+        "next": "branch",
+        "hasCrystal": true,
+        "crystalName": "Crystal0",
+        "hasCard": true
+    },
+    "branch": {
+        "prev": "ratB",
+        "next": "acorn",
+        "hasCrystal": true,
+        "crystalName": "Crystal0",
+        "hasCard": true
+    },
+    "acorn": {
+        "prev": "branch",
+        "next": "Crystal0",
+        "hasCrystal": true,
+        "crystalName": "Crystal0",
+        "hasCard": true
+    },
+    "Crystal0": {
+        "prev": "acorn",
+        "next": "mushW",
+        "hasCrystal": false,
+        "crystalName": "Crystal0",
+        "hasCard": true
+    },
+    "mushW": {
+        "prev": "Crystal0",
+        "next": null,
+        "hasCrystal": true,
+        "crystalName": "Crystal0",
+        "hasCard": true
+    },
+    "jarSand": {
+        "prev": null,
+        "next": "mimicA",
+        "hasCrystal": true,
+        "crystalName": "Crystal1",
+        "hasCard": true
+    },
+    "mimicA": {
+        "prev": "jarSand",
+        "next": "crabcake",
+        "hasCrystal": true,
+        "crystalName": "Crystal1",
+        "hasCard": true
+    },
+    "crabcake": {
+        "prev": "mimicA",
+        "next": "coconut",
+        "hasCrystal": true,
+        "crystalName": "Crystal1",
+        "hasCard": true
+    },
+    "coconut": {
+        "prev": "crabcake",
+        "next": "sandcastle",
+        "hasCrystal": true,
+        "crystalName": "Crystal1",
+        "hasCard": true
+    },
+    "sandcastle": {
+        "prev": "coconut",
+        "next": "pincermin",
+        "hasCrystal": true,
+        "crystalName": "Crystal1",
+        "hasCard": true
+    },
+    "pincermin": {
+        "prev": "sandcastle",
+        "next": "potato",
+        "hasCrystal": true,
+        "crystalName": "Crystal1",
+        "hasCard": true
+    },
+    "potato": {
+        "prev": "pincermin",
+        "next": "steak",
+        "hasCrystal": true,
+        "crystalName": "Crystal1",
+        "hasCard": true
+    },
+    "steak": {
+        "prev": "potato",
+        "next": "moonman",
+        "hasCrystal": true,
+        "crystalName": "Crystal1",
+        "hasCard": true
+    },
+    "moonman": {
+        "prev": "steak",
+        "next": "sandgiant",
+        "hasCrystal": true,
+        "crystalName": "Crystal1",
+        "hasCard": true
+    },
+    "sandgiant": {
+        "prev": "moonman",
+        "next": "snailZ",
+        "hasCrystal": true,
+        "crystalName": "Crystal1",
+        "hasCard": true
+    },
+    "snailZ": {
+        "prev": "sandgiant",
+        "next": "shovelR",
+        "hasCrystal": true,
+        "crystalName": "Crystal1",
+        "hasCard": true
+    },
+    "shovelR": {
+        "prev": "snailZ",
+        "next": "Crystal1",
+        "hasCrystal": true,
+        "crystalName": "Crystal1",
+        "hasCard": true
+    },
+    "Crystal1": {
+        "prev": "shovelR",
+        "next": "Bandit_Bob",
+        "hasCrystal": false,
+        "crystalName": "Crystal1",
+        "hasCard": true
+    },
+    "Bandit_Bob": {
+        "prev": "Crystal1",
+        "next": "Blank",
+        "hasCrystal": true,
+        "crystalName": "Crystal1",
+        "hasCard": true
+    },
+    "sheep": {
+        "prev": null,
+        "next": "flake",
+        "hasCrystal": true,
+        "crystalName": "Crystal2",
+        "hasCard": true
+    },
+    "flake": {
+        "prev": "sheep",
+        "next": "stache",
+        "hasCrystal": true,
+        "crystalName": "Crystal2",
+        "hasCard": true
+    },
+    "stache": {
+        "prev": "flake",
+        "next": "bloque",
+        "hasCrystal": true,
+        "crystalName": "Crystal2",
+        "hasCard": true
+    },
+    "bloque": {
+        "prev": "stache",
+        "next": "mamoth",
+        "hasCrystal": true,
+        "crystalName": "Crystal2",
+        "hasCard": true
+    },
+    "mamoth": {
+        "prev": "bloque",
+        "next": "snowball",
+        "hasCrystal": true,
+        "crystalName": "Crystal2",
+        "hasCard": true
+    },
+    "snowball": {
+        "prev": "mamoth",
+        "next": "penguin",
+        "hasCrystal": true,
+        "crystalName": "Crystal2",
+        "hasCard": true
+    },
+    "penguin": {
+        "prev": "snowball",
+        "next": "thermostat",
+        "hasCrystal": true,
+        "crystalName": "Crystal2",
+        "hasCard": true
+    },
+    "thermostat": {
+        "prev": "penguin",
+        "next": "glass",
+        "hasCrystal": true,
+        "crystalName": "Crystal2",
+        "hasCard": true
+    },
+    "glass": {
+        "prev": "thermostat",
+        "next": "snakeB",
+        "hasCrystal": true,
+        "crystalName": "Crystal2",
+        "hasCard": true
+    },
+    "snakeB": {
+        "prev": "glass",
+        "next": "speaker",
+        "hasCrystal": true,
+        "crystalName": "Crystal2",
+        "hasCard": true
+    },
+    "speaker": {
+        "prev": "snakeB",
+        "next": "eye",
+        "hasCrystal": true,
+        "crystalName": "Crystal2",
+        "hasCard": true
+    },
+    "eye": {
+        "prev": "speaker",
+        "next": "ram",
+        "hasCrystal": true,
+        "crystalName": "Crystal2",
+        "hasCard": true
+    },
+    "ram": {
+        "prev": "eye",
+        "next": "skele",
+        "hasCrystal": true,
+        "crystalName": "Crystal2",
+        "hasCard": true
+    },
+    "skele": {
+        "prev": "ram",
+        "next": "skele2",
+        "hasCrystal": true,
+        "crystalName": "Crystal2",
+        "hasCard": true
+    },
+    "skele2": {
+        "prev": "skele",
+        "next": "Crystal2",
+        "hasCrystal": true,
+        "crystalName": "Crystal2",
+        "hasCard": true
+    },
+    "Crystal2": {
+        "prev": "skele2",
+        "next": null,
+        "hasCrystal": false,
+        "crystalName": "Crystal2",
+        "hasCard": true
+    },
+    "mushP": {
+        "prev": null,
+        "next": "w4a2",
+        "hasCrystal": true,
+        "crystalName": "Crystal3",
+        "hasCard": true
+    },
+    "w4a2": {
+        "prev": "mushP",
+        "next": "w4a3",
+        "hasCrystal": true,
+        "crystalName": "Crystal3",
+        "hasCard": true
+    },
+    "w4a3": {
+        "prev": "w4a2",
+        "next": "demonP",
+        "hasCrystal": true,
+        "crystalName": "Crystal3",
+        "hasCard": true
+    },
+    "demonP": {
+        "prev": "w4a3",
+        "next": "w4b2",
+        "hasCrystal": true,
+        "crystalName": "Crystal3",
+        "hasCard": true
+    },
+    "w4b2": {
+        "prev": "demonP",
+        "next": "w4b1",
+        "hasCrystal": true,
+        "crystalName": "Crystal3",
+        "hasCard": true
+    },
+    "w4b1": {
+        "prev": "w4b2",
+        "next": "w4b3",
+        "hasCrystal": true,
+        "crystalName": "Crystal3",
+        "hasCard": true
+    },
+    "w4b3": {
+        "prev": "w4b1",
+        "next": "w4b4",
+        "hasCrystal": true,
+        "crystalName": "Crystal3",
+        "hasCard": true
+    },
+    "w4b4": {
+        "prev": "w4b3",
+        "next": "w4b5",
+        "hasCrystal": true,
+        "crystalName": "Crystal3",
+        "hasCard": true
+    },
+    "w4b5": {
+        "prev": "w4b4",
+        "next": "w4c1",
+        "hasCrystal": true,
+        "crystalName": "Crystal3",
+        "hasCard": true
+    },
+    "w4c1": {
+        "prev": "w4b5",
+        "next": "w4c2",
+        "hasCrystal": true,
+        "crystalName": "Crystal3",
+        "hasCard": true
+    },
+    "w4c2": {
+        "prev": "w4c1",
+        "next": "w4c3",
+        "hasCrystal": true,
+        "crystalName": "Crystal3",
+        "hasCard": true
+    },
+    "w4c3": {
+        "prev": "w4c2",
+        "next": "w4c4",
+        "hasCrystal": true,
+        "crystalName": "Crystal3",
+        "hasCard": true
+    },
+    "w4c4": {
+        "prev": "w4c3",
+        "next": "Crystal3",
+        "hasCrystal": true,
+        "crystalName": "Crystal3",
+        "hasCard": true
+    },
+    "Crystal3": {
+        "prev": "w4c4",
+        "next": "Blank",
+        "hasCrystal": false,
+        "crystalName": "Crystal3",
+        "hasCard": true
+    },
+    "w5a1": {
+        "prev": null,
+        "next": "w5a2",
+        "hasCrystal": true,
+        "crystalName": "Crystal4",
+        "hasCard": true
+    },
+    "w5a2": {
+        "prev": "w5a1",
+        "next": "w5a3",
+        "hasCrystal": true,
+        "crystalName": "Crystal4",
+        "hasCard": true
+    },
+    "w5a3": {
+        "prev": "w5a2",
+        "next": "w5a4",
+        "hasCrystal": true,
+        "crystalName": "Crystal4",
+        "hasCard": true
+    },
+    "w5a4": {
+        "prev": "w5a3",
+        "next": "w5a5",
+        "hasCrystal": true,
+        "crystalName": "Crystal4",
+        "hasCard": true
+    },
+    "w5a5": {
+        "prev": "w5a4",
+        "next": "w5b1",
+        "hasCrystal": true,
+        "crystalName": "Crystal4",
+        "hasCard": true
+    },
+    "w5b1": {
+        "prev": "w5a5",
+        "next": "w5b2",
+        "hasCrystal": true,
+        "crystalName": "Crystal4",
+        "hasCard": true
+    },
+    "w5b2": {
+        "prev": "w5b1",
+        "next": "w5b3",
+        "hasCrystal": true,
+        "crystalName": "Crystal4",
+        "hasCard": true
+    },
+    "w5b3": {
+        "prev": "w5b2",
+        "next": "w5b4",
+        "hasCrystal": true,
+        "crystalName": "Crystal4",
+        "hasCard": true
+    },
+    "w5b4": {
+        "prev": "w5b3",
+        "next": "w5b5",
+        "hasCrystal": true,
+        "crystalName": "Crystal4",
+        "hasCard": true
+    },
+    "w5b5": {
+        "prev": "w5b4",
+        "next": "w5b6",
+        "hasCrystal": true,
+        "crystalName": "Crystal4",
+        "hasCard": true
+    },
+    "w5b6": {
+        "prev": "w5b5",
+        "next": "w5c1",
+        "hasCrystal": true,
+        "crystalName": "Crystal4",
+        "hasCard": true
+    },
+    "w5c1": {
+        "prev": "w5b6",
+        "next": "w5c2",
+        "hasCrystal": true,
+        "crystalName": "Crystal4",
+        "hasCard": true
+    },
+    "w5c2": {
+        "prev": "w5c1",
+        "next": "caveB",
+        "hasCrystal": true,
+        "crystalName": "Crystal4",
+        "hasCard": true
+    },
+    "caveB": {
+        "prev": "w5c2",
+        "next": "caveC",
+        "hasCrystal": true,
+        "crystalName": "Crystal4",
+        "hasCard": true
+    },
+    "caveC": {
+        "prev": "caveB",
+        "next": "Crystal4",
+        "hasCrystal": true,
+        "crystalName": "Crystal4",
+        "hasCard": true
+    },
+    "Crystal4": {
+        "prev": "caveC",
+        "next": null,
+        "hasCrystal": false,
+        "crystalName": "Crystal4",
+        "hasCard": true
+    },
+    "w6a1": {
+        "prev": null,
+        "next": "w6a2",
+        "hasCrystal": true,
+        "crystalName": "Crystal5",
+        "hasCard": true
+    },
+    "w6a2": {
+        "prev": "w6a1",
+        "next": "w6a3",
+        "hasCrystal": true,
+        "crystalName": "Crystal5",
+        "hasCard": true
+    },
+    "w6a3": {
+        "prev": "w6a2",
+        "next": "w6a4",
+        "hasCrystal": true,
+        "crystalName": "Crystal5",
+        "hasCard": true
+    },
+    "w6a4": {
+        "prev": "w6a3",
+        "next": "w6a5",
+        "hasCrystal": true,
+        "crystalName": "Crystal5",
+        "hasCard": true
+    },
+    "w6a5": {
+        "prev": "w6a4",
+        "next": "w6b1",
+        "hasCrystal": true,
+        "crystalName": "Crystal5",
+        "hasCard": true
+    },
+    "w6b1": {
+        "prev": "w6a5",
+        "next": "w6b2",
+        "hasCrystal": true,
+        "crystalName": "Crystal5",
+        "hasCard": true
+    },
+    "w6b2": {
+        "prev": "w6b1",
+        "next": "w6b3",
+        "hasCrystal": true,
+        "crystalName": "Crystal5",
+        "hasCard": true
+    },
+    "w6b3": {
+        "prev": "w6b2",
+        "next": "w6b4",
+        "hasCrystal": true,
+        "crystalName": "Crystal5",
+        "hasCard": true
+    },
+    "w6b4": {
+        "prev": "w6b3",
+        "next": "w6c1",
+        "hasCrystal": true,
+        "crystalName": "Crystal5",
+        "hasCard": true
+    },
+    "w6c1": {
+        "prev": "w6b4",
+        "next": "w6c2",
+        "hasCrystal": true,
+        "crystalName": "Crystal5",
+        "hasCard": true
+    },
+    "w6c2": {
+        "prev": "w6c1",
+        "next": "w6d1",
+        "hasCrystal": true,
+        "crystalName": "Crystal5",
+        "hasCard": true
+    },
+    "w6d1": {
+        "prev": "w6c2",
+        "next": "w6d2",
+        "hasCrystal": true,
+        "crystalName": "Crystal5",
+        "hasCard": true
+    },
+    "w6d2": {
+        "prev": "w6d1",
+        "next": "w6d3",
+        "hasCrystal": true,
+        "crystalName": "Crystal5",
+        "hasCard": true
+    },
+    "w6d3": {
+        "prev": "w6d2",
+        "next": "Crystal5",
+        "hasCrystal": true,
+        "crystalName": "Crystal5",
+        "hasCard": true
+    },
+    "Crystal5": {
+        "prev": "w6d3",
+        "next": "Blank",
+        "hasCrystal": false,
+        "crystalName": "Crystal5",
+        "hasCard": true
+    },
+    "w7a1": {
+        "prev": null,
+        "next": "w7a2",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7a2": {
+        "prev": "w7a1",
+        "next": "w7a3",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7a3": {
+        "prev": "w7a2",
+        "next": "w7a4",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7a4": {
+        "prev": "w7a3",
+        "next": "w7a5",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7a5": {
+        "prev": "w7a4",
+        "next": "w7a6",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7a6": {
+        "prev": "w7a5",
+        "next": "w7a7",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7a7": {
+        "prev": "w7a6",
+        "next": "w7a8",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7a8": {
+        "prev": "w7a7",
+        "next": "w7a9",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7a9": {
+        "prev": "w7a8",
+        "next": "w7a10",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7a10": {
+        "prev": "w7a9",
+        "next": "w7a11",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7a11": {
+        "prev": "w7a10",
+        "next": "w7a12",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7a12": {
+        "prev": "w7a11",
+        "next": "w7b1",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7b1": {
+        "prev": "w7a12",
+        "next": "w7b2",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7b2": {
+        "prev": "w7b1",
+        "next": "w7b3",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7b3": {
+        "prev": "w7b2",
+        "next": "w7b4",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7b4": {
+        "prev": "w7b3",
+        "next": "w7b5",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7b5": {
+        "prev": "w7b4",
+        "next": "w7b6",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7b6": {
+        "prev": "w7b5",
+        "next": "w7b7",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7b7": {
+        "prev": "w7b6",
+        "next": "w7b8",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7b8": {
+        "prev": "w7b7",
+        "next": "w7b9",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7b9": {
+        "prev": "w7b8",
+        "next": "w7b10",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7b10": {
+        "prev": "w7b9",
+        "next": "w7b11",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7b11": {
+        "prev": "w7b10",
+        "next": "w7b12",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "w7b12": {
+        "prev": "w7b11",
+        "next": "Crystal6",
+        "hasCrystal": true,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "Crystal6": {
+        "prev": "w7b12",
+        "next": "Blank",
+        "hasCrystal": false,
+        "crystalName": "Crystal6",
+        "hasCard": true
+    },
+    "slimeB": {
+        "prev": null,
+        "next": "babayaga",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "babayaga": {
+        "prev": "slimeB",
+        "next": "poopBig",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "poopBig": {
+        "prev": "babayaga",
+        "next": "poopD",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "poopD": {
+        "prev": "poopBig",
+        "next": "wolfA",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "wolfA": {
+        "prev": "poopD",
+        "next": "wolfB",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "wolfB": {
+        "prev": "wolfA",
+        "next": "wolfC",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "wolfC": {
+        "prev": "wolfB",
+        "next": "babaHour",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "babaHour": {
+        "prev": "wolfC",
+        "next": "babaMummy",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "babaMummy": {
+        "prev": "babaHour",
+        "next": "Boss2A",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "Boss2A": {
+        "prev": "babaMummy",
+        "next": "Boss2B",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "Boss2B": {
+        "prev": "Boss2A",
+        "next": "Boss2C",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "Boss2C": {
+        "prev": "Boss2B",
+        "next": "mini3a",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "mini3a": {
+        "prev": "Boss2C",
+        "next": "Boss3A",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "Boss3A": {
+        "prev": "mini3a",
+        "next": "Boss3B",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "Boss3B": {
+        "prev": "Boss3A",
+        "next": "Boss3C",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "Boss3C": {
+        "prev": "Boss3B",
+        "next": "mini4a",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "mini4a": {
+        "prev": "Boss3C",
+        "next": "Boss4A",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "Boss4A": {
+        "prev": "mini4a",
+        "next": "Boss4B",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "Boss4B": {
+        "prev": "Boss4A",
+        "next": "Boss4C",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "Boss4C": {
+        "prev": "Boss4B",
+        "next": "mini5a",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "mini5a": {
+        "prev": "Boss4C",
+        "next": "Boss5A",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "Boss5A": {
+        "prev": "mini5a",
+        "next": "Boss5B",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "Boss5B": {
+        "prev": "Boss5A",
+        "next": "Boss5C",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "Boss5C": {
+        "prev": "Boss5B",
+        "next": "mini6a",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "mini6a": {
+        "prev": "Boss5C",
+        "next": "Boss6A",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "Boss6A": {
+        "prev": "mini6a",
+        "next": "Boss6B",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "Boss6B": {
+        "prev": "Boss6A",
+        "next": "Boss6C",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "Boss6C": {
+        "prev": "Boss6B",
+        "next": "Blank",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    }
+}

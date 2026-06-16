@@ -1,0 +1,8 @@
+{{InfoItem
+|type=Monster Drop
+|description=I love lamp! 
+|sellprice=70000
+}}
+{{detdrops/head}}
+{{detdrops|[[Lampar]]|0.16|1}}
+|}

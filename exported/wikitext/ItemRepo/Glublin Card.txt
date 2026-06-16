@@ -1,0 +1,13 @@
+{{InfoCard
+|title=Glublin Card
+|dropchance=0.0186
+|order=8
+|category=Blunder Hills
+|effect=+% Total HP
+|bonus=2
+|reqtier=10.0
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Glublin]]|0.0186|1}}
+|}

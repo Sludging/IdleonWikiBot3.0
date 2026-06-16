@@ -1,0 +1,13 @@
+{{InfoCard
+|title=Red Mushroom Card
+|dropchance=0.001
+|order=2
+|category=Blunder Hills
+|effect=+ Base LUK
+|bonus=3
+|reqtier=10.0
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Red Mushroom]]|0.001|1}}
+|}

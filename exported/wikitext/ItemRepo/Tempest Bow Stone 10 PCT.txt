@@ -1,0 +1,6 @@
+{{InfoItem
+|type=Upgrade
+|description=Drag onto Tempest Bow to apply. +12 Tool Skill Power, +50 Misc Bonus. Success Chance; 10% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails! 
+|tier=Tempest
+|sellprice=125
+}}

@@ -1,0 +1,10 @@
+{{InfoCard
+|title=Caustic Glaciaxus Card
+|dropchance=1
+|order=23
+|category=Dungeons
+|effect=+% Total Dungeon Dmg
+|bonus=8
+|reqtier=1.5
+|sellprice=1
+}}

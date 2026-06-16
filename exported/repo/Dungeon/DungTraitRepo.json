@@ -1,0 +1,88 @@
+{
+    "Beginner Traits": {
+        "rankReq": 5,
+        "name": "Beginner Traits",
+        "traits": [
+            {"name": "+5 Max HP"},
+            {"name": "+3 Base Damage"},
+            {"name": "+5 Max MP"}
+        ]
+    },
+    "Kinda Cool Traits": {
+        "rankReq": 10,
+        "name": "Kinda Cool Traits",
+        "traits": [
+            {"name": "Start each dungeon run with 2 grey RNG items"},
+            {"name": "Start each dungeon run with 1 green RNG item"},
+            {"name": "50% to start each dungeon run with 1 blue RNG item"}
+        ]
+    },
+    "Strategery Traits": {
+        "rankReq": 15,
+        "name": "Strategery Traits",
+        "traits": [
+            {"name": "Each grey RNG item also gives +1% drop chance"},
+            {"name": "Each green RNG items also gives +1 base dmg"},
+            {"name": "Each Blue RNG item also gives +3 base mana"},
+            {"name": "Each purple RNG item also gives +5 base dmg"}
+        ]
+    },
+    "Da Cred Traits": {
+        "rankReq": 20,
+        "name": "Da Cred Traits",
+        "traits": [
+            {"name": "Dungeon Credits drop +30% more often from mobs and bosses"},
+            {"name": "Dungeon Flurbos, the pink ones, drop +30% more often from mobs and bosses"}
+        ]
+    },
+    "Drop Drip Traits": {
+        "rankReq": 25,
+        "name": "Drop Drip Traits",
+        "traits": [
+            {"name": "Enhancers drop from mobs instead of equipment 25% more often"},
+            {"name": "Equipment drop from mobs instead of enhancers 25% more often"},
+            {"name": "Weapons drop instead of armor ~ jewelry 25% more often"},
+            {"name": "Armor ~ jewelry drop instead of weapons 25% more often"}
+        ]
+    },
+    "Cash Money Traits": {
+        "rankReq": 30,
+        "name": "Cash Money Traits",
+        "traits": [
+            {"name": "Shop prices of Equipment scales up 30% slower"},
+            {"name": "Shop prices of enhancers scales up 40% slower"},
+            {"name": "Shop prices of RNG items scale up 15% slower"}
+        ]
+    },
+    "ChOiIiCe Traits": {
+        "rankReq": 35,
+        "name": "ChOiIiCe Traits",
+        "traits": [
+            {"name": "RNG items from shops sometimes have +1 choices"},
+            {"name": "RNG items from anywhere but shops sometimes have +1 choices"},
+            {"name": "Higher rarity RNG items, aka green or better, are 25% more likely"}
+        ]
+    },
+    "Royale Traits": {
+        "rankReq": 40,
+        "name": "Royale Traits",
+        "traits": [
+            {"name": "100% chance to start each dungeon with 1 purple RNG item of 4 choices."},
+            {"name": "Start each dungeon with 2 green, 2 grey, and 2 blue RNG item"}
+        ]
+    },
+    "Endothelium Traits": {
+        "rankReq": 50,
+        "name": "Endothelium Traits",
+        "traits": [
+            {"name": "Max HP is 2, mobs deal 1 dmg, but you start with 5 Blue RNG items."},
+            {"name": "Buying RNG items from shop gives 2 instead of 1, but only 40% of the time."},
+            {
+                "name": "Max MP is 1. Also +150% basic attack spd and start with 1 purple RNG item of 4 choices"
+            },
+            {
+                "name": "Each RNG item gives +1% Dungeon Credits (Other Endothelium Traits give this bonus too!)"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{{InfoItem
+|type=Quest Item
+|description=Proof that you collected all the coolest and rarest items that Frostbite Tundra has to offer! DONT SELL THIS ITEM 
+|sellprice=8026276
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Chizoar Helmet|1}}
+{{detrecipe|40|Void Imperium Helmet|1}}
+{{detrecipe|80|Dementia Helmet|1}}
+{{detrecipe|120|Froge|5000}}
+{{detrecipe|120|Dementia Bar|300}}
+{{detrecipe|80|Spontaneity Salts|500}}
+{{detrecipe|80|Void Bar|1000}}
+{{detrecipe|80|Dense Water|5}}
+{{detrecipe|40|Chizoar Spike|25}}
+{{detrecipe|40|Blood Bone|1000}}
+{{detrecipe|40|Purple Salt|100}}
+{{detrecipe|3|Neutron Ice Ring|1}}
+{{detrecipe|3|Nullo Salt|10}}
+{{detrecipe|3|Black Lense|60}}
+|tot=
+{{detrecipe/totals|Neutron Ice Ring|1}}
+{{detrecipe/totals|Nullo Salt|10}}
+{{detrecipe/totals|Black Lense|60}}
+{{detrecipe/totals|Chizoar Spike|25}}
+{{detrecipe/totals|Blood Bone|1000}}
+{{detrecipe/totals|Purple Salt|100}}
+{{detrecipe/totals|Spontaneity Salts|500}}
+{{detrecipe/totals|Void Bar|1000}}
+{{detrecipe/totals|Dense Water|5}}
+{{detrecipe/totals|Froge|5000}}
+{{detrecipe/totals|Dementia Bar|300}}
+}}

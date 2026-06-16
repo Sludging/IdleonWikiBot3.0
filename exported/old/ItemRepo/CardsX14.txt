@@ -1,0 +1,10 @@
+{{InfoCard
+|title=Lava Slimer Card
+|dropchance=0.0025
+|order=4
+|category=Dungeons
+|effect=+% Dungeon Card Chance
+|bonus=6
+|reqtier=2.0
+|sellprice=1
+}}

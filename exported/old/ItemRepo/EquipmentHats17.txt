@@ -6,24 +6,19 @@
 |agi=3
 |wis=3
 |upgrade=2
-|defence=5
-|sellprice=560
-|source=[[Smithing]], [[Dewdrop Silver Chest]]
+|defence=7
+|sellprice=420
+|setname = Copper
+|notes= 
 }}
-{{ForgeSlot
-|anvtab=1
-|craftnum=17
-|levelreq=6
-|expgiven=35
-|recipefrom=Start
-|resource1=Copper Bar|quantity1=30
-|resource2=Bean Slices|quantity2=50
-}}
+{{detdrops/head}}
+{{detdrops|[[Dewdrop Silver Chest]]|0.02|1}}
+|}
 {{detrecipe/tab
 |reci=
-{{detrecipe|3|Copper Bar|30}}
-{{detrecipe|3|Bean Slices|50}}
+{{detrecipe|3|Copper Bar|20}}
+{{detrecipe|3|Bean Slices|40}}
 |tot=
-{{detrecipe/totals|Copper Bar|30}}
-{{detrecipe/totals|Bean Slices|50}}
+{{detrecipe/totals|Copper Bar|20}}
+{{detrecipe/totals|Bean Slices|40}}
 }}

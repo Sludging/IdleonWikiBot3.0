@@ -1,10 +1,11 @@
-import re
+from typing import List
 
 from definitions.enemy.MapData import MapData
 from helpers.Constants import Constants
-from repositories.MapNameRepo import MapNameRepo
+from helpers.HelperFunctions import getFromSplit
 from repositories.master.Repository import Repository
-from typing import List
+from repositories.misc.MapNameRepo import MapNameRepo
+from repositories.misc.MapPortalsRepo import MapPortalsRepo
 
 
 class MapDataRepo(Repository[MapData]):
@@ -13,17 +14,34 @@ class MapDataRepo(Repository[MapData]):
 	"""
 
 	@classmethod
+	def getCategory(cls) -> str:
+		return "Enemy"
+
+	@classmethod
+	def initDependencies(cls, log = True) -> None:
+		MapNameRepo.initialise(cls.codeReader, log)
+		MapPortalsRepo.initialise(cls.codeReader, log)
+
+	@classmethod
 	def getSections(cls) -> List[str]:
 		return ["MapEnemies"]
 
 	@classmethod
 	def generateRepo(cls) -> None:
-		mapEnemies = re.findall(r'"([ a-zA-Z0-_\'\n]*)"\.', cls.getSection())[0].split(" ")
+		mapEnemies = getFromSplit(cls.getSection())
 		for n, v in enumerate(mapEnemies):
-			worldIndex = n//50
-			if worldIndex > 3:
+			worldIndex = n // 50
+			if worldIndex >= len(Constants.worldNames):
 				continue
-			cls.add(v, MapData(
-				area = MapNameRepo.get(n).name,
-				world = Constants.worlds[worldIndex]
-			))
+			if n >= MapPortalsRepo.lengthList():
+				break
+			toAdd = MapData(
+				enemy = v,
+				map = MapNameRepo.getList(n),
+				world = Constants.worlds[worldIndex],
+				portalRequirements = MapPortalsRepo.getList(n).portalRequirements
+			)
+			cls.addList(toAdd)
+			if cls.contains(v):
+				continue
+			cls.add(v, toAdd)

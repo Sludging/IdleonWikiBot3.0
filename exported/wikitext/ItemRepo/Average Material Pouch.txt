@@ -1,0 +1,15 @@
+{{InfoItem
+|type=Carry Bag
+|description=Hold down on this bag to increase the Carry Capacity of the following items to 250: Monster Parts, Smithing Production Items
+|level=20
+|sellprice=68060
+|setname = Average
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Glass Shard|1}}
+{{detrecipe|3|Chain Link|1700}}
+|tot=
+{{detrecipe/totals|Glass Shard|1}}
+{{detrecipe/totals|Chain Link|1700}}
+}}

@@ -1,0 +1,25 @@
+{{npc
+|world=Spirited Valley
+|location=Spirit Village
+|npcType=Unknown
+|birthweight=1.01
+|starsign=Scorpio
+|mmm=Sawyer
+}}
+{{Quest/head}}
+{{Quest|name=Mind, Body, Soul, Tasks
+|text=Kills some mobs and gather monster parts to show you're ready for the World 6 tasks!
+|difficulty=5
+|requirements=2500x{{ItemDisplay|Leafy Droplet}}, 1000x{{ItemDisplay|Rice Cake}}, 500x{{ItemDisplay|Bamboo}}
+|consumed=Yes
+|rewards=2x{{ItemDisplay|Sand of Time}}, 2x{{ItemDisplay|Compost Bag}}
+|notes= 
+}}
+|}
+{{dialogue/head}}
+{{dialogue/row|text=Traveler your arrival is a pleasure. Please consider yourself home.}}
+{{dialogue/row|text=I am sure you are familiar with my passion for tasks my bretheren abroad share the same ambitions.}}
+{{dialogue/row|text=Before I bestow upon you my tasks I must ensure your preparedness... <br> QUEST:Kills some mobs and gather monster parts to show you're ready for the World 6 tasks!|quest=Mind, Body, Soul, Tasks}}
+{{dialogue/row|text=Please clear your inventory.}}
+{{dialogue/row|text=You are ready complete my tasks at your own pace.}}
+|}

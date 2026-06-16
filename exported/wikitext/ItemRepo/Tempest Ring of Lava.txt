@@ -1,0 +1,9 @@
+{{InfoItem
+|type=Ring
+|class=Archer
+|level=1
+|misc=20% Fire Element Dmg
+|upgrade=3
+|sellprice=1
+|setname = Tempest
+}}

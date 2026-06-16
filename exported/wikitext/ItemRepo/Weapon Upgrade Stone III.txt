@@ -1,0 +1,12 @@
+{{InfoItem
+|type=Upgrade
+|description=Drag onto any Weapon to apply. +2 Weapon Power, +1 Random Stat. Success Chance; 50% Uses up 1 slots only if Successful 
+|tier=III
+|sellprice=25000
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Sandstone Silver Chest(W2)]]|0.04|1}}
+{{detdrops|[[Chillsnap Bronze Chest(W3)]]|0.025|1}}
+{{detdrops|[[Chillsnap Silver Chest(W3)]]|0.2|1}}
+|}

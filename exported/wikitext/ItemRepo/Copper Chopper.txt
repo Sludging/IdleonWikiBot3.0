@@ -1,0 +1,22 @@
+{{InfoItem
+|type=Hatchet
+|class=All
+|level=4
+|agi=1
+|wis=3
+|upgrade=2
+|skill=Choppin
+|skillpower=7
+|speed=3
+|sellprice=27
+|setname = Copper
+|notes= 
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Oak Logs|6}}
+{{detrecipe|3|Thread|5}}
+|tot=
+{{detrecipe/totals|Oak Logs|6}}
+{{detrecipe/totals|Thread|5}}
+}}

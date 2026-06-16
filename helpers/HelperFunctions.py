@@ -1,14 +1,13 @@
 import re
-from typing import List
+from typing import List, Set
 
 import numpy as np
+from helpers.Constants import Constants
 
-from definitions.common.Source import Source
-
-reAll = r'[ a-zA-Z0-_\'n()@,!$+{}%:.~-]'
+reAll = r'[ a-zA-Z0-_\'n()@,#!$+{/}%:.~\-&\|/\*\u4E00-\u9FFF`]'
 
 
-def getFromSplitArray(v: str) -> List[List[str]]:
+def getFromSplitArray(v: str, replaceUnderscores: bool = True) -> List[List[str]]:
 	"""
 	Converts a section into a list of strings based upon the exportation of an array represented as
 	"0 1 2 3 4 5 6 7 8 9".split(" ")
@@ -19,13 +18,51 @@ def getFromSplitArray(v: str) -> List[List[str]]:
 
 	"""
 	section = formatStr(v, ["  ", "\n"])
-	subSections = re.findall(fr'"({reAll}*)"\.', section)
-	subSections = [x.split(" ") for x in subSections]
+	subSections = re.findall(fr'"({reAll}*)"\.split', section)
+	newSections = []
+	for subSec in subSections:
+		if subSec.count(" ") > subSec.count(";"):
+			newSections.append(subSec.split(" "))
+		else:
+			newSections.append(subSec.split(";"))
 	newList = []
-	for subSection in subSections:
+	for subSection in newSections:
 		internalList = []
 		for i in range(len(subSection)):
-			internalList.append(replaceUnderscores(subSection[i]))
+			internalList.append(formatStr(subSection[i], replaceUnderscores = replaceUnderscores))
+		newList.append(internalList[:])
+	return newList
+
+
+def getFromMixedArray(v: str, replaceUnderscores: bool = True, formatSubSection: bool = True) -> List[List[str]]:
+	"""
+	Converts a section into a list of strings based upon the exportation of an array represented as
+	"0 1 2 3 4 5 6 7 8 9".split(" ")
+	Args:
+		v:
+
+	Returns:
+
+	"""
+	section = formatStr(v, )  # ["  ", "\n"]
+	subSections = re.findall(fr'"(.*?)"\.split|\[(.*?)\],?', section)
+	newSections = []
+	for subSec in subSections:
+		if subSec[0]:
+			if subSec[0].count(" ") > subSec[0].count(";"):
+				newSections.append(subSec[0].split(" "))
+			else:
+				newSections.append(subSec[0].split(";"))
+		else:
+			newSections.append(strToArray(subSec[1], replaceUnderscores))
+	newList = []
+	for subSection in newSections:
+		internalList = []
+		for i in range(len(subSection)):
+			if formatSubSection:
+				internalList.append(formatStr(subSection[i], replaceUnderscores = replaceUnderscores))
+			else:
+				internalList.append(subSection[i])
 		newList.append(internalList[:])
 	return newList
 
@@ -42,10 +79,12 @@ def getFromSplit(v: str) -> List[str]:
 	"""
 	section = formatStr(v, ["  ", "\n"])
 	subSections = re.findall(fr'"({reAll}*)"\.', section)
+	if not subSections:
+		return section.replace(".split( )", "").split(" ")
 	return subSections[0].split(" ")
 
 
-def getFromArrayArray(v: str) -> List[List[str]]:
+def getFromArrayArray(v: str, repU = True) -> List[List[str]]:
 	"""
 	Converts a string representation of a 2d array into an actual 2d array
 	Args:
@@ -56,7 +95,8 @@ def getFromArrayArray(v: str) -> List[List[str]]:
 	"""
 	section = formatStr(v, ["  ", "\n"])
 	subSections = section.split("],[")
-	return [strToArray(x) for x in subSections]
+
+	return [strToArray(x, repU) for x in subSections]
 
 
 def getFrom4dArray(v: str) -> List[List[List[List[str]]]]:
@@ -67,7 +107,7 @@ def getFrom4dArray(v: str) -> List[List[List[List[str]]]]:
 		subSubSections = [wrap(x) for x in re.split(r",?],?],\[\[", subSection)]
 		mid = []
 		for subSubSection in subSubSections:
-			subSubSubSection = [wrap(x) for x in re.split(r",?],\[", subSubSection)]
+			subSubSubSection = [wrap(x) for x in re.split(r",?], ?\[", subSubSection)]
 			inner = []
 			for subSubSubSection in subSubSubSection:
 				inner.append(strToArray(subSubSubSection))
@@ -81,11 +121,14 @@ def isRecipe(name: str) -> bool:
 
 
 def isTalent(name: str) -> bool:
-	return name[:-1] == "TalentBook"
+	return name[:10] == "TalentBook"
 
 
 def formatFloat(v: float) -> str:
-	return np.format_float_positional(v)
+	res = np.format_float_positional(v)
+	if res[-1] == ".":
+		return res[:-1]
+	return res
 
 
 def camelCaseSplitter(string: str) -> List[str]:
@@ -100,7 +143,7 @@ def camelCaseSplitter(string: str) -> List[str]:
 		A list of strings split based on camel case
 
 	"""
-	return re.sub("([A-Z][a-z]+)", r" \1", re.sub("([A-Z]+)", r" \1", string)).split()
+	return re.sub("([A-Z][a-z]+|[0-9])", r" \1", re.sub("([A-Z]+)", r" \1", string)).split()
 
 
 def camelCaseToTitle(string: str) -> str:
@@ -114,6 +157,8 @@ def camelCaseToTitle(string: str) -> str:
 		The string as a title
 
 	"""
+	if "_" in string:
+		return replaceUnderscores(string)
 	return " ".join(map(lambda x: x.title(), camelCaseSplitter(string)))
 
 
@@ -164,7 +209,7 @@ def wrap(v: str) -> str:
 	return f"[[{v}]]"
 
 
-def strToArray(v: str) -> List[str]:
+def strToArray(v: str, repU = False) -> List[str]:
 	"""
 	Converts a string reprisentation of a list to an actual python list
 	strToArray("[1,2,3,4]") = ["1", "2", "3", "4"]
@@ -175,9 +220,15 @@ def strToArray(v: str) -> List[str]:
 		the resulting list
 
 	"""
-	string = v.replace(",_", "&&&&")
-	parts = formatStr(string, ["[", "]", '"', "return", ";", "\n", "{", "}"]).split(",")
-	return [formatStr(x).replace("&&&&", ", ") for x in parts if formatStr(x).replace("&&&&", ", ") != ""]
+	string = v.replace(",_", "&&&&").replace(",0", "$$$$").replace("{_", "****").replace("{%_", "####")
+	parts = formatStr(string, ["[", "]", '"', "return ", ";", "\n", "{", "}"]).split(",")
+	res = []
+	for x in parts:
+		formatted = formatStr(x).replace("&&&&", ",_").replace("$$$$", ",0").replace("****", "{_").replace("####",
+		                                                                                                   "{%_")
+		if formatted:
+			res.append(replaceUnderscores(formatted) if repU else formatted)
+	return res
 
 
 def changeChestNames(intName, name):
@@ -191,10 +242,23 @@ def changeChestNames(intName, name):
 		A more descriptive version of the chests name
 
 	"""
-	COLNAMES = ["Dewdrop", "Sandstone", "Chillsnap", "NYI", "NYI", "NYI", "NYI", "NYI", "NYI"]
 	col = int(intName[6]) - 1
-	return f"{COLNAMES[col]} {name}"
+	return f"{Constants.COLNAMES[col]} {name}"
 
 
-def wikiSource(source: Source) -> str:
-	return source.wikiName
+def toLowerCamel(imp: str) -> str:
+	return imp[0].lower() + imp[1:]
+
+
+def extractImportsClass(imports: Set[str]) -> str:
+	res = []
+	for imp in sorted(imports):
+		if "Enum" in imp:
+			res.append("import { "f"{imp}"" } from "f"'../enum/{toLowerCamel(imp)}';")
+			continue
+		res.append("import { "f"{imp}"" } from "f"'../model/{toLowerCamel(imp)}';")
+	return "\n".join(res) + '\n\n'
+
+
+def formatToSingleSpace(val: str) -> str:
+	return re.sub(' +', ' ', val)

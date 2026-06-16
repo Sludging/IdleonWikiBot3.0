@@ -1,0 +1,20 @@
+{{InfoItem
+|type=Ring
+|class=All
+|level=50
+|str=5
+|agi=5
+|wis=5
+|misc=8% Skill Efficiency
+|upgrade=3
+|defence=5
+|sellprice=32001
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Rex Ring|1}}
+{{detrecipe|3|Iron Bar|1000}}
+|tot=
+{{detrecipe/totals|Rex Ring|1}}
+{{detrecipe/totals|Iron Bar|1000}}
+}}

@@ -1,0 +1,38 @@
+{{InfoItem
+|type=Pickaxe
+|class=All
+|level=37
+|str=15
+|agi=5
+|misc=2% Mining Efficincy
+|upgrade=3
+|skill=Mining
+|skillpower=19
+|speed=5
+|sellprice=6014070
+|setname = Dementia
+|notes= 
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Platinum Pickaxe|1}}
+{{detrecipe|40|Gold Pickaxe|1}}
+{{detrecipe|80|Iron Pickaxe|1}}
+{{detrecipe|120|Iron Bar|10}}
+{{detrecipe|120|Carrot Cube|150}}
+{{detrecipe|80|Megalodon Tooth|2500}}
+{{detrecipe|80|Gold Bar|400}}
+{{detrecipe|40|Platinum Bar|800}}
+{{detrecipe|40|Pincer Arm|10500}}
+{{detrecipe|3|Dementia Bar|275}}
+{{detrecipe|3|Moustache Comb|15000}}
+|tot=
+{{detrecipe/totals|Dementia Bar|275}}
+{{detrecipe/totals|Moustache Comb|15000}}
+{{detrecipe/totals|Platinum Bar|800}}
+{{detrecipe/totals|Pincer Arm|10500}}
+{{detrecipe/totals|Megalodon Tooth|2500}}
+{{detrecipe/totals|Gold Bar|400}}
+{{detrecipe/totals|Iron Bar|10}}
+{{detrecipe/totals|Carrot Cube|150}}
+}}

@@ -1,0 +1,15 @@
+{{InfoCard
+|title=Sovereign Emperor Card
+|dropchance=0.001
+|order=28
+|category=Bosses
+|effect=+% Multikill per tier
+|bonus=20
+|reqtier=13.0
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Emperor]]|0.001|1}}
+{{detdrops|[[Chaotic Emperor]]|0.001|1}}
+{{detdrops|[[Sovereign Emperor]]|0.001|1}}
+|}

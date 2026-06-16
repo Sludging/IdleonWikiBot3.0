@@ -1,0 +1,10 @@
+{{InfoCard
+|title=Rotting Grandfrogger Card
+|dropchance=1
+|order=8
+|category=Dungeons
+|effect=+% Dungeon Flurbos
+|bonus=4
+|reqtier=1.5
+|sellprice=1
+}}

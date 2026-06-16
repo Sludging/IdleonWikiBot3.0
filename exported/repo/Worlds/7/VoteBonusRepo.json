@@ -1,0 +1,149 @@
+{
+    "0": {
+        "text": "All your characters deal }x more damage to enemies",
+        "bonus": 25,
+        "value": 0
+    },
+    "1": {
+        "text": "All your characters deal }x more damage to enemies",
+        "bonus": 25,
+        "value": 0
+    },
+    "2": {
+        "text": "Increases STR AGI WIS and LUK for all characters by +{%",
+        "bonus": 15,
+        "value": 0
+    },
+    "3": {
+        "text": "Increases Defence and Accuracy by +{% for all characters",
+        "bonus": 30,
+        "value": 0
+    },
+    "4": {
+        "text": "Logging in each day gives +{ more GP to your guild than you normally do",
+        "bonus": 30,
+        "value": 0
+    },
+    "5": {
+        "text": "}x Kill per Kill, making monster kills worth more for portals and Deathnote",
+        "bonus": 20,
+        "value": 0
+    },
+    "6": {
+        "text": "+{% AFK gain for both fighting and skills for all characters",
+        "bonus": 15,
+        "value": 0
+    },
+    "7": {
+        "text": "Boosts all Mining EXP gain and Mining Efficiency by +{%",
+        "bonus": 42,
+        "value": 0
+    },
+    "8": {
+        "text": "Boosts all Fishing EXP gain and Fishing Efficiency by +{%",
+        "bonus": 50,
+        "value": 0
+    },
+    "9": {
+        "text": "Boosts all Choppin' EXP gain and Choppin' Efficiency by +{%",
+        "bonus": 38,
+        "value": 0
+    },
+    "10": {
+        "text": "Boosts all Catching EXP gain and Catching Efficiency by +{%",
+        "bonus": 46,
+        "value": 0
+    },
+    "11": {
+        "text": "Increases the amount of resources produced by the 3D Printer by }x",
+        "bonus": 20,
+        "value": 3
+    },
+    "12": {
+        "text": "Boosts liquid generation rate for all Alchemy liquids by +{%",
+        "bonus": 25,
+        "value": 0
+    },
+    "13": {
+        "text": "Boosts all Cooking EXP gain and Cooking Speed by +{%",
+        "bonus": 63,
+        "value": 4
+    },
+    "14": {
+        "text": "Boosts Dungeon Credit and Dungeon Flurbo gain by }x",
+        "bonus": 50,
+        "value": 0
+    },
+    "15": {
+        "text": "All your characters gain +{% more Class EXP from monsters",
+        "bonus": 60,
+        "value": 0
+    },
+    "16": {
+        "text": "Speeds up Egg Incubation time and Breeding EXP gain by +{%",
+        "bonus": 50,
+        "value": 4
+    },
+    "17": {
+        "text": "Boosts Sigil EXP gain by }x, still requires Sigils active in Lab",
+        "bonus": 80,
+        "value": 4
+    },
+    "18": {
+        "text": "Boosts Construction Build Rate and Construction EXP gain by +{%",
+        "bonus": 40,
+        "value": 3
+    },
+    "19": {"text": "Boosts Shrine EXP gain by a staggering }x", "bonus": 53, "value": 3},
+    "20": {"text": "Boosts Artifact Find chance in Sailing by }x", "bonus": 31, "value": 5},
+    "21": {
+        "text": "Boosts New Species chance when using DNA in Gaming by }x",
+        "bonus": 80,
+        "value": 5
+    },
+    "22": {
+        "text": "Find +{% more Gold Nuggets when digging with the Shovel in Gaming",
+        "bonus": 75,
+        "value": 5
+    },
+    "23": {
+        "text": "Boosts Divinity PTS gain by }x and Divinity EXP Gain by +{%",
+        "bonus": 60,
+        "value": 5
+    },
+    "24": {
+        "text": "Boosts Sailing Captain EXP gain and Sailing Speed by }x",
+        "bonus": 50,
+        "value": 5
+    },
+    "25": {
+        "text": "Boosts Sneaking Stealth by }x and EXP Gain by +{% for all your Ninja Twins",
+        "bonus": 65,
+        "value": 6
+    },
+    "26": {"text": "Boosts bonuses from all Golden Food by +{%", "bonus": 30, "value": 0},
+    "27": {
+        "text": "Increases Drop Rate for all your characters by +{%",
+        "bonus": 38,
+        "value": 0
+    },
+    "28": {
+        "text": "Boosts Summoning EXP gain by +{% and all Essence gained by }x",
+        "bonus": 40,
+        "value": 6
+    },
+    "29": {
+        "text": "Boosts Crop Value, and Farming EXP gain, AND Next Crop Chance by +{%",
+        "bonus": 40,
+        "value": 6
+    },
+    "30": {
+        "text": "Increases Trapping EXP gain and Worship EXP gain by +{%",
+        "bonus": 54,
+        "value": 3
+    },
+    "31": {"text": "Increases Lab EXP gain by +{%", "bonus": 90, "value": 4},
+    "32": {"text": "Boosts Equinox Bar Fill rate by }x", "bonus": 40, "value": 3},
+    "33": {"text": "Boosts Refinery Cycle Speed by +{%", "bonus": 50, "value": 3},
+    "34": {"text": "Increases cash earned from monsters by +{%", "bonus": 52, "value": 0}
+}

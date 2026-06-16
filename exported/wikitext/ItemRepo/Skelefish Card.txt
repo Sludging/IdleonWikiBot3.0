@@ -1,0 +1,10 @@
+{{InfoCard
+|title=Skelefish Card
+|dropchance=0.001
+|order=13
+|category=Hard Resources
+|effect=+% Total Fishing Efficiency
+|bonus=8
+|reqtier=8.0
+|sellprice=1
+}}

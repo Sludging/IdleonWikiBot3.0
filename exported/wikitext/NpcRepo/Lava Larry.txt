@@ -1,0 +1,25 @@
+{{npc
+|world=Smolderin' Plateau
+|location=Magma Rivertown
+|noquest=1
+|birthweight=4.98
+|starsign=Scorpio
+|mmm=Tapia
+}}
+{{Quest/head}}
+{{Quest|name=W5 Task Req Check
+|text=Kills some mobs and gather monster parts to show you're ready for the World 5 tasks!
+|difficulty=4
+|requirements=2500x{{ItemDisplay|Suggma Ashes}}, 1000x{{ItemDisplay|Plated Crumbs}}, 500x{{ItemDisplay|Sundried Glass}}
+|consumed=Yes
+|rewards=4x{{ItemDisplay|Bottled Wind}}, 3x{{ItemDisplay|Gaming Fertilizer}}
+|notes= 
+}}
+|}
+{{dialogue/head}}
+{{dialogue/row|text=Hows it flowin' 'n goin' my guy? This pipin' hot heat out here making you and I very dry.}}
+{{dialogue/row|text=Yo don't mind me and my spittin' I'm emcee Larry and I got dope tasks most fittin'}}
+{{dialogue/row|text=So yea I'm the taskmaster the pastor if you will. But you can't step to me until you kill your fill. <br> QUEST:Kills some mobs and gather monster parts to show you're ready for the World 5 tasks!|quest=W5 Task Req Check}}
+{{dialogue/row|text=Eyo bro you ain't got the inventory space sort that out and save some face!}}
+{{dialogue/row|text=Ayyyy that's how it's done! I'll give you access to my tasks have fun!}}
+|}

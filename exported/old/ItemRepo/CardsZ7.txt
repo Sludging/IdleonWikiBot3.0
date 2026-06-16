@@ -1,10 +1,13 @@
 {{InfoCard
 |title=Chaotic Efaunt Card
-|order=9
-|category=Dungeons
+|dropchance=0.016
+|order=10
+|category=Bosses
 |effect=+% Skill EXP
 |bonus=3.75
 |reqtier=1.5
 |sellprice=1
-|source=[[Chaotic Efaunt]], [[Chaotic Chizoar]]
 }}
+{{detdrops/head}}
+{{detdrops|[[Chaotic Efaunt]]|0.016|1}}
+|}

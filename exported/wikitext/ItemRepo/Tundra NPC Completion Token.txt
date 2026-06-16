@@ -1,0 +1,28 @@
+{{InfoItem
+|type=Quest Item
+|description=Made up of all the tokens that you collected after completing an NPC's entire questline. DONT SELL THIS ITEM 
+|sellprice=32000
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Easy FB Tundra NPC Token|1}}
+{{detrecipe|40|Lonely Hunter Token|1}}
+{{detrecipe|40|Hoggi Token|1}}
+{{detrecipe|40|Snouts Token|1}}
+{{detrecipe|3|Med FB Tundra NPC Token|1}}
+{{detrecipe|40|Shuvelle Token|1}}
+{{detrecipe|40|Yondergreen Token|1}}
+{{detrecipe|40|Crystalswine Token|1}}
+{{detrecipe|3|Hard FB Tundra NPC Token|1}}
+{{detrecipe|40|Bellows Token|1}}
+{{detrecipe|40|Bill Brr Token|1}}
+|tot=
+{{detrecipe/totals|Lonely Hunter Token|1}}
+{{detrecipe/totals|Hoggi Token|1}}
+{{detrecipe/totals|Snouts Token|1}}
+{{detrecipe/totals|Shuvelle Token|1}}
+{{detrecipe/totals|Yondergreen Token|1}}
+{{detrecipe/totals|Crystalswine Token|1}}
+{{detrecipe/totals|Bellows Token|1}}
+{{detrecipe/totals|Bill Brr Token|1}}
+}}

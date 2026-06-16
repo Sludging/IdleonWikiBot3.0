@@ -1,0 +1,14 @@
+{{InfoCard
+|title=Dust Mote Card
+|dropchance=1e-08
+|order=22
+|category=Hard Resources
+|effect=+% Catching Away Gains
+|bonus=3
+|reqtier=15.0
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Catching#Drops|Catching Dust Mote]]|0.00002|1}}
+{{detdrops|[[Catching#Drops|Catching Dream Particulate]]|0.00000001|1}}
+|}

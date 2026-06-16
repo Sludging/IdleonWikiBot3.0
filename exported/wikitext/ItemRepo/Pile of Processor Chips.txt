@@ -1,0 +1,5 @@
+{{InfoItem
+|type=Lab Addition
+|description=Collect 3 of these, then hold down on the stack of 3 to unlock the Chip Repository! 
+|sellprice=625000
+}}

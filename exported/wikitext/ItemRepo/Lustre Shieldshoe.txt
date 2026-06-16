@@ -1,0 +1,34 @@
+{{InfoItem
+|type=Shoes
+|class=All
+|level=110
+|str=13
+|agi=13
+|wis=13
+|luck=13
+|misc=10% Defence
+|upgrade=5
+|defence=50
+|sellprice=47045500
+|setname = Lustre
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Void Imperium Kicks|1}}
+{{detrecipe|40|Dementia Boots|1}}
+{{detrecipe|80|Poison Froge|3}}
+{{detrecipe|80|Dementia Bar|500}}
+{{detrecipe|40|Flycicle|60000}}
+{{detrecipe|40|Void Bar|725}}
+{{detrecipe|40|Dense Water|4}}
+{{detrecipe|3|TV Remote|120000}}
+{{detrecipe|3|Lustre Bar|2000}}
+|tot=
+{{detrecipe/totals|TV Remote|120000}}
+{{detrecipe/totals|Lustre Bar|2000}}
+{{detrecipe/totals|Flycicle|60000}}
+{{detrecipe/totals|Void Bar|725}}
+{{detrecipe/totals|Dense Water|4}}
+{{detrecipe/totals|Poison Froge|3}}
+{{detrecipe/totals|Dementia Bar|500}}
+}}

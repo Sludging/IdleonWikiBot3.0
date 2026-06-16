@@ -1,0 +1,23 @@
+{{InfoEnemy
+|image=Sand Castle Walking.gif
+|attack=52
+|health=8500
+|defence=60
+|speed=3
+|exp=265
+|respawn=40
+|defence0=42.67
+|area=Shifty Sandbox
+|world=Yum-Yum Desert
+|crystal=yes
+|crystalname=Crystal Crabal
+|hascard=yes
+|nextenemy=Pincermin
+|prevenemy=Mafioso
+}}
+{{DropTable/head|Droptable for Sand Castle}}
+{{DropTable/coin|430|0.4}}
+{{DropTable|Furled Flag|0.19|1}}
+{{DropTable|Claiming Cashe|0.05|1|special=([[Goldric#Only Winners have Portraits|Goldric]])}}
+{{DropTable/card|0.0001}}
+{{DropTable/append|DropTable7|0.0035|1}}

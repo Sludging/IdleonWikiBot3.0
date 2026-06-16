@@ -1,0 +1,8 @@
+{{InfoItem
+|type=Bar
+|sellprice=1500
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Chillsnap Golden Chest(W3)]]|0.2|80}}
+|}

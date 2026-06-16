@@ -1,0 +1,27 @@
+{{InfoItem
+|type=Helmet
+|class=All
+|level=180
+|weaponpower=7
+|str=35
+|agi=35
+|wis=35
+|luck=35
+|misc=4% All Stats
+|upgrade=9
+|defence=100
+|sellprice=470150
+|setname = Troll
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Troll Scales|50}}
+{{detrecipe|3|Gold Twine|3}}
+{{detrecipe|3|Starfire Bar|20000}}
+{{detrecipe|3|Nullo Salt|4000}}
+|tot=
+{{detrecipe/totals|Troll Scales|50}}
+{{detrecipe/totals|Gold Twine|3}}
+{{detrecipe/totals|Starfire Bar|20000}}
+{{detrecipe/totals|Nullo Salt|4000}}
+}}

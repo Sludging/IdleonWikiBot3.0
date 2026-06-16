@@ -1,0 +1,13 @@
+{{InfoCard
+|title=Crawler Card
+|dropchance=2e-05
+|order=12
+|category=Smolderin' Plateau
+|effect=+% Sailing Speed (Passive)
+|bonus=4
+|reqtier=80.0
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Crawler]]|0.00002|1}}
+|}

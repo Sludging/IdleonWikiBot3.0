@@ -1,0 +1,11 @@
+{{InfoItem
+|type=Nametag
+|class=All
+|level=4
+|weaponpower=7
+|luck=10
+|misc=25% Drop Chance
+|misc2=25% Money
+|defence=15
+|sellprice=1
+}}

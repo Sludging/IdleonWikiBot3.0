@@ -1,0 +1,9 @@
+{{InfoItem
+|type=Soul
+|description=Fat chonker this one is! It must be the moonmoon diet these ghosts have, they should start eating some of those fruits for a change! 
+|sellprice=9
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Chillsnap Golden Chest(W3)]]|0.4|400}}
+|}

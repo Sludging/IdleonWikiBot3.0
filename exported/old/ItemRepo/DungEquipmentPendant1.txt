@@ -1,0 +1,7 @@
+{{InfoItem
+|type=Pendant
+|class=All
+|level=1
+|luck=5
+|sellprice=175
+}}

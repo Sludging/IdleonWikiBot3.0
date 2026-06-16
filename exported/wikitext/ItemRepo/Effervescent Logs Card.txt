@@ -1,0 +1,13 @@
+{{InfoCard
+|title=Effervescent Logs Card
+|dropchance=4e-08
+|order=12
+|category=Hard Resources
+|effect=+% Choppin Away Gains
+|bonus=4
+|reqtier=15.0
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Choppin#Drops|Choppin Effervescent Eucalyptus]]|0.00000004|1}}
+|}

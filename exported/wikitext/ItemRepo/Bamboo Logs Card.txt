@@ -1,0 +1,13 @@
+{{InfoCard
+|title=Bamboo Logs Card
+|dropchance=4e-08
+|order=11
+|category=Hard Resources
+|effect=+% Total Choppin Efficiency
+|bonus=10
+|reqtier=15.0
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Choppin#Drops|Choppin Bamboo]]|0.00000004|1}}
+|}

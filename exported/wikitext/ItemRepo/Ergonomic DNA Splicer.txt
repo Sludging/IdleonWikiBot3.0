@@ -1,0 +1,28 @@
+{{InfoItem
+|type=Dna Splicer
+|class=All
+|level=180
+|str=20
+|agi=20
+|wis=20
+|luck=20
+|upgrade=4
+|defence=35
+|skill=Laboratory
+|skillpower=150
+|sellprice=30140500
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Lost Batteries|200}}
+{{detrecipe|3|Double Barreled DNA Splicer|1}}
+{{detrecipe|40|Ice Age 3|30}}
+{{detrecipe|40|Bolstered DNA Splicer|1}}
+{{detrecipe|80|Ghost|100}}
+{{detrecipe|80|Sappy DNA Splicer|5}}
+|tot=
+{{detrecipe/totals|Lost Batteries|200}}
+{{detrecipe/totals|Ice Age 3|30}}
+{{detrecipe/totals|Ghost|100}}
+{{detrecipe/totals|Sappy DNA Splicer|5}}
+}}

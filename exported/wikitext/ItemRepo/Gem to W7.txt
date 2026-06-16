@@ -1,0 +1,5 @@
+{{InfoItem
+|type=Quest Item
+|description=Restores power to the W7 Portal in the spirit village, allowing travel to World 7! 
+|sellprice=1
+}}

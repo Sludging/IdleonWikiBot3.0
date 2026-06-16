@@ -1,0 +1,230 @@
+[
+    {
+        "name": "Golden Tome",
+        "desc": "Adds a new DMG Multi bonus type to the Tome in World 4",
+        "price": 25
+    },
+    {
+        "name": "Stamp Stack",
+        "desc": "Get +3 Stamp LVs every day for a random Stamp",
+        "price": 30
+    },
+    {
+        "name": "Bubble Broth",
+        "desc": "Get +5 LVs for a random Alchemy Bubble every day",
+        "price": 20
+    },
+    {
+        "name": "Equinox Enhancement",
+        "desc": "Get 1.5x faster Bar Fill Rate in Equinox Valley in World 3",
+        "price": 15
+    },
+    {
+        "name": "Supreme Wiring",
+        "desc": "+2% Printer Output per day, taking new sample resets this",
+        "price": 45
+    },
+    {
+        "name": "Sleepy Joe Armstrong",
+        "desc": "+20% AFK Gains for all things IdleOn related",
+        "price": 25
+    },
+    {
+        "name": "Village Encouragement",
+        "desc": "All Villagers in World 5 Camp get 1.25x EXP Gain",
+        "price": 30
+    },
+    {
+        "name": "Gilded Vote Button",
+        "desc": "Get +17% higher Ballot Bonus Multi from Voting",
+        "price": 35
+    },
+    {
+        "name": "Extra Page",
+        "desc": "Get +1 more Filter Page. Find it on the left side of Cards",
+        "price": 20
+    },
+    {
+        "name": "Coin Stacking",
+        "desc": "Get a 1.50x multiplier to ALL coin gain, and profit big time!",
+        "price": 15
+    },
+    {
+        "name": "Storage Chest",
+        "desc": "Get +12 storage slots for your storage chest",
+        "price": 15
+    },
+    {
+        "name": "Storage Vault",
+        "desc": "Get +16 storage slots for your storage chest",
+        "price": 40
+    },
+    {
+        "name": "Secret Pouch",
+        "desc": "Get +3 Inventory slots for your Items Backpack",
+        "price": 27
+    },
+    {
+        "name": "Ribbon Connoisseur",
+        "desc": "Get +3 more ribbons every day for your Ribbon Shelf",
+        "price": 55
+    },
+    {
+        "name": "Golden Square",
+        "desc": "Get +1 Trimmed Construction slot, which has 3x speed!",
+        "price": 23
+    },
+    {
+        "name": "Summoning Star",
+        "desc": "Get +10 Summoning Doublers, used on Summoning Upgrades!",
+        "price": 30
+    },
+    {
+        "name": "Royal Vote Button",
+        "desc": "Get +30% higher Ballot Bonus Multi instead of +17%",
+        "price": 25
+    },
+    {
+        "name": "Another Page",
+        "desc": "Get +1 more Filter Page. Find it on the left side of Cards",
+        "price": 50
+    },
+    {
+        "name": "Extra Exaltedness",
+        "desc": "Get +1 Exalted Stamp use, and +20% Exalt Bonus.",
+        "price": 35
+    },
+    {
+        "name": "Smiley Statue",
+        "desc": "All statues give 1.30x higher bonuses, forever!",
+        "price": 70
+    },
+    {
+        "name": "Government Subsidy",
+        "desc": "Get 1.60x more coins from defeating monsters!",
+        "price": 17
+    },
+    {
+        "name": "Automated Mail",
+        "desc": "Get +5 Boxes at the Post Office every day you play!",
+        "price": 15
+    },
+    {
+        "name": "Friendly Slot",
+        "desc": "Adds +1 more slot for your Friend Bonuses in Codex!",
+        "price": 12
+    },
+    {
+        "name": "Fossil Meritocracy",
+        "desc": "Get +20% higher Meritocracy Bonus in World 7",
+        "price": 45
+    },
+    {
+        "name": "Bonus Points",
+        "desc": "You now earn 1.5x PTS for the Hoops and Darts shops!",
+        "price": 20
+    },
+    {
+        "name": "Coolral",
+        "desc": "Boosts daily gain for the Coral Reef in W7 by 1.30x",
+        "price": 30
+    },
+    {
+        "name": "Plain Showcase",
+        "desc": "Get +1 more trophy slot for the Gallery in World 7",
+        "price": 35
+    },
+    {
+        "name": "Singed Tome",
+        "desc": "Adds a new Drop Rate Multi bonus to the Tome in World 4",
+        "price": 125
+    },
+    {"name": "Higgs Boson", "desc": "All atoms have a +20 higher Max LV", "price": 150},
+    {
+        "name": "Worldclass Showcase",
+        "desc": "Turns a Gallery Slot in World 7 to Grade 4",
+        "price": 180
+    },
+    {"name": "King of the Rack", "desc": "+10% Hat Rack Bonus Multi", "price": 30},
+    {
+        "name": "Omega Bubble",
+        "desc": "Kattlekruk divinity gives 1.50x more daily bubbles",
+        "price": 75
+    },
+    {
+        "name": "Legend Scroll",
+        "desc": "Get +2 more Legend Talent PTS for World 7",
+        "price": 25
+    },
+    {
+        "name": "Kaleidoscope",
+        "desc": "Gives you 1 more Kaleidoscope for Research in World 7",
+        "price": 35
+    },
+    {
+        "name": "Magnifying Glass",
+        "desc": "Gives you 1 more Magnifier for Research in World 7",
+        "price": 25
+    },
+    {
+        "name": "Keen Observations",
+        "desc": "Get +3 more Daily Attempts at finding Observations!",
+        "price": 33
+    },
+    {
+        "name": "Shape Obsession",
+        "desc": "Get +1 more Shape for your Research Grid in World 7",
+        "price": 200
+    },
+    {
+        "name": "Rift Guy Sticker",
+        "desc": "Increases all Sticker Bonuses by +30%",
+        "price": 75
+    },
+    {
+        "name": "Glimbo Coupon",
+        "desc": "Lowers the cost of all Glimbo Trades in World 7 by 25%",
+        "price": 60
+    },
+    {
+        "name": "Tiny Cog Twins",
+        "desc": "Daily producion of Tiny Cogs is now double!",
+        "price": 175
+    },
+    {
+        "name": "Glimbo VIP Pass",
+        "desc": "Each Glimbo Trade boosts Vault Max LV by +2 not +1",
+        "price": 199
+    },
+    {
+        "name": "Golden Registrant",
+        "desc": "Registering for Grand Tournament gives 1000 Gold Balls",
+        "price": 15
+    },
+    {"name": "Glass Dice", "desc": "+50% total Crystal Mob Spawn Chance", "price": 35},
+    {
+        "name": "Magnate Exotica",
+        "desc": "+8 weekly Exotic Market purchases and +30% are free",
+        "price": 170
+    },
+    {
+        "name": "Minehead Money",
+        "desc": "Earn 2x more currency for World 7's Depth Charge",
+        "price": 35
+    },
+    {
+        "name": "Sushi Stackz",
+        "desc": "Earn 2x more currency for World 7's Sushi Station",
+        "price": 20
+    },
+    {
+        "name": "Research Registrant",
+        "desc": "Registering for Tournament gives 12hrs Research gains",
+        "price": 150
+    },
+    {
+        "name": "Monumental Reverence",
+        "desc": "+100 LVs for all Monument bonuses every day forever",
+        "price": 100
+    }
+]

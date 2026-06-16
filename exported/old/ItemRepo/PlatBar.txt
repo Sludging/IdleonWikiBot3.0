@@ -1,5 +1,10 @@
 {{InfoItem
 |type=Bar
 |sellprice=460
-|source=[[Sandstone Golden Chest]], [[Chillsnap Bronze Chest]], [[Chillsnap Bronze Chest]]
+|notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Sandstone Golden Chest]]|0.2|20}}
+{{detdrops|[[Chillsnap Bronze Chest]]|0.35|60}}
+{{detdrops|[[Chillsnap Bronze Chest]]|0.2|20}}
+|}

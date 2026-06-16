@@ -1,12 +1,15 @@
-import re
-
-from definitions.TalentName import TalentName
-from helpers.HelperFunctions import replaceUnderscores
-from repositories.master.ListRepository import ListRepository
+import string
 from typing import List
 
+from definitions.talents.TalentName import TalentName
+from helpers.HelperFunctions import replaceUnderscores, getFromSplit
+from repositories.master.Repository import Repository
 
-class TalentNameRepo(ListRepository[TalentName]):
+
+class TalentNameRepo(Repository[TalentName]):
+	@classmethod
+	def getCategory(cls) -> str:
+		return "Talents"
 
 	@classmethod
 	def getSections(cls) -> List[str]:
@@ -14,10 +17,14 @@ class TalentNameRepo(ListRepository[TalentName]):
 
 	@classmethod
 	def generateRepo(cls) -> None:
-		reEverything = r'"([a-zA-Z0-9_ +{}\',.\-%!$:`?;\n\]\(\)]*)"\.'
-		talentNames = re.findall(reEverything, cls.getSection())[0].split(" ")
+		talentNames = getFromSplit(cls.getSection())
 		for n, talentName in enumerate(talentNames):
-			cls.add(TalentName(
-				name = replaceUnderscores(talentName).title(),
+			name = string.capwords(replaceUnderscores(talentName))
+			cls.add(f"{n}", TalentName(
+				name = name,
+				id = n
+			))
+			cls.addList(TalentName(
+				name = name,
 				id = n
 			))

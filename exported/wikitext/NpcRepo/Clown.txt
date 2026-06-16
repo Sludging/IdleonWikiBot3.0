@@ -1,0 +1,16 @@
+{{npc
+|world=Yum-Yum Desert
+|location=YumYum Grotto
+|npcType=PC
+|birthweight=9.36
+|starsign=Scorpio
+|mmm=Fletcher
+|notes=The Clown is located beside [[Desert Davey]] to his right.
+}}
+{{Quest/head}}
+|}
+{{dialogue/head}}
+{{dialogue/row|text=Games! Fun! Prizes! Come play why dont ya!}}
+{{dialogue/row|text=Hehehe sorry! Noobs cant play! <br> Return at Lv. 8}}
+{{dialogue/row|text=Oh you ARE over Lv. 8 nice! I run the Arcade the greatest game in town! Search around there isn't a more thrilling game to be found!}}
+|}

@@ -1,0 +1,24 @@
+{{InfoItem
+|type=Shirt
+|class=All
+|level=35
+|weaponpower=3
+|str=7
+|agi=7
+|wis=7
+|upgrade=5
+|defence=25
+|sellprice=30100
+|setname = Amarok
+|notes= 
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Amarok Slab|10}}
+{{detrecipe|3|Iron Bar|300}}
+{{detrecipe|3|Corn Kernels|600}}
+|tot=
+{{detrecipe/totals|Amarok Slab|10}}
+{{detrecipe/totals|Iron Bar|300}}
+{{detrecipe/totals|Corn Kernels|600}}
+}}

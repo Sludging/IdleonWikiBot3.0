@@ -1,0 +1,10 @@
+{{InfoItem
+|type=Ore
+|hascard=yes
+|description=Smelt down 4 Ores into 1 Bar at the Forge. Smelting will take 30 Seconds per Bar using Forge Slot 1. 
+|sellprice=7
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Dewdrop Silver Chest(W1)]]|0.6|50}}
+|}

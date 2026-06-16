@@ -3,14 +3,22 @@ from typing import List
 from definitions.dungeons.DungItem import DungItem
 from helpers.Constants import Constants
 from helpers.HelperFunctions import getFromSplitArray, getFromArrayArray
-from repositories.AchievementRepo import AchievementRepo
-from repositories.master.ListRepository import ListRepository
+from repositories.master.Repository import Repository
+from repositories.misc.AchievementRepo import AchievementRepo
 
 
-class DungItemRepo(ListRepository[DungItem]):
+class DungItemRepo(Repository[DungItem]):
 	"""
 	Depends on AchievementRepo
 	"""
+
+	@classmethod
+	def getCategory(cls) -> str:
+		return "Dungeon"
+
+	@classmethod
+	def initDependencies(cls, log = True) -> None:
+		AchievementRepo.initialise(cls.codeReader, log)
 
 	@classmethod
 	def getSections(cls) -> List[str]:
@@ -24,7 +32,7 @@ class DungItemRepo(ListRepository[DungItem]):
 		for n, item in enumerate(data):
 			worldIndex = int(achieveUn[n]) // 70
 			world = Constants.worlds[worldIndex]
-			cls.add(DungItem(
+			addition = DungItem(
 				name = item[0],
 				bonus = item[1],
 				increment = item[2],
@@ -35,12 +43,14 @@ class DungItemRepo(ListRepository[DungItem]):
 				maxLevel = item[7],
 				achieve = cls.getCorrespondingAchieve(int(achieveUn[n])),
 				world = world
-			))
+			)
+			cls.add(item[0], addition)
+			cls.addList(addition)
 
 	@classmethod
-	def getCorrespondingAchieve(cls, n):
+	def getCorrespondingAchieve(cls, n: int):
 		if n == 0:
 			return ""
 		if n == -1:
 			return "Unobtainable"
-		return AchievementRepo.get(n).name
+		return AchievementRepo.getList(n).name

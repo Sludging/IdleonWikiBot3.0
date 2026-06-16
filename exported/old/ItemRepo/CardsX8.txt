@@ -1,0 +1,10 @@
+{{InfoCard
+|title=Cactopunk Card
+|dropchance=0.0025
+|order=15
+|category=Dungeons
+|effect=+% Dungeon Boss Dmg
+|bonus=3
+|reqtier=2.0
+|sellprice=1
+}}

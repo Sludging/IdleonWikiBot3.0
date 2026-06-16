@@ -1,0 +1,6 @@
+{{InfoItem
+|type=Upgrade
+|description=Drag onto Tempest Ring to apply. +1 Tool Skill Power, +9 Misc Bonus. Success Chance; 30% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails! 
+|tier=Tempest
+|sellprice=125
+}}

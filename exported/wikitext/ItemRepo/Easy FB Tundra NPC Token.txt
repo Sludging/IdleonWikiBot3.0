@@ -1,0 +1,15 @@
+{{InfoItem
+|type=Quest Item
+|description=Made up of the tokens from all of the Tundra NPCs whose quests are easiest to complete. DONT SELL THIS ITEM 
+|sellprice=12000
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Lonely Hunter Token|1}}
+{{detrecipe|3|Hoggi Token|1}}
+{{detrecipe|3|Snouts Token|1}}
+|tot=
+{{detrecipe/totals|Lonely Hunter Token|1}}
+{{detrecipe/totals|Hoggi Token|1}}
+{{detrecipe/totals|Snouts Token|1}}
+}}

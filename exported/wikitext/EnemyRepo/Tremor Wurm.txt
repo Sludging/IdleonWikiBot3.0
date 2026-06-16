@@ -1,0 +1,24 @@
+{{InfoEnemy
+|image=Tremor Wurm Walking.gif
+|attack=200000
+|health=1500000000
+|defence=50000
+|speed=2
+|exp=1250000
+|respawn=47
+|defence0=135245.48
+|area=The Worm Nest
+|world=Smolderin' Plateau
+|crystal=yes
+|crystalname=Crystal Capybara
+|hascard=yes
+|nextenemy=Gloomie Mushroom
+|prevenemy=Crawler
+}}
+{{DropTable/head|Droptable for Tremor Wurm}}
+{{DropTable/coin|50000|0.5}}
+{{DropTable|Mongo Worm Slices|0.16|1}}
+{{DropTable|Kruk's Volcano Key|0.00004|1}}
+{{DropTable/card|0.00002}}
+{{DropTable|Dementia Sword Stamp|0.000001|1}}
+{{DropTable/append|DropTable27|0.0035|1}}

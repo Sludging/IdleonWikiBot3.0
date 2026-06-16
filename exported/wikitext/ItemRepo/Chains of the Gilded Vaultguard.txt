@@ -1,0 +1,14 @@
+{{InfoItem
+|type=Cape
+|class=All
+|level=1
+|weaponpower=30
+|str=10
+|agi=10
+|wis=10
+|luck=30
+|misc=100% Class Exp Multi
+|misc2=40% Drop Rate Multi
+|defence=25
+|sellprice=1
+}}

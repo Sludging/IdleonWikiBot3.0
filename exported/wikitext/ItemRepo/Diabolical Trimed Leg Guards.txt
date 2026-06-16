@@ -1,0 +1,41 @@
+{{InfoItem
+|type=Pants
+|class=All
+|level=130
+|str=18
+|agi=18
+|wis=18
+|luck=18
+|misc=13% Defence
+|upgrade=7
+|defence=65
+|sellprice=90494200
+|setname = Diabolical
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Lustre Scales|1}}
+{{detrecipe|40|Void Imperium Shardshins|1}}
+{{detrecipe|80|Dementia Shins|1}}
+{{detrecipe|120|Floof Ploof|8000}}
+{{detrecipe|120|Dementia Bar|400}}
+{{detrecipe|80|Wispy Lumber|75000}}
+{{detrecipe|80|Void Bar|650}}
+{{detrecipe|80|Dense Water|4}}
+{{detrecipe|40|Purple Screw|60000}}
+{{detrecipe|40|Lustre Bar|1600}}
+{{detrecipe|3|Fairy|450000}}
+{{detrecipe|3|Starfire Bar|4000}}
+{{detrecipe|3|Nullo Salt|600}}
+|tot=
+{{detrecipe/totals|Fairy|450000}}
+{{detrecipe/totals|Starfire Bar|4000}}
+{{detrecipe/totals|Nullo Salt|600}}
+{{detrecipe/totals|Purple Screw|60000}}
+{{detrecipe/totals|Lustre Bar|1600}}
+{{detrecipe/totals|Wispy Lumber|75000}}
+{{detrecipe/totals|Void Bar|650}}
+{{detrecipe/totals|Dense Water|4}}
+{{detrecipe/totals|Floof Ploof|8000}}
+{{detrecipe/totals|Dementia Bar|400}}
+}}

@@ -1,0 +1,25 @@
+{{InfoItem
+|type=Dna Splicer
+|class=All
+|level=140
+|str=15
+|agi=15
+|wis=15
+|luck=15
+|upgrade=4
+|defence=23
+|skill=Laboratory
+|skillpower=100
+|sellprice=30110500
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Ice Age 3|30}}
+{{detrecipe|3|Bolstered DNA Splicer|1}}
+{{detrecipe|40|Ghost|100}}
+{{detrecipe|40|Sappy DNA Splicer|5}}
+|tot=
+{{detrecipe/totals|Ice Age 3|30}}
+{{detrecipe/totals|Ghost|100}}
+{{detrecipe/totals|Sappy DNA Splicer|5}}
+}}

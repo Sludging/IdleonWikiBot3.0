@@ -1,0 +1,36 @@
+{{InfoItem
+|type=Shoes
+|class=All
+|level=95
+|str=12
+|agi=12
+|wis=12
+|luck=12
+|misc=5% Mastery
+|upgrade=5
+|defence=48
+|sellprice=7687006
+|setname = Chizoar
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Void Imperium Kicks|1}}
+{{detrecipe|40|Dementia Boots|1}}
+{{detrecipe|80|Poison Froge|3}}
+{{detrecipe|80|Dementia Bar|500}}
+{{detrecipe|40|Flycicle|60000}}
+{{detrecipe|40|Void Bar|725}}
+{{detrecipe|40|Dense Water|4}}
+{{detrecipe|3|Chizoar Spike|6}}
+{{detrecipe|3|Ice Age 3|10}}
+{{detrecipe|3|Dioxide Synthesis|100}}
+|tot=
+{{detrecipe/totals|Chizoar Spike|6}}
+{{detrecipe/totals|Ice Age 3|10}}
+{{detrecipe/totals|Dioxide Synthesis|100}}
+{{detrecipe/totals|Flycicle|60000}}
+{{detrecipe/totals|Void Bar|725}}
+{{detrecipe/totals|Dense Water|4}}
+{{detrecipe/totals|Poison Froge|3}}
+{{detrecipe/totals|Dementia Bar|500}}
+}}

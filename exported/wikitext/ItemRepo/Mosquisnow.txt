@@ -1,0 +1,10 @@
+{{InfoItem
+|type=Bug
+|hascard=yes
+|description=I'm so tired of all these blood sucking vermin in IdleOn... and these mosquisnow bugs are annoying too! 
+|sellprice=32
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Chillsnap Silver Chest(W3)]]|0.4|150}}
+|}

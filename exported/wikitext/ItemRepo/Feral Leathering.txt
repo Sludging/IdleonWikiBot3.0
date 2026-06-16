@@ -1,0 +1,25 @@
+{{InfoItem
+|type=Shirt
+|class=All
+|level=40
+|str=2
+|agi=12
+|misc=10% Catch Efficincy
+|upgrade=3
+|defence=19
+|sellprice=296080
+|notes= 
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Fur Shirt|1}}
+{{detrecipe|40|Glublin Ear|500}}
+{{detrecipe|40|Iron Bar|500}}
+{{detrecipe|3|Stick|3000}}
+{{detrecipe|3|Nuget Cake|1}}
+|tot=
+{{detrecipe/totals|Stick|3000}}
+{{detrecipe/totals|Nuget Cake|1}}
+{{detrecipe/totals|Glublin Ear|500}}
+{{detrecipe/totals|Iron Bar|500}}
+}}

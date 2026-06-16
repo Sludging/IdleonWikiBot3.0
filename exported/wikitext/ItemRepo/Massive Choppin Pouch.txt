@@ -1,0 +1,15 @@
+{{InfoItem
+|type=Carry Bag
+|description=Hold down on this bag to increase the Carry Capacity of the following items to 5000: Logs, Leaves
+|level=100
+|sellprice=6090000
+|setname = Massive
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Alien Hive Chunk|110000}}
+{{detrecipe|3|Dioxide Synthesis|400}}
+|tot=
+{{detrecipe/totals|Alien Hive Chunk|110000}}
+{{detrecipe/totals|Dioxide Synthesis|400}}
+}}

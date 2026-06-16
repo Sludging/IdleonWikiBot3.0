@@ -1,27 +1,27 @@
 {{Talent
-|name=Bored To Death
-|textArr=Reduces the Respawn Timer to (Table 1) sec. This will boost AFK Survival Percent!
-|form1=reduce
-|x1=600
-|x2=2
+|name=Cash Money
+|textArr=All monsters drop +(Table 1)% more coins. Use these coins to buy all sorts of things!
+|form1=decay
+|x1=70
+|x2=50
 }}
 {{Talent
-|name=Beginner Best Class
-|textArr=+1 Base Weapon Power every 10 Lvs of your best Beginner. Caps at +(Table 1).
+|name=Quest Kapow!
+|textArr=Each Completed Quest on any character gives +1% Damage, up to a total of +(Table 1)% Damage
 |form1=add
-|x1=1
+|x1=5
 |x2=0
 }}
 {{Talent
 |name=Studious Quester
-|textArr=Quests give +(Table 1)% more exp than normal
-|form1=decay
-|x1=120
-|x2=40
+|textArr=Each Completed Quest on any character gives +0.10% All Skill efficiency. Total bonus caps at +(Table 1)%
+|form1=add
+|x1=0.4
+|x2=0
 }}
 {{Talent
 |name=Quest Chungus
-|textArr=Each Completed Quest gives +1 LUK. Total bonus caps at +(Table 1) LUK
+|textArr=Each Completed Quest on any character gives +1 LUK. Total bonus caps at +(Table 1) LUK
 |form1=add
 |x1=4
 |x2=0
@@ -42,7 +42,7 @@
 }}
 {{Talent
 |name=Tick Tock
-|textArr=+(Table 1)% Away Gains Rate for both Fighting and Skills
+|textArr=+(Table 1)% AFK Gains Rate for both Fighting and Skills
 |form1=decay
 |x1=8
 |x2=50
@@ -60,6 +60,9 @@
 |form1=reduce
 |x1=10000
 |x2=25
+|cooldown=200
+|actiontime=0.5
+|manacost=1
 }}
 {{Talent
 |name=Attacks On Simmer
@@ -69,11 +72,11 @@
 |x2=100
 }}
 {{Talent
-|name=Toilet Paper Postage
-|textArr=Stamps giving Skill Efficiency will give (Table 1)x higher bonuses.
-|form1=decayMulti
-|x1=0.7
-|x2=100
+|name=Beginner Best Class
+|textArr=+1 Base Weapon Power every 10 Lvs of your best Beginner. Caps at +(Table 1).
+|form1=add
+|x1=1
+|x2=0
 }}
 {{Talent
 |name=Exp Converter
@@ -81,6 +84,9 @@
 |form1=decay
 |x1=150
 |x2=200
+|cooldown=3
+|actiontime=0.1
+|manacost=1
 }}
 {{Talent
 |name=Goblet Of Hemoglobin

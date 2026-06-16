@@ -1,0 +1,13 @@
+{
+    "0": {"bonus": "}x Bones", "x0": 420, "x1": 7000},
+    "1": {"bonus": "}x Villager EXP", "x0": 150, "x1": 1000},
+    "2": {"bonus": "}x Dust", "x0": 750, "x1": 6000},
+    "3": {"bonus": "}x Artifact Find", "x0": 100, "x1": 3000},
+    "4": {"bonus": "}x Amber", "x0": 400, "x1": 15000},
+    "5": {"bonus": "+{% Palette Luck", "x0": 200, "x1": 12000},
+    "6": {"bonus": "}x Tachyon", "x0": 600, "x1": 5000},
+    "7": {"bonus": "+{% Research XP", "x0": 20, "x1": 16000},
+    "8": {"bonus": "}x Equinox", "x0": 220, "x1": 5000},
+    "9": {"bonus": "+{% W7 Skill 3", "x0": 100, "x1": 17000},
+    "10": {"bonus": "filler", "x0": 500, "x1": 5000}
+}

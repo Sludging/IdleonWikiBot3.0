@@ -1,0 +1,10 @@
+{{InfoCard
+|title=IdleOn 4th Anniversary Card
+|dropchance=1
+|order=20
+|category=Event
+|effect=+% Drop Rate (Passive)
+|bonus=2
+|reqtier=4.0
+|sellprice=1
+}}

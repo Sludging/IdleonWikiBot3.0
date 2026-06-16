@@ -1,0 +1,34 @@
+{{InfoItem
+|type=Pants
+|class=All
+|level=110
+|str=14
+|agi=14
+|wis=14
+|luck=14
+|misc=9% Defence
+|upgrade=6
+|defence=54
+|sellprice=36430200
+|setname = Lustre
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Void Imperium Shardshins|1}}
+{{detrecipe|40|Dementia Shins|1}}
+{{detrecipe|80|Floof Ploof|8000}}
+{{detrecipe|80|Dementia Bar|400}}
+{{detrecipe|40|Wispy Lumber|75000}}
+{{detrecipe|40|Void Bar|650}}
+{{detrecipe|40|Dense Water|4}}
+{{detrecipe|3|Purple Screw|60000}}
+{{detrecipe|3|Lustre Bar|1600}}
+|tot=
+{{detrecipe/totals|Purple Screw|60000}}
+{{detrecipe/totals|Lustre Bar|1600}}
+{{detrecipe/totals|Wispy Lumber|75000}}
+{{detrecipe/totals|Void Bar|650}}
+{{detrecipe/totals|Dense Water|4}}
+{{detrecipe/totals|Floof Ploof|8000}}
+{{detrecipe/totals|Dementia Bar|400}}
+}}

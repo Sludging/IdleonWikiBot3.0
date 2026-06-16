@@ -1,0 +1,26 @@
+{{InfoItem
+|type=Golden Food
+|description=Increases all AFK Gains rate. Golden foods are never consumed.
+|sellprice=100
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Candalight]]|0.0012|1}}
+{{detdrops|[[Sprout Spirit]]|0.00001|1}}
+{{detdrops|[[Ricecake]]|0.0000112|1}}
+{{detdrops|[[River Spirit]]|0.0000124|1}}
+{{detdrops|[[Baby Troll]]|0.0000136|1}}
+{{detdrops|[[Woodlin Spirit]]|0.0000148|1}}
+{{detdrops|[[RIP Tide]]|0.00001|1}}
+{{detdrops|[[Whimsical Bronze Chest(W6)]]|0.004|1}}
+{{detdrops|[[Whimsical Silver Chest(W6)]]|0.004|1}}
+{{detdrops|[[Whimsical Golden Chest(W6)]]|0.004|1}}
+{{detdrops|[[Catching#Drops|Catching Ladybug]]|0.00006|1}}
+{{detdrops|[[Crystal Candalight]]|0.001105|1}}
+{{detdrops|[[Royal Egg]]|0.0000182|1}}
+{{detdrops|[[Minichief Spirit]]|0.00002275|1}}
+{{detdrops|[[Samurai Guardian]]|0.00002275|1}}
+{{detdrops|[[Emperor]]|0.0065|2}}
+{{detdrops|[[Chaotic Emperor]]|0.0065|2}}
+{{detdrops|[[Sovereign Emperor]]|0.0065|2}}
+|}
+{{gfoodbonus|4|Increases all AFK Gains rate by [%.}}

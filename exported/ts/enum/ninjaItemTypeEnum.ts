@@ -1,0 +1,8 @@
+export enum NinjaItemTypeEnum {
+    Item = "Item",
+    Weapon = "Weapon",
+    Trinket = "Trinket",
+    PristineCharm = "PristineCharm",
+    Gemstone = "Gemstone",
+    Symbol = "Symbol"
+}

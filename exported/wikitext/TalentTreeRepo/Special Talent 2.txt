@@ -2,7 +2,7 @@
 |name=Just Exp
 |textArr=+(Table 1)% Class EXP
 |form1=decay
-|x1=10
+|x1=30
 |x2=50
 }}
 {{Talent
@@ -46,13 +46,19 @@
 |form1=decay
 |x1=30
 |x2=60
+|cooldown=1800
+|actiontime=0.1
+|manacost=1
 }}
 {{Talent
 |name=Printer Sampling
-|textArr=Cast to sample (Table 1)% of your current AFK gains rate, which is used by the 3d Printer.
+|textArr=Use from the Attack Bar to sample (Table 1)% of the resource you're AFKing, produced at the 3d Printer!
 |form1=bigBase
 |x1=10
 |x2=0.075
+|cooldown=2
+|actiontime=0.1
+|manacost=1
 }}
 {{Talent
 |name=Supersource
@@ -81,6 +87,9 @@
 |form1=decay
 |x1=50
 |x2=50
+|cooldown=6
+|actiontime=0.1
+|manacost=1
 }}
 {{Talent
 |name=Mega Crit

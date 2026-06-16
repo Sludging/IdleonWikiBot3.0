@@ -1,0 +1,15 @@
+{{InfoItem
+|type=Quest Item
+|description=Made up of the tokens from all of the Tundra NPCs whose quests are tough to complete. DONT SELL THIS ITEM 
+|sellprice=12000
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Shuvelle Token|1}}
+{{detrecipe|3|Yondergreen Token|1}}
+{{detrecipe|3|Crystalswine Token|1}}
+|tot=
+{{detrecipe/totals|Shuvelle Token|1}}
+{{detrecipe/totals|Yondergreen Token|1}}
+{{detrecipe/totals|Crystalswine Token|1}}
+}}

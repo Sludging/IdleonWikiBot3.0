@@ -1,0 +1,18 @@
+{{InfoItem
+|type=Statue
+|description=A stone statue sculpted in the likeness of an absolute unit. Give this to the Statue Man in return for some bonus stats. 
+|bonus=Base Damage
+|sellprice=10
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.06|1}}
+{{detdrops|[[Slime]]|0.00048|1}}
+{{detdrops|[[Baby Boa]]|0.0006|1}}
+{{detdrops|[[Carrotman]]|0.0007199999999999999|1}}
+{{detdrops|[[Baba Yaga]]|0.12|1}}
+{{detdrops|[[Amarok]]|0.12|2}}
+{{detdrops|[[Chaotic Amarok]]|0.12|4}}
+{{detdrops|[[Dewdrop Silver Chest(W1)]]|0.12|1}}
+|}
+{{Statuedata|3|@Base Damage}}

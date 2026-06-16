@@ -1,0 +1,43 @@
+{{InfoItem
+|type=Pickaxe
+|class=All
+|level=45
+|str=18
+|agi=6
+|misc=8% Mining Efficincy
+|upgrade=4
+|skill=Mining
+|skillpower=24
+|speed=5
+|sellprice=8494320
+|setname = Void
+|notes= 
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Dementia Pickaxe|1}}
+{{detrecipe|40|Platinum Pickaxe|1}}
+{{detrecipe|80|Gold Pickaxe|1}}
+{{detrecipe|120|Iron Pickaxe|1}}
+{{detrecipe|160|Iron Bar|10}}
+{{detrecipe|160|Carrot Cube|150}}
+{{detrecipe|120|Megalodon Tooth|2500}}
+{{detrecipe|120|Gold Bar|400}}
+{{detrecipe|80|Platinum Bar|800}}
+{{detrecipe|80|Pincer Arm|10500}}
+{{detrecipe|40|Dementia Bar|275}}
+{{detrecipe|40|Moustache Comb|15000}}
+{{detrecipe|3|Void Bar|400}}
+{{detrecipe|3|Dense Water|5}}
+|tot=
+{{detrecipe/totals|Void Bar|400}}
+{{detrecipe/totals|Dense Water|5}}
+{{detrecipe/totals|Dementia Bar|275}}
+{{detrecipe/totals|Moustache Comb|15000}}
+{{detrecipe/totals|Platinum Bar|800}}
+{{detrecipe/totals|Pincer Arm|10500}}
+{{detrecipe/totals|Megalodon Tooth|2500}}
+{{detrecipe/totals|Gold Bar|400}}
+{{detrecipe/totals|Iron Bar|10}}
+{{detrecipe/totals|Carrot Cube|150}}
+}}

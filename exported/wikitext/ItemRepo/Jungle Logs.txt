@@ -1,0 +1,9 @@
+{{InfoItem
+|type=Log
+|hascard=yes
+|sellprice=6
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Dewdrop Silver Chest(W1)]]|0.4|15}}
+|}

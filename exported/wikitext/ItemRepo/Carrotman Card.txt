@@ -1,0 +1,13 @@
+{{InfoCard
+|title=Carrotman Card
+|dropchance=0.019
+|order=7
+|category=Blunder Hills
+|effect=+ Base AGI
+|bonus=2
+|reqtier=10.0
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Carrotman]]|0.019|1}}
+|}

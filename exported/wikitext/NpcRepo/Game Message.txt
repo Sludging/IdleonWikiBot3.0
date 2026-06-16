@@ -1,0 +1,14 @@
+{{npc
+|world=Unknown
+|location=Unknown
+|npcType=Unknown
+|birthweight=1.01
+|starsign=Aries
+|mmm=Vanderpoel
+|notes= 
+}}
+{{Quest/head}}
+|}
+{{dialogue/head}}
+{{dialogue/row|text=Wut wuuuut!}}
+|}

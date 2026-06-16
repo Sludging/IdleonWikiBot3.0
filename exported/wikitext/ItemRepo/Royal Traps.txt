@@ -1,0 +1,54 @@
+{{InfoItem
+|type=Trap Box Set
+|class=All
+|level=48
+|agi=20
+|upgrade=4
+|skill=Trapping
+|skillpower=45
+|speed=4
+|sellprice=8111313
+|setname = Diabolical
+|notes={{otheruses|the level-48 trap|the level-60 trap|Egalitarian Traps}}
+}}
+{| class="wikitable mw-collapsible sortable" id="Trap Efficiency"
+|+Trap Data
+!Time
+!Qty Multi
+!XP Multi
+!Shiny Multi
+!Efficiency
+|-
+{{Traps/row||minutes=20|qty=2|shiny=4}}
+{{Traps/row||minutes=60|qty=4|shiny=8}}
+{{Traps/row||minutes=600|qty=21|shiny=38}}
+{{Traps/row||minutes=2400|qty=70|shiny=125}}
+{{Traps/row||minutes=9600|qty=250|shiny=375|dayform=yes}}
+{{Traps/row||minutes=40317|qty=550|shiny=1150|dayform=yes}}
+
+|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Blobfish|100000}}
+{{detrecipe|3|Meaty Traps|1}}
+{{detrecipe|40|Jade Scarab|10}}
+{{detrecipe|40|Steel Traps|1}}
+{{detrecipe|80|Eternal Lord of  The Undying Ember|6}}
+{{detrecipe|80|Natural Traps|1}}
+{{detrecipe|120|Nakeo Moleo|5}}
+{{detrecipe|120|Redox Salts|50}}
+{{detrecipe|120|Wooden Traps|1}}
+{{detrecipe|160|Mutant Crabbo|2}}
+{{detrecipe|160|Redox Salts|20}}
+{{detrecipe|80|Dense Water|5}}
+{{detrecipe|40|Dioxide Synthesis|1000}}
+|tot=
+{{detrecipe/totals|Blobfish|100000}}
+{{detrecipe/totals|Jade Scarab|10}}
+{{detrecipe/totals|Dioxide Synthesis|1000}}
+{{detrecipe/totals|Eternal Lord of  The Undying Ember|6}}
+{{detrecipe/totals|Dense Water|5}}
+{{detrecipe/totals|Nakeo Moleo|5}}
+{{detrecipe/totals|Redox Salts|70}}
+{{detrecipe/totals|Mutant Crabbo|2}}
+}}

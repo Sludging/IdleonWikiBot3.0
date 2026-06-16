@@ -1,0 +1,6 @@
+{{InfoItem
+|type=Upgrade
+|description=Drag onto Tempest Ring to apply. +5 Misc Bonus. Success Chance; 60% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails! 
+|tier=Tempest
+|sellprice=125
+}}

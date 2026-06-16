@@ -1,0 +1,17 @@
+{{InfoItem
+|type=Upgrade
+|description=Drag onto any Weapon to apply. +1 Weapon Power. Success Chance; 100% Uses up 1 slots only if Successful 
+|tier=I
+|sellprice=125
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.015|1}}
+{{detdrops|[[Choppin#Drops|Choppin Oak Tree]]|0.00024|1}}
+{{detdrops|[[Choppin#Drops|Choppin Birch Tree]]|0.000255|1}}
+{{detdrops|[[Choppin#Drops|Choppin Jungle Tree]]|0.00026999999999999995|1}}
+{{detdrops|[[Choppin#Drops|Choppin Forest Tree]]|0.000285|1}}
+{{detdrops|[[Choppin#Drops|Choppin Stump Tree]]|0.000306|1}}
+{{detdrops|[[Choppin#Drops|Choppin Toilet Tree]]|0.000318|1}}
+{{detdrops|[[Dewdrop Bronze Chest(W1)]]|0.025|1}}
+|}

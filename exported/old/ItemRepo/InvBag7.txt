@@ -1,6 +1,18 @@
 {{InfoItem
 |type=Inventory
 |description=Hold down to permanently add +2 Slots to your Inventory. Can only be used once.
+|internalid=7
+|level=20
 |sellprice=200
-|source=[[DropTable6]]
+|setname = Inventory
+|notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Crystal Crabal]]|0.00108|1}}
+{{detdrops|[[Sandy Pot]]|0.0000054|1}}
+{{detdrops|[[Mimic]]|0.00000576|1}}
+{{detdrops|[[Crabcake]]|0.00000648|1}}
+{{detdrops|[[Biggie Hours]]|0.0009|1}}
+{{detdrops|[[Efaunt]]|0.0018|2}}
+{{detdrops|[[Sandstone Bronze Chest]]|0.0018|1}}
+|}

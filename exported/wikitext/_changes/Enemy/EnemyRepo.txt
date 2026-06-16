@@ -1,0 +1,286 @@
+<div class="GenericFlex"><div class="GenericChild">
+==Changes==
+{{patchnote/head|changed=Baba Yaga}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Move Speed|4|6|1}}
+{{patchnote|Respawn Time|86400|80400|1}}
+|}
+
+{{patchnote/head|changed=Mimic}}
+{{patchnote/bold|Details|0}}
+{{patchnote/bold|Damages|1}}
+{{patchnote|0|20|22|2}}
+{{patchnote|Def For 0|12.82|14.57|1}}
+|}
+
+{{patchnote/head|changed=Cinder Forge}}
+{{patchnote/bold|Drops|0}}
+{{patchnote|2| |69x {{ItemDisplay|Platinum Shins}} (0.5)|1}}
+|}
+
+{{patchnote/head|changed=Sir Stache}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Defence|350|360|1}}
+{{patchnote/bold|Damages|1}}
+{{patchnote|0|190|195|2}}
+{{patchnote|Def For 0|201.51|207.65|1}}
+|}
+
+{{patchnote/head|changed=Carrotman}}
+{{patchnote/bold|Drops|0}}
+{{patchnote|2|{{ItemDisplay|Carrotman Card}} (0.00009)|{{ItemDisplay|Carrotman Card}} (0.019)|1}}
+|}
+
+{{patchnote/head|changed=Baby Boa}}
+{{patchnote/bold|Drops|0}}
+{{patchnote|2|{{ItemDisplay|Baby Boa Card}} (0.000094)|{{ItemDisplay|Baby Boa Card}} (0.0294)|1}}
+|}
+
+{{patchnote/head|changed=Fruitflies}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Defence|6000|2000|1}}
+|}
+
+{{patchnote/head|changed=Green Mushroom}}
+{{patchnote/bold|Drops|0}}
+{{patchnote|2|{{ItemDisplay|Green Mushroom Card}} (0.0001)|{{ItemDisplay|Green Mushroom Card}} (0.001)|1}}
+|}
+
+{{patchnote/head|changed=Frog}}
+{{patchnote/bold|Drops|0}}
+{{patchnote|2|{{ItemDisplay|Frog Card}} (0.0001)|{{ItemDisplay|Frog Card}} (0.001)|1}}
+|}
+
+{{patchnote/head|changed=Palm Tree}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Defence|1250|1000|1}}
+|}
+
+{{patchnote/head|changed=Tyson}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Defence|125|150|1}}
+{{patchnote/bold|Damages|1}}
+{{patchnote|0|80|100|2}}
+{{patchnote|Def For 0|72.24|94.54|1}}
+|}
+
+{{patchnote/head|changed=Slime}}
+{{patchnote/bold|Drops|0}}
+{{patchnote|2|{{ItemDisplay|Slime Card}} (0.000095)|{{ItemDisplay|Slime Card}} (0.0395)|1}}
+|}
+
+{{patchnote/head|changed=Gigafrog}}
+{{patchnote/bold|Drops|0}}
+{{patchnote|2|{{ItemDisplay|Gigafrog Card}} (0.00007)|{{ItemDisplay|Gigafrog Card}} (0.007)|1}}
+|}
+
+{{patchnote/head|changed=Moonmoon}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Defence|150|185|1}}
+{{patchnote/bold|Damages|1}}
+{{patchnote|0|90|120|2}}
+{{patchnote|Def For 0|83.29|117.54|1}}
+|}
+
+{{patchnote/head|changed=Snelbie}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Defence|200|250|1}}
+{{patchnote/bold|Damages|1}}
+{{patchnote|0|125|155|2}}
+{{patchnote|Def For 0|123.37|158.98|1}}
+|}
+
+{{patchnote/head|changed=Sand Giant}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Defence|170|230|1}}
+{{patchnote/bold|Damages|1}}
+{{patchnote|0|110|140|2}}
+{{patchnote|Def For 0|105.96|141.06|1}}
+|}
+
+{{patchnote/head|changed=Jungle Tree}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Defence|250|120|1}}
+|}
+
+{{patchnote/head|changed=Flycicle}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Defence|35000|15000|1}}
+|}
+
+{{patchnote/head|changed=Astro Silver Chest}}
+{{patchnote/bold|Drops|0}}
+{{patchnote|0|30000000x Coins (1)|1500000x Coins (1)|1}}
+|}
+
+{{patchnote/head|changed=Butterflies}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Defence|400|80|1}}
+|}
+
+{{patchnote/head|changed=Sentient Cereal}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Defence|2000|400|1}}
+|}
+
+{{patchnote/head|changed=Pincermin}}
+{{patchnote/bold|Details|0}}
+{{patchnote/bold|Damages|1}}
+{{patchnote|0|55|60|2}}
+{{patchnote|Def For 0|45.72|50.87|1}}
+|}
+
+{{patchnote/head|changed=Sand Castle}}
+{{patchnote/bold|Details|0}}
+{{patchnote/bold|Damages|1}}
+{{patchnote|0|45|52|2}}
+{{patchnote|Def For 0|35.69|42.67|1}}
+|}
+
+{{patchnote/head|changed=Astro Golden Chest}}
+{{patchnote/bold|Drops|0}}
+{{patchnote|0|60000000x Coins (1)|4000000x Coins (1)|1}}
+|}
+
+{{patchnote/head|changed=Scarab}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Defence|500000|300000|1}}
+|}
+
+{{patchnote/head|changed=Sheepie}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Defence|250|290|1}}
+{{patchnote/bold|Damages|1}}
+{{patchnote|0|135|155|2}}
+{{patchnote|Def For 0|135.14|158.98|1}}
+|}
+
+{{patchnote/head|changed=Mosquisnow}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Defence|15000|7500|1}}
+|}
+
+{{patchnote/head|changed=Frost Flake}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Defence|300|330|1}}
+{{patchnote/bold|Damages|1}}
+{{patchnote|0|160|170|2}}
+{{patchnote|Def For 0|165.0|177.1|1}}
+|}
+
+{{patchnote/head|changed=Forest Tree}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Defence|600|400|1}}
+|}
+
+{{patchnote/head|changed=Glublin}}
+{{patchnote/bold|Drops|0}}
+{{patchnote|2|{{ItemDisplay|Glublin Card}} (0.000086)|{{ItemDisplay|Glublin Card}} (0.0186)|1}}
+|}
+
+{{patchnote/head|changed=Saharan Foal}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Defence|16000|15000|1}}
+|}
+
+{{patchnote/head|changed=Valentslime}}
+{{patchnote/bold|Drops|0}}
+{{patchnote|0|69x Coins (0.5)|10x Coins (0.5)|1}}
+|}
+
+{{patchnote/head|changed=Fire Forge}}
+{{patchnote/bold|Drops|0}}
+{{patchnote|7| |69x {{ItemDisplay|Gold Helmet}} (0.5)|1}}
+{{patchnote|5| |69x {{ItemDisplay|Iron Platebody}} (0.5)|1}}
+{{patchnote|2| |69x {{ItemDisplay|Copper Helmet}} (0.5)|1}}
+{{patchnote|8| |69x {{ItemDisplay|Gold Platelegs}} (0.5)|1}}
+{{patchnote|4| |69x {{ItemDisplay|Iron Helmet}} (0.5)|1}}
+|}
+
+{{patchnote/head|changed=Bored Bean}}
+{{patchnote/bold|Drops|0}}
+{{patchnote|2|{{ItemDisplay|Bored Bean Card}} (0.000097)|{{ItemDisplay|Bored Bean Card}} (0.001)|1}}
+|}
+
+{{patchnote/head|changed=Astro Bronze Chest}}
+{{patchnote/bold|Drops|0}}
+{{patchnote|0|8000000x Coins (1)|800000x Coins (1)|1}}
+|}
+
+{{patchnote/head|changed=Bumble Bee}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Defence|100000|30000|1}}
+|}
+
+{{patchnote/head|changed=Mafioso}}
+{{patchnote/bold|Details|0}}
+{{patchnote/bold|Damages|1}}
+{{patchnote|0|35|38|2}}
+{{patchnote|Def For 0|26.12|28.94|1}}
+|}
+
+{{patchnote/head|changed=Oak Tree}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Defence|20|10|1}}
+|}
+
+{{patchnote/head|changed=Flies}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Defence|40|10|1}}
+|}
+
+{{patchnote/head|changed=Red Mushroom}}
+{{patchnote/bold|Drops|0}}
+{{patchnote|2|{{ItemDisplay|Red Mushroom Card}} (0.0001)|{{ItemDisplay|Red Mushroom Card}} (0.001)|1}}
+|}
+
+{{patchnote/head|changed=Wode Board}}
+{{patchnote/bold|Drops|0}}
+{{patchnote|2|{{ItemDisplay|Wode Board Card}} (0.00008)|{{ItemDisplay|Wode Board Card}} (0.018)|1}}
+|}
+
+{{patchnote/head|changed=Fairy}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Defence|250000|100000|1}}
+|}
+
+{{patchnote/head|changed=Crabcake}}
+{{patchnote/bold|Details|0}}
+{{patchnote/bold|Damages|1}}
+{{patchnote|0|25|28|2}}
+{{patchnote|Def For 0|17.12|19.75|1}}
+|}
+
+{{patchnote/head|changed=Birch Tree}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Defence|80|40|1}}
+|}
+
+</div><div class="GenericChild">
+==New==
+{{patchnote/head|changed=Glunko The Massive}}
+{{patchnote/bold|Details|0}}
+{{patchnote|Name| |Glunko The Massive|1}}
+{{patchnote|Respawn Time| |1200|1}}
+{{patchnote|Monster Hp Total| |10000|1}}
+{{patchnote|Special Type| |a|1}}
+{{patchnote|Exp Given| |1000|1}}
+{{patchnote|Defence| |5|1}}
+{{patchnote|Move Speed| |3|1}}
+{{patchnote/bold|Damages|1}}
+{{patchnote|0| |100|2}}
+{{patchnote|1| |1|2}}
+{{patchnote|Def For 0| |94.54|1}}
+{{patchnote/bold|Drops|0}}
+{{patchnote|0| |500x Coins (1)|1}}
+{{patchnote|1| |{{ItemDisplay|Glunko The Massive Card}} (0.99)|1}}
+{{patchnote|2| |{{ItemDisplay|Slimy Necklace}} (1)|1}}
+{{patchnote|3| |{{ItemDisplay|Goo Galoshes}} (0.3)|1}}
+{{patchnote|4| |25x {{ItemDisplay|Slime Sludge}} (1)|1}}
+{{patchnote|5| |25x {{ItemDisplay|Slime Sludge}} (1)|1}}
+{{patchnote|6| |25x {{ItemDisplay|Slime Sludge}} (1)|1}}
+{{patchnote|7| |DropTable3 (1)|1}}
+{{patchnote|Map Data| |None|0}}
+|}
+
+</div></div>

@@ -1,0 +1,23 @@
+{{InfoEnemy
+|image=Pincermin Walking.gif
+|attack=60
+|health=11500
+|defence=80
+|speed=5
+|exp=290
+|respawn=50
+|defence0=50.87
+|area=Pincer Plateau
+|world=Yum-Yum Desert
+|crystal=yes
+|crystalname=Crystal Crabal
+|hascard=yes
+|nextenemy=Mashed Potato
+|prevenemy=Sand Castle
+}}
+{{DropTable/head|Droptable for Pincermin}}
+{{DropTable/coin|460|0.38}}
+{{DropTable|Pincer Arm|0.18|1}}
+{{DropTable/card|0.0001}}
+{{DropTable/recipe|4|Bolstered DNA Splicer|0.000003|special=(Enter World 4)}}
+{{DropTable/append|DropTable7|0.0037|1}}

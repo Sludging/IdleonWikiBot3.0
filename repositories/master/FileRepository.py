@@ -1,5 +1,6 @@
 import json
 import os.path
+from abc import ABC
 from typing import TypeVar, Dict
 
 from pydantic import BaseModel
@@ -11,11 +12,15 @@ from repositories.master.Repository import Repository
 T = TypeVar("T", bound = BaseModel)
 
 
-class FileRepository(Repository[T]):
+class FileRepository(Repository[T], ABC):
 
 	@classmethod
-	def initialise(cls, codeReader: CodeReader) -> None:
+	def initialise(cls, codeReader: CodeReader, update: bool = False) -> None:
+		cls.codeReader = codeReader
+		cls.initDependencies(False)
+		cls.update = update
 		cls.repository = {}
+		cls.listRepository = []
 		cls.codeReader = codeReader
 		cls.sections = cls.getSections()
 		if cls.shouldGetFromFile():
@@ -32,23 +37,18 @@ class FileRepository(Repository[T]):
 	def _export(cls) -> None:
 		toEncode = {key: val.dict() for key, val in cls.repository.items()}
 		toEncode["version"] = cls.codeReader.version
-		with open(cls._getFileName(), mode = "w") as outfile:
+		with open(cls._getPath("repo", "json"), mode = "w") as outfile:
 			outfile.write(CompactJSONEncoder(indent = 4).encode(toEncode))
 
 	@classmethod
 	def shouldGetFromFile(cls) -> bool:
-		if not os.path.isfile(cls._getFileName()):
+		if not os.path.isfile(cls._getPath("repo", "json")):
 			return False
-		with open(cls._getFileName(), mode = "r") as infile:
-			data = json.load(infile)
-		if version := data.get("version"):
-			if version == cls.codeReader.version:
-				return True
-		return False
+		return not cls.update
 
 	@classmethod
 	def getFromFile(cls) -> None:
-		with open(cls._getFileName(), mode = "r") as infile:
+		with open(cls._getPath("repo", "json"), mode = "r") as infile:
 			data = json.load(infile)
 		for key, value in data.items():
 			if key == "version":
@@ -58,3 +58,4 @@ class FileRepository(Repository[T]):
 	@classmethod
 	def parse(cls, value: Dict[str, any]) -> T:
 		raise NotImplementedError
+

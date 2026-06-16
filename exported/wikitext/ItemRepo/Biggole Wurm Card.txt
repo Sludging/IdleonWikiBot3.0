@@ -1,0 +1,13 @@
+{{InfoCard
+|title=Biggole Wurm Card
+|dropchance=2e-05
+|order=9
+|category=Hyperion Nebula
+|effect=+ Base AGI
+|bonus=12
+|reqtier=24.0
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Biggole Wurm]]|0.00002|1}}
+|}

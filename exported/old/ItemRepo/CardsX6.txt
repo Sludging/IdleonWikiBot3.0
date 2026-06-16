@@ -1,0 +1,10 @@
+{{InfoCard
+|title=Target Card
+|dropchance=0.005
+|order=11
+|category=Dungeons
+|effect=+ Base Dungeon HP
+|bonus=2
+|reqtier=2.0
+|sellprice=1
+}}

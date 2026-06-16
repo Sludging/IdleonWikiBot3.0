@@ -1,0 +1,11 @@
+{{InfoStamp
+|type=Misc Stamp
+|bonus=+% more Resources from all Caverns
+|number=24
+|material=Cooking Ladle
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Ancient Golem]]|0.000001|1}}
+|}
+{{stampdata|stype=CavernRes|ftype=decay|x1=100|x2=250|i4=20|material=Cooking Ladle|i6=10|i7=20|i8=2000000000|i9=1.72|i10=0|i11={}% more resources from caverns|i12=0}}

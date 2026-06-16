@@ -1,0 +1,10 @@
+{{InfoCard
+|title=Crescent Spud Card
+|dropchance=0.0025
+|order=16
+|category=Dungeons
+|effect=+% Dungeon MP regen
+|bonus=5
+|reqtier=5.0
+|sellprice=1
+}}

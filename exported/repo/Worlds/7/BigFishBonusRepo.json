@@ -1,0 +1,44 @@
+{
+    "0": {
+        "name": "Advice on Life and Death",
+        "desc": "Well uhh dying is bad. @ +{% faster W7 mob respawn rate",
+        "x0": 10,
+        "x1": 26,
+        "filler": "filler"
+    },
+    "1": {
+        "name": "Advice on Being Tired",
+        "desc": "It feels better to not be. @ +{% Max Stamina in Spelunking",
+        "x0": 8,
+        "x1": 29,
+        "filler": "filler"
+    },
+    "2": {
+        "name": "Advice on Sleeping",
+        "desc": "Don't do it while awake. @ +{% Spelunking AFK Gains",
+        "x0": 20,
+        "x1": 31,
+        "filler": "filler"
+    },
+    "3": {
+        "name": "Advice on Murder One",
+        "desc": "Only do it in video games. @ +{% Kill per Kill in W7",
+        "x0": 10,
+        "x1": 33,
+        "filler": "filler"
+    },
+    "4": {
+        "name": "Advice on Being Smart",
+        "desc": "Use 100% of your brain. @ }x Class EXP Gain",
+        "x0": 25,
+        "x1": 35,
+        "filler": "filler"
+    },
+    "5": {
+        "name": "Advice on Materialism",
+        "desc": "Two things better than one tbh. @ +{% Double Gold Food drop chance",
+        "x0": 10,
+        "x1": 38,
+        "filler": "filler"
+    }
+}

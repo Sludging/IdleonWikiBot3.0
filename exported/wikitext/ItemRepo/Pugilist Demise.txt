@@ -1,0 +1,10 @@
+{{InfoItem
+|type=Ring
+|class=All
+|level=9
+|str=3
+|misc=20% Boss Damage
+|upgrade=2
+|sellprice=4000
+|notes= 
+}}

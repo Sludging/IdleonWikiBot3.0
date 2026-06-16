@@ -1,0 +1,10 @@
+{{InfoItem
+|type=Statue
+|description=It gives a MULTIPLICATIVE bonus of Villager EXP, despite the bonus description saying percent! Wowie Zowie Multerrific! 
+|bonus=%Villager Exp
+|sellprice=10
+}}
+{{detdrops/head}}
+{{detdrops|[[Gloomie Mushroom]]|0.0001|1}}
+|}
+{{Statuedata|0.3|%@Villager Exp}}

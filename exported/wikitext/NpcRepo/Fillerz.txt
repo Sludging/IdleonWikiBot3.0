@@ -1,0 +1,14 @@
+{{npc
+|world=Unknown
+|location=Unknown
+|npcType=Unknown
+|birthweight=2.72
+|starsign=Scorpio
+|mmm=Schickowski
+|notes= 
+}}
+{{Quest/head}}
+|}
+{{dialogue/head}}
+{{dialogue/row|text=Hows it flowin' 'n goin' my guy? This pipin' hot heat out here making you and I very dry.}}
+|}

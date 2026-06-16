@@ -1,0 +1,10 @@
+{{InfoCard
+|title=Blobfish Card
+|dropchance=1
+|order=31
+|category=Hard Resources
+|effect=+% Shiny Critter Chance
+|bonus=8
+|reqtier=12.0
+|sellprice=1
+}}

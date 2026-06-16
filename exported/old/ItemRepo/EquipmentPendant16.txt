@@ -4,26 +4,26 @@
 |level=20
 |weaponpower=4
 |upgrade=3
-|sellprice=271600
-|source=[[Smithing]]
-}}
-{{ForgeSlot
-|anvtab=2
-|craftnum=18
-|levelreq=28
-|expgiven=28000
-|recipefrom=[[Mafioso]]
-|resource1=Bullfrog Horn|quantity1=9000
-|resource2=Glass Shard|quantity2=10
-|resource3=Distilled Water|quantity3=20
+|sellprice=2270
+|notes= 
 }}
 {{detrecipe/tab
 |reci=
-{{detrecipe|3|Bullfrog Horn|9000}}
-{{detrecipe|3|Glass Shard|10}}
+{{detrecipe|3|Sleek Shank|1}}
+{{detrecipe|40|Wooden Bow|1}}
+{{detrecipe|80|Spore Cap|10}}
+{{detrecipe|40|Gnarled Wand|1}}
+{{detrecipe|80|Oak Logs|15}}
+{{detrecipe|40|Wooden Spear|2}}
+{{detrecipe|80|Copper Bar|10}}
+{{detrecipe|40|Thread|300}}
+{{detrecipe|3|Glass Shard|4}}
 {{detrecipe|3|Distilled Water|20}}
 |tot=
-{{detrecipe/totals|Bullfrog Horn|9000}}
-{{detrecipe/totals|Glass Shard|10}}
+{{detrecipe/totals|Glass Shard|4}}
 {{detrecipe/totals|Distilled Water|20}}
+{{detrecipe/totals|Thread|300}}
+{{detrecipe/totals|Spore Cap|10}}
+{{detrecipe/totals|Oak Logs|15}}
+{{detrecipe/totals|Copper Bar|10}}
 }}

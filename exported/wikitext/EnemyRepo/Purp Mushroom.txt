@@ -1,0 +1,22 @@
+{{InfoEnemy
+|image=Purp Mushroom Walking.gif
+|attack=1250
+|health=500000
+|defence=2000
+|speed=4
+|exp=2350
+|respawn=38
+|defence0=1530.76
+|area=Spaceway Raceway
+|world=Hyperion Nebula
+|crystal=yes
+|crystalname=Crystal Custard
+|hascard=yes
+|nextenemy=TV
+}}
+{{DropTable/head|Droptable for Purp Mushroom}}
+{{DropTable/coin|1100|0.5}}
+{{DropTable|Purple Mush Cap|0.16|1}}
+{{DropTable|Cooking Clogs|0.000006|1}}
+{{DropTable/card|0.00002}}
+{{DropTable/append|DropTable19|0.0025|1}}

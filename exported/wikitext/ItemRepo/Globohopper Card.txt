@@ -1,0 +1,10 @@
+{{InfoCard
+|title=Globohopper Card
+|dropchance=0.0025
+|order=2
+|category=Dungeons
+|effect=+% Block Chance
+|bonus=2
+|reqtier=2.0
+|sellprice=1
+}}

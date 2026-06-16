@@ -1,0 +1,14 @@
+{{InfoItem
+|type=Nametag
+|class=All
+|level=4
+|weaponpower=4
+|str=4
+|agi=4
+|wis=4
+|luck=4
+|misc=144% Class Exp Multi
+|misc2=44% All Afk Gain
+|defence=44
+|sellprice=1
+}}

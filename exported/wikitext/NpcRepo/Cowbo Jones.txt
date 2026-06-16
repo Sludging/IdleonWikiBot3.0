@@ -1,0 +1,197 @@
+{{npc
+|world=Yum-Yum Desert
+|location=YumYum Grotto
+|noquest=13
+|birthweight=7.79
+|starsign=ibra
+|mmm=ee
+|notes=[[Cowbo Jones]] is on the righthand side of [[Worlds#D0 - YumYum Grotto|YumYum Grotto]], near the portal to [[Worlds#D2 - Jar Bridge|Jar Bridge]]. He facilitates the main questline in Yum-Yum Desert much the same way [[Scripticus]] does in Blunder Hills.
+
+His quests introduce [[Alchemy]] and guide the player through the Desert, leading up to [[Efaunt]]. His final quest awards the [[YumYum Sheriff]] Trophy.
+}}
+{{Quest/head}}
+{{Quest|name=The Grind Begins...?
+|text=Kill 99999 Sandy Pots
+|difficulty=1
+|requirements=Kill Pots: > 99999
+|consumed=No
+|rewards=5x{{ItemDisplay|Gem}}, 50000 Class Experience
+|notes=After 10 active kills, the quest auto-completes.
+}}
+{{Quest|name=The Hatless Howerhouse!
+|text=Kill 20 Sandy Pots without your precious hat equipped.
+|difficulty=3
+|requirements=No-Hat Kill: > 20
+|consumed=No
+|rewards=1x{{ItemDisplay|Storage Chest 4}}, 65000 Class Experience, {{Coindisplay|3500}}
+|notes=
+}}
+{{Quest|name=No Country for One Character
+|text=Create at least 3 new players for your Account.
+|difficulty=4
+|requirements=Characters Created: > 4
+|consumed=No
+|rewards=3x{{ItemDisplay|1 HR Time Candy}}, 70000 Class Experience
+|notes= 
+}}
+{{Quest|name=Say Goodbye to your Dubloon!
+|text=Buy a Gold Dubloon to prove your worth.
+|difficulty=2
+|requirements=1x{{ItemDisplay|Golden Dubloon}}
+|consumed=Yes
+|rewards=5x{{ItemDisplay|Small Experience Balloon}}, 5x{{ItemDisplay|Gem}}, 80000 Class Experience
+|notes=
+}}
+{{Quest|name=Alchemial Apprentice
+|text=... you get all that pardner? Ya better 'ave cause I'm boutta test ya! Go unlock a bubble and buy some pure water from the Liquid Shop!
+|difficulty=3
+|requirements=Bubble Unlocked: > 1, Distilled Water: > 1
+|consumed=No
+|rewards=2x{{ItemDisplay|Weapon Upgrade Stone II}}, 3x{{ItemDisplay|Armor Upgrade Stone II}}, 40 Alchemy Experience
+|notes=Bubbles unlocked before you start this quest count, but the [[Distilled Water]] must be purchased while the quest is active.
+}}
+{{Quest|name=Three Vials? Those are Rookie Numbers!
+|text=Unlock 2 Vials. Stand infront of the Cauldron then drag an item like Copper out of your inventory
+|difficulty=2
+|requirements=Vials Unlocked: > 2
+|consumed=No
+|rewards=50000 Class Experience
+|notes=Vials unlocked before you start the quest count. See [[Alchemy#Vials|Alchemy Vials]] for a full list of unlockable Vials.
+}}
+{{Quest|name=The Notorious B.O.B
+|text=Find the criminal!
+|difficulty=4
+|requirements=Criminal Found: > 1
+|consumed=No
+|rewards=3x{{ItemDisplay|Gem}}, 2x{{ItemDisplay|Small Experience Balloon}}, 90000 Class Experience
+|notes=The criminal is located through the portal below Mimics.
+}}
+{{Quest|name=Bake Him Away, Toys
+|text=Now then just get him to sign this Arrest Warrant and we'll have his bounty as easy as ya can say 'Easy' which is gosh darn easy I tell ya hwat!
+|difficulty=5
+|requirements=1x{{ItemDisplay|Signed Arrest Warrant}}
+|consumed=Yes
+|rewards=1x{{ItemDisplay|Inventory Bag E}}, 55000 Class Experience
+|notes=You have to complete [[Bandit Bob|Bandit Bob's]] questline for this.
+}}
+{{Quest|name=A Hat in Crime
+|text=Yes Bandit Bob set you up and yes Cacto Jones does seem possessed by an evil power!
+|difficulty=4
+|requirements=100x{{ItemDisplay|Leather Hide}}, 750x{{ItemDisplay|Trusty Nails}}
+|consumed=Yes
+|rewards=1x{{ItemDisplay|Cowbo Galloneer}}, 1x{{ItemDisplay|Warped Helmet Upgrade Stone}}
+|notes=
+}}
+{{Quest|name=Commence Criminal Crimes!
+|text=Commit a crime on whoever the quest helper says to lol
+|difficulty=6
+|requirements=Steal from Goldric: > 1
+|consumed=No
+|rewards=1x{{ItemDisplay|Inventory Bag F}}, 100000 Class Experience
+|notes=You have to complete [[Goldric|Goldric's]] questline for this.
+}}
+{{Quest|name=The Worst Trade Deal in History
+|text=Buy and sell a total of 10 Golden Dubloons.
+|difficulty=3
+|requirements=Resold Dubloons: > 10
+|consumed=No
+|rewards=4x{{ItemDisplay|Gem}}, 3x{{ItemDisplay|Small Experience Balloon}}
+|notes=
+}}
+{{Quest|name=Children? What'd they ever do for Me...
+|text=Donate to the Starving Orphan Monsters foundation in the Cauldron.
+|difficulty=4
+|requirements=Donations Made: > 4
+|consumed=No
+|rewards=6x{{ItemDisplay|Gem}}, 1x{{ItemDisplay|Medium Experience Balloon}}
+|notes=Donate in the [[Alchemy]] Liquids Tab.
+}}
+{{Quest|name=Oh No, not the Elderly!
+|text=Find some old coot to assist. Some old rag a real carpet of a fella you know what I mean.
+|difficulty=6
+|requirements=Geezers Helped: > 100
+|consumed=No
+|rewards=1x{{ItemDisplay|Inventory Bag H}}
+|notes=[[Carpetiem]] (in the [[Mashed Potato]] area) is the geezer you must help.
+}}
+{{Quest|name=Tomb Raid
+|text=Raid Efaunt's tomb defeat him and steal his crystal.
+|difficulty=5
+|requirements=Efaunt Defeated: > 1, Crystal Stolen: > 1
+|consumed=No
+|rewards=1x{{ItemDisplay|24 HR Time Candy}}, 1x{{ItemDisplay|Silver Obol of Experience}}, 1x{{ItemDisplay|Cowbo Jones Token}}
+|notes=
+}}
+{{Quest|name=The New Sheriff
+|text=Go make the 3 Yumyum Desert Tokens of Completion and you can have my Yumyum Sherrif Trophy! Here's the token recipes.
+|difficulty=9
+|requirements=1x{{ItemDisplay|Yumyum Desert NPC Completion Token}}, 1x{{ItemDisplay|Yumyum Skills Completion Token}}, 1x{{ItemDisplay|Yumyum Misc Completion Token}}
+|consumed=Yes
+|rewards=1x{{ItemDisplay|YumYum Sheriff}}
+|notes=All the required recipes are given at the start of this quest.
+}}
+|}
+{{dialogue/head}}
+{{dialogue/row|text=Yall best be turnin' yourself right round I tell you hwat. Folks in these parts don't take kindly to outsiders like yorself.}}
+{{dialogue/row|text=That is unless yer willin' to prove yerself. Go on show me whatcha can do! <br> QUEST:Kill 99999 Sandy Pots|quest=The Grind Begins...?}}
+{{dialogue/row|text=You need more 1 open inventory space for rewards! Clear some space and talk to me again!}}
+{{dialogue/row|text=Woah there pardner you say the game deverloper Lava completed the quest for ya? Thats mighty strange Lava ain't never done that before. I wonder if... naw it can't be...}}
+{{dialogue/row|text=Anyways hows about we getcha a real challenge somethin' yall grasslickers over in them thar Blunderhills aint never done before... <br> QUEST:Kill 20 Sandy Pots without your precious hat equipped.|quest=The Hatless Howerhouse!}}
+{{dialogue/row|text=You need 1 more open inventory space for rewards! Clear some space and talk to me again!}}
+{{dialogue/row|text=Well alrighty! Mighty fine fightin' there pardner suppose you outsiders aint so bad! But you still best get on out this town aint big 'nuff fer the two of us!}}
+{{dialogue/row|text=Uh... er.. well tell ya what it's actually TOO big fer the two of us. Go get some more of them characters would ya? <br> QUEST:Create at least 3 new players for your Account.|quest=No Country for One Character}}
+{{dialogue/row|text=You need more 1 open inventory space for rewards! Clear some space and talk to me again!}}
+{{dialogue/row|text=That's more like it startin' to really look like one of them epic gamers ya hear about in the saloon! You sure can walk the walk but can ya talk the talk...?}}
+{{dialogue/row|text=...? <br> Well comeon now then I asked ya a question! Can ya talk the talk?}}
+{{dialogue/row|text=... he ain't talkin' almost like he done been cursed by an evil power I wonder if... naw Djonnut said that evil Elephant's tomb has been dormant for over a century... it can't be.}}
+{{dialogue/row|text=...whatever so ya can't talk but don't yall worry yerself cause I sure know one thing that talks round 'ere:cold hard cash! Bring me round sum' that and we can git into some real business. <br> QUEST:Buy a Gold Dubloon to prove your worth.|quest=Say Goodbye to your Dubloon!}}
+{{dialogue/row|text=You need more 2 open inventory spaces for rewards! Clear some space and talk to me again!}}
+{{dialogue/row|text=Sure is pretty tell ya hwat! Lemme just... hold onto it for ya make sure it's real 'n all that.}}
+{{dialogue/row|text=Moving on then them monsters gonna whoop yo behind if ya don't use that there Alchemy Cauldron mabobber.}}
+{{dialogue/row|text=Listen up and I'll tell ya how it works: <br> You assign characters to different cauldrons to power them. There are Bubble Cauldrons on the 1st page and Liquid Cauldrons on the 2nd page.}}
+{{dialogue/row|text=BUBBLE CAULDRONS slowly unlock new bonus bubbles. The small ones are passive and will give their bonus to all your characters all the time. The bigger ones must be equipped.}}
+{{dialogue/row|text=LIQUID CAULDRONS give you different waters to spend on shop items. You can only hold so many liquids so make sure to use them when you can.}}
+{{dialogue/row|text=... you get all that pardner? Ya better 'ave cause I'm boutta test ya! Go unlock a bubble and buy some pure water from the Liquid Shop!|quest=Alchemial Apprentice}}
+{{dialogue/row|text=You need more 2 open inventory spaces for rewards! Clear some space and talk to me again!}}
+{{dialogue/row|text=Yall got yerself some smarts up in that head of yours yell you hwat! That was some techincal stuff ya just figured out! <br> Let's cover one last thing before we start bustin' crime.}}
+{{dialogue/row|text=You can unlock vials by dropping specific resources at the cauldron in person. Not all resources have their own vial so ya gotta try 'em all! <br> QUEST:Unlock 2 Vials. Stand infront of the Cauldron then drag an item like Copper out of your inventory|quest=Three Vials? Those are Rookie Numbers!}}
+{{dialogue/row|text=Kiss that tutorial goodbye yeeeeHAW! <br> Lets get to some real cowboy bid'ness! There's a list of Wanted Criminals wanderin' all about Yum Yum Desert and each of 'ems got a big ol' EXP bounty on their head.}}
+{{dialogue/row|text=Me bein' an immobile cactus I'm still stuck tryna catch the first criminal. He goes by Notorious B.O.B but ya best believe that aint his real name. He should be 'round here somewhere... <br> QUEST:Find the criminal!|quest=The Notorious B.O.B}}
+{{dialogue/row|text=You need more 2 open inventory spaces for rewards! Clear some space and talk to me again!}}
+{{dialogue/row|text=You found the bugger? That's some right good sleuthing you're a natural!}}
+{{dialogue/row|text=Now then just get him to sign this Arrest Warrant and we'll have his bounty as easy as ya can say 'Easy' which is gosh darn easy I tell ya hwat!|quest=Bake Him Away, Toys}}
+{{dialogue/row|text=You need more 1 open inventory space for rewards! Clear some space and talk to me again!}}
+{{dialogue/row|text=Well tip me sideways and call me the leanin' cactus of Pisa ya got him! Now then lets just take a look at this here signature...}}
+{{dialogue/row|text=Yep signature sure looks real... <br> 'As Cowbo is talking you hear an eerie elephant roar and suddenly Cowbo Jones' expression turns sour' <br> REALLY LIKE YOURS! YOU'RE THE CRIMINAL!!}}
+{{dialogue/row|text=Yessir this signature right here is EXACTLY the same one I saw you sign all those Post Office orders with so there ain't no doubt that you're the real Bandit Bob!}}
+{{dialogue/row|text=This is a mighty fine turn of events aint it just! <br> Tell you hwat forget catching criminals... I'm gonna BECOME the criminal! And YOUR gonna help me unless yer fixin' to get turned in!}}
+{{dialogue/row|text=Before we start our crime spree we gotta look the part. Go get some materials from the Anvil so I can make ya a hat like mine. <br> QUEST:Yes Bandit Bob set you up and yes Cacto Jones does seem possessed by an evil power!|quest=A Hat in Crime}}
+{{dialogue/row|text=You need more 2 open inventory spaces for rewards! Clear some space and talk to me again!}}
+{{dialogue/row|text=With this hat we are now the... <br> 'Cacto Jones eyes light up for a moment and his sour expression suddenly switches back to his normal lively look'... <br> the LOVERS OF AMORIA!}}
+{{dialogue/row|text=Haha! The classic subversion of expectations I love me some lighthearted fun! <br> 'You hear the elephant roar once again and immediately Cacto Jones expression sours' <br> Fun? No time for fun we are THE HATS OF CRIME!}}
+{{dialogue/row|text=In a few quests we gon' be known throughout Idleon as the greatest criminals to ever walk the earth! ...and stay still on the earth since I cant move!}}
+{{dialogue/row|text=Let's start by finding some'n in the Desert to crime on! And not that big bag guy he looks kinda tough... we'll get 'im another day. <br> QUEST:Commit a crime on whoever the quest helper says to lol|quest=Commence Criminal Crimes!}}
+{{dialogue/row|text=You need more 1 open inventory space for rewards! Clear some space and talk to me again!}}
+{{dialogue/row|text=Howdy pardner how'd it go down? You get sum cold hard cash? Maybe some jewels?}}
+{{dialogue/row|text=You stole... hwat? YOU STOLE HWAT?? <br> 'The sour expression has faded once again as the sheer injustice you've committed seems to have shocked him back to his normal self' <br> Why on earth would you steal THIS!?!!}}
+{{dialogue/row|text=Yall was just following... following my orders? Hwat do ya mean I told you to do crimes I'm the sheriff I'm the good guy! It would take an evil power the likes of which haven't been seen in 100 years to turn me evil...}}
+{{dialogue/row|text=... oh lawd 100 years that can only mean one thing. <br> Efaunt the Elephant Pharoah has woken from his slumber. He must be defeated before he corrupts others!}}
+{{dialogue/row|text=While you progress to Efaunt's tomb at the end of the Desert let's do some good deeds to ward off his evil... how about helping the Shop owner with his money woes? <br> QUEST:Buy and sell a total of 10 Golden Dubloons.|quest=The Worst Trade Deal in History}}
+{{dialogue/row|text=You need more 1 open inventory space for rewards! Clear some space and talk to me again!}}
+{{dialogue/row|text=Well I'd say that worked! 'cept as soon as ya turned around to come talk to me the shopkeep started pointin' and laughin' at ya... I guess Efaunt already corrupted him.}}
+{{dialogue/row|text=I feel like we best move on and get to some who Efaunt hasn't corrupted with evil yet. The orphans! Maybe we can help them! <br> QUEST:Donate to the Starving Orphan Monsters foundation in the Cauldron.|quest=Children? What'd they ever do for Me...}}
+{{dialogue/row|text=You need more 1 open inventory space for rewards! Clear some space and talk to me again!}}
+{{dialogue/row|text=That was a bit better tell you hwat... hey look we got a letter from the orphanage! It says <br> 'Thank you for the meager donations. You really think you're helping by giving us a little water? Go tuck yourself into bed that is.'}}
+{{dialogue/row|text=Well shucks Efaunt done corrupted the orphans too! There's only one person left to help. <br> We gotta help the elderly... <br> QUEST:Find some old coot to assist. Some old rag a real carpet of a fella you know what I mean.|quest=Oh No, not the Elderly!}}
+{{dialogue/row|text=You need more 1 open inventory space for rewards! Clear some space and talk to me again!}}
+{{dialogue/row|text=That'll just about do it! <br> Wait... did you say the old geezer's name was... Carpetiem?? <br> No no no no!! He was the sweetest darn geezer ya ever saw Efaunt CROSSED THE LINE turning him cranky and evil!}}
+{{dialogue/row|text=THATS IT. We must RID this land of Efaunt once and for all tell you hwat!}}
+{{dialogue/row|text=Go now gamer go defeat that darned Efaunt. His tomb is at the very end of the Twilight desert past the Tysons and Sand Giants. His evil reign ends now... <br> QUEST:Raid Efaunt's tomb defeat him and steal his crystal.|quest=Tomb Raid}}
+{{dialogue/row|text=You need more 1 open inventory space for rewards! Clear some space and talk to me again!}}
+{{dialogue/row|text=You got the crystal? <br> ... <br> ... <br> STICK EM UP!}}
+{{dialogue/row|text=FINALLY I CAN GET TO WORLD 3 AND DITCH THIS DANG DESERT! <br> Just gotta walk myself over to ya and pickpocket the crystal. <br> Oh... right. I got no legs.}}
+{{dialogue/row|text=Well guess it just ain't meant to be. I hate this darn place I wish I wasnt the Sherrif... <br> Hang on a tick!}}
+{{dialogue/row|text=Go make the 3 Yumyum Desert Tokens of Completion and you can have my Yumyum Sherrif Trophy! Here's the token recipes.|quest=The New Sheriff}}
+{{dialogue/row|text=You need more 1 open inventory space for rewards! Clear some space and talk to me again!}}
+{{dialogue/row|text=Go git 'er dun new Sheriff! YeeeeHAW!!!}}
+|}

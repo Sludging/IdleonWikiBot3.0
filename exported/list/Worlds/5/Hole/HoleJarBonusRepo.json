@@ -1,0 +1,242 @@
+[
+    {
+        "name": "ABNORMAL RUPIE",
+        "bonus": 20,
+        "filler1": "Filler",
+        "description": "Rupies found are worth +{% more. @ Current Rupie Value:$"
+    },
+    {
+        "name": "SAPPHIRE DROPLET",
+        "bonus": 10,
+        "filler1": "Filler",
+        "description": "Jar production rate is +{% faster."
+    },
+    {
+        "name": "EFFERVESCENT DIAMOND",
+        "bonus": 20,
+        "filler1": "Filler",
+        "description": "}x higher chance to find Opals in Tall Jars."
+    },
+    {
+        "name": "TORTOLE ROCK",
+        "bonus": 25,
+        "filler1": "Filler",
+        "description": "All rupies found are worth a whopping }x more!"
+    },
+    {
+        "name": "NATURAL PEARL",
+        "bonus": 15,
+        "filler1": "Filler",
+        "description": "All villagers gain +{% more EXP."
+    },
+    {
+        "name": "AMETHYST HEARTSTONE",
+        "bonus": 10,
+        "filler1": "Filler",
+        "description": "All skilling caverns require {% less Resources to get opals!"
+    },
+    {
+        "name": "AMBER SQUARE",
+        "bonus": 25,
+        "filler1": "Filler",
+        "description": "Rupies found are worth +{% more."
+    },
+    {
+        "name": "VERDANT THORNS",
+        "bonus": 25,
+        "filler1": "Filler",
+        "description": "}x higher chance to find new Collectibles."
+    },
+    {
+        "name": "VIOLENT VIOLETS",
+        "bonus": 20,
+        "filler1": "Filler",
+        "description": "All buckets get }x Bucket Fill Rate!"
+    },
+    {
+        "name": "BLUE FABERGE EGG",
+        "bonus": 15,
+        "filler1": "Filler",
+        "description": "}x higher chance to enchant a Collectible"
+    },
+    {
+        "name": "SHADOW PRISM",
+        "bonus": 20,
+        "filler1": "Filler",
+        "description": "All villagers gain +{% more EXP."
+    },
+    {
+        "name": "BIG BEEF ROCK",
+        "bonus": 25,
+        "filler1": "Filler",
+        "description": "}x faster Bell Ring Rate!"
+    },
+    {
+        "name": "EMERALD ORE",
+        "bonus": 30,
+        "filler1": "Filler",
+        "description": "All villagers gain +{% more EXP."
+    },
+    {
+        "name": "DAWN PRISM",
+        "bonus": 30,
+        "filler1": "Filler",
+        "description": "Rupies found are worth +{% more."
+    },
+    {
+        "name": "SWAMPSTONE",
+        "bonus": 25,
+        "filler1": "Filler",
+        "description": "}x higher chance to find Opals in Tall Jars."
+    },
+    {
+        "name": "FROST SPIRESTONE",
+        "bonus": 12,
+        "filler1": "Filler",
+        "description": "Jar production rate is +{% faster."
+    },
+    {
+        "name": "ROSEMERALD",
+        "bonus": 10,
+        "filler1": "Filler",
+        "description": "}x Faster study rate for villager Bolaia"
+    },
+    {
+        "name": "BLOOD GLASS",
+        "bonus": 40,
+        "filler1": "Filler",
+        "description": "All rupies found are worth a whopping }x more!"
+    },
+    {
+        "name": "SUNRISE DIAMOND",
+        "bonus": 25,
+        "filler1": "Filler",
+        "description": "}x higher chance to enchant a Collectible"
+    },
+    {
+        "name": "MINCERAFT GEM",
+        "bonus": 20,
+        "filler1": "Filler",
+        "description": "+{% Monument AFK Gain rate."
+    },
+    {
+        "name": "CRIMSON SPADE",
+        "bonus": 20,
+        "filler1": "Filler",
+        "description": "The harp produces }x more Notes!"
+    },
+    {
+        "name": "STAINED GLASSDROP",
+        "bonus": 35,
+        "filler1": "Filler",
+        "description": "Rupies found are worth +{% more."
+    },
+    {
+        "name": "TABULA RASASTONE",
+        "bonus": 32,
+        "filler1": "Filler",
+        "description": "All villagers gain +{% more EXP."
+    },
+    {
+        "name": "DEEP BLUE SQUARE",
+        "bonus": 1,
+        "filler1": "Filler",
+        "description": "+{% Gambit PTS"
+    },
+    {
+        "name": "EARTHBOUND GEODE",
+        "bonus": 15,
+        "filler1": "Filler",
+        "description": "Jar production rate is +{% faster."
+    },
+    {
+        "name": "INFERNO DROPLET",
+        "bonus": 40,
+        "filler1": "Filler",
+        "description": "}x higher chance to find new Collectibles."
+    },
+    {
+        "name": "OCTOGONAL GEM",
+        "bonus": 30,
+        "filler1": "Filler",
+        "description": "}x higher chance to enchant a Collectible"
+    },
+    {
+        "name": "SOLARFANG",
+        "bonus": 32,
+        "filler1": "Filler",
+        "description": "}x higher chance to find Opals in Tall Jars."
+    },
+    {
+        "name": "MYSTIC ORE",
+        "bonus": 50,
+        "filler1": "Filler",
+        "description": "All rupies found are worth a whopping }x more!"
+    },
+    {
+        "name": "ARCANE PRISM",
+        "bonus": 38,
+        "filler1": "Filler",
+        "description": "All villagers gain +{% more EXP."
+    },
+    {
+        "name": "MURKY FABREGE EGG",
+        "bonus": 1,
+        "filler1": "Filler",
+        "description": "+{% Gambit PTS"
+    },
+    {
+        "name": "CORPORE ROCK",
+        "bonus": 1,
+        "filler1": "Filler",
+        "description": "Boosts a future cavern... futuuure..!"
+    },
+    {
+        "name": "TWILIGHT PRISM",
+        "bonus": 1,
+        "filler1": "Filler",
+        "description": "Boosts a future cavern... futuuure..!"
+    },
+    {
+        "name": "TEWBALL ORBSTONE",
+        "bonus": 40,
+        "filler1": "Filler",
+        "description": "Rupies found are worth +{% more."
+    },
+    {
+        "name": "MAD MUSCLE ROCK",
+        "bonus": 40,
+        "filler1": "Filler",
+        "description": "}x higher chance to enchant a Collectible"
+    },
+    {
+        "name": "SUNROOT SPLINTERS",
+        "bonus": 40,
+        "filler1": "Filler",
+        "description": "All villagers gain +{% more EXP."
+    },
+    {
+        "name": "TWISTED RUPIE",
+        "bonus": 75,
+        "filler1": "Filler",
+        "description": "}x faster Bell Ring Rate!"
+    },
+    {
+        "name": "OVERLOADED RELIC",
+        "bonus": 1,
+        "filler1": "Filler",
+        "description": "Boosts a future cavern... futuuure..!"
+    },
+    {
+        "name": "SUNBURST PEARL",
+        "bonus": 1,
+        "filler1": "Filler",
+        "description": "Boosts a future cavern... futuuure..!"
+    },
+    {
+        "name": "BLOODFANG SPIRES",
+        "bonus": 1,
+        "filler1": "Filler",
+        "description": "Boosts a future cavern... futuuure..!"
+    }
+]

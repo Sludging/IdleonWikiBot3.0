@@ -1,0 +1,25 @@
+{{InfoEnemy
+|image=Bored Bean Walking.gif
+|attack=0
+|health=80
+|defence=2
+|speed=4
+|exp=18
+|respawn=50
+|defence0=0.22
+|area=Valley Of The Beans
+|world=Blunder Hills
+|crystal=yes
+|crystalname=Crystal Carrot
+|hascard=yes
+|nextenemy=Slime
+|prevenemy=Frog
+}}
+{{DropTable/head|Droptable for Bored Bean}}
+{{DropTable/coin|70|0.46}}
+{{DropTable|Bean Slices|0.2|1}}
+{{DropTable/card|0.001}}
+{{DropTable|Armor Upgrade Stone II|0.00005|1}}
+{{DropTable|Bored Beanie|0.000035|1}}
+{{DropTable/talent|Bored To Death|0.0033}}
+{{DropTable/append|DropTable1|0.0045|1}}

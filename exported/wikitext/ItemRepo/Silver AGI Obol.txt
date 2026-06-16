@@ -1,0 +1,19 @@
+{{InfoItem
+|type=Circle Obol
+|class=All
+|agi=2
+|family=AGI
+|rarity=Silver
+|sellprice=3
+|setname = Silver
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Crabal]]|0.000441|1}}
+{{detdrops|[[Sandy Pot]]|0.000002205|1}}
+{{detdrops|[[Mimic]]|0.000002352|1}}
+{{detdrops|[[Crabcake]]|0.0000026459999999999997|1}}
+{{detdrops|[[Biggie Hours]]|0.0003675|1}}
+{{detdrops|[[Efaunt]]|0.000735|2}}
+{{detdrops|[[Sandstone Bronze Chest(W2)]]|0.000735|1}}
+|}

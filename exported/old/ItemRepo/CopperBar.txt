@@ -1,5 +1,9 @@
 {{InfoItem
 |type=Bar
 |sellprice=7
-|source=[[Dewdrop Bronze Chest]], [[Dewdrop Silver Chest]]
+|notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Dewdrop Bronze Chest]]|0.2|20}}
+{{detdrops|[[Dewdrop Silver Chest]]|0.35|50}}
+|}

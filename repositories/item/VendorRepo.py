@@ -3,15 +3,24 @@ from typing import List
 
 from definitions.itemdef.Vendors import Vendors, Vendor, ItemVendors
 from helpers.HelperFunctions import replaceUnderscores
-from repositories.MapNameRepo import MapNameRepo
 from repositories.item.ItemDetailRepo import ItemDetailRepo
 from repositories.master.Repository import Repository
+from repositories.misc.MapNameRepo import MapNameRepo
 
 
 class VendorRepo(Repository[Vendors]):
 	"""
 	Dependent on ItemDetailsRepo
 	"""
+
+	@classmethod
+	def getCategory(cls) -> str:
+		return "Item"
+
+	@classmethod
+	def initDependencies(cls, log = True) -> None:
+		MapNameRepo.initialise(cls.codeReader, log)
+		ItemDetailRepo.initialise(cls.codeReader, log)
 
 	@classmethod
 	def getSections(cls) -> List[str]:
@@ -31,8 +40,9 @@ class VendorRepo(Repository[Vendors]):
 			else:
 				fixedShopQTY.append(shopQTYSs.split(" "))
 		shopLocations = cls.getSection(2)
-		shopsLocations = [MapNameRepo.get(int(x)).name for x in re.findall(
+		shopsLocations = [MapNameRepo.getList(int(x)).name for x in re.findall(
 			r"\[([a-zA-Z0-_ ,]*)]", shopLocations)[0].split(", ")]
+		
 		for i in range(len(shopsItems)):
 			currentLocation = replaceUnderscores(shopsLocations[i])
 			for j in range(len(shopsItems[i])):
@@ -40,12 +50,12 @@ class VendorRepo(Repository[Vendors]):
 					vendor = currentLocation,
 					item = shopsItems[i][j],
 					quantity = fixedShopQTY[i][j],
-					no = j,
+					no = j + 1,
 					purchasePrice = ItemDetailRepo.get(shopsItems[i][j]).sellPrice * 4)
 				if current := cls.get(currentLocation):
 					current.items.append(tempVendor)
 					continue
-				cls.add(currentLocation, Vendors(items = [tempVendor]))
+				cls.add(currentLocation, Vendors(area = currentLocation, items = [tempVendor]))
 
 	@classmethod
 	def getVendorFromItem(cls, item: str) -> ItemVendors:

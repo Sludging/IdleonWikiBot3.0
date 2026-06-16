@@ -1,0 +1,13 @@
+{{InfoCard
+|title=Magma Geode Card
+|dropchance=0.006
+|order=16
+|category=Smolderin' Plateau
+|effect=+% Skill Efficncy (Passive)
+|bonus=3
+|reqtier=15.0
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Capybara]]|0.006|1}}
+|}

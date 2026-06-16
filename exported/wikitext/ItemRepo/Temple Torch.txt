@@ -1,0 +1,8 @@
+{{InfoItem
+|type=Dungeon Evaporate
+|description=You really shouldn't be reading this... 
+|sellprice=100
+}}
+{{detdrops/head}}
+{{detdrops|[[Ancient Golem]]|0.01|1}}
+|}

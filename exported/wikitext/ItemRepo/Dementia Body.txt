@@ -1,0 +1,21 @@
+{{InfoItem
+|type=Shirt
+|class=All
+|level=70
+|str=10
+|agi=10
+|wis=10
+|upgrade=4
+|defence=40
+|sellprice=528000
+|setname = Dementia
+|notes= 
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Forest Soul|1000}}
+{{detrecipe|3|Dementia Bar|350}}
+|tot=
+{{detrecipe/totals|Forest Soul|1000}}
+{{detrecipe/totals|Dementia Bar|350}}
+}}

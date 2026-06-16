@@ -1,0 +1,33 @@
+{{InfoItem
+|type=Pants
+|class=All
+|level=225
+|weaponpower=5
+|str=32
+|agi=32
+|wis=32
+|luck=32
+|misc=4% All Stats
+|misc2=4% Total Damage
+|upgrade=8
+|defence=95
+|sellprice=31500179100
+|setname = Magma
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Twisted Scales|1}}
+{{detrecipe|40|Troll Scales|15}}
+{{detrecipe|40|Condensed Zap|333333}}
+{{detrecipe|40|Starfire Bar|5000}}
+{{detrecipe|40|Nullo Salt|1600}}
+{{detrecipe|3|Cheesy Crumbs|1000000}}
+{{detrecipe|3|Dreadlo Bar|1600}}
+|tot=
+{{detrecipe/totals|Cheesy Crumbs|1000000}}
+{{detrecipe/totals|Dreadlo Bar|1600}}
+{{detrecipe/totals|Troll Scales|15}}
+{{detrecipe/totals|Condensed Zap|333333}}
+{{detrecipe/totals|Starfire Bar|5000}}
+{{detrecipe/totals|Nullo Salt|1600}}
+}}

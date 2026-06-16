@@ -1,0 +1,13 @@
+{{InfoCard
+|title=Suggma Card
+|dropchance=2e-05
+|order=1
+|category=Smolderin' Plateau
+|effect=+% Multikill per tier
+|bonus=2
+|reqtier=25.0
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Suggma]]|0.00002|1}}
+|}

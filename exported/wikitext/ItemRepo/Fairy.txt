@@ -1,0 +1,9 @@
+{{InfoItem
+|type=Bug
+|hascard=yes
+|description=It glows with the joy of a being that knows it's not real, but continues to exist anyway. 
+|sellprice=120
+}}
+{{detdrops/head}}
+{{detdrops|[[Astro Golden Chest(W4)]]|0.02|1500}}
+|}

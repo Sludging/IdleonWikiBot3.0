@@ -1,0 +1,10 @@
+{{InfoCard
+|title=Dung Beat Card
+|dropchance=1
+|order=29
+|category=Hard Resources
+|effect=+% Trapping Efficiency
+|bonus=7
+|reqtier=7.0
+|sellprice=1
+}}

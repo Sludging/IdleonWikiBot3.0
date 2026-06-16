@@ -1,0 +1,52 @@
+{{InfoItem
+|type=Shoes
+|class=All
+|level=110
+|str=13
+|wis=1
+|misc=35% Mining Efficincy
+|upgrade=5
+|defence=32
+|sellprice=48038575
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Cavern Trekkers|1}}
+{{detrecipe|40|Gold Boots|1}}
+{{detrecipe|80|Iron Boots|1}}
+{{detrecipe|120|Copper Boots|1}}
+{{detrecipe|160|Copper Bar|75}}
+{{detrecipe|120|Trusty Nails|500}}
+{{detrecipe|120|Iron Bar|125}}
+{{detrecipe|80|Gold Bar|600}}
+{{detrecipe|80|Distilled Water|4}}
+{{detrecipe|40|Distilled Water|9}}
+{{detrecipe|40|Copper Ore|1500}}
+{{detrecipe|40|Iron Ore|1200}}
+{{detrecipe|3|Lustre Shieldshoe|1}}
+{{detrecipe|40|Void Imperium Kicks|1}}
+{{detrecipe|80|Dementia Boots|1}}
+{{detrecipe|120|Poison Froge|3}}
+{{detrecipe|120|Dementia Bar|500}}
+{{detrecipe|80|Flycicle|60000}}
+{{detrecipe|80|Void Bar|725}}
+{{detrecipe|80|Dense Water|4}}
+{{detrecipe|40|TV Remote|120000}}
+{{detrecipe|40|Lustre Bar|2000}}
+{{detrecipe|3|Copper Ore|300000}}
+|tot=
+{{detrecipe/totals|Copper Ore|301500}}
+{{detrecipe/totals|Distilled Water|13}}
+{{detrecipe/totals|Iron Ore|1200}}
+{{detrecipe/totals|TV Remote|120000}}
+{{detrecipe/totals|Lustre Bar|2000}}
+{{detrecipe/totals|Gold Bar|600}}
+{{detrecipe/totals|Flycicle|60000}}
+{{detrecipe/totals|Void Bar|725}}
+{{detrecipe/totals|Dense Water|4}}
+{{detrecipe/totals|Trusty Nails|500}}
+{{detrecipe/totals|Iron Bar|125}}
+{{detrecipe/totals|Poison Froge|3}}
+{{detrecipe/totals|Dementia Bar|500}}
+{{detrecipe/totals|Copper Bar|75}}
+}}

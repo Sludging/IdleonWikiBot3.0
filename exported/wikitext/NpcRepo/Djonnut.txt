@@ -1,0 +1,59 @@
+{{npc
+|world=Yum-Yum Desert
+|location=Djonnuttown
+|noquest=3
+|birthweight=2.62
+|starsign=Capricorn
+|mmm=Perez
+|notes=<p>[[Djonnut]] is found in [[Worlds#D12 - Djonnuttown|Djonnuttown]], by the door to the [[Efaunt]] boss fight.</p>
+
+Upon completing his second quest the player is awarded with the ability to talk to him once every day to obtain an {{CraftReq|Efaunt's Tomb Key}}.
+
+<p>He will hold keys for you for up to 3 days. Having more characters complete his second quest provides more daily keys, and one character can collect all of your daily keys at once.</p>
+}}
+{{Quest/head}}
+{{Quest|name=Genie Dieting
+|text=Collect 100 Snelbie shells 5 Sand Giant Monocles and 5 Cherries from Moonmoons!
+|difficulty=4
+|requirements=100x{{ItemDisplay|Shrapshell}}, 5x{{ItemDisplay|Singlecle}}, 5x{{ItemDisplay|Wakka Cherry}}
+|consumed=Yes
+|rewards=5x{{ItemDisplay|Efaunt's Tomb Key}}
+|notes=The recipe for Icing Ironbite comes from [[Tasks]]. Average Mana Potions are dropped by Forest monsters and [[Amarok]].
+}}
+{{Quest|name=I'm Blue Dabadedada
+|text=Defeat 4000 Moonmen and get one of their rare ghost drop! It's a 1 in 2000 chance per kill!
+|difficulty=4
+|requirements=Moonmen Defeated: > 4000, Ghosts Collected: > 1
+|consumed=No
+|rewards=5x{{ItemDisplay|Efaunt's Tomb Key}}
+|notes= 
+}}
+{{Quest|name=The Blue New World
+|text=He's blue get him blue stuff from world 3 nuff said.
+|difficulty=4
+|requirements=2500x{{ItemDisplay|Melty Cube}}, 2500x{{ItemDisplay|Sticky Stick}}, 2500x{{ItemDisplay|Mamooth Tusk}}
+|consumed=Yes
+|rewards=5x{{ItemDisplay|Efaunt's Tomb Key}}, 1x{{ItemDisplay|Djonnut Token}}
+|notes=These are all monster drops from World 3.
+}}
+|}
+{{dialogue/head}}
+{{dialogue/row|text=Hallo you want pyramid boss keys???}}
+{{dialogue/row|text=But hay! Your mana bar so full maybe you get me mana items so I can make wishes again? Then I wish for pyramid to open why not.}}
+{{dialogue/row|text=I will give you boss keys just do this first! <br> QUEST:Collect 100 Snelbie shells 5 Sand Giant Monocles and 5 Cherries from Moonmoons!|quest=Genie Dieting}}
+{{dialogue/row|text=You need more 1 open inventory spaces for rewards! Clear some space and talk to me again!}}
+{{dialogue/row|text=Oooo very naiiice! I giv you 5 keys but if you want keys every day you must do one more thing for me...}}
+{{dialogue/row|text=Do this for me and I will giv you keys EVERY DAY! <br> QUEST:Defeat 4000 Moonmen and get one of their rare ghost drop! It's a 1 in 2000 chance per kill!|quest=I'm Blue Dabadedada}}
+{{dialogue/row|text=You need more 1 open inventory spaces for rewards! Clear some space and talk to me again!}}
+{{dialogue/row|text=Here are ur keys to the pyramid and if you return tomorrow more keys I will wish for you! I even wait up to 3 days and will give u keys as if you were here every day!}}
+{{dialogue/row|text=Here are ur keys to the pyramid and if you return tomorrow more keys I will wish for you! I even wait up to 3 days and will give u keys as if you were here every day!}}
+{{dialogue/row|text=Sayyy have you gotten the elephant boss rare equip? It is very naiiice for the grind!}}
+{{dialogue/row|text=Here are ur keys to the pyramid and if you return tomorrow more keys I will wish for you! And to say sorry for joke earlier I even wait up to 3 days and will give u keys as if you were here every day!}}
+{{dialogue/row|text=Friend can you do one more thing for me yes?}}
+{{dialogue/row|text=I have heard of this... World Three. It is blue right?}}
+{{dialogue/row|text=How I would love to see this blue world. I would of be so happy but no I must remain here. Please player please help me see the blue world! <br> QUEST:He's blue get him blue stuff from world 3 nuff said.|quest=The Blue New World}}
+{{dialogue/row|text=You need more 2 open inventory spaces for rewards! Clear some space and talk to me again!}}
+{{dialogue/row|text=So blue never niiice! Very... cool! Bwahaha I am apologize I had to I had to.}}
+{{dialogue/row|text=Sayyy have you gotten the elephant boss rare equip? It is very naiiice for the grind!}}
+{{dialogue/row|text=Here are ur keys to the pyramid and if you return tomorrow more keys I will wish for you! And to say sorry for joke earlier I even wait up to 3 days and will give u keys as if you were here every day!}}
+|}

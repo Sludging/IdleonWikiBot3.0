@@ -1,0 +1,10 @@
+{{InfoCard
+|title=Glaciaxus Card
+|dropchance=0.02
+|order=21
+|category=Dungeons
+|effect=+% Dungeon Card Chance
+|bonus=15
+|reqtier=2.0
+|sellprice=1
+}}

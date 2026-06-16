@@ -1,0 +1,13 @@
+{{InfoCard
+|title=Blighted Chizoar Card
+|dropchance=0.002
+|order=16
+|category=Bosses
+|effect=+% All Stat
+|bonus=1.5
+|reqtier=12.0
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Blighted Chizoar]]|0.002|1}}
+|}

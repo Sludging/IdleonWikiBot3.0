@@ -1,0 +1,34 @@
+{{InfoItem
+|type=Helmet
+|class=All
+|level=115
+|str=22
+|agi=22
+|wis=22
+|luck=22
+|misc=12% Defence
+|upgrade=6
+|defence=72
+|sellprice=39965250
+|setname = Lustre
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Void Imperium Helmet|1}}
+{{detrecipe|40|Dementia Helmet|1}}
+{{detrecipe|80|Froge|5000}}
+{{detrecipe|80|Dementia Bar|300}}
+{{detrecipe|40|Spontaneity Salts|500}}
+{{detrecipe|40|Void Bar|1000}}
+{{detrecipe|40|Dense Water|5}}
+{{detrecipe|3|Skelefish|80000}}
+{{detrecipe|3|Lustre Bar|2500}}
+|tot=
+{{detrecipe/totals|Skelefish|80000}}
+{{detrecipe/totals|Lustre Bar|2500}}
+{{detrecipe/totals|Spontaneity Salts|500}}
+{{detrecipe/totals|Void Bar|1000}}
+{{detrecipe/totals|Dense Water|5}}
+{{detrecipe/totals|Froge|5000}}
+{{detrecipe/totals|Dementia Bar|300}}
+}}

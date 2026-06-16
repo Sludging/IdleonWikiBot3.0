@@ -1,0 +1,26 @@
+{{InfoItem
+|type=Pants
+|class=All
+|level=35
+|str=8
+|misc=12% Fishin Efficincy
+|upgrade=3
+|defence=15
+|sellprice=20310
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Bleached Designer Wode Patch Pants|2}}
+{{detrecipe|40|Torn Jeans|6}}
+{{detrecipe|80|Frog Leg|36}}
+{{detrecipe|80|Thread|60}}
+{{detrecipe|40|Plank|550}}
+{{detrecipe|40|Bleach Logs|1400}}
+{{detrecipe|3|Goldfish|500}}
+|tot=
+{{detrecipe/totals|Goldfish|500}}
+{{detrecipe/totals|Plank|550}}
+{{detrecipe/totals|Bleach Logs|1400}}
+{{detrecipe/totals|Frog Leg|36}}
+{{detrecipe/totals|Thread|60}}
+}}

@@ -1,0 +1,2942 @@
+[
+    {
+        "name": "Learn 2 Forge",
+        "qty": 1,
+        "desc": "Get the mining certificate from Glumlee.",
+        "rewards": "*STEAM EXCLUSIVE &*10 gems &*1hr time candy",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Another Me!",
+        "qty": 1,
+        "desc": "Create a 2nd character. Trust me, you wanna do this ASAP.",
+        "rewards": "*STEAM EXCLUSIVE &*8 gems",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Sleepy Gamer",
+        "qty": 1,
+        "desc": "Claim 100+ hours of AFK rewards.",
+        "rewards": "*STEAM EXCLUSIVE &*5 gems &*1hr time candy",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Classy!",
+        "qty": 1,
+        "desc": "Choose one of the 3 starting classes from Promotheus.",
+        "rewards": "*STEAM EXCLUSIVE &*18 gems &*2hr time candy",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Hitting the Mark",
+        "qty": 1,
+        "desc": "Chop 15 yellow sections in a row during the Choppin' Minigame.",
+        "rewards": "5% Chopping EXP for &all character",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Learn 2 Entertain",
+        "qty": 1,
+        "desc": "Get the golden jam from the Picnic Stowaway.",
+        "rewards": "*STEAM EXCLUSIVE &*15 gems &*2hr time candy",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "5 'hunned Copper",
+        "qty": 1,
+        "desc": "Have a stack of exactly 500 Copper Ore in your Storage Chest.",
+        "rewards": "*RNG Item unlock",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Rookie Player",
+        "qty": 1,
+        "desc": "Reach level 20 on any character.",
+        "rewards": "*STEAM EXCLUSIVE &*8 gems",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "1.5 Ki'log'grams",
+        "qty": 1,
+        "desc": "Have a stack of exactly 1500 Oak Logs in your Storage Chest.",
+        "rewards": "*RNG Item unlock",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Small Savings",
+        "qty": 1,
+        "desc": "Save up 10000 coins.",
+        "rewards": "*STEAM EXCLUSIVE &*8 gems",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Copper Quipment",
+        "qty": 1,
+        "desc": "Equip the Copper Helmet and Copper Platebody",
+        "rewards": "*RNG Item unlock",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "The Sculpture Within",
+        "qty": 1,
+        "desc": "Buy the Sculpting Tools from the Blunder Hills town shop",
+        "rewards": "*STEAM EXCLUSIVE &*10 gems",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Card Collector",
+        "qty": 1,
+        "desc": "Collect 10 unique cards. They drop randomly from monsters!",
+        "rewards": "*STEAM EXCLUSIVE &*8 gems",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Do What You're Told",
+        "qty": 1,
+        "desc": "Complete 25 unique quests. Unique here means different, not interesting btw lol",
+        "rewards": "*STEAM EXCLUSIVE &*8 gems",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Learn 2 Translate",
+        "qty": 1,
+        "desc": "Get the scouting report from Stiltzcho, the friendly jungle leaf",
+        "rewards": "*STEAM EXCLUSIVE &*20 gems &*2 '2hr time candy'",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Wode Together",
+        "qty": 250,
+        "desc": "Defeat 250 Wode Boards with at least 1 other party member",
+        "rewards": "*RNG Item unlock",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "2 Tons of Iron",
+        "qty": 1,
+        "desc": "Have a stack of exactly 2,000 Iron Ore in your Storage Chest.",
+        "rewards": "*RNG Item unlock",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Giga Decimation",
+        "qty": 1,
+        "desc": "Defeat all Giga Frogs before any respawn.",
+        "rewards": "*Encroaching Forest BG &for Title Screen",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Shut it Poochy",
+        "qty": 1,
+        "desc": "Defeat Amarok, the stone golem wolf of the Encroaching Forest.",
+        "rewards": "*RNG Item unlock",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Average Player",
+        "qty": 1,
+        "desc": "Reach level 40 on any character",
+        "rewards": "*STEAM EXCLUSIVE &*12 gems",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Slimeicidal Endeavor",
+        "qty": 1,
+        "desc": "Defeat 25,000 slimes in total. This counts kills from all your characters!",
+        "rewards": "*Jungle Background &for Title Screen",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Right to Bear Iron",
+        "qty": 1,
+        "desc": "Equip an Iron Helmet, Iron Chestplate, Iron Pants, and one Iron Tool.",
+        "rewards": "*RNG Item unlock",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "5-6 Pick up Sticks",
+        "qty": 1,
+        "desc": "Have a stack of exactly 20,000 Sticks in your Storage Chest.",
+        "rewards": "*Tree Interior BG &for Title Screen",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "20 Bundles of Jungle",
+        "qty": 1,
+        "desc": "Have a stack of exactly 20,000 Forest Fibers in your Storage Chest.",
+        "rewards": "*RNG Item unlock",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Colosseum Contender",
+        "qty": 1,
+        "desc": "Get a score of 25,000 or more in the Dewdrop Colosseum.",
+        "rewards": "*RNG Item unlock",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Crystal Beatdown",
+        "qty": 1,
+        "desc": "Defeat a Crystal monster, who have a 1 in 2000 chance of spawning when a monster dies.",
+        "rewards": "*STEAM EXCLUSIVE &*8 gems &*2 '1hr time candy'",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Ten Trips of Gold",
+        "qty": 1,
+        "desc": "Have a stack of exactly 30,000 Gold Ore in your Storage Chest.",
+        "rewards": "*Mining Cave Background &for Title Screen",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Minecart Maniac",
+        "qty": 1,
+        "desc": "Slam on a yellow ore vein in the Mining Minigame, which gives 3 points!",
+        "rewards": "5% Mining EXP Bonus &for all characters",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Spike Minigame Master",
+        "qty": 1,
+        "desc": "Get a score of 13 in the spike minigame. Remember to say 'If u love me let me go'",
+        "rewards": "*STEAM EXCLUSIVE &*20 gems &*4hr Time Candy",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Anvil Expansion",
+        "qty": 1,
+        "desc": "Craft the anvil expander, and unlock a new tab of item recipes!",
+        "rewards": "*STEAM EXCLUSIVE &*10 gems",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Steppin' on the Rats",
+        "qty": 500,
+        "desc": "Defeat 500 Rats with at least 1 other party member",
+        "rewards": "*Sewers BG",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Tree Top Dropout",
+        "qty": 1,
+        "desc": "Reach the top of the Giant Tree in Blunder Hills",
+        "rewards": "*STEAM EXCLUSIVE &*15 gems",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Naked and Unafraid",
+        "qty": 1,
+        "desc": "Enter the Sewers with no equipment or weapon, and defeat a sewer poop. Don't want to get your stuff dirty!",
+        "rewards": "*RNG item unlock",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "House Flipper",
+        "qty": 1,
+        "desc": "Defeat Baba Yaga in under 25 seconds after they spawn in the Birch Enclave",
+        "rewards": "RNG Item unlock",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Platinum 200G",
+        "qty": 1,
+        "desc": "Have a stack of exactly 200,000 Platinum Ore in your Storage Chest.",
+        "rewards": "*W1 Boss Key EZ-Access",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Guild Member",
+        "qty": 1,
+        "desc": "Claim 500 GP for your guild.",
+        "rewards": "*STEAM EXCLUSIVE &*14 gems",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Boss Buster",
+        "qty": 1,
+        "desc": "Defeat both minibosses in Blunder Hills",
+        "rewards": "*STEAM EXCLUSIVE &*15 gems",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Nutty Crafter",
+        "qty": 42,
+        "desc": "Craft 42 golden peanuts, whatever those might be!",
+        "rewards": "5% Gold Food Bonus &for all characters",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Minecart Master",
+        "qty": 1,
+        "desc": "Get a score of 103+ in the Mining Minigame, beating the developers highscore!",
+        "rewards": "*STEAM EXCLUSIVE &*25 gems &*2 '4hr time candy'",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Choppin' to the Beat",
+        "qty": 1,
+        "desc": "Get a score of 141+ in the Choppin' Minigame, beating the developers highscore!",
+        "rewards": "*STEAM EXCLUSIVE &*25 gems &*4hr time candy",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Decked Out in Gold",
+        "qty": 1,
+        "desc": "Equip Golden Helmet, Chestplate, Pants, Shoes, two Golden tools, and the Defenders Dignity ring.",
+        "rewards": "*3% Arcade balls/hr",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Nice Fur Suit",
+        "qty": 1,
+        "desc": "Equip all 4 pieces of Amarok armor.",
+        "rewards": "*Forest Villa Teleport",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Half a Mill-log",
+        "qty": 1,
+        "desc": "Have a stack of exactly 500,000 Veiny Logs in your Storage Chest.",
+        "rewards": "*W1 Colosseum EZ-Access &*W1 Shops EZ-Access",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Bad Doggy!",
+        "qty": 1,
+        "desc": "Defeat Chaotic Amarok.",
+        "rewards": "*STEAM EXCLUSIVE &*25 gems &*2 '2hr time candy'",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Two-Time Savior",
+        "qty": 2,
+        "desc": "Equip the Blunder Hero Trophy, while also having another in your inventory.",
+        "rewards": "5% Faster Respawn for &all Blunder Hills mobs",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Million Null 'n Void",
+        "qty": 1,
+        "desc": "Have a stack of exactly 1,000,000 Void Ore in your Storage Chest.",
+        "rewards": "*Deep Mining Teleport",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Lucky 7s",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ Punch a monster, win the Jackpot! Well, hypothetically...",
+        "rewards": "*1% Arcade balls/hr &*15 Gems &*7 '1hr time candy'",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "What a View!",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ Climb the 2nd tallest tree in all of Blunder Hills, and say 'Great view, 1 star'",
+        "rewards": "*1% Arcade balls/hr",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Cavernous Nook",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ Find the SECRET mining area!",
+        "rewards": "*Nothing!",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Seriousleaf-ast!",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ Score a point in the Choppin' Minigame while the leaf is zooming at hyperspeed",
+        "rewards": "*1% Arcade balls/hr",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Peanut Pioneer",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ Talk to the jungle bush, join the club...",
+        "rewards": "*STEAM EXCLUSIVE &*25 gems &*2 '2hr time candy'",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Meel Time!",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ Shake it! To the left, to the left! Oh yea!!!",
+        "rewards": "*STEAM EXCLUSIVE &*25 gems",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Pro Gamer Move",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ Keep the oil. Precious, precious oil...",
+        "rewards": "*STEAM EXCLUSIVE &*10 gems &*1hr time candy",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Meet the Dev",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ I heard he's 12 feet tall and can spawn bosses just by talking...",
+        "rewards": "*STEAM EXCLUSIVE &*40 gems &*4 '2hr time candy'",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Heyo!",
+        "qty": 1,
+        "desc": "Say 'Hi' to 250 different people without closing the game.",
+        "rewards": "*5 'Tab 1' Talent Pts &*1% Arcade balls/hr",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Anothervil Expansion",
+        "qty": 1,
+        "desc": "Craft the Anvil III expander. More things to craft, hooray!",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Based Roots",
+        "qty": 20,
+        "desc": "Reach The Roots, which is the map below the Sticks monsters in the Giant Tree",
+        "rewards": "*Acorn Hat Recipe",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Dungeon Pinch",
+        "qty": 1,
+        "desc": "Deal 100 or more damage in a single hit in any party dungeon.",
+        "rewards": "*1% Class EXP bonus &for all characters",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Big Frog Angry",
+        "qty": 1,
+        "desc": "Defeat Grandfrogger on his 1st Difficulty.",
+        "rewards": "*2% Total DMG for all &characters outside &of dungeons",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Big Frog Furious",
+        "qty": 1,
+        "desc": "Defeat Grandfrogger on his 2nd Difficulty.",
+        "rewards": "*3% Total DMG for all &characters outside &of dungeons",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Big Frog Big Sad",
+        "qty": 1,
+        "desc": "Defeat Grandfrogger on his 3rd Difficulty.",
+        "rewards": "*5% Total DMG for all &characters outside &of dungeons",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "2 minute meal",
+        "qty": 1,
+        "desc": "Spawn Grandfrogger within 2 minutes of entering the dungeon.",
+        "rewards": "*3% Class EXP bonus &for all characters",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Big Frog Big Mad",
+        "qty": 1,
+        "desc": "Defeat Grandfrogger on his 4th Difficulty, and avoid becoming one with the soup...",
+        "rewards": "*5% Total DMG for all &characters outside &of dungeons",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Blunder Hills"
+    },
+    {
+        "name": "Down by the Desert",
+        "qty": 1,
+        "desc": "Reach world 2!",
+        "rewards": "*STEAM EXCLUSIVE &*18 gems",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Elite Player",
+        "qty": 1,
+        "desc": "Reach level 60 on any character",
+        "rewards": "*STEAM EXCLUSIVE &*16 gems",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Retirement Fund",
+        "qty": 1,
+        "desc": "Save up 1,000,000 coins, also known as 1 Platinum coin!",
+        "rewards": "*STEAM EXCLUSIVE &*15 gems",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "More and More Me!",
+        "qty": 1,
+        "desc": "Create your 4th character, who will never appreciate the struggle your first 3 characters had.",
+        "rewards": "*STEAM EXCLUSIVE &*16 gems",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Golden Fly",
+        "qty": 1,
+        "desc": "Pass through the small golden hoop in the Catching Minigame. It's worth 3 points!",
+        "rewards": "*5% Catching &Efficiency",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Hammer Bub",
+        "qty": 1,
+        "desc": "Level up the 'Hammer Hammer' Alchemy bubble to Lv. 10",
+        "rewards": "*RNG item unlock",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Wassup Yo!",
+        "qty": 1,
+        "desc": "Say 'Hi' to 100 unique people without closing the game or changing Servers.",
+        "rewards": "*2 'Tab 2' Talent Pts &*2% Arcade balls/hr",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Gold School",
+        "qty": 1,
+        "desc": "Have a stack of exactly 1500 Goldfish in your Storage Chest.",
+        "rewards": "*1% Arcade balls/hr",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Buzz Buzz",
+        "qty": 1,
+        "desc": "Have a stack of exactly 2500 Flies in your Storage Chest.",
+        "rewards": "*3 'Tab 2' Talent Pts",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Careful, it's Sharp!",
+        "qty": 1,
+        "desc": "Have a stack of exactly 15 Glass Shards in your Storage Chest.",
+        "rewards": "*RNG item unlock",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Hybernation",
+        "qty": 1,
+        "desc": "Leave one of your players AFK for an entire week, which is 168 hours! Anything more counts too!",
+        "rewards": "*3% Arcade balls/hr &*Good nights sleep",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Vial Noob",
+        "qty": 1,
+        "desc": "Get 3 vials to Lv. 4, which are the green ones",
+        "rewards": "*RNG item unlock",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Specializational!",
+        "qty": 2,
+        "desc": "Choose a subclass for two of your characters.",
+        "rewards": "*RNG item unlock",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Obols Oh Boy!",
+        "qty": 1,
+        "desc": "Have 10 Silver Obols equipped at once. The Family tab counts here!",
+        "rewards": "2% Arcade balls/hr",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Well Learned",
+        "qty": 1,
+        "desc": "Get a lv 92 or higher Star Book from Alchemy! The 1st one, specifically.",
+        "rewards": "*RNG item unlock",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "B-o-B to Help",
+        "qty": 1,
+        "desc": "Complete 75 unique quests on a single character. I'm not sure what B-o-B stands for either...",
+        "rewards": "*STEAM EXCLUSIVE &*16 gems",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Card Enthusiast",
+        "qty": 1,
+        "desc": "Collect 30 unique cards. If u wanna trade, I got some spare Amarok cards!",
+        "rewards": "*STEAM EXCLUSIVE &*16 gems",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Efaunt Trumped",
+        "qty": 1,
+        "desc": "Defeat Efaunt, the Mummified Elephant God. He will remember you doing this.",
+        "rewards": "*RNG item unlock",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Fishing Finesse",
+        "qty": 1,
+        "desc": "Get a score of 67+ in the Fishing Minigame, beating the developers highscore!",
+        "rewards": "*STEAM EXCLUSIVE &*25 gems &*2 '4hr time candy'",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Catching Coronation",
+        "qty": 1,
+        "desc": "Get a score of 128+ in the Catching Minigame, beating the developers highscore!",
+        "rewards": "*STEAM EXCLUSIVE &*25 gems &*4hr time candy",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Crystal Superslam",
+        "qty": 1,
+        "desc": "Defeat 100 Crystal Mobs. This could go a couple rounds...",
+        "rewards": "*STEAM EXCLUSIVE &*20 gems &*2 '2hr time candy'",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Slumbering Gamer",
+        "qty": 1,
+        "desc": "Claim 2000+ hours of AFK progress across all characters. So lazy!",
+        "rewards": "*STEAM EXCLUSIVE &*12 gems &*'12hr time candy'",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "My First Trophy!",
+        "qty": 1,
+        "desc": "Equip any trophy, other than the limited edition ones which don't count lol.",
+        "rewards": "*STEAM EXCLUSIVE &*25 gems &*'4hr time candy'",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "A Fish Too Far",
+        "qty": 1000,
+        "desc": "Catch a total of 1000 fish across all Fishing Minigame plays.",
+        "rewards": "*Beach Background &for Title Screen",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Rat-a-tat-tat",
+        "qty": 1,
+        "desc": "Level up the 'FMJ' Alchemy bubble to Lv. 30",
+        "rewards": "*RNG item unlock",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Pillars of Sand",
+        "qty": 1,
+        "desc": "Defeat 250,000 Sandy Pots combined across all characters. Forget the Pillars of Salt though.",
+        "rewards": "*Desert Oasis BG &for Title Screen",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Vial Connoisseur",
+        "qty": 1,
+        "desc": "Get 6 vials to Lv. 7, which are the pink ones",
+        "rewards": "*RNG item unlock",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Coarse Cards",
+        "qty": 1,
+        "desc": "Level up cards for Mafioso, Sandcastle, Pincermin, and Mashed Potato, all up to 1 star.",
+        "rewards": "*Coarse Mountains BG &for Title Screen",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Trial by Time",
+        "qty": 1,
+        "desc": "Run from Town to Efaunt's Tomb in under 2 minutes. No teleporting using the World Map.",
+        "rewards": "*2% Arcade balls/hr",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Golden Obolden!",
+        "qty": 1,
+        "desc": "Have 15 Golden Obols equipped at once. The Family tab counts here!",
+        "rewards": "20% Obol Fragments &gained when trashing &obols",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Monocle No More",
+        "qty": 1,
+        "desc": "Defeat 160 Sand Giants within 10 minutes of entering the map. Auto must be off.",
+        "rewards": "*Twilight Desert BG &for Title Screen",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Jellyfish Jelly",
+        "qty": 1,
+        "desc": "Have a stack of exactly 6000 Jellyfish in your Storage Chest. I heard their Jelly goes good with burgers btw.",
+        "rewards": "*RNG item unlock",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Super Cereal",
+        "qty": 1,
+        "desc": "Have a stack of exactly 50,000 Sentient Cereal in your Storage Chest.",
+        "rewards": "*W2 Colosseum EZ-Access &*W2 Shops EZ-Access",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Sweet Victory",
+        "qty": 1,
+        "desc": "Get a Score of 200,000 or more in the Sandstone Colosseum",
+        "rewards": "*2% Arcade balls/hr",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Ink Blot",
+        "qty": 101,
+        "desc": "Use 101 silver pens in the Post Office",
+        "rewards": "20% chance to keep &silver pens after &using one",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Demon Demolisher",
+        "qty": 1,
+        "desc": "Defeat the big hourglass and the toilet paper guy!",
+        "rewards": "*STEAM EXCLUSIVE &*25 gems",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Dumbo Destroyer",
+        "qty": 1,
+        "desc": "Defeat Chaotic Efaunt. Look out for the kick, kapow!",
+        "rewards": "*STEAM EXCLUSIVE &*35 gems &*2 '2hr time candy'",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Threadin' the Needle",
+        "qty": 1,
+        "desc": "Pass through the teenie tiny Lava hoop in the Catching Minigame. It only appears if you go through 25 hoops in a row!",
+        "rewards": "5% catching EXP for &all characters",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "S-M-R-T",
+        "qty": 1,
+        "desc": "Level up the 'Smarty Boi' Alchemy bubble to Lv. 50",
+        "rewards": "-10% Bubble upgrading &costs",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Two Desserts!",
+        "qty": 2,
+        "desc": "Have the YumYum Sheriff trophy equipped, while also having another in your inventory.",
+        "rewards": "5% faster respawn for &YumYum Desert Monsters",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Nuget Nightmare",
+        "qty": 1,
+        "desc": "Kill Crabbycakes manually, without Auto on, until one drops a Nuget Cake. Good luck...",
+        "rewards": "*Nuget Cake Hat Recipe",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Bigtime Bloacher",
+        "qty": 1,
+        "desc": "Have a stack of exactly 100,000 Bloaches in your Storage Chest.",
+        "rewards": "*RNG item unlock",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Vial Junkee",
+        "qty": 1,
+        "desc": "Get 10 vials to Lv. 9, which are the hyperlight Orange ones. Stop focusing so much on vials, it's not healthy!",
+        "rewards": "20% Sigil Charging &Speed",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Fruit Salad",
+        "qty": 1,
+        "desc": "Have a stack of exactly 1,000,000 Fruit Flies in your Storage Chest.",
+        "rewards": "5% catching speed &for all characters",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Your Skin, My Skin",
+        "qty": 1,
+        "desc": "Wear the Efaunt helmet, Ribcage, Hipillium, and Ankles. Also have 1 Efaunt Obol equipped.",
+        "rewards": "*Djonnuttown Teleport",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "WAAAAAAAHH!",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ Complete all available Treasure Hunts! You can find them on Youtube, just search for it!",
+        "rewards": "*3% Arcade balls/hr",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Bobjoepicklejar",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ Pickles belong in containers, after all!",
+        "rewards": "*1% Arcade balls/hr",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Fish Aint Biting",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ I'm tellin' ya, the fish ain't bitin' today gosh darn it!",
+        "rewards": "5% Fishing Exp for &all characters",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Skill Master",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ Goldric's bag of peanuts may be nearly empty, but even just one peanut is enough for some...",
+        "rewards": "*W2 Boss Key EZ-Access",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Tomb Raider",
+        "qty": 1,
+        "desc": "Defeat Snakenhotep on his 1st Difficulty.",
+        "rewards": "*2% Total DMG for all &characters outside &of dungeons",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Tomb Defiler",
+        "qty": 1,
+        "desc": "Defeat Snakenhotep on his 2nd Difficulty.",
+        "rewards": "*3% Total DMG for all &characters outside &of dungeons",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Tomb Completionist",
+        "qty": 1,
+        "desc": "Defeat Snakenhotep on his 3rd Difficulty.",
+        "rewards": "*5% Total DMG for all &characters outside &of dungeons",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Wazzzzam!",
+        "qty": 125,
+        "desc": "Wazam 125 rooms in Snakenhotep's Dungeon by performing exceptionally well in a room.",
+        "rewards": "*6% Multikill bonus &for all characters",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Just Passing By",
+        "qty": 30,
+        "desc": "Pass 30 rooms in Snakenhotep's Dungeon by doing the thingy the room says to do.",
+        "rewards": "*2% Multikill bonus &for all characters",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Dungeon Slap",
+        "qty": 1,
+        "desc": "Deal 1000 or more damage in a single hit within any Dungeon.",
+        "rewards": "*2% Class EXP bonus &for all characters",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Yum-Yum Desert"
+    },
+    {
+        "name": "Snowy Wonderland",
+        "qty": 1,
+        "desc": "Reach World 3, the coolest world in the game!",
+        "rewards": "*STEAM EXCLUSIVE &*25 gems",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Veteran Gamer",
+        "qty": 1,
+        "desc": "Reach level 80 on any character. I'm glad you're enjoying the game, hope you get to Lv. 100!",
+        "rewards": "*STEAM EXCLUSIVE &*20 gems",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "A Family of Me!",
+        "qty": 1,
+        "desc": "Create your 8th character, who will never get the love you gave to your earlier characters when making new ones was still special.",
+        "rewards": "*STEAM EXCLUSIVE &*20 gems",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Croakin' Froge",
+        "qty": 1,
+        "desc": "Have a stack of exactly 250 Doge -I mean froge- critters in your Storage Chest.",
+        "rewards": "*RNG item unlock",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Sad Souls",
+        "qty": 1,
+        "desc": "Have a stack of exactly 1,000 Forest Souls in your Storage Chest.",
+        "rewards": "*1% Arcade balls/hr",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Checkout Takeout",
+        "qty": 1000,
+        "desc": "Checkout a total of 1000 talent books from the Talent Book Library",
+        "rewards": "*5 Book Max LV &*30% Library charge &rate",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Yawning Cogs",
+        "qty": 1,
+        "desc": "Have 4 unclaimed Yellow Cogs during any single moment in time, apart from March 16, 2022 at 3.07pm",
+        "rewards": "*2% Arcade balls/hr",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Blunder Skull",
+        "qty": 1,
+        "desc": "Get a Copper Skull or higher on every Blunder Hills monster in the Deathnote.",
+        "rewards": "*RNG item unlock",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Too Cute To Live",
+        "qty": 1,
+        "desc": "You're gonna kill all them lil' poofs? You monster... well, at least make it quick, like 20s or less after entering the map.",
+        "rewards": "*5% Total Multikill &on all monsters",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Big Mobs Eek",
+        "qty": 5,
+        "desc": "Defeat 5 Giant Monsters. Giants only spawn IF you equip the Titan Tachion prayer, unlocked by beating wave 10 of Waka Tower Defence (world 2)",
+        "rewards": "*STEAM EXCLUSIVE &*15 gems &*2 '2hr time candy'",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Powdered Neutronium",
+        "qty": 1,
+        "desc": "Rank up the Explosive Combustion refinery chamber to Rank 2.",
+        "rewards": "*STEAM EXCLUSIVE &*15 gems &*3 '2hr time candy'",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Soulslike",
+        "qty": 1,
+        "desc": "Have 4 Prayers in your Prayer Rock thingy. You get Prayers by placing these wizard dudes into towers and stuff and kickin' butt!",
+        "rewards": "*2% Arcade balls/hr",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Good Times Roll",
+        "qty": 1,
+        "desc": "Beat wave 50 in Glublin Gorefest using ONLY Boulder Roller wizards. No freeze, no confetti, just boulder.",
+        "rewards": "*RNG item unlock",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Cog in the System",
+        "qty": 1,
+        "desc": "Have 20 Grey Cogs placed on the board at once. Not sure why this is an achievement, cogs are boring.",
+        "rewards": "*5% Build Speed &in Construction",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "I Create...",
+        "qty": 1,
+        "desc": "Upgrade buildings in construction a total of 50 times. Any buildings, utilities, wizards, shrines, they all count!",
+        "rewards": "*1% Arcade balls/hr",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "I Sawed...",
+        "qty": 1,
+        "desc": "Upgrade buildings in construction a total of 250 times.",
+        "rewards": "*RNG item unlock",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Hairy Ice Comb",
+        "qty": 3000,
+        "desc": "Manually loot 1000 floof poofs, then 1000 melty cubes, then 1000 moustache combs. So 3000 in total!",
+        "rewards": "*Frosty Peaks BG &for Title Screen",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Giant Slayer",
+        "qty": 25,
+        "desc": "Defeat 5 Giant Mobs of each type Bloque, Mamooth, Snowman, Penguin, then Thermister, IN THAT ORDER. So 25 in total!.",
+        "rewards": "*Tundra Outback BG &for Title Screen",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Saharan Skull",
+        "qty": 1,
+        "desc": "Get a Golden Skull or higher on every YumYum Desert monster in the Deathnote.",
+        "rewards": "*1% Printer Sample &Rate",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Fat Souls",
+        "qty": 1,
+        "desc": "Have a stack of exactly 10,000 Dune Souls in your Storage Chest.",
+        "rewards": "*Start with 15 &more points in Worship &Tower Defence",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Borrowed Pens",
+        "qty": 1,
+        "desc": "Remember all those pens you lent out in school and never got back? You've got 13 seconds to vent your anger on every penguin mob!",
+        "rewards": "*3% Arcade balls/hr",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Large Fortune",
+        "qty": 1,
+        "desc": "Save up 100,000,000 coins. But remember, as far as the idleon government knows, none of those coins came from a taxable income wink wink.",
+        "rewards": "*STEAM EXCLUSIVE &*25 gems",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Sqeakin' Mousey",
+        "qty": 1,
+        "desc": "Have a stack of exactly 60,000 Mouseys in your Storage Chest. Imagine the noise in that chest of yours... or even the smell, ugh.",
+        "rewards": "*Hunters Grove BG &for Title Screen",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Geared for Success",
+        "qty": 1,
+        "desc": "Have 40 Yellow Cogs placed on the board at once. Alright now I see how this is achievement worthy, cogs are kinda neat.",
+        "rewards": "*5% Construction EXP &gain",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Guild Higher-Up",
+        "qty": 1,
+        "desc": "Contribute 3,000 GP to your guild, putting you above the other guild members who only have the 500 GP Achievment!",
+        "rewards": "*STEAM EXCLUSIVE &*22 gems",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Legendary Gamer",
+        "qty": 1,
+        "desc": "Reach level 100 on any character! Just 4 more digits and you'd have a phone number!",
+        "rewards": "*STEAM EXCLUSIVE &*23 gems",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Entangled Compounds",
+        "qty": 1,
+        "desc": "Rank up the Spontaneous Combustion refinery chamber to Rank 3.",
+        "rewards": "*5 'Tab 3' Talent Pts",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "There Can Be Only 1",
+        "qty": 1,
+        "desc": "Beat wave 50 of Wakawaka War without using more than 1 of any specific tower. Can't have 2 pulsers, or 2 frozones!",
+        "rewards": "*STEAM EXCLUSIVE &*25 gems &*3 '12hr time candy'",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Blurple Skull",
+        "qty": 1,
+        "desc": "Get a Dementia Skull or higher on every Frostbite Tundra monster in the Deathnote.",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*5 '72hr time candy'",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Souped Up Salts",
+        "qty": 1,
+        "desc": "Rank up the Redox Combustion refinery chamber to Rank 10.",
+        "rewards": "*RNG item unlock",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "I Constructed!",
+        "qty": 1,
+        "desc": "Upgrade buildings in construction a total of 900 times.",
+        "rewards": "*10 'Tab 3' Talent Pts",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Cogs Be Waitin'",
+        "qty": 1,
+        "desc": "Have 16 unclaimed Grey Cogs at once. Jeez, I'm glad anthropomorphic cogs aren't real.",
+        "rewards": "*4% Arcade balls/hr",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Simpin' for NPC's",
+        "qty": 1,
+        "desc": "Complete 150 unique quests on a single character. Apparently people find 'simp' offensive, and I'm kinda offended by that...",
+        "rewards": "*STEAM EXCLUSIVE &*24 gems",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Top Cogs",
+        "qty": 1,
+        "desc": "78 Cogs. All purple cogs. Did I say cogs are great? I think cogs are great. Cog cog cog!",
+        "rewards": "*W3 Boss Key EZ-Access",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Card Dude",
+        "qty": 1,
+        "desc": "Collect 120 unique cards. Not sure why something as mundane as 'dude' is the descriptor here, don't read too much into it.",
+        "rewards": "*STEAM EXCLUSIVE &*24 gems",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Crystal Champ",
+        "qty": 1,
+        "desc": "Defeat 2000 crystal mobs. You must've watched a whole lotta Dev Streams to get this!",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*12hr time candy",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Smirky Souls",
+        "qty": 1,
+        "desc": "Have a stack of exactly 250,000 Rooted Souls in your Storage Chest.",
+        "rewards": "*RNG item unlock",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Comatosed Gamer",
+        "qty": 1,
+        "desc": "Claim 30,000+ Hrs of AFK gains. Thats two years, woah!",
+        "rewards": "*STEAM EXCLUSIVE &*25 gems &*24hr time candy",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Knock on Wood",
+        "qty": 1,
+        "desc": "Beat wave 50 of Acorn Assault with just 4 towers active. Place down a 5th tower at any time, and it wont count!",
+        "rewards": "*3% Arcade balls/hr",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "The Goose is Loose",
+        "qty": 1,
+        "desc": "Have a HONK of exactly 1,000,000 Honkers in your HONK Chest. HONKHONKHONK HOOOONK!!!",
+        "rewards": "*HONK Hat Recipe",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Sepia Vision",
+        "qty": 1,
+        "desc": "Have a stack of exactly 500 Black Lenses in your Storage Chest. Better complete this before I make it 1,000!",
+        "rewards": "*Crystal Caverns BG &for Title Screen",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Rattle them Bones",
+        "qty": 1,
+        "desc": "Defeat every Bloodbone in just 12 seconds after entering the map. Wow, wild.",
+        "rewards": "*Pristalle Lake BG &for Title Screen",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "A Most Nice Sale",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ You SOLD gems to the World 3 town store...? All at once? How many...? Nice.",
+        "rewards": "*STEAM EXCLUSIVE &*1 gem &*1 '24hr time candy'",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Cool Score!",
+        "qty": 1,
+        "desc": "Get a Score of 2",
+        "rewards": "500,000 or more in the Chillsnap Colosseum",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Dungeon Wallop",
+        "qty": 1,
+        "desc": "Deal 25000 or more damage in a single hit within any Dungeon.",
+        "rewards": "*4% Crit Chance Bonus &for all characters &outside of dungeon",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Boss Defeated",
+        "qty": 1,
+        "desc": "Defeat Glaciaxus on its 1st difficulty",
+        "rewards": "*2% Total DMG for all &characters outside &of dungeons",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Manager Defeated",
+        "qty": 1,
+        "desc": "Defeat Glaciaxus on its 2nd difficulty",
+        "rewards": "*3% Total DMG for all &characters outside &of dungeons",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Kingpin Defeated",
+        "qty": 1,
+        "desc": "Defeat Glaciaxus on its 3rd difficulty",
+        "rewards": "*5% Total DMG for all &characters outside &of dungeons",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Capitalist Win",
+        "qty": 1000,
+        "desc": "Complete 1000 jobs within the Glacial Basement dungeon.",
+        "rewards": "*5% Class EXP for all &characters outside &of dungeons",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Equinox Visitor",
+        "qty": 1,
+        "desc": "Find the Equinox Mirror drop from Bloodbones, a 1 in 1000 drop, and use it to visit the Equinox Valley.",
+        "rewards": "*4% Total DMG for all &characters",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*Item3",
+        "world": "Frostbite Tundra"
+    },
+    {
+        "name": "Milky Wayfarer",
+        "qty": 1,
+        "desc": "Reach World 4, the purple one with outer space stuff!",
+        "rewards": "*STEAM EXCLUSIVE &*RNG item unlock &*Some Gems and Candy",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Channel Surfing",
+        "qty": 1,
+        "desc": "Have a stack of exactly 75,000 TV remotes in your Storage Chest.",
+        "rewards": "*Nebula BG &for Title Screen",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Bottle Capital",
+        "qty": 1,
+        "desc": "Have a stack of exactly 800,000 Bottle Caps in your Storage Chest.",
+        "rewards": "*10 Star Tab &Talent Pts",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Too Many Tentacles",
+        "qty": 1,
+        "desc": "Have a stack of exactly 10,000,000 Wriggly Balls in your Storage Chest. Green Stack bro!",
+        "rewards": "*3% Arcade balls/hr",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Mythical Gamer",
+        "qty": 1,
+        "desc": "Reach level 125 on any character! This used to be a HUGE deal, now it's just a big deal.",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Matrix Wickermen",
+        "qty": 8760,
+        "desc": "Accumulate 8760 hours, or an entire year, of Lab AFK time across all players.",
+        "rewards": "*RNG item unlock",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Bland Dish",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ What exactly were you expecting to cook, an invisible meal?",
+        "rewards": "6 Tab 1 &Talent Pts",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Lv. 5 Nothing",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ Ah, I see you enjoy reading upgrade flavor text as well!",
+        "rewards": "*STEAM EXCLUSIVE &*30 gems &*2 '12hr time candy'",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "I Like This Mob",
+        "qty": 1,
+        "desc": "Get a Breedability III heart on at least 2 Mobs within the nest.",
+        "rewards": "Mob Breedability &multiplier goes up &1.20x faster",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "I LOVE These Mobs",
+        "qty": 1,
+        "desc": "Get a Breedability VII heart on at least 15 Mobs within the nest.",
+        "rewards": "10 Tab 3 &Talent Pts",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Shiny Shells",
+        "qty": 1,
+        "desc": "Have 6 bronze (or rarer) eggs in your nest at the same time, waiting to be hatched!",
+        "rewards": "10% Faster Egg &Incubator Speed",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Gilded Shells",
+        "qty": 1,
+        "desc": "Have 12 gold (or rarer) eggs in your nest at the same time, waiting to be hatched!",
+        "rewards": "Eggs increase in &rarity 1.10x more &often",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Barley Lost",
+        "qty": 1,
+        "desc": "Fail a Mob battle with the enemy team having only 5% HP or less. Wait, it's spelled HOW???",
+        "rewards": "5% Mob Fight &Damage",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Mobless",
+        "qty": 1,
+        "desc": "Trash a total of 2500 Mobs. How could you be so heartless, so cold...",
+        "rewards": "*STEAM EXCLUSIVE &*50 gems &*1 '72hr time candy'",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Cabbage Patch",
+        "qty": 1,
+        "desc": "Have 5 kitchens all cooking cabbages at the same time. Remember gamers, eat your vegetables, they ain't so bad!",
+        "rewards": "10% Meal Cooking &Speed",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Le Pretzel Bleu",
+        "qty": 1,
+        "desc": "Have 8 kitchens all cooking Pretzels at the same time. Don't get it twisted, them pretzels are the real deal.",
+        "rewards": "20% Meal Cooking &Speed",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Michelin Ranked",
+        "qty": 1,
+        "desc": "Upgrade any kitchen stat to Lv. 300, giving you an elite crown over the upgrade bars, thus resulting in dopamine.",
+        "rewards": "*RNG item unlock",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "WOAH That's Fast",
+        "qty": 1,
+        "desc": "Have a speed of 'Too Fast' displayed while cooking an Eggplant. No this is not a metaphor.",
+        "rewards": "*2% Arcade balls/hr",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Stars Among Stars",
+        "qty": 1,
+        "desc": "Complete all constellations in the Hyperion Nebula. Thats what world 4 is called btw.",
+        "rewards": "*Eternity Beach BG &for Title Screen",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Chippin' Away",
+        "qty": 25,
+        "desc": "Claim 25 chips from the Chip Repository. I was gonna make this 250 chips, but people from the future told me not to.",
+        "rewards": "*2% Arcade balls/hr",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Hunned Times a Day",
+        "qty": 10000,
+        "desc": "Claim spices by any means 10,000 times. Like, individual claims.",
+        "rewards": "8 Tab 2 &Talent Pts",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Good Plate",
+        "qty": 1,
+        "desc": "Upgrade a meal at the Dinner Menu to the point where it gets a diamond plate!",
+        "rewards": "*RNG item unlock &*W4 Shops EZ-Access",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Great Plate",
+        "qty": 1,
+        "desc": "Upgrade a meal at the Dinner Menu to the point where it gets a purple plate!",
+        "rewards": "*2% Arcade balls/hr",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Best Plate",
+        "qty": 1,
+        "desc": "Upgrade a meal at the Dinner Menu to the point where it gets a void pearl plate!",
+        "rewards": "-10% lower cost &to upgrade meals &at the Dinner Table",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Space Party!!!",
+        "qty": 1,
+        "desc": "Dance with at least 5 other people while you're all in World 4 town!",
+        "rewards": "*2% Arcade balls/hr",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Zero G Scorin'",
+        "qty": 1,
+        "desc": "Get a Score of 10,000,000 or more in the Astro Colosseum",
+        "rewards": "5% Cash from &Monsters",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Hibernating Gamer",
+        "qty": 1,
+        "desc": "Claim 111,000 hours of AFK time. Jeez, thats like an entire year of all characters idling to the max.",
+        "rewards": "*STEAM EXCLUSIVE &*100 gems &*1 '72hr time candy'",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Mutant Massacrer",
+        "qty": 1,
+        "desc": "Defeat both Mutant Minibosses, the W3 Slush and W4 Mush. You must defeat Slush before Mush, in that order.",
+        "rewards": "*STEAM EXCLUSIVE &*RNG item unlock &*Some Gems and Candy",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Soda Poisoning",
+        "qty": 1,
+        "desc": "Beat wave 50 of Clash of Cans with 3 Poisonic Elders at Lv 5 or higher. Also, you can't sell towers.",
+        "rewards": "*Starfield Belt BG &for Title Screen",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "The True King",
+        "qty": 1000000,
+        "desc": "Reach a total of 1 million Orb Kills.",
+        "rewards": "10 Tab 4 Talent Pts",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "The True Pirate",
+        "qty": 1000000,
+        "desc": "Reach a total of 1 million Plunderous Kills. This one is the true challenge of the three.",
+        "rewards": "15 Tab 4 Talent Pts &1% Total Dmg",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "The True Emperor",
+        "qty": 1000000,
+        "desc": "Reach a total of 1 million Wormhole Kills.",
+        "rewards": "12 Tab 4 Talent Pts",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Veritable Master",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ Destruction comes to all who cross your path, no matter how many times you cross paths.",
+        "rewards": "1 Void Talent Pt",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Hyperion Nebula"
+    },
+    {
+        "name": "Maple Logger",
+        "qty": 1,
+        "desc": "Have a stack of exactly 200,000 Maple Logs in your Storage Chest.",
+        "rewards": "1% Damage for all &characters",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Vitamin D-licious",
+        "qty": 1,
+        "desc": "Have a stack of exactly 5,000,000 Orange Slices in your Storage Chest.",
+        "rewards": "50% Forge Ore &Capacity",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Wurm Wumbo",
+        "qty": 1,
+        "desc": "Have a stack of exactly 100,000,000 Mongo Worm Slices in your Storage Chest.",
+        "rewards": "*Wurm Catacombs BG",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Supernatural Gamer",
+        "qty": 1,
+        "desc": "Reach level 300 on any character! My oh my! This would have been inconceivable just a few years ago!",
+        "rewards": "10% All Skill EXP",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Smokin' Stars",
+        "qty": 1,
+        "desc": "Complete all constellations in the Smolderin' Plateau. You can check your progress within the Telescope.",
+        "rewards": "20% All Skill EXP",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "The Plateauourist",
+        "qty": 1,
+        "desc": "Reach World 5, a personal favorite world of mine! Look, I like lava what can I say.",
+        "rewards": "4 Daily Crystal Mob &Spawn Guarantee",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "No Krakens? ):",
+        "qty": 1,
+        "desc": "Reach Wave 50 of Citric Conflict tower defence without placing a single Kraken Towers. Not even one.",
+        "rewards": "25% Class EXP",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Artifact Finder",
+        "qty": 1,
+        "desc": "Collect 15 Artifacts from Sailing",
+        "rewards": "*1 Extra Chest Slot in &Sailing Loot Pile",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Artifact Enjoyer",
+        "qty": 1,
+        "desc": "Collect all 30 Artifacts from Sailing",
+        "rewards": "*Magma Rivertown BG",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Artifact Jones",
+        "qty": 1,
+        "desc": "Collect all 30 ANCIENT Artifacts from Sailing. All that glitters is not gold, but it sure is shiny!",
+        "rewards": "20 Star Talent Pts",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Gilded Vessel",
+        "qty": 1,
+        "desc": "Upgrade a boat to Lv 100 in Sailing. It'll turn gold to reflect its power!",
+        "rewards": "*1 Extra Chest Slot in &Sailing Loot Pile",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Maroon Warship",
+        "qty": 1,
+        "desc": "Upgrade a boat to Lv 300 in Sailing. This is the pinnacle of naval prowess, it doesn't get fancier than this!",
+        "rewards": "1 Lv to all Talents &for all characters",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Glory To Nobisect",
+        "qty": 1,
+        "desc": "Unlock the 3rd Divinity God.",
+        "rewards": "10 'Tab 4' Talent Pts",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "All Hail Purrmep",
+        "qty": 1,
+        "desc": "Unlock the 7th Divinity God.",
+        "rewards": "10 Alternate Particle &Alchemy Upgrades Per &Day",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Long Live Bagur",
+        "qty": 1,
+        "desc": "Unlock the 10th and final Divinity God.",
+        "rewards": "10% All Skill EXP",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "POiNG Champion",
+        "qty": 1,
+        "desc": "Get a POiNG score of 25,000 or more! My personal highscore is 38",
+        "rewards": "323 at the time of coding this!",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Lucky Harvest",
+        "qty": 1,
+        "desc": "Harvest a plant with a Bit worth who's first 3 digits are 777. For example, 77.7K Bits would count, or 777M Bits too!",
+        "rewards": "*1.05x Bit Gain in &Gaming",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Chemical Collector",
+        "qty": 1000,
+        "desc": "Harvest a total of 1000 Chemical-type Plants in Gaming.",
+        "rewards": "3% Damage for all &characters",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Voraci Vantasia",
+        "qty": 500,
+        "desc": "Harvest a total of 500 Voraci-type Plants in Gaming.",
+        "rewards": "10% Divinity Points &Gained",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Bonsai Bonanza",
+        "qty": 100,
+        "desc": "Harvest a total of 100 Bonsai-type Plants in Gaming.",
+        "rewards": "*W5 Shop EZ-Access",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Perfect Trade Deal",
+        "qty": 1,
+        "desc": "Make a trade with Blobby G worth a gold bar amount that starts with 777, like 777K or 7.77M for example. PS 776 and 778 work too lol",
+        "rewards": "1 additional Treasure &Per Chest for Sailing",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "True Naval Captain",
+        "qty": 1,
+        "desc": "Buy all 20 Boats in Sailing. Uh, yea, there is a scroll bar below the boats, you can buy more than 5 boats #",
+        "rewards": "20% Captain EXP &for sailing",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Legendary Orb",
+        "qty": 1,
+        "desc": "On your Divine Knight, get an Orb Score of 400 or more on OJ Bay. This is the number above your Orb!",
+        "rewards": "*Smoggy Basin BG",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Legendary Flag",
+        "qty": 1,
+        "desc": "On your Siege Breaker, get a Flag Score of 150 or more on Erruption River. This is the number above your Flag!",
+        "rewards": "2% Damage for all &characters",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Legendary Wormhole",
+        "qty": 1,
+        "desc": "On your Elemental Sorcerer, get a Wormhole Score of 83 or more on Niagrilled Falls. This is the number above your Wormhole!",
+        "rewards": "10% Divinity Points &Gained",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Utter DISRESPECT",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ Why did you even hire the poor fella in the first place???",
+        "rewards": "20 Star Talent Pts",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Sneaky Stealing",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ Walk to a uh... weird location? Well it's not that weird, but it's just like, what ya doin' back there?",
+        "rewards": "25% Shop Capacity &for all Town Shops",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Broken Controller",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ You got... zero? Literally zero?? Jeez, Im sorry but I think you need to uninstall ^",
+        "rewards": "*1.05x Bit Gain in &Gaming",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Lavathian Skulls",
+        "qty": 1,
+        "desc": "Get a Lava Skull or higher on every Smolderin' Plateau monster in the Deathnote. Yea, the 100M Kill Skull. This is gonna take a while.",
+        "rewards": "2% Faster Monster &Respawn Time for &All World 5 mobs",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Seaworthy Captain",
+        "qty": 1,
+        "desc": "Level up a Sailing Captain to Lv 15. Few captains in the universe can rival their ability to plunder!",
+        "rewards": "1% ALL STAT for &all characters",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Grand Captain",
+        "qty": 1,
+        "desc": "Level up a Sailing Captain to Lv 10. They shall sail the seas with confidence!",
+        "rewards": "20% Captain EXP &for sailing",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Hug from Timmy",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ The lil' fella REALLY likes icecream!",
+        "rewards": "10% Monument AFK",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Smolderin' Plateau"
+    },
+    {
+        "name": "Valley Visitor",
+        "qty": 1,
+        "desc": "Reach World 6, the Spirited Valley! You'll love it here, all the spirits are very friendly!",
+        "rewards": "10% Money for all &characters",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Scorin' the Ladies",
+        "qty": 1,
+        "desc": "Have a stack of exactly 250,000 Ladybugs in your Storage Chest.",
+        "rewards": "10% Catching &Efficiency",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Effervess Enthusiess",
+        "qty": 1,
+        "desc": "Have a stack of exactly 5,000,000 Effervescent Logs in your Storage Chest.",
+        "rewards": "10% Choppin Efficiency",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "That's MY Crown",
+        "qty": 1,
+        "desc": "Have a stack of exactly 100,000,000 Royal Headpiece in your Storage Chest.",
+        "rewards": "*Dharma Mesa BG",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Leet Lanterns",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ Oh yea, that's a good number. Sure, it's no 69420, but it's vintage!",
+        "rewards": "4% Damage for all &characters",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Lil' Overgrowth",
+        "qty": 1,
+        "desc": "Get an overgrowth of 32x on a single crop.",
+        "rewards": "*1.05x Crop Evo &chance",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Major Overgrowth",
+        "qty": 1,
+        "desc": "Get an overgrowth of 1,024x on a single crop.",
+        "rewards": "15% Farming EXP",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Unreal Overgrowth",
+        "qty": 1,
+        "desc": "Get an overgrowth of 8",
+        "rewards": "192x on a single crop.",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Doctor Repellant",
+        "qty": 1,
+        "desc": "Have 10,000 or more Apple crops in your Depot at once. You can lock the first crop before it grows to guarantee an apple!",
+        "rewards": "*W6 Shop EZ Access",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Cob Enjoyer",
+        "qty": 1,
+        "desc": "Have 1,000,000 or more Corn crops in your Depot at once. Mmmm, Corn!",
+        "rewards": "15% All Skill EXP",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Science Undergrad",
+        "qty": 1,
+        "desc": "Find 30 unique crops, as shown by the Crop Scientist!",
+        "rewards": "10% Farm EXP",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Science Graduate",
+        "qty": 1,
+        "desc": "Find 70 unique crops, as shown by the Crop Scientist!",
+        "rewards": "*Spirit Fields BG",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Science Post Doc",
+        "qty": 1,
+        "desc": "Find 110 unique crops, as shown by the Crop Scientist!",
+        "rewards": "1% All Stat &for all characters",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Crop Flooding",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ That's... That's enough... THAT'S ENOUGH WATER! THAT'S ENOUGH!",
+        "rewards": "5% Magic Beans &from Legumulyte",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Legumulucky",
+        "qty": 1,
+        "desc": "Make a crop trade with the Legumulyte worth exactly 777 magic beans.",
+        "rewards": "2% Damage for all &characters",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Big Time Land Owner",
+        "qty": 1,
+        "desc": "Get 27 plots of land in your farm.",
+        "rewards": "*1.15x Crop OG Chance",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Ceramic Sneaking",
+        "qty": 1,
+        "desc": "Reach the Sneaking Floor with the Petrified Ceramist guest.",
+        "rewards": "*1.03x Jade Gain",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Top Floor Sneaking",
+        "qty": 1,
+        "desc": "Reach what seems like the top Floor of Sneaking with the Eldar Kingulyte guest.",
+        "rewards": "*1.07x Jade Gain",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Untying Extraordinaire",
+        "qty": 1,
+        "desc": "Untie 6 other Ninja Twins.",
+        "rewards": "*1.05x Stealth for &all Ninja Twins",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Lucky Stealy",
+        "qty": 1,
+        "desc": "Successfully find 6 items in a row, in a single AFK claim within Sneaking.",
+        "rewards": "*1.05x Jade Gain",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Yellow Belt",
+        "qty": 1,
+        "desc": "Find a 论50 Yellow Belt Sneaking Charm. Yes, exactly 论50.",
+        "rewards": "10% Sneaking EXP gain",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Straw Hat Stacking",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ It's a shame you can't wear them all at once...",
+        "rewards": "*1.01x DMG Multiplier &for all characters",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Best Bloomie",
+        "qty": 1,
+        "desc": "Get a Bloomy Summoning Familiar.",
+        "rewards": "*1.05x All Essence &Gain",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Regalis My Beloved",
+        "qty": 1,
+        "desc": "Get a Regalis Summoning Familiar.",
+        "rewards": "*1.01x larger Winners &Bonuses from Summoning",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "This, is, Summoning!",
+        "qty": 1,
+        "desc": "Survive for 5 minutes in The King's Gambit. Find this feature in Cavern 14 of the Hole in world 5.",
+        "rewards": "*1.05x All Essence &Gain",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Summoning CM",
+        "qty": 1,
+        "desc": "Get 10 Career Wins within Summoning",
+        "rewards": "3% Damage for all &characters",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Summoning IM",
+        "qty": 1,
+        "desc": "Get 25 Career Wins within Summoning",
+        "rewards": "20% Money for all &characters",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Summoning GM",
+        "qty": 1,
+        "desc": "Get 58 Career Wins within Summoning",
+        "rewards": "6% Drop Rate &for all characters",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Penta Defence",
+        "qty": 1,
+        "desc": "Reach Wave 50 in Breezy Battle without placing more than 5 Towers in total.",
+        "rewards": "*Lullaby Airways BG",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Spectre Stars",
+        "qty": 1,
+        "desc": "Complete all constellations in the Spirited Valley. You can check your progress within the Telescope.",
+        "rewards": "*1.01x larger Winners &Bonuses from Summoning",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Beanstacker Trainee",
+        "qty": 1,
+        "desc": "Add 5 different golden foods to The Beanstalk.",
+        "rewards": "2% All Golden Food &Bonuses",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Big Big Hampter",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ Hampter is worth it!",
+        "rewards": "4% Drop Rate &for all characters",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Ghost Buster",
+        "qty": 1,
+        "desc": "SECRET ACHIEVEMENT ------------------------ You took out the baddest spirit of them all!",
+        "rewards": "*Bamboo Forest BG",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "Beanstacker Prodigy",
+        "qty": 1,
+        "desc": "Add 14 different golden foods to The Beanstalk.",
+        "rewards": "3% All Golden Food &Bonuses",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "W6 is Donezo",
+        "qty": 1,
+        "desc": "Get a Lava Skull or higher on every Spirited Valley monster in the Deathnote.",
+        "rewards": "*1.01x DMG Multiplier &for all characters",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    },
+    {
+        "name": "FILLERZZZ ACH",
+        "qty": 20,
+        "desc": "-",
+        "rewards": "*FILLERZ &*FILLERZ &*FILLERZ",
+        "world": "Spirited Valley"
+    }
+]

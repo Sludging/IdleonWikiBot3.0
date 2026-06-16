@@ -1,0 +1,5 @@
+{{InfoItem
+|type=Quest Item
+|description=Hold down on this cog to turn it into a Refurbished Cog, IF you have a construction LV of 75{. 
+|sellprice=500000000
+}}

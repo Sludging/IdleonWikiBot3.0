@@ -1,0 +1,8 @@
+{{InfoItem
+|type=Bar
+|sellprice=6200
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Astro Bronze Chest(W4)]]|0.35|100}}
+|}

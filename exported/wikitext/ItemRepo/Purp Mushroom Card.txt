@@ -1,0 +1,13 @@
+{{InfoCard
+|title=Purp Mushroom Card
+|dropchance=2e-05
+|order=1
+|category=Hyperion Nebula
+|effect=+% Money from Monsters
+|bonus=8
+|reqtier=15.0
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Purp Mushroom]]|0.00002|1}}
+|}

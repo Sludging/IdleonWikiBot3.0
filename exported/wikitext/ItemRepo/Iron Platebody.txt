@@ -1,0 +1,25 @@
+{{InfoItem
+|type=Shirt
+|class=All
+|level=15
+|str=4
+|agi=4
+|wis=4
+|misc=50
+|upgrade=2
+|defence=16
+|sellprice=5200
+|setname = Iron
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Dewdrop Golden Chest(W1)]]|0.04|1}}
+|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Iron Bar|50}}
+{{detrecipe|3|Jungle Logs|600}}
+|tot=
+{{detrecipe/totals|Iron Bar|50}}
+{{detrecipe/totals|Jungle Logs|600}}
+}}

@@ -1,0 +1,9 @@
+{{InfoItem
+|type=Log
+|hascard=yes
+|sellprice=30
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Chillsnap Silver Chest(W3)]]|0.5|100}}
+|}

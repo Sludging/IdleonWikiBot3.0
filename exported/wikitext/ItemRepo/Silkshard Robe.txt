@@ -1,0 +1,14 @@
+{{InfoItem
+|type=Attire
+|class=All
+|level=1
+|weaponpower=15
+|str=5
+|agi=5
+|wis=5
+|luck=5
+|misc=100% Bonus Kills
+|misc2=25% Afk Gains Multi
+|defence=10
+|sellprice=1
+}}

@@ -1,7 +1,9 @@
 import json
-from typing import Union, Any
+from enum import Enum
+from typing import Union
 
-from pydantic import BaseModel
+from definitions.master.IdleonModel import IdleonModel
+from helpers.CustomTypes import Boolean
 
 
 class CompactJSONEncoder(json.JSONEncoder):
@@ -43,8 +45,12 @@ class CompactJSONEncoder(json.JSONEncoder):
 				return "{\n" + ",\n".join(output) + "\n" + self.indent_str + "}"
 			else:
 				return "{}"
-		elif isinstance(o, BaseModel):
-			return self.encode(o.dict())
+		elif isinstance(o, IdleonModel):
+			return self.encode(o.toDict())
+		elif isinstance(o, Boolean):
+			return json.dumps(o.v)
+		elif isinstance(o, Enum):
+			return f'"{o.name}"'
 		elif isinstance(o, float):  # Use scientific notation for floats, where appropiate
 			return format(o, "g")
 		elif isinstance(o, str):  # escape newlines
@@ -66,4 +72,3 @@ class CompactJSONEncoder(json.JSONEncoder):
 	@property
 	def indent_str(self) -> str:
 		return self.INDENTATION_CHAR * (self.indentation_level * self.indent)
-

@@ -1,0 +1,74 @@
+{
+    "0": {
+        "name": "Feather Generation",
+        "x0": 5,
+        "x1": 1.1,
+        "unlock": 100,
+        "desc": "Generates } feather per second",
+        "x2": 0
+    },
+    "1": {
+        "name": "Bonuses of Orion",
+        "x0": 350,
+        "x1": 25,
+        "unlock": 1000,
+        "desc": "Gain a permanent bonus in the real game! This upgrade never resets.",
+        "x2": 0
+    },
+    "2": {
+        "name": "Feather Multiplier",
+        "x0": 500,
+        "x1": 1.11,
+        "unlock": 2500,
+        "desc": "Boosts feather generation by +}%",
+        "x2": 0
+    },
+    "3": {
+        "name": "Feather Cheapener",
+        "x0": 3000,
+        "x1": 1.16,
+        "unlock": 30000,
+        "desc": "All feather upgrades are @% cheaper",
+        "x2": 0
+    },
+    "4": {
+        "name": "Feather Restart",
+        "x0": 1e+06,
+        "x1": 14,
+        "unlock": 750000,
+        "desc": "Reset almost all Upgrades and Feathers. Generate {x Feathers",
+        "x2": 0
+    },
+    "5": {
+        "name": "Super Feather Production",
+        "x0": 2e+06,
+        "x1": 1.12,
+        "unlock": 1e+07,
+        "desc": "Generates +} more feathers per second",
+        "x2": 0
+    },
+    "6": {
+        "name": "Shiny Feathers",
+        "x0": 5e+06,
+        "x1": 1.4,
+        "unlock": 2.5e+08,
+        "desc": "Rare chance for a Shiny Feather, each one gives +}% feather generation",
+        "x2": 0
+    },
+    "7": {
+        "name": "Super Feather Cheapener",
+        "x0": 5e+07,
+        "x1": 1.27,
+        "unlock": 5e+09,
+        "desc": "All feather upgrades are }% cheaper",
+        "x2": 0
+    },
+    "8": {
+        "name": "The Great Mega Reset",
+        "x0": 2.5e+11,
+        "x1": 20,
+        "unlock": 1e+11,
+        "desc": "Reset almost everything. Gain a permanent Megafeather",
+        "x2": 0
+    }
+}

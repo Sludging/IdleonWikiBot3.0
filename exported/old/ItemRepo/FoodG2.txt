@@ -1,7 +1,14 @@
 {{InfoItem
 |type=Golden Food
-|description=Increases Total Damage to. Golden foods are never consumed.
+|description=Increases Total Damage to all monsters. Golden foods are never consumed.
 |sellprice=200
-|source=[[Sandstone Silver Chest]], [[Post Office#Dudes Next Door|Dudes Next Door]], [[Picnic Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]], [[Picnic Stowaway#Afternoon Tea in a Jiffy|Afternoon Tea in a Jiffy]], [[Picnic Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]], [[Picnic Stowaway#The Last Supper, at Least for Today!|The Last Supper, at Least for Today!]]
+|notes= 
 }}
-{{gfoodbonus|20|Increases Total Damage to|}}
+{{detdrops/head}}
+{{detdrops|[[Sandstone Silver Chest]]|0.5|1}}
+{{detdrops|[[Molten Silver Chest]]|0.25|40}}
+{{detdrops|[[Molten Golden Chest]]|0.25|40}}
+{{detdrops|[[Whimsical Silver Chest]]|0.25|200}}
+{{detdrops|[[Whimsical Golden Chest]]|0.25|150}}
+|}
+{{gfoodbonus|20|Increases Total Damage to all monsters by [%.}}

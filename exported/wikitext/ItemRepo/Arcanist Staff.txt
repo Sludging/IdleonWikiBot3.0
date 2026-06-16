@@ -1,0 +1,11 @@
+{{InfoItem
+|type=Wand
+|class=Mage
+|level=1
+|weaponpower=20
+|misc=10% Arcanist Dmg
+|misc2=1% Extra Tachyons
+|speed=5
+|reach=80
+|sellprice=1
+}}

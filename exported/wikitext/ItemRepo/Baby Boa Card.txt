@@ -1,0 +1,13 @@
+{{InfoCard
+|title=Baby Boa Card
+|dropchance=0.0294
+|order=6
+|category=Blunder Hills
+|effect=+ Move Spd
+|bonus=1
+|reqtier=9.0
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Baby Boa]]|0.0294|1}}
+|}

@@ -1,9 +1,13 @@
 {{InfoCard
 |title=Chaotic Chizoar Card
-|order=11
-|category=Dungeons
-|effect=+% Shrine Effects
+|dropchance=0.004
+|order=14
+|category=Bosses
+|effect=+% Shrine Effects (Passive)
 |bonus=5
 |reqtier=1.5
 |sellprice=1
 }}
+{{detdrops/head}}
+{{detdrops|[[Chaotic Chizoar]]|0.004|1}}
+|}

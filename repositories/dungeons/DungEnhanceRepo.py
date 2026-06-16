@@ -1,3 +1,4 @@
+import string
 from typing import List
 
 from definitions.dungeons.DungEnhance import DungEnhance, MiscUpgrade
@@ -6,6 +7,10 @@ from repositories.master.Repository import Repository
 
 
 class DungEnhanceRepo(Repository[DungEnhance]):
+
+	@classmethod
+	def getCategory(cls) -> str:
+		return "Dungeon"
 
 	@classmethod
 	def getSections(cls) -> List[str]:
@@ -19,7 +24,7 @@ class DungEnhanceRepo(Repository[DungEnhance]):
 			temp = []
 			for bonus in section:
 				temp.append(MiscUpgrade(
-					upgrade = replaceUnderscores(bonus[0]).title(),
+					upgrade = string.capwords(replaceUnderscores(bonus[0])),
 					min = bonus[1],
 					max = bonus[2]))
 			cls.add(secNames[n], DungEnhance(

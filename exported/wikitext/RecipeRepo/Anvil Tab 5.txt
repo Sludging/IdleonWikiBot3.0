@@ -1,0 +1,389 @@
+{{Smithing/head|5}}
+{{ForgeSlot
+|name=Magma Core Headdress
+|anvtab=Anvil Tab 5
+|craftnum=1
+|levelreq=65
+|expgiven=1000000
+|recipefrom=[[Cheese Nub]]
+|resource1=Thin Veil of The Troll|quantity1=1
+|resource2=Dust Mote|quantity2=80000
+|resource3=Dreadlo Bar|quantity3=2500
+}}
+{{ForgeSlot
+|name=Magma Core Wavemaille
+|anvtab=Anvil Tab 5
+|craftnum=2
+|levelreq=66
+|expgiven=1000000
+|recipefrom=[[Stiltmole]]
+|resource1=Trollish Garb|quantity1=1
+|resource2=Sundried Glass|quantity2=900000
+|resource3=Dreadlo Bar|quantity3=1200
+}}
+{{ForgeSlot
+|name=Magma Core Battleskirt
+|anvtab=Anvil Tab 5
+|craftnum=3
+|levelreq=67
+|expgiven=1000000
+|recipefrom=[[Molti]]
+|resource1=Twisted Scales|quantity1=1
+|resource2=Cheesy Crumbs|quantity2=1000000
+|resource3=Dreadlo Bar|quantity3=1600
+}}
+{{ForgeSlot
+|name=Magma Core Lavarunners
+|anvtab=Anvil Tab 5
+|craftnum=4
+|levelreq=68
+|expgiven=1000000
+|recipefrom=[[Purgatory Stalker]]
+|resource1=Soles of the Troll|quantity1=1
+|resource2=Orange Slice|quantity2=1200000
+|resource3=Dreadlo Bar|quantity3=2000
+}}
+{{ForgeSlot
+|name=Molten Core Knucklers
+|anvtab=Anvil Tab 5
+|craftnum=5
+|levelreq=70
+|expgiven=1000000
+|recipefrom=[[Suggma]]
+|resource1=Diabolical Gauntlet|quantity1=1
+|resource2=Golden Hampter Gummy Candy|quantity2=1000
+|resource3=Hampter|quantity3=500
+}}
+{{ForgeSlot
+|name=Magma Maul
+|anvtab=Anvil Tab 5
+|craftnum=6
+|levelreq=67
+|expgiven=1000000
+|recipefrom=[[Citringe]]
+|resource1=Diabolical Flesh Ripper|quantity1=1
+|resource2=Dandielogs|quantity2=500000
+|resource3=Hampter|quantity3=100
+}}
+{{ForgeSlot
+|name=Sediment Core Grunkler
+|anvtab=Anvil Tab 5
+|craftnum=7
+|levelreq=67
+|expgiven=1000000
+|recipefrom=[[Lampar]]
+|resource1=Diabolical Continuit|quantity1=1
+|resource2=Dandielogs|quantity2=500000
+|resource3=Hampter|quantity3=100
+}}
+{{ForgeSlot
+|name=Cattle Core Soothsayer Staff
+|anvtab=Anvil Tab 5
+|craftnum=8
+|levelreq=67
+|expgiven=1000000
+|recipefrom=[[Fire Spirit]]
+|resource1=Diabolical Opticule|quantity1=1
+|resource2=Dandielogs|quantity2=500000
+|resource3=Hampter|quantity3=100
+}}
+{{ForgeSlot
+|name=Dreadlo Pickolo
+|anvtab=Anvil Tab 5
+|craftnum=9
+|levelreq=70
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Starfire Pickaxe|quantity1=1
+|resource2=Dreadlo Bar|quantity2=600
+}}
+{{ForgeSlot
+|name=Colossal Mining Pouch
+|anvtab=Anvil Tab 5
+|craftnum=10
+|levelreq=67
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Starfire Ore|quantity1=900000
+}}
+{{ForgeSlot
+|name=Dreadlo Hatchet
+|anvtab=Anvil Tab 5
+|craftnum=11
+|levelreq=70
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Starfire Hatchet|quantity1=1
+|resource2=Maple Logs|quantity2=250000
+}}
+{{ForgeSlot
+|name=Colossal Chopping Pouch
+|anvtab=Anvil Tab 5
+|craftnum=12
+|levelreq=67
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Maple Logs|quantity1=900000
+}}
+{{ForgeSlot
+|name=Dreadlo Rod
+|anvtab=Anvil Tab 5
+|craftnum=13
+|levelreq=71
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Starfire Rod|quantity1=1
+|resource2=Kraken|quantity2=250000
+}}
+{{ForgeSlot
+|name=Colossal Fish Pouch
+|anvtab=Anvil Tab 5
+|craftnum=14
+|levelreq=68
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Kraken|quantity1=900000
+}}
+{{ForgeSlot
+|name=Dreadlo Matted Netting
+|anvtab=Anvil Tab 5
+|craftnum=15
+|levelreq=71
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Starfire Trim Netting|quantity1=1
+|resource2=Scarab|quantity2=250000
+}}
+{{ForgeSlot
+|name=Colossal Bug Pouch
+|anvtab=Anvil Tab 5
+|craftnum=16
+|levelreq=68
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Scarab|quantity1=900000
+}}
+{{ForgeSlot
+|name=Egalitarian Traps
+|anvtab=Anvil Tab 5
+|craftnum=17
+|levelreq=73
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Royal Traps|quantity1=1
+|resource2=Voodofish|quantity2=100
+|resource3=Nullo Salt|quantity3=10000
+}}
+{{ForgeSlot
+|name=Colossal Critta Pouch
+|anvtab=Anvil Tab 5
+|craftnum=18
+|levelreq=69
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Blobfish|quantity1=900000
+|resource2=Dioxide Synthesis|quantity2=5000
+}}
+{{ForgeSlot
+|name=Dreadnaught Skull
+|anvtab=Anvil Tab 5
+|craftnum=19
+|levelreq=73
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Slush Skull|quantity1=1
+|resource2=Luciferian Skull|quantity2=1
+|resource3=Oozie Soul|quantity3=125000
+|resource4=Nullo Salt|quantity4=10000
+}}
+{{ForgeSlot
+|name=Colossal Soul Pouch
+|anvtab=Anvil Tab 5
+|craftnum=20
+|levelreq=69
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Oozie Soul|quantity1=800000
+|resource2=Dioxide Synthesis|quantity2=5000
+}}
+{{ForgeSlot
+|name=Colossal Food Pouch
+|anvtab=Anvil Tab 5
+|craftnum=21
+|levelreq=68
+|expgiven=1000000
+|recipefrom=[[Maccie]]
+|resource1=Grilled Cheese Nomwich|quantity1=2500000
+|resource2=Golden Grilled Cheese Nomwich|quantity2=50
+|resource3=Golden Hampter Gummy Candy|quantity3=50
+}}
+{{ForgeSlot
+|name=Colossal Matty Pouch
+|anvtab=Anvil Tab 5
+|craftnum=22
+|levelreq=69
+|expgiven=1000000
+|recipefrom=[[Mister Brightside]]
+|resource1=Suggma Ashes|quantity1=2000000
+|resource2=Meteorite|quantity2=600000
+|resource3=Hampter|quantity3=200
+}}
+{{ForgeSlot
+|name=Coldseeker Bullet
+|anvtab=Anvil Tab 5
+|craftnum=23
+|levelreq=71
+|expgiven=1000000
+|recipefrom=[[Biggole Mole]]
+|resource1=Dust Mote|quantity1=100
+|resource2=Dandielogs|quantity2=100
+|resource3=Spitfire|quantity3=500
+}}
+{{ForgeSlot
+|name=Anvil Tab 6
+|anvtab=Anvil Tab 5
+|craftnum=24
+|levelreq=80
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Dreadlo Bar|quantity1=8500
+|resource2=Dandielogs|quantity2=2000000
+|resource3=Dust Mote|quantity3=1000000
+|resource4=Kruk Cavity Tooth|quantity4=10
+}}
+{{ForgeSlot
+|name=Skulled Helmet of the Divine
+|anvtab=Anvil Tab 5
+|craftnum=25
+|levelreq=75
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Magma Core Headdress|quantity1=1
+|resource2=Kruk Tooth|quantity2=50
+|resource3=Kruk Cavity Tooth|quantity3=2
+}}
+{{ForgeSlot
+|name=Serrated Chest of the Divine
+|anvtab=Anvil Tab 5
+|craftnum=26
+|levelreq=74
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Magma Core Wavemaille|quantity1=1
+|resource2=Kruk Tooth|quantity2=30
+}}
+{{ForgeSlot
+|name=Spiked Leggings of the Divine
+|anvtab=Anvil Tab 5
+|craftnum=27
+|levelreq=73
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Magma Core Battleskirt|quantity1=1
+|resource2=Kruk Tooth|quantity2=20
+}}
+{{ForgeSlot
+|name=Devious Slippers of the Divine
+|anvtab=Anvil Tab 5
+|craftnum=28
+|levelreq=72
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Magma Core Lavarunners|quantity1=1
+|resource2=Kruk Tooth|quantity2=10
+}}
+{{ForgeSlot
+|name=Crackled Skull Destroyer
+|anvtab=Anvil Tab 5
+|craftnum=29
+|levelreq=80
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Molten Core Knucklers|quantity1=1
+|resource2=Kruk Tooth|quantity2=100
+|resource3=Kruk Cavity Tooth|quantity3=4
+|resource4=Mongo Worm Slices|quantity4=20000000
+}}
+{{ForgeSlot
+|name=Skull Lance
+|anvtab=Anvil Tab 5
+|craftnum=30
+|levelreq=78
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Magma Maul|quantity1=1
+|resource2=Kruk Tooth|quantity2=30
+|resource3=Kruk Cavity Tooth|quantity3=4
+|resource4=Wormie Slices|quantity4=3000000
+}}
+{{ForgeSlot
+|name=Spine Tingler Sniper
+|anvtab=Anvil Tab 5
+|craftnum=31
+|levelreq=78
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Sediment Core Grunkler|quantity1=1
+|resource2=Kruk Tooth|quantity2=30
+|resource3=Kruk Cavity Tooth|quantity3=4
+|resource4=Hard Hat|quantity4=4000000
+}}
+{{ForgeSlot
+|name=Staff of the Undead Plague
+|anvtab=Anvil Tab 5
+|craftnum=32
+|levelreq=78
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Cattle Core Soothsayer Staff|quantity1=1
+|resource2=Kruk Tooth|quantity2=30
+|resource3=Kruk Cavity Tooth|quantity3=4
+|resource4=Molten Lamp|quantity4=5000000
+}}
+{{ForgeSlot
+|name=The Divine Scarf
+|anvtab=Anvil Tab 5
+|craftnum=33
+|levelreq=80
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Chizoars Caustic Scarf|quantity1=1
+|resource2=Strung Tooth of the Divine|quantity2=1
+|resource3=Kruk Cavity Tooth|quantity3=10
+|resource4=Lucky Lad|quantity4=2
+}}
+{{ForgeSlot
+|name=Shiny Bored Beanie
+|anvtab=Anvil Tab 5
+|craftnum=34
+|levelreq=75
+|expgiven=1000000
+|recipefrom=[[Domeo Magmus]]
+|resource1=Bored Beanie|quantity1=1
+|resource2=Suggma Ashes|quantity2=1000
+|resource3=Royal Suggma Urn|quantity3=1
+}}
+{{ForgeSlot
+|name=Divvy Slippers
+|anvtab=Anvil Tab 5
+|craftnum=35
+|levelreq=75
+|expgiven=1000000
+|recipefrom=[[Domeo Magmus]]
+|resource1=Sheek Scrubs|quantity1=1
+|resource2=Chef Hat Shoes|quantity2=1
+|resource3=Molten Lamp|quantity3=50000
+}}
+{{ForgeSlot
+|name=Zero Point Stopwatch
+|anvtab=Anvil Tab 5
+|craftnum=36
+|levelreq=75
+|expgiven=1000000
+|recipefrom=[[Domeo Magmus]]
+|resource1=Midnight Stopwatch|quantity1=1
+|resource2=Dawn Stopwatch|quantity2=1
+|resource3=Spirit Diamond|quantity3=25
+|resource4=Kruk Cavity Tooth|quantity4=10
+}}
+|}

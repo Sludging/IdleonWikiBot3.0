@@ -1,0 +1,18 @@
+{{InfoItem
+|type=Helmet
+|class=All
+|level=6
+|str=2
+|agi=2
+|wis=2
+|upgrade=2
+|defence=5
+|sellprice=150
+|notes= 
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Frog Leg|30}}
+|tot=
+{{detrecipe/totals|Frog Leg|30}}
+}}

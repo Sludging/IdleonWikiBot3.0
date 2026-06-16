@@ -3,14 +3,19 @@ from typing import List
 
 from definitions.enemy.BossDetails import BossDetails, BossAttack
 from helpers.HelperFunctions import formatStr, wrap, strToArray
+from repositories.enemies.EnemyDetailsRepo import EnemyDetailsRepo
 from repositories.master.Repository import Repository
 
 
 class BossDetailRepo(Repository[BossDetails]):
 
 	@classmethod
-	def parse(cls, value) -> BossDetails:
-		return BossDetails.parse_obj(value)
+	def getCategory(cls) -> str:
+		return "Enemy"
+
+	@classmethod
+	def initDependencies(cls, log = True) -> None:
+		EnemyDetailsRepo.initialise(cls.codeReader, log)
 
 	@classmethod
 	def getSections(cls) -> List[str]:
@@ -18,16 +23,22 @@ class BossDetailRepo(Repository[BossDetails]):
 
 	@classmethod
 	def generateRepo(cls) -> None:
-		bossIntNames = ["wolf", "Boss2", "Boss3"]
+		bossIntNames = ["wolf", "Boss2", "Boss3", "Boss4", "Boss5", "Boss6"]
 		tabs = ["health", "defence", "exp", "keys"]
 		letters = ["A", "B", "C"]
 
 		attackNames = [
 			["Fireball", "Stomp", "Rock Spikes", "Spike Traps", "Sword Swing", "Uppercut", "Rocketfist"],
 			["Hammer", "Scimitar", "Fire Column", "Purple Psionic Hoops", "Finger Gun", "Headpat", "Blue Psionic",
-				"Hoops", "Kick"],
-			["filler", "filler", "filler", "filler", "filler", "filler", "filler", "filler", "filler", "filler",
-			    "filler", "filler", "filler"]
+			 "Hoops", "Kick"],
+			["Front Stomp", "Back Stomp", "Frozen Spikes", "Falling Icicles", "Tusk Swipe", "filler", "filler",
+			 "filler", "filler",
+			 "filler", "filler", "filler"],
+			["Talk no Jutsu", "filler", "filler", "filler", "filler", "filler", "filler", "filler", "filler", "filler",
+			 "filler", "filler", "filler"],
+			["Attack1", "Attack2", "Attack3", "Attack4", "Attack5", "Attack6", "Attack7", "Attack8", "Attack9",
+			 "Attack10", "Attack11", "Attack12", "Attack13"],
+			["Spinning Blades!", "Toxic Deluge!", "Guards, sieze him!", "Mudslide!", "Energy Surge!", "filler", "filler"],
 		]
 
 		bossInformation = {}
@@ -52,11 +63,17 @@ class BossDetailRepo(Repository[BossDetails]):
 		for boss, detail in bossInformation.items():
 			attacks = []
 			for name, damage in detail.get("Attacks").items():
-				attacks.append(BossAttack(name=name, damage = damage))
+				attacks.append(BossAttack(name = name, damage = damage))
 			cls.add(boss, BossDetails(
 				health = detail["health"],
 				defence = detail["defence"],
 				exp = detail["exp"],
 				keys = detail["keys"],
-				attacks= attacks.copy(),
+				attacks = attacks.copy(),
 			))
+
+	@classmethod
+	def getWikiName(cls, name: str) -> str:
+		if not EnemyDetailsRepo.contains(name):
+			return name
+		return EnemyDetailsRepo.get(name).Name

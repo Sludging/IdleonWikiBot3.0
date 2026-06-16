@@ -1,0 +1,338 @@
+{
+    "Amethyst Rhinestone": {
+        "x": 76,
+        "y": 134,
+        "range": 90,
+        "effect": "Meal cooking is }x faster. This bonus is applied TWICE if all 3 purple jewels are active.",
+        "description": "Boosts Meal Cooking speed",
+        "requirements": [
+            {"item": "Quest66", "quantity": 5},
+            {"mealNo": "1", "quantity": 2000},
+            {"spiceNo": "0", "quantity": 200}
+        ],
+        "name": "Amethyst Rhinestone",
+        "bonusGiven": 1.5
+    },
+    "Purple Navette": {
+        "x": 164,
+        "y": 412,
+        "range": 90,
+        "effect": "'Animal Farm' mainframe bonus gives an additional +}% per species. If Animal Farm is not active, then this does nothing.",
+        "description": "Bolsters 'Animal Farm'",
+        "requirements": [
+            {"item": "Quest35", "quantity": 5},
+            {"mealNo": "3", "quantity": 2000},
+            {"spiceNo": "1", "quantity": 200}
+        ],
+        "name": "Purple Navette",
+        "bonusGiven": 0.5
+    },
+    "Purple Rhombol": {
+        "x": 163,
+        "y": 218,
+        "range": 90,
+        "effect": "All players get +}% Lab EXP gain.",
+        "description": "Boosts Lab EXP gain",
+        "requirements": [
+            {"item": "Timecandy1", "quantity": 10},
+            {"mealNo": "5", "quantity": 2000},
+            {"spiceNo": "2", "quantity": 200}
+        ],
+        "name": "Purple Rhombol",
+        "bonusGiven": 40
+    },
+    "Sapphire Rhinestone": {
+        "x": 246,
+        "y": 110,
+        "range": 90,
+        "effect": "Construction slot 1 is now trimmed up, and has }x building Speed. Also trims slot 2 if all 4 blue jewels are active.",
+        "description": "Trims up a construction slot",
+        "requirements": [
+            {"item": "Quest15", "quantity": 10},
+            {"mealNo": "7", "quantity": 5000},
+            {"spiceNo": "3", "quantity": 400}
+        ],
+        "name": "Sapphire Rhinestone",
+        "bonusGiven": 3
+    },
+    "Sapphire Navette": {
+        "x": 277,
+        "y": 394,
+        "range": 90,
+        "effect": "All players get +}% All Stat. STR, AGI, WIS, and LUCK to boot.",
+        "description": "Boosts all stats",
+        "requirements": [
+            {"item": "TreeInterior1b", "quantity": 25},
+            {"mealNo": "9", "quantity": 5000},
+            {"spiceNo": "4", "quantity": 400}
+        ],
+        "name": "Sapphire Navette",
+        "bonusGiven": 3
+    },
+    "Sapphire Rhombol": {
+        "x": 470,
+        "y": 294,
+        "range": 90,
+        "effect": "Even if this jewel is off, all players within a 150px radius of this jewel, shown by the circle, have +25% Line Width. @ Also gives +}% Breeding EXP, but only when active.",
+        "description": "Emits a 'Line Width' Aura",
+        "requirements": [
+            {"item": "Sewers1b", "quantity": 30},
+            {"mealNo": "11", "quantity": 5000},
+            {"spiceNo": "5", "quantity": 400}
+        ],
+        "name": "Sapphire Rhombol",
+        "bonusGiven": 25
+    },
+    "Sapphire Pyramite": {
+        "x": 490,
+        "y": 112,
+        "range": 90,
+        "effect": "Every 24 hours, the } lowest level Kitchen Upgrades across all owned kitchens gain +1 Lv.",
+        "description": "Automatically levels up kitchens",
+        "requirements": [
+            {"item": "Quest38", "quantity": 2},
+            {"mealNo": "13", "quantity": 5000},
+            {"spiceNo": "6", "quantity": 400}
+        ],
+        "name": "Sapphire Pyramite",
+        "bonusGiven": 2
+    },
+    "Pyrite Rhinestone": {
+        "x": 552,
+        "y": 163,
+        "range": 90,
+        "effect": "'No Bubble Left Behind' mainframe bonus gives +} levels instead of +1, and does so for the lowest 4 bubbles instead of 3.",
+        "description": "Bolsters 'No Bubble Left Behind'",
+        "requirements": [
+            {"item": "DesertA1b", "quantity": 50},
+            {"mealNo": "15", "quantity": 10000},
+            {"spiceNo": "7", "quantity": 1500}
+        ],
+        "name": "Pyrite Rhinestone",
+        "bonusGiven": 2
+    },
+    "Pyrite Navette": {
+        "x": 646,
+        "y": 407,
+        "range": 90,
+        "effect": "All players get }x 'non-consume' chance, and raises the max chance from 90% to 98%, allowing for longer AFK with food.",
+        "description": "Boosts 'non-consume' chance",
+        "requirements": [
+            {"item": "EquipmentPants19", "quantity": 2},
+            {"mealNo": "17", "quantity": 10000},
+            {"spiceNo": "8", "quantity": 1500}
+        ],
+        "name": "Pyrite Navette",
+        "bonusGiven": 3
+    },
+    "Pyrite Rhombol": {
+        "x": 680,
+        "y": 319,
+        "range": 90,
+        "effect": "All mainframe bonuses and jewels have a }% larger connection range, except for this jewel. This jewel has an 80px connection range no matter what!",
+        "description": "Boosts mainframe connection range",
+        "requirements": [
+            {"item": "DesertA3b", "quantity": 50},
+            {"mealNo": "19", "quantity": 10000},
+            {"spiceNo": "9", "quantity": 1500}
+        ],
+        "name": "Pyrite Rhombol",
+        "bonusGiven": 30
+    },
+    "Pyrite Pyramite": {
+        "x": 847,
+        "y": 105,
+        "range": 90,
+        "effect": "All players deal 1.}x more damage. This bonus is applied TWICE if all 4 Orange Jewels are active.",
+        "description": "Boosts player damage",
+        "requirements": [
+            {"item": "DesertC2b", "quantity": 50},
+            {"mealNo": "21", "quantity": 10000},
+            {"spiceNo": "10", "quantity": 1500}
+        ],
+        "name": "Pyrite Pyramite",
+        "bonusGiven": 10
+    },
+    "Emerald Rhinestone": {
+        "x": 998,
+        "y": 404,
+        "range": 90,
+        "effect": "}% reduced incubation egg time. Mo eggs mo problems tho, fo sho.",
+        "description": "Reduces egg incubation time",
+        "requirements": [
+            {"item": "BabaYagaETC", "quantity": 1},
+            {"mealNo": "23", "quantity": 25000},
+            {"spiceNo": "11", "quantity": 5000}
+        ],
+        "name": "Emerald Rhinestone",
+        "bonusGiven": 28
+    },
+    "Emerald Navette": {
+        "x": 1079,
+        "y": 233,
+        "range": 90,
+        "effect": "All players have } higher base efficiency in all skills, and +10% skill action speed. This bonus is applied TWICE if all 5 Green Jewels are active.",
+        "description": "Boosts player efficiency",
+        "requirements": [
+            {"item": "SnowA2a", "quantity": 80},
+            {"mealNo": "25", "quantity": 25000},
+            {"spiceNo": "12", "quantity": 5000}
+        ],
+        "name": "Emerald Navette",
+        "bonusGiven": 200
+    },
+    "Emerald Rhombol": {
+        "x": 1085,
+        "y": 121,
+        "range": 90,
+        "effect": "'Fungi Finger Pocketer' mainframe bonus gives an additional +}% cash bonus per million mushroom kills",
+        "description": "Bolsters 'Fungi Finger Pocketer'",
+        "requirements": [
+            {"item": "SnowB2a", "quantity": 120},
+            {"mealNo": "27", "quantity": 25000},
+            {"spiceNo": "13", "quantity": 5000}
+        ],
+        "name": "Emerald Rhombol",
+        "bonusGiven": 1
+    },
+    "Emerald Pyramite": {
+        "x": 1167,
+        "y": 390,
+        "range": 90,
+        "effect": "Meal cooking is }% faster for every 25 total upgrade levels across all kitchens. @ Total Bonus: {% speed",
+        "description": "Boosts Meal Cooking speed",
+        "requirements": [
+            {"item": "SnowC4a", "quantity": 150},
+            {"mealNo": "29", "quantity": 25000},
+            {"spiceNo": "14", "quantity": 5000}
+        ],
+        "name": "Emerald Pyramite",
+        "bonusGiven": 1
+    },
+    "Emerald Ulthurite": {
+        "x": 1300,
+        "y": 208,
+        "range": 90,
+        "effect": "Shiny Mobs in the Fenceyard level up their Passive Bonuses +}% faster",
+        "description": "Boosts Shiny Mob level up rate",
+        "requirements": [
+            {"item": "GalaxyA2b", "quantity": 200},
+            {"mealNo": "31", "quantity": 25000},
+            {"spiceNo": "15", "quantity": 5000}
+        ],
+        "name": "Emerald Ulthurite",
+        "bonusGiven": 30
+    },
+    "Black Diamond Rhinestone": {
+        "x": 1365,
+        "y": 100,
+        "range": 90,
+        "effect": "All meals now give a 1.}x higher bonus! Go ahead and check it out at the Dinner Menu! @ Doesn't apply to the meal that gives Line Width bonus.",
+        "description": "Bolsters meals",
+        "requirements": [
+            {"item": "GalaxyC1b", "quantity": 300},
+            {"mealNo": "33", "quantity": 100000},
+            {"spiceNo": "15", "quantity": 10000}
+        ],
+        "name": "Black Diamond Rhinestone",
+        "bonusGiven": 16
+    },
+    "Black Diamond Ulthurite": {
+        "x": 1389,
+        "y": 408,
+        "range": 90,
+        "effect": "'Unadulterated Banking Fury' gives an additional +}% Total Damage per greened stack.",
+        "description": "Bolsters 'Unadulterated Banking Fury'",
+        "requirements": [
+            {"item": "Critter10A", "quantity": 10000},
+            {"mealNo": "35", "quantity": 100000},
+            {"spiceNo": "16", "quantity": 10000}
+        ],
+        "name": "Black Diamond Ulthurite",
+        "bonusGiven": 1
+    },
+    "Pure Opal Rhinestone": {
+        "x": 1619,
+        "y": 203,
+        "range": 90,
+        "effect": "'Slab Sovereignty' gives an additional }% boost to all Slab Bonuses!",
+        "description": "Bolsters 'Slab Sovereignty'",
+        "requirements": [
+            {"item": "SpiA1", "quantity": 3000000},
+            {"mealNo": "53", "quantity": 1000000},
+            {"spiceNo": "20", "quantity": 10000}
+        ],
+        "name": "Pure Opal Rhinestone",
+        "bonusGiven": 20
+    },
+    "Pure Opal Navette": {
+        "x": 1846,
+        "y": 410,
+        "range": 80,
+        "effect": "+}% higher effects from all active bonuses and jewels within the Mainframe, except for Spelunker Obol. @ This is a multiplier, so +10% would be 1.10x, ya feel me? @ This bonus always has a 80px connection range no matter what!",
+        "description": "Boosts entire Lab",
+        "requirements": [
+            {"item": "SpiB2b", "quantity": 1000},
+            {"mealNo": "58", "quantity": 10000000},
+            {"spiceNo": "21", "quantity": 10000}
+        ],
+        "name": "Pure Opal Navette",
+        "bonusGiven": 10
+    },
+    "Pure Opal Rhombol": {
+        "x": 2040,
+        "y": 96,
+        "range": 90,
+        "effect": "'Depot Studies PhD' gives an additional }% boost to all Crop Depot bonuses!",
+        "description": "Bolsters 'Depot Studies PhD'",
+        "requirements": [
+            {"item": "Critter11A", "quantity": 5000},
+            {"mealNo": "62", "quantity": 100000000},
+            {"spiceNo": "22", "quantity": 10000}
+        ],
+        "name": "Pure Opal Rhombol",
+        "bonusGiven": 10
+    },
+    "Deadly Wrath Jewel": {
+        "x": 1815,
+        "y": 96,
+        "range": 100,
+        "effect": "+}% extra Deathbringer Bones. @ This bonus always has a 100px connection range no matter what!",
+        "description": "Boosts entire Lab",
+        "requirements": [
+            {"item": "SpiB2b", "quantity": 1000},
+            {"mealNo": "58", "quantity": 10000000},
+            {"spiceNo": "21", "quantity": 10000}
+        ],
+        "name": "Deadly Wrath Jewel",
+        "bonusGiven": 50
+    },
+    "North Winds Jewel": {
+        "x": 1728,
+        "y": 421,
+        "range": 100,
+        "effect": "+}% extra Windwalker Dust. @ This bonus always has a 100px connection range no matter what!",
+        "description": "Boosts entire Lab",
+        "requirements": [
+            {"item": "SpiB2b", "quantity": 1000},
+            {"mealNo": "58", "quantity": 10000000},
+            {"spiceNo": "21", "quantity": 10000}
+        ],
+        "name": "North Winds Jewel",
+        "bonusGiven": 50
+    },
+    "Eternal Energy Jewel": {
+        "x": 2042,
+        "y": 410,
+        "range": 100,
+        "effect": "+}% extra Arcane Cultist Tachyons. @ This bonus always has a 100px connection range no matter what!",
+        "description": "Boosts entire Lab",
+        "requirements": [
+            {"item": "SpiB2b", "quantity": 1000},
+            {"mealNo": "58", "quantity": 10000000},
+            {"spiceNo": "21", "quantity": 10000}
+        ],
+        "name": "Eternal Energy Jewel",
+        "bonusGiven": 50
+    }
+}

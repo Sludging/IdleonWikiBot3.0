@@ -1,0 +1,25 @@
+{{InfoEnemy
+|image=Moonmoon Walking.gif
+|attack=120
+|health=25000
+|defence=185
+|speed=4
+|exp=380
+|respawn=40
+|defence0=117.54
+|area=Up Up Down Down
+|world=Yum-Yum Desert
+|crystal=yes
+|crystalname=Crystal Crabal
+|hascard=yes
+|nextenemy=Sand Giant
+|prevenemy=Tyson
+}}
+{{DropTable/head|Droptable for Moonmoon}}
+{{DropTable/coin|555|0.35}}
+{{DropTable|Wakka Cherry|0.165|1}}
+{{DropTable|Ghost|0.0005|1}}
+{{DropTable/card|0.0001}}
+{{DropTable|Loomi's Room Key|0.0001|1|special=([[Loominadi#Rhyming is Key!|Loominadi]])}}
+{{DropTable|Baseball Hat|0.00000015|1}}
+{{DropTable/append|DropTable8|0.0035|1}}

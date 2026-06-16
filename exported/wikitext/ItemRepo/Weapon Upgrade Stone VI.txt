@@ -1,0 +1,10 @@
+{{InfoItem
+|type=Upgrade
+|description=Drag onto any Weapon to apply. +8 Weapon Power, +7 Main Stat. Success Chance; 75% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails! 
+|tier=VI
+|sellprice=600000000
+}}
+{{detdrops/head}}
+{{detdrops|[[Whimsical Bronze Chest(W6)]]|0.015|1}}
+{{detdrops|[[Whimsical Silver Chest(W6)]]|0.04|1}}
+|}

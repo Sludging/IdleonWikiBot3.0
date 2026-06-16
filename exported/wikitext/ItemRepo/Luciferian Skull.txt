@@ -1,0 +1,37 @@
+{{InfoItem
+|type=Worship Skull
+|class=All
+|level=60
+|wis=20
+|upgrade=4
+|skill=Worship
+|skillpower=45
+|speed=8
+|charge=2500
+|sellprice=4938550
+|setname = Diabolical
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Squishy Soul|60000}}
+{{detrecipe|3|Glauss Skull|1}}
+{{detrecipe|40|Frigid Soul|40000}}
+{{detrecipe|40|Manifested Skull|1}}
+{{detrecipe|80|Frigid Soul|8000}}
+{{detrecipe|80|Prickle Skull|1}}
+{{detrecipe|120|Rooted Soul|7000}}
+{{detrecipe|120|Redox Salts|50}}
+{{detrecipe|120|Horned Skull|1}}
+{{detrecipe|160|Dune Soul|1200}}
+{{detrecipe|160|Redox Salts|25}}
+{{detrecipe|80|Dense Water|5}}
+{{detrecipe|40|Dioxide Synthesis|1000}}
+|tot=
+{{detrecipe/totals|Squishy Soul|60000}}
+{{detrecipe/totals|Frigid Soul|48000}}
+{{detrecipe/totals|Dioxide Synthesis|1000}}
+{{detrecipe/totals|Dense Water|5}}
+{{detrecipe/totals|Rooted Soul|7000}}
+{{detrecipe/totals|Redox Salts|75}}
+{{detrecipe/totals|Dune Soul|1200}}
+}}

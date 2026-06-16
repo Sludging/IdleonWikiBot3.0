@@ -1,0 +1,199 @@
+{
+    "new": {
+        "slimeB": {
+            "details": {
+                "Name": "Glunko The Massive",
+                "RespawnTime": 1200,
+                "MonsterHPTotal": 10000,
+                "SpecialType": "a",
+                "ExpGiven": 1000,
+                "ExpType": 0,
+                "Defence": 5,
+                "MoveSPEED": 3,
+                "Damages": [100, 1],
+                "DefFor0": 94.54
+            },
+            "drops": [
+                {"item": "COIN", "quantity": 500, "chance": 1, "questLink": "N/A"},
+                {"item": "CardsZ26", "quantity": 1, "chance": 0.99, "questLink": "N/A"},
+                {"item": "EquipmentPendant32", "quantity": 1, "chance": 1, "questLink": "N/A"},
+                {"item": "EquipmentShoes7", "quantity": 1, "chance": 0.3, "questLink": "N/A"},
+                {"item": "Jungle1", "quantity": 25, "chance": 1, "questLink": "N/A"},
+                {"item": "Jungle1", "quantity": 25, "chance": 1, "questLink": "N/A"},
+                {"item": "Jungle1", "quantity": 25, "chance": 1, "questLink": "N/A"},
+                {"item": "DropTable3", "quantity": 2, "chance": 1, "questLink": "N/A"}
+            ],
+            "mapData": null
+        }
+    },
+    "changes": {
+        "babayaga": {"details": {"MoveSPEED": [4, 6], "RespawnTime": [86400, 80400]}},
+        "mimicA": {"details": {"Damages": {"0": [20, 22]}, "DefFor0": [12.82, 14.57]}},
+        "ForgeB": {
+            "drops": {
+                "2": [" ", {"item": "EquipmentPants5", "quantity": 69, "chance": 0.5, "questLink": "N/A"}]
+            }
+        },
+        "stache": {
+            "details": {"Defence": [350, 360], "Damages": {"0": [190, 195]}, "DefFor0": [201.51, 207.65]}
+        },
+        "carrotO": {
+            "drops": {
+                "2": [
+                    {"item": "CardsA6", "quantity": 1, "chance": 9e-05, "questLink": "N/A"},
+                    {"item": "CardsA6", "quantity": 1, "chance": 0.019, "questLink": "N/A"}
+                ]
+            }
+        },
+        "snakeG": {
+            "drops": {
+                "2": [
+                    {"item": "CardsA5", "quantity": 1, "chance": 9.4e-05, "questLink": "N/A"},
+                    {"item": "CardsA5", "quantity": 1, "chance": 0.0294, "questLink": "N/A"}
+                ]
+            }
+        },
+        "Bug4": {"details": {"Defence": [6000, 2000]}},
+        "mushG": {
+            "drops": {
+                "2": [
+                    {"item": "CardsA0", "quantity": 1, "chance": 0.0001, "questLink": "N/A"},
+                    {"item": "CardsA0", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+                ]
+            }
+        },
+        "frogG": {
+            "drops": {
+                "2": [
+                    {"item": "CardsA2", "quantity": 1, "chance": 0.0001, "questLink": "N/A"},
+                    {"item": "CardsA2", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+                ]
+            }
+        },
+        "PalmTree": {"details": {"Defence": [1250, 1000]}},
+        "steak": {
+            "details": {"Defence": [125, 150], "Damages": {"0": [80, 100]}, "DefFor0": [72.24, 94.54]}
+        },
+        "slimeG": {
+            "drops": {
+                "2": [
+                    {"item": "CardsA4", "quantity": 1, "chance": 9.5e-05, "questLink": "N/A"},
+                    {"item": "CardsA4", "quantity": 1, "chance": 0.0395, "questLink": "N/A"}
+                ]
+            }
+        },
+        "frogBIG": {
+            "drops": {
+                "2": [
+                    {"item": "CardsA9", "quantity": 1, "chance": 7e-05, "questLink": "N/A"},
+                    {"item": "CardsA9", "quantity": 1, "chance": 0.007, "questLink": "N/A"}
+                ]
+            }
+        },
+        "moonman": {
+            "details": {"Defence": [150, 185], "Damages": {"0": [90, 120]}, "DefFor0": [83.29, 117.54]}
+        },
+        "snailZ": {
+            "details": {"Defence": [200, 250], "Damages": {"0": [125, 155]}, "DefFor0": [123.37, 158.98]}
+        },
+        "sandgiant": {
+            "details": {"Defence": [170, 230], "Damages": {"0": [110, 140]}, "DefFor0": [105.96, 141.06]}
+        },
+        "JungleTree": {"details": {"Defence": [250, 120]}},
+        "Bug6": {"details": {"Defence": [35000, 15000]}},
+        "ChestB4": {
+            "drops": {
+                "0": [
+                    {"item": "COIN", "quantity": 30000000, "chance": 1, "questLink": "N/A"},
+                    {"item": "COIN", "quantity": 1500000, "chance": 1, "questLink": "N/A"}
+                ]
+            }
+        },
+        "Bug2": {"details": {"Defence": [400, 80]}},
+        "Bug3": {"details": {"Defence": [2000, 400]}},
+        "pincermin": {"details": {"Damages": {"0": [55, 60]}, "DefFor0": [45.72, 50.87]}},
+        "sandcastle": {"details": {"Damages": {"0": [45, 52]}, "DefFor0": [35.69, 42.67]}},
+        "ChestC4": {
+            "drops": {
+                "0": [
+                    {"item": "COIN", "quantity": 60000000, "chance": 1, "questLink": "N/A"},
+                    {"item": "COIN", "quantity": 4000000, "chance": 1, "questLink": "N/A"}
+                ]
+            }
+        },
+        "Bug9": {"details": {"Defence": [500000, 300000]}},
+        "sheep": {
+            "details": {"Defence": [250, 290], "Damages": {"0": [135, 155]}, "DefFor0": [135.14, 158.98]}
+        },
+        "Bug5": {"details": {"Defence": [15000, 7500]}},
+        "flake": {
+            "details": {"Defence": [300, 330], "Damages": {"0": [160, 170]}, "DefFor0": [165, 177.1]}
+        },
+        "ForestTree": {"details": {"Defence": [600, 400]}},
+        "goblinG": {
+            "drops": {
+                "2": [
+                    {"item": "CardsA7", "quantity": 1, "chance": 8.6e-05, "questLink": "N/A"},
+                    {"item": "CardsA7", "quantity": 1, "chance": 0.0186, "questLink": "N/A"}
+                ]
+            }
+        },
+        "SaharanFoal": {"details": {"Defence": [16000, 15000]}},
+        "slimeR": {
+            "drops": {
+                "0": [
+                    {"item": "COIN", "quantity": 69, "chance": 0.5, "questLink": "N/A"},
+                    {"item": "COIN", "quantity": 10, "chance": 0.5, "questLink": "N/A"}
+                ]
+            }
+        },
+        "ForgeA": {
+            "drops": {
+                "7": [" ", {"item": "EquipmentHats28", "quantity": 69, "chance": 0.5, "questLink": "N/A"}],
+                "5": [" ", {"item": "EquipmentShirts12", "quantity": 69, "chance": 0.5, "questLink": "N/A"}],
+                "2": [" ", {"item": "EquipmentHats17", "quantity": 69, "chance": 0.5, "questLink": "N/A"}],
+                "8": [" ", {"item": "EquipmentPants4", "quantity": 69, "chance": 0.5, "questLink": "N/A"}],
+                "4": [" ", {"item": "EquipmentHats18", "quantity": 69, "chance": 0.5, "questLink": "N/A"}]
+            }
+        },
+        "beanG": {
+            "drops": {
+                "2": [
+                    {"item": "CardsA3", "quantity": 1, "chance": 9.7e-05, "questLink": "N/A"},
+                    {"item": "CardsA3", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+                ]
+            }
+        },
+        "ChestA4": {
+            "drops": {
+                "0": [
+                    {"item": "COIN", "quantity": 8000000, "chance": 1, "questLink": "N/A"},
+                    {"item": "COIN", "quantity": 800000, "chance": 1, "questLink": "N/A"}
+                ]
+            }
+        },
+        "Bug7": {"details": {"Defence": [100000, 30000]}},
+        "coconut": {"details": {"Damages": {"0": [35, 38]}, "DefFor0": [26.12, 28.94]}},
+        "OakTree": {"details": {"Defence": [20, 10]}},
+        "Bug1": {"details": {"Defence": [40, 10]}},
+        "mushR": {
+            "drops": {
+                "2": [
+                    {"item": "CardsA1", "quantity": 1, "chance": 0.0001, "questLink": "N/A"},
+                    {"item": "CardsA1", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
+                ]
+            }
+        },
+        "plank": {
+            "drops": {
+                "2": [
+                    {"item": "CardsA8", "quantity": 1, "chance": 8e-05, "questLink": "N/A"},
+                    {"item": "CardsA8", "quantity": 1, "chance": 0.018, "questLink": "N/A"}
+                ]
+            }
+        },
+        "Bug8": {"details": {"Defence": [250000, 100000]}},
+        "crabcake": {"details": {"Damages": {"0": [25, 28]}, "DefFor0": [17.12, 19.75]}},
+        "BirchTree": {"details": {"Defence": [80, 40]}}
+    }
+}

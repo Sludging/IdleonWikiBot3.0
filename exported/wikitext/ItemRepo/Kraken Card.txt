@@ -1,0 +1,10 @@
+{{InfoCard
+|title=Kraken Card
+|dropchance=2.5e-05
+|order=16
+|category=Hard Resources
+|effect=+% Fishing Away Gains
+|bonus=3
+|reqtier=10.0
+|sellprice=1
+}}

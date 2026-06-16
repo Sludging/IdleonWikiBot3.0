@@ -1,0 +1,41 @@
+{{InfoItem
+|type=Upgrade
+|description=Drag onto any Equip to apply. +10 Mystery Stat. Success Chance; 50% Uses up 1 slots only if Successful. WARNING:Mystery Stat has a chance to be Negative, and reduce stats! 
+|tier=III
+|sellprice=777
+|notes=Mystery Upgrade Stone III can increase or decrease an item's stats by up to +8 or as low as -8 per roll. If an item has a Misc effect and the item is not crafted, Mystery Stones can increase or decrease it by +/-1 per roll. Mystery stones can not affect the Misc of crafted items.
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Capybara]]|0.000375|1}}
+{{detdrops|[[Suggma]]|0.000003125|1}}
+{{detdrops|[[Maccie]]|0.0000035|1}}
+{{detdrops|[[Mister Brightside]]|0.000003875|1}}
+{{detdrops|[[Cheese Nub]]|0.00000425|1}}
+{{detdrops|[[Stiltmole]]|0.000004625000000000001|1}}
+{{detdrops|[[Kattlekruk]]|0.00125|2}}
+{{detdrops|[[Chaotic Kattlekruk]]|0.00125|2}}
+{{detdrops|[[Sacrilegious Kattlekruk]]|0.00125|2}}
+{{detdrops|[[Molten Bronze Chest(W5)]]|0.00125|1}}
+{{detdrops|[[Catching#Drops|Catching Scarab]]|0.00001875|1}}
+{{detdrops|[[Crystal Capybara]]|0.00025|1}}
+{{detdrops|[[Molti]]|0.000003125|1}}
+{{detdrops|[[Purgatory Stalker]]|0.000003125|1}}
+{{detdrops|[[Citringe]]|0.000003625|1}}
+{{detdrops|[[Lampar]]|0.000003875|1}}
+{{detdrops|[[Fire Spirit]]|0.000004125|1}}
+{{detdrops|[[Biggole Mole]]|0.0000043750000000000005|1}}
+{{detdrops|[[Kattlekruk]]|0.00125|2}}
+{{detdrops|[[Chaotic Kattlekruk]]|0.00125|2}}
+{{detdrops|[[Molten Silver Chest(W5)]]|0.00125|1}}
+{{detdrops|[[Catching#Drops|Catching Dust Mote]]|0.00001875|1}}
+{{detdrops|[[Catching#Drops|Catching Dream Particulate]]|0.0000000000125|1}}
+{{detdrops|[[Crystal Capybara]]|0.00021250000000000002|1}}
+{{detdrops|[[Crawler]]|0.0000035|1}}
+{{detdrops|[[Tremor Wurm]]|0.0000043750000000000005|1}}
+{{detdrops|[[Kattlekruk]]|0.00125|2}}
+{{detdrops|[[Chaotic Kattlekruk]]|0.00125|2}}
+{{detdrops|[[Molten Golden Chest(W5)]]|0.00125|1}}
+{{detdrops|[[Crystal Capybara]]|0.000255|1}}
+{{detdrops|[[Choppin#Drops|Choppin Dandelioli Tree]]|0.000013350000000000001|1}}
+{{detdrops|[[Choppin#Drops|Choppin Equinox Willow]]|0.000013350000000000001|1}}
+|}

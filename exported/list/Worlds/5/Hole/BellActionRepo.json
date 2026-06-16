@@ -1,0 +1,22 @@
+[
+    {
+        "index": 0,
+        "actionType": "Ring",
+        "description": "Ring the bell to get +1 LV of a random bonus"
+    },
+    {
+        "index": 1,
+        "actionType": "Ping",
+        "description": "Ping the bell to find an Opal instantly"
+    },
+    {
+        "index": 2,
+        "actionType": "Clean",
+        "description": "Clean the bell for a % chance to unlock a new improvement method"
+    },
+    {
+        "index": 3,
+        "actionType": "Renew",
+        "description": "Renew the bell to reset all bonuses but keep improvement methods and opals"
+    }
+]

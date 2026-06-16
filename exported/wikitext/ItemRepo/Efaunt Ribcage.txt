@@ -1,0 +1,24 @@
+{{InfoItem
+|type=Shirt
+|class=All
+|level=80
+|str=5
+|agi=5
+|wis=5
+|misc=4% Mastery
+|upgrade=6
+|defence=50
+|sellprice=4260
+|setname = Efaunt
+|notes= 
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Ripped Tunic|10}}
+{{detrecipe|3|Midnight Cookie|10}}
+{{detrecipe|3|Distilled Water|25}}
+|tot=
+{{detrecipe/totals|Ripped Tunic|10}}
+{{detrecipe/totals|Midnight Cookie|10}}
+{{detrecipe/totals|Distilled Water|25}}
+}}

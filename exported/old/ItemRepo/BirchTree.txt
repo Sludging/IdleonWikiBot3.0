@@ -2,5 +2,8 @@
 |type=Log
 |hascard=yes
 |sellprice=3
-|source=[[Dewdrop Silver Chest]]
+|notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Dewdrop Silver Chest]]|0.1|25}}
+|}

@@ -1,0 +1,9 @@
+{{InfoItem
+|type=Storage
+|description=Hold down to permanently add +4 Slots to your Storage Chest. Can only be used once.
+|internalid=7
+|level=1
+|sellprice=3500
+|setname = Storage
+|notes= 
+}}

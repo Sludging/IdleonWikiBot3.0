@@ -1,0 +1,10 @@
+{{InfoCard
+|title=Chromatium Frog Card
+|dropchance=0.0025
+|order=5
+|category=Dungeons
+|effect=+% Dungeon Credits
+|bonus=2.5
+|reqtier=3.0
+|sellprice=1
+}}

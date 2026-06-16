@@ -1,0 +1,46 @@
+{{InfoItem
+|type=Fisticuff
+|class=Beginner
+|level=160
+|weaponpower=55
+|luck=40
+|misc=10% Total Damage
+|misc2=10% Mob Respawn
+|upgrade=5
+|speed=9
+|reach=96
+|sellprice=251223900
+|setname = Magma
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Diabolical Gauntlet|1}}
+{{detrecipe|40|Knuckle Sabers|1}}
+{{detrecipe|80|Eclectic Ordeal|1}}
+{{detrecipe|120|Yellow Snowflake|100}}
+{{detrecipe|120|Minervowl|50}}
+{{detrecipe|120|Dootjat Eye|10}}
+{{detrecipe|160|Silver Antique|10}}
+{{detrecipe|160|Gold Bar|800}}
+{{detrecipe|160|Ghost|50}}
+{{detrecipe|120|Dense Water|15}}
+{{detrecipe|80|Thingymabob|50000}}
+{{detrecipe|80|Dioxide Synthesis|2000}}
+{{detrecipe|40|Starfire Bar|50000}}
+{{detrecipe|40|Nullo Salt|5000}}
+{{detrecipe|3|Golden Hampter Gummy Candy|1000}}
+{{detrecipe|3|Hampter|500}}
+|tot=
+{{detrecipe/totals|Golden Hampter Gummy Candy|1000}}
+{{detrecipe/totals|Hampter|500}}
+{{detrecipe/totals|Starfire Bar|50000}}
+{{detrecipe/totals|Nullo Salt|5000}}
+{{detrecipe/totals|Thingymabob|50000}}
+{{detrecipe/totals|Dioxide Synthesis|2000}}
+{{detrecipe/totals|Yellow Snowflake|100}}
+{{detrecipe/totals|Minervowl|50}}
+{{detrecipe/totals|Dense Water|15}}
+{{detrecipe/totals|Silver Antique|10}}
+{{detrecipe/totals|Gold Bar|800}}
+{{detrecipe/totals|Ghost|50}}
+}}

@@ -1,0 +1,23 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# venv
+.venv
+__pycache__
+/builds/
+/.idea/
+/apicache-py3/
+source_triage.json
+
+# Cursor
+.cursorrules
+
+# In-flight scripts/work
+find_unhandled_sources.py
+N.js
+TODO_REPOS.md
+
+# Who cares
+.vscode
+pywikibot.lwp

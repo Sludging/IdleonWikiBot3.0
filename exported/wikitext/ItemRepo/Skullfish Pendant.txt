@@ -1,0 +1,18 @@
+{{InfoItem
+|type=Pendant
+|class=All
+|level=60
+|str=10
+|misc=5% Fish Afk Gain
+|misc2=40Purple Depth
+|upgrade=2
+|sellprice=3001
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Fishhead Pendant|1}}
+{{detrecipe|3|Distilled Water|60}}
+|tot=
+{{detrecipe/totals|Fishhead Pendant|1}}
+{{detrecipe/totals|Distilled Water|60}}
+}}

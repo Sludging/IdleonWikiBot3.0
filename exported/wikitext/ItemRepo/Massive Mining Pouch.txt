@@ -1,0 +1,15 @@
+{{InfoItem
+|type=Carry Bag
+|description=Hold down on this bag to increase the Carry Capacity of the following items to 5000: Ores, Bars, Barrels
+|level=100
+|sellprice=6640000
+|setname = Massive
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Lustre Ore|110000}}
+{{detrecipe|3|Dioxide Synthesis|400}}
+|tot=
+{{detrecipe/totals|Lustre Ore|110000}}
+{{detrecipe/totals|Dioxide Synthesis|400}}
+}}

@@ -1,0 +1,27 @@
+{{InfoItem
+|type=Helmet
+|class=All
+|level=55
+|str=9
+|agi=9
+|wis=9
+|misc=5% Defence
+|upgrade=4
+|defence=25
+|sellprice=383780
+|setname = Platinum
+|notes= 
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Iron Helmet|1}}
+{{detrecipe|40|Iron Bar|40}}
+{{detrecipe|40|Glublin Ear|300}}
+{{detrecipe|3|Jellyfish|2250}}
+{{detrecipe|3|Platinum Bar|750}}
+|tot=
+{{detrecipe/totals|Jellyfish|2250}}
+{{detrecipe/totals|Platinum Bar|750}}
+{{detrecipe/totals|Iron Bar|40}}
+{{detrecipe/totals|Glublin Ear|300}}
+}}

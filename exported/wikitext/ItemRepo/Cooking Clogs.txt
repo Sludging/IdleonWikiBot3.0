@@ -1,0 +1,12 @@
+{{InfoItem
+|type=Shoes
+|class=All
+|level=100
+|misc=300Cooking Efficncy
+|upgrade=5
+|defence=40
+|sellprice=3000
+}}
+{{detdrops/head}}
+{{detdrops|[[Purp Mushroom]]|0.000006|1}}
+|}

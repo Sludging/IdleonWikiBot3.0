@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Biggie Hours Card
+|order=8
+|category=Bosses
+|effect=+% Double AFK claim chance
+|bonus=3
+|reqtier=1.5
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Biggie Hours]]|0.024|1}}
+|}

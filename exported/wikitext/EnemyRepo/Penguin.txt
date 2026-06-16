@@ -1,0 +1,23 @@
+{{InfoEnemy
+|image=Penguin Walking.gif
+|attack=340
+|health=160000
+|defence=950
+|speed=4
+|exp=1250
+|respawn=40
+|defence0=389.66
+|area=Signature Slopes
+|world=Frostbite Tundra
+|crystal=yes
+|crystalname=Crystal Cattle
+|hascard=yes
+|nextenemy=Thermister
+|prevenemy=Snowman
+}}
+{{DropTable/head|Droptable for Penguin}}
+{{DropTable/coin|880|0.36}}
+{{DropTable|Pen|0.16|1}}
+{{DropTable/card|0.0001}}
+{{DropTable|Box Statue|0.0003|1}}
+{{DropTable/append|DropTable15|0.0031|1}}

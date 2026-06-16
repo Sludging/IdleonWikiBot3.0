@@ -1,0 +1,10 @@
+{{InfoCard
+|title=Giant Rose Card
+|dropchance=1
+|order=7
+|category=Event
+|effect=+% EXP from monsters
+|bonus=3
+|reqtier=1.5
+|sellprice=1
+}}

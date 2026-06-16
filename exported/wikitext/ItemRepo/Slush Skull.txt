@@ -1,0 +1,16 @@
+{{InfoItem
+|type=Worship Skull
+|class=All
+|level=10
+|misc=250Base Damage
+|misc2=2% All Stats
+|defence=25
+|skill=Worship
+|skillpower=10
+|speed=2
+|charge=1000
+|sellprice=100
+}}
+{{detdrops/head}}
+{{detdrops|[[Dilapidated Slush]]|0.009|1}}
+|}

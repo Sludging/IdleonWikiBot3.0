@@ -1,0 +1,10 @@
+{{InfoCard
+|title=Poisonic Frog Card
+|dropchance=0.004
+|order=1
+|category=Dungeons
+|effect=+ Base Dungeon MP
+|bonus=2
+|reqtier=1.5
+|sellprice=1
+}}

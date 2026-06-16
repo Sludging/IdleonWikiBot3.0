@@ -1,0 +1,23 @@
+{{InfoItem
+|type=Monster Drop
+|description=Imagine if humans had legs like this. Actually, it would be better if you didn't, unless you want nightmares about humans violently jumping at you from 20 feet away. 
+|sellprice=5
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Frog]]|0.21|1}}
+{{detdrops|[[Fly Nest]]|0|2}}
+{{detdrops|[[Butterfly Bar]]|0|2}}
+{{detdrops|[[Sentient Bowl]]|0|2}}
+{{detdrops|[[Grocery Bag]]|0|2}}
+{{detdrops|[[Snowden]]|0|2}}
+{{detdrops|[[Icicle Nest]]|0|2}}
+{{detdrops|[[Bee Hive]]|0|2}}
+{{detdrops|[[Fairy Hovel]]|0|2}}
+{{detdrops|[[Scarab Nest]]|0|2}}
+{{detdrops|[[Mote Hovel]]|0|2}}
+{{detdrops|[[Equinox Nest]]|0|2}}
+{{detdrops|[[Ladybug Nest]]|0|2}}
+{{detdrops|[[Firefly Nest]]|0|2}}
+{{detdrops|[[Fractal Nest]]|0|2}}
+|}

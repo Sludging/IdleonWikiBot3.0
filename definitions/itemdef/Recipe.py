@@ -1,7 +1,7 @@
 from typing import List, Optional, Dict, Union, Callable
 
-from definitions.common.Component import Component
 from definitions.common.Source import Source
+from definitions.component.Component import Component
 from definitions.master.IdleonModel import IdleonModel
 from helpers.CustomTypes import Integer
 from repositories.item.ItemDetailRepo import ItemDetailRepo
@@ -17,7 +17,7 @@ class DetailedRecipe(IdleonModel):
 	detRecipe: List[DetRecipeComponent]
 	detRecipeTotals: List[Component] = []
 
-	def writeWiki(self, newLine = True) -> str:
+	def writeWiki(self, newLine = True, ignoreZero = True) -> str:
 		res = "{{detrecipe/tab\n|reci=\n"
 		for comp in self.detRecipe:
 			indent = 3 if comp.indent == 0 else comp.indent * 40
@@ -40,22 +40,32 @@ class Recipe(IdleonModel):
 	recipeFrom: List[Source] = []
 	detailedRecipe: Optional[DetailedRecipe] = None
 
-	def writeWiki(self, newLine = True) -> str:
+	def writeWiki(self, newLine = True, ignoreZero = True) -> str:
 		res = "{{ForgeSlot\n"
 		res += super().writeWiki()
 		res += self.writeRecipe()
 		res += "}}\n"
-		res += self.detailedRecipe.writeWiki()
+		# res += self.detailedRecipe.writeWiki()
 		return res
+
+	def getItemDisplayName(self) -> str:
+		return ItemDetailRepo.getDisplayName(self.intID)
+
+	def sortKey(self) -> str:
+		return ItemDetailRepo.get(self.intID).Type
 
 	def intToWiki(self) -> Dict[str, Union[Callable, str]]:
 		return {
-			"anvtab": "tab",
+			"name": self.getItemDisplayName,
+			"anvtab": self.getTab,
 			"craftnum": "no",
 			"levelreq": "levelReqToCraft",
 			"expgiven": "expGiven",
 			"recipefrom": self.getRecipeFrom
 		}
+
+	def getTab(self) -> str:
+		return f"Anvil Tab {self.tab}"
 
 	def writeRecipe(self) -> str:
 		res = ""
@@ -67,3 +77,6 @@ class Recipe(IdleonModel):
 		if not self.recipeFrom:
 			return "Start"
 		return ", ".join(map(lambda x: x.wikiName, self.recipeFrom))
+
+	def writeAfter(self) -> List[IdleonModel]:
+		return [self.detailedRecipe]

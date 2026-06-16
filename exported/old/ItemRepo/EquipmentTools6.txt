@@ -1,41 +1,33 @@
 {{InfoItem
 |type=Pickaxe
 |class=All
-|level=27
+|level=25
 |str=11
 |agi=4
 |misc=1% Mining Efficincy
 |upgrade=3
 |skill=Mining
 |skillpower=16
-|sellprice=2199200
-|source=[[Smithing]]
-}}
-{{ForgeSlot
-|anvtab=2
-|craftnum=29
-|levelreq=26
-|expgiven=16000
-|recipefrom=[[Tasks/Unlocks|Task Unlocks Tab 2]]
-|resource1=Platinum Bar|quantity1=800
-|resource2=Pincer Arm|quantity2=10500
-|resource3=Gold Pickaxe|quantity3=2
+|speed=4
+|sellprice=1853490
+|setname = Platinum
+|notes= 
 }}
 {{detrecipe/tab
 |reci=
+{{detrecipe|3|Gold Pickaxe|1}}
+{{detrecipe|40|Iron Pickaxe|1}}
+{{detrecipe|80|Iron Bar|70}}
+{{detrecipe|80|Carrot Cube|150}}
+{{detrecipe|40|Megalodon Tooth|2500}}
+{{detrecipe|40|Gold Bar|400}}
 {{detrecipe|3|Platinum Bar|800}}
 {{detrecipe|3|Pincer Arm|10500}}
-{{detrecipe|3|Gold Pickaxe|2}}
-{{detrecipe|40|Megalodon Tooth|5000}}
-{{detrecipe|40|Gold Bar|1600}}
-{{detrecipe|40|Iron Pickaxe|6}}
-{{detrecipe|80|Iron Bar|600}}
-{{detrecipe|80|Carrot Cube|1200}}
 |tot=
 {{detrecipe/totals|Platinum Bar|800}}
 {{detrecipe/totals|Pincer Arm|10500}}
-{{detrecipe/totals|Megalodon Tooth|5000}}
-{{detrecipe/totals|Gold Bar|1600}}
-{{detrecipe/totals|Iron Bar|600}}
-{{detrecipe/totals|Carrot Cube|1200}}
+{{detrecipe/totals|Megalodon Tooth|2500}}
+{{detrecipe/totals|Gold Bar|400}}
+{{detrecipe/totals|Iron Bar|70}}
+{{detrecipe/totals|Carrot Cube|150}}
 }}

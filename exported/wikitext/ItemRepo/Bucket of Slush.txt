@@ -1,0 +1,15 @@
+{{InfoItem
+|type=Bucket
+|description=Drop this on the snowy pile in the Refigeration Station in World 3. There are rumors that the recent snowfall will coagulate with the slush in horrible ways... 
+|sellprice=7535
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Melty Cube|5}}
+{{detrecipe|3|Snow Ball|20}}
+{{detrecipe|3|Iron Bar|5}}
+|tot=
+{{detrecipe/totals|Melty Cube|5}}
+{{detrecipe/totals|Snow Ball|20}}
+{{detrecipe/totals|Iron Bar|5}}
+}}

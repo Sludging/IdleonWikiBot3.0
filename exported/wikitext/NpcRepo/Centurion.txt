@@ -1,0 +1,113 @@
+{{npc
+|world=Yum-Yum Desert
+|location=The Mimic Hole
+|noquest=5
+|birthweight=3.06
+|starsign=Taurus
+|mmm=Garcia
+|notes=[[Centurion]] is located in [[Worlds#D2 - The Mimic Hole|The Mimic Hole]], next to the [[Colosseum/Sandstone|Sandstone Colosseum]].
+
+Completing his first quest (Down The Mimic Hole!) gives the player the ability to talk to him once every day to obtain a {{CraftReq|Colosseum Ticket}}. This is the second daily source of tickets after [[Typhoon]]. He will hold tickets for you for up to 3 days. Having more characters complete his quests does not provide more daily tickets.
+}}
+{{Quest/head}}
+{{Quest|name=Down The Mimic Hole!
+|text=Defeat all mimics before the time runs out.
+|difficulty=3
+|requirements=Mimics Defeated: > 21, Time Remaining: > 1
+|consumed=No
+|rewards=1x{{ItemDisplay|Colosseum Ticket}}, 100 Class Experience
+|notes=
+}}
+{{Quest|name=Which one of yous is the Mafia?
+|text= Defeat Mafiosos and bring proof.
+|difficulty=3
+|requirements=2500x{{ItemDisplay|Coconotnotto}}
+|consumed=Yes
+|rewards=2x{{ItemDisplay|1 HR Time Candy}}, 2x{{ItemDisplay|Colosseum Ticket}}, {{Coindisplay|10000}}
+|notes= 
+}}
+{{Quest|name=High Scorer
+|text= Get a 200K+ colosseum score. Remember to skip rounds to grow your score multiplier!
+|difficulty=4
+|requirements=Colosseum Score: > 200000
+|consumed=No
+|rewards=2x{{ItemDisplay|2 HR Time Candy}}, {{Coindisplay|20000}}
+|notes=
+}}
+{{Quest|name=Colosseum Champ!
+|text=Complete all 15 waves with a final score of 350K+
+|difficulty=5
+|requirements=Waves Completed: > 15, Colosseum Score: > 350000
+|consumed=No
+|rewards=1x{{ItemDisplay|4 HR Time Candy}}, 2x{{ItemDisplay|2 HR Time Candy}}, {{Coindisplay|50000}}
+|notes=Class level: >65
+}}
+{{Quest|name=Colosseum GDQ
+|text=Complete the three colosseums with lots of Time Remaining after beating all waves.
+|difficulty=6
+|requirements=1st Colosseum: > 180, 2nd Colosseum: > 180, 3rd Colosseum: > 180
+|consumed=No
+|rewards=1x{{ItemDisplay|12 HR Time Candy}}, 30x{{ItemDisplay|Gem}}, {{Coindisplay|100000}}
+|notes=The numbers are how many seconds you must have remaining for each colosseum.
+}}
+{{Quest|name=Centurio Rank
+|text=Complete the Astro Colosseum within World 4
+|difficulty=6
+|requirements=Win W4 Colosseum: > 1
+|consumed=No
+|rewards=1x{{ItemDisplay|12 HR Time Candy}}, 5x{{ItemDisplay|Holy Pearl}}
+|notes= 
+}}
+{{Quest|name=Legatus Rank
+|text=Complete the Molten Colosseum within World 5
+|difficulty=7
+|requirements=Win W5 Colosseum: > 1
+|consumed=No
+|rewards=1x{{ItemDisplay|24 HR Time Candy}}, 6x{{ItemDisplay|Holy Pearl}}, 8x{{ItemDisplay|Divinity Pearl}}
+|notes= 
+}}
+{{Quest|name=Glorious Gladiator
+|text=Complete the Whimsical Colosseum within World 6
+|difficulty=9
+|requirements=Win W6 Colosseum: > 1
+|consumed=No
+|rewards=1x{{ItemDisplay|Gladiator}}
+|notes= 
+}}
+|}
+{{dialogue/head}}
+{{dialogue/row|text=Stop right there civilian scum! You've violated penal code 83.7e under which King Doot demands all travelers enlist for colosseum combat!}}
+{{dialogue/row|text=But King Doot hasn't shown up in quite some time and I don't enlist just anyone into my regiment! If you can overcome the dangers down in that hole I will give you a spot as lowly Tiro.}}
+{{dialogue/row|text=I haven't got all day get a move on! If I don't see you before vesperna begins don't bother coming back! <br> QUEST:Defeat all mimics before the time runs out.|quest=Down The Mimic Hole!}}
+{{dialogue/row|text=Free up an inventory space. The ticket might be small but it still takes up space.}}
+{{dialogue/row|text=Well well well look who decided to show up... <br> 'Sigh'. Stop looking around I was talking about you!}}
+{{dialogue/row|text=As a Tiro you are entitled to daily colosseum tickets so long as you report to me for duties. <br> And don't go trying any trickery on me with multiple characters! You're only getting 1 ticket per day!}}
+{{dialogue/row|text=Greetings Tiro I'm sure youve heard that one of my soldiers has not returned from his mission to spawncamp the Mafiosos. If you're ready to join as a proper solider now is the time. <br> Return at Class Lv. 45}}
+{{dialogue/row|text=I hadn't anticipated for you to be more than a Tiro but if you can complete the task I gave to my missing soldier I'll transfer his rank to you. <br> QUEST: Defeat Mafiosos and bring proof.|quest=Which one of yous is the Mafia?}}
+{{dialogue/row|text=Please clear some space all promotions come with rewards!}}
+{{dialogue/row|text=That is sure to strike fear into those mafs! And to think they had some of my troops fooled into believing they were just ordinary civilians!}}
+{{dialogue/row|text=You're proving to be one of my better soldiers! If you train some more youd make for a fine Decurio! <br> Return at Class Lv. 55}}
+{{dialogue/row|text=Before you join the ranks of my Decurios I need to see you fight with valor in my colosseum. QUEST: Get a 200K+ colosseum score. Remember to skip rounds to grow your score multiplier!|quest=High Scorer}}
+{{dialogue/row|text=Please clear some space all promotions come with rewards!}}
+{{dialogue/row|text=Well done Decurio you have come a long way since I first called you civilian scum!}}
+{{dialogue/row|text=Lucky for you a Tesserarius of mine was defeated in their colosseum bout last Dootsday. If you get a bit stronger I'll give you a chance at being their successor. Return at Class Lv. 65}}
+{{dialogue/row|text=Alright Dodecahedron... er Decurio if you can slay my colosseum boss and bring in a colosseum hiscore I'll let you become my new Tesserarius. QUEST:Complete all 15 waves with a final score of 350K+|quest=Colosseum Champ!}}
+{{dialogue/row|text=Please clear some space all promotions come with rewards!}}
+{{dialogue/row|text=Get anything good from that Biggie kill? I remember when I defeated my first one I got a 72 hour candy couldn't believe it ahaha!}}
+{{dialogue/row|text=Anyway enough chat get back to training and I'll set you up with a chance to become my newest... hang on let me look up the next rank... Optio! <br> Return at Class Lv. 75}}
+{{dialogue/row|text=The rank of Optio is not one I give out flippantly you'll need a full set of talents and strategic wits to pass this test. <br> QUEST:Complete the three colosseums with lots of Time Remaining after beating all waves.|quest=Colosseum GDQ}}
+{{dialogue/row|text=Please clear some space all promotions come with rewards!}}
+{{dialogue/row|text=Huh...}}
+{{dialogue/row|text=You know maybe you're the one to finally do it... <br> Return at Class Lv. 130}}
+{{dialogue/row|text=Well well well the Optio rank has returned from their unrelated adventures.}}
+{{dialogue/row|text=Only three ranks separate you from Ordinary Optio and Glorious Gladiator.}}
+{{dialogue/row|text=The rank of Centurio is granted to those who enter the Colosseum of the stars and exit victorious. <br> QUEST:Complete the Astro Colosseum within World 4|quest=Centurio Rank}}
+{{dialogue/row|text=Please clear some space all promotions come with rewards!}}
+{{dialogue/row|text=Well done you may call yourself Centurio amongst the other combatants...}}
+{{dialogue/row|text=The rank of Legatus is granted to anyone powerful enough to best the magma mobs of the Smoldering Plateau colosseum and live. <br> QUEST:Complete the Molten Colosseum within World 5|quest=Legatus Rank}}
+{{dialogue/row|text=Please clear some space all promotions come with rewards!}}
+{{dialogue/row|text=Well done you may call yourself Legatus amongst the other combatants...}}
+{{dialogue/row|text=The rank of Glorious Gladiator belongs only to those brave enough to challenge every colosseum and strong enough to conquer them all. QUEST:Complete the Whimsical Colosseum within World 6|quest=Glorious Gladiator}}
+{{dialogue/row|text=Please clear some space all promotions come with rewards!}}
+{{dialogue/row|text=I am in awe of your accomplishment he who has achieved the rank of Glorious Gladiator! You are amongst the most legendary combatants to ever grace the colosseums.}}
+|}

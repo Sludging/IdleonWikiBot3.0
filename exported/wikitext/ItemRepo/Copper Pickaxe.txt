@@ -1,0 +1,19 @@
+{{InfoItem
+|type=Pickaxe
+|class=All
+|level=3
+|str=3
+|upgrade=2
+|skill=Mining
+|skillpower=6
+|speed=3
+|sellprice=30
+|setname = Copper
+|notes= 
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Copper Ore|10}}
+|tot=
+{{detrecipe/totals|Copper Ore|10}}
+}}

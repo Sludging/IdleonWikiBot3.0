@@ -1,0 +1,8 @@
+{{InfoItem
+|type=Log
+|hascard=yes
+|sellprice=150
+}}
+{{detdrops/head}}
+{{detdrops|[[Molten Silver Chest(W5)]]|0.5|2500}}
+|}

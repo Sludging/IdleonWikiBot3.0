@@ -1,0 +1,8 @@
+{{InfoItem
+|type=Monster Drop
+|description=Safety is numba one priority! 
+|sellprice=90000
+}}
+{{detdrops/head}}
+{{detdrops|[[Biggole Mole]]|0.16|1}}
+|}

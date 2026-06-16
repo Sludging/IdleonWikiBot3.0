@@ -1,0 +1,8 @@
+{{InfoItem
+|type=Critter
+|description=Yo look at dis doooood! 
+|sellprice=80
+}}
+{{detdrops/head}}
+{{detdrops|[[Blobfish]]|0.015|1}}
+|}

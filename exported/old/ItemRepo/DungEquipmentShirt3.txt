@@ -1,0 +1,8 @@
+{{InfoItem
+|type=Shirt
+|class=All
+|level=1
+|wis=8
+|defence=4
+|sellprice=175
+}}

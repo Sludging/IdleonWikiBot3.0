@@ -1,0 +1,50 @@
+{
+    "Refinery1": {
+        "item": "Refinery1",
+        "desc": "+4 Obol storage slots per upgrade! Circle, Square, Hexagon, then Sparkle, in that order.",
+        "baseCost": 10,
+        "baseBonus": 1,
+        "maxLevel": 8,
+        "costInc": 2.3
+    },
+    "Refinery2": {
+        "item": "Refinery2",
+        "desc": "+{% Class EXP and Skill EXP. Not really sure what those blobulytes do with these souls...",
+        "baseCost": 10,
+        "baseBonus": 0.2,
+        "maxLevel": 100,
+        "costInc": 1.2
+    },
+    "Refinery3": {
+        "item": "Refinery3",
+        "desc": "+{% Liquid rate and Capacity for all liquids in Alchemy.",
+        "baseCost": 10,
+        "baseBonus": 1,
+        "maxLevel": 100,
+        "costInc": 1.122
+    },
+    "Refinery4": {
+        "item": "Refinery4",
+        "desc": "+{% Movement Speed. Doesn't work if you're above 170% move speed already.",
+        "baseCost": 10,
+        "baseBonus": 0.4,
+        "maxLevel": 25,
+        "costInc": 1.4
+    },
+    "Refinery5": {
+        "item": "Refinery5",
+        "desc": "+{% Total Damage dealt.",
+        "baseCost": 10,
+        "baseBonus": 0.1,
+        "maxLevel": 250,
+        "costInc": 1.04
+    },
+    "Refinery6": {
+        "item": "Refinery6",
+        "desc": "+{% Cooking Mastery EXP gain, a feature unlocked via Rift 61 deep in World 4.",
+        "baseCost": 100,
+        "baseBonus": 1,
+        "maxLevel": 100,
+        "costInc": 1.22
+    }
+}

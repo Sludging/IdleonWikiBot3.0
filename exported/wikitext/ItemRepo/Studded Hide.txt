@@ -1,0 +1,33 @@
+{{InfoItem
+|type=Shirt
+|class=Warrior
+|level=40
+|str=10
+|wis=4
+|misc=10% Fishin Efficincy
+|upgrade=3
+|defence=25
+|sellprice=287045
+|notes= 
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Hide Shirt|1}}
+{{detrecipe|40|Copper Platebody|1}}
+{{detrecipe|80|Copper Bar|25}}
+{{detrecipe|80|Trusty Nails|120}}
+{{detrecipe|40|Steel Axe|1}}
+{{detrecipe|80|Slime Sludge|125}}
+{{detrecipe|80|Boring Brick|125}}
+{{detrecipe|40|Bleach Logs|325}}
+{{detrecipe|3|Megalodon Tooth|4000}}
+{{detrecipe|3|Nuget Cake|1}}
+|tot=
+{{detrecipe/totals|Megalodon Tooth|4000}}
+{{detrecipe/totals|Nuget Cake|1}}
+{{detrecipe/totals|Bleach Logs|325}}
+{{detrecipe/totals|Copper Bar|25}}
+{{detrecipe/totals|Trusty Nails|120}}
+{{detrecipe/totals|Slime Sludge|125}}
+{{detrecipe/totals|Boring Brick|125}}
+}}

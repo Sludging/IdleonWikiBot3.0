@@ -1,0 +1,32 @@
+{
+    "0": {
+        "name": "Beeg Slice",
+        "desc": "}x extra Meat Slice production. Generates 20 minutes of Meat Slices when triggered.",
+        "value": 100
+    },
+    "1": {
+        "name": "Beach Ball",
+        "desc": "+{% extra happiness for Bubba from all sources. Gives +200 happiness instantly when triggered",
+        "value": 50
+    },
+    "2": {
+        "name": "Numbahs",
+        "desc": "}x faster Charisma attribute level up rate. Instantly gives your selected attribute +1 LV when triggered",
+        "value": 150
+    },
+    "3": {
+        "name": "Red Die",
+        "desc": "+{% Dice Luck, making low rolls more rare and high rolls less rare. Rolls the dice when triggered",
+        "value": 50
+    },
+    "4": {
+        "name": "Slabcakes",
+        "desc": "{% chance for 10x smoked meat. Smokes you up a new smoked meat when triggered",
+        "value": 15
+    },
+    "5": {
+        "name": "Surprise Box",
+        "desc": "+{% chance for +1 LV when upgrading which doesn't affect cost. Gives a random upgrade +2 LV when triggered",
+        "value": 10
+    }
+}

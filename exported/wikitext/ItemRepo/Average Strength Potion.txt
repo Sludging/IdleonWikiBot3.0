@@ -1,0 +1,16 @@
+{{InfoItem
+|type=Boost Food
+|description=Increases Base Dmg by 150. 1% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. 
+|sellprice=25
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.1|10}}
+{{detdrops|[[Slime]]|0.0008|10}}
+{{detdrops|[[Baby Boa]]|0.001|10}}
+{{detdrops|[[Carrotman]]|0.0012000000000000001|10}}
+{{detdrops|[[Baba Yaga]]|0.2|10}}
+{{detdrops|[[Amarok]]|0.2|20}}
+{{detdrops|[[Chaotic Amarok]]|0.2|40}}
+{{detdrops|[[Dewdrop Silver Chest(W1)]]|0.2|10}}
+|}

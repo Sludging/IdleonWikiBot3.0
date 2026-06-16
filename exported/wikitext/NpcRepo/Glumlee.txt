@@ -1,0 +1,84 @@
+{{npc
+|world=Blunder Hills
+|location=Tunnels Entrance
+|noquest=4
+|birthweight=6.45
+|starsign=Gemini
+|mmm=Thomas
+|notes=[[Glumlee]] is located in the [[Worlds#M1 - Tunnels Entrance|Tunnels Entrance]] to the left of the [[Worlds#G1 - Blunder Hills|starting town]].
+
+His quests focus on introducing players to the [[File:Mining Skill Icon.png]] [[Mining]] Skill and smelting ores in the [[Forge]] to earn the [[Mining Certificate]] needed to complete the quest 'Get Glumlee's Certification' given by [[Scripticus]].
+
+His final quest awards the {{CraftReq|Glumlee Token}}.
+}}
+{{Quest/head}}
+{{Quest|name=Learning to Swing
+|text=Mine 2 Copper Ore.
+|difficulty=1
+|requirements=2x{{ItemDisplay|Copper Ore}}
+|consumed=No
+|rewards=1x{{ItemDisplay|Glumlee's Special Tutorial Oil}}, 10 Mining Experience
+|notes= 
+}}
+{{Quest|name=Learning to Smelt
+|text=Smelt a Copper Bar at the Forge
+|difficulty=2
+|requirements=1x{{ItemDisplay|Copper Bar}}
+|consumed=No
+|rewards=20 Mining Experience, 10x{{ItemDisplay|Bottled Town Teleport}}
+|notes= 
+}}
+{{Quest|name=Literally Burning your Money
+|text= Go to the Forge and buy 2 upgrades
+|difficulty=1
+|requirements=Upgrades Bought: > 2
+|consumed=No
+|rewards=1x{{ItemDisplay|Mining Certificate}}, 1x{{ItemDisplay|Junk Pickaxe}}, 1x{{ItemDisplay|Miniature Mining Pouch}}
+|notes= 
+}}
+{{Quest|name=The Impossible Task
+|text= Pick up the microphone. Good luck you'll need it...
+|difficulty=7
+|requirements=1x{{ItemDisplay|Broken Mic}}
+|consumed=Yes
+|rewards={{Talentbook|Exp Converter}}, 250 Mining Experience
+|notes=
+}}
+{{Quest|name=He's Havin' a Bad Day
+|text=Yea he dropped it again... you know what to do.
+|difficulty=2
+|requirements=1x{{ItemDisplay|Broken Mic}}
+|consumed=Yes
+|rewards=1x{{ItemDisplay|Glumlee Token}}, 1000 Mining Experience
+|notes=
+}}
+|}
+{{dialogue/head}}
+{{dialogue/row|text=Uuugh... another one? Are you here to 'learn new gameplay' or whatever rubbish all the others keep saying?}}
+{{dialogue/row|text=Lets be honest this is all super obvious stuff... I mean it's just mining right?}}
+{{dialogue/row|text=WRONG! There is so much to mining! Mining efficiency power STR accuracy multi-ore mining we have a lot to cover!}}
+{{dialogue/row|text=Go mine some ores and repeat after me. Mining Efficiency is boosted by STR and also Mining Power from pickaxes. <br> QUEST:Mine 2 Copper Ore.|quest=Learning to Swing}}
+{{dialogue/row|text=We aren't even one step through my mining class and you've already got a full inventory. Use the storage chest in town to clear up some space!}}
+{{dialogue/row|text=To see your chance to mine ore tap MENU then AFK INFO. You'll see the chance in the bottom left!}}
+{{dialogue/row|text=Now go to that forge and drag the ores into the 1st slot. Also drag the Oil Barrel I gave you into the 2nd slot. It'll speed things up. QUEST:Smelt a Copper Bar at the Forge|quest=Learning to Smelt}}
+{{dialogue/row|text=Uh... you're inventory is full. Please clear 1 slot and come back!}}
+{{dialogue/row|text=Smelting bars uses multiple ores. Later bars like Iron and Gold will require more Ores per Bar. Tap on Ore in your inventory to see the exact numbers!}}
+{{dialogue/row|text=Final task now. Go to the forge and buy some permanent upgrades using your coins!  <br> QUEST: Go to the Forge and buy 2 upgrades|quest=Literally Burning your Money}}
+{{dialogue/row|text=You have a full inventory! Put some stuff in the Storage Chest in town to clear space!}}
+{{dialogue/row|text=Well that's it. Now you know how to get all the resources mining has to offer. I'm actually pretty pleased with how you did I'm glad you paid attention and didn't skip through my dialogue instantly like everyone else does!}}
+{{dialogue/row|text=In fact why don't you come back once you've gotten a bit more experienced? I'm more than just a pouty goblin with a repeating 5 frame animation!!}}
+{{dialogue/row|text=Well..? Go on get more experienced and come back! <br> Return at Mining Lv.11}}
+{{dialogue/row|text=Alright kid or man or baby whatever you are behind that screen I'm gonna let you in on a secret.}}
+{{dialogue/row|text=You ever notice how I never leave this map not even to level up my Class Level from fighting monsters? Well there's a reason...}}
+{{dialogue/row|text=I get class exp from mining. <br> Boom mic drop.}}
+{{dialogue/row|text=... that would've gone better on grass. Can you get that for me? I've kinda got my hands full. <br> QUEST: Pick up the microphone. Good luck you'll need it...|quest=The Impossible Task}}
+{{dialogue/row|text=You're going to want 1 inventory space to accept this Star Book I'm about to give you. Go clear some space!}}
+{{dialogue/row|text=Go ahead and use that Star Book I just gave you. It's very important for you Skiller type characters! Come talk to me after you do and I'll explain it.}}
+{{dialogue/row|text=Basically you can now choose a skill to also give you Class EXP. This way you can focus on skilling while still leveling up so you won't miss out on all the Talent Points you get from leveling up your Class.}}
+{{dialogue/row|text=You can change your mind as often as you want but remember that the Class EXP you get comes from your Skill EXP so you will get a bit less Skilling EXP if you have this active.}}
+{{dialogue/row|text=Oh and one more thi-- 'THUD'}}
+{{dialogue/row|text=... ... ...}}
+{{dialogue/row|text=... <br> QUEST:Yea he dropped it again... you know what to do.|quest=He's Havin' a Bad Day}}
+{{dialogue/row|text=I'll have quests later on that increase that Talent's max level above just 40 but those will be added in later.}}
+{{dialogue/row|text=Uh thanks... anyway I'll have quests later on that increase that Talent's max level above just 40 but those will be added in later.}}
+|}

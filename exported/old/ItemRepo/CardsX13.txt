@@ -1,0 +1,10 @@
+{{InfoCard
+|title=Inevitable Snakenhotep Card
+|dropchance=1
+|order=19
+|category=Dungeons
+|effect=+% Dungeon Flurbos
+|bonus=5
+|reqtier=1.5
+|sellprice=1
+}}

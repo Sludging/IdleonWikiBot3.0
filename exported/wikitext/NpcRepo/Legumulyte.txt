@@ -1,0 +1,14 @@
+{{npc
+|world=Spirited Valley
+|location=Troll Broodnest
+|npcType=Unknown
+|birthweight=8.61
+|starsign=Scorpio
+|mmm=Tiernan
+}}
+{{Quest/head}}
+|}
+{{dialogue/head}}
+{{dialogue/row|text=... <br> Basket looks less full crops missing?}}
+{{dialogue/row|text=Pls giv crop transfer ticket. I give magic beans you become better farmer grow more crop... give me more next time yeees...}}
+|}

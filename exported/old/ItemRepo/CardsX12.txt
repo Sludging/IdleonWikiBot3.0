@@ -1,0 +1,10 @@
+{{InfoCard
+|title=Enraged Snakenhotep Card
+|dropchance=1
+|order=18
+|category=Dungeons
+|effect=+% Total Dungeon Dmg
+|bonus=5
+|reqtier=1.5
+|sellprice=1
+}}

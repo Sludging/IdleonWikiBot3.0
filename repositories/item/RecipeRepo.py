@@ -4,16 +4,24 @@ from typing import List, Set
 
 from definitions.itemdef.Recipe import Recipe, Component, DetRecipeComponent, DetailedRecipe
 from helpers.CustomTypes import Integer
-from helpers.HelperFunctions import formatStr, wrap
+from helpers.HelperFunctions import getFrom4dArray, getFromSplitArray
 from repositories.item.ItemDetailRepo import ItemDetailRepo
 from repositories.master.Repository import Repository
 
 
 class RecipeRepo(Repository[Recipe]):
 	"""
-	Depends on: ItemDetailRepo, TaskUnlocksRepo, DropTableRepo, EnemyDetailsRepo, EnemyTableRepo
+	Depends on: ItemDetailRepo
 	"""
 	anvilItemNames: List[List[str]]
+
+	@classmethod
+	def initDependencies(cls, log = True) -> None:
+		ItemDetailRepo.initialise(cls.codeReader, log)
+
+	@classmethod
+	def getCategory(cls) -> str:
+		return "Item"
 
 	@classmethod
 	def getSections(cls) -> List[str]:
@@ -24,28 +32,24 @@ class RecipeRepo(Repository[Recipe]):
 		reItems = r'"([a-zA-Z0-_ ]*)"\.'
 		anvItemNameData = cls.getSection(0)
 		cls.anvilItemNames = [x.split(" ") for x in re.findall(reItems, anvItemNameData)]
-		recipeData = formatStr(cls.getSection(1), ["\n", "  "])
-		recipeSections = [wrap(x) for x in re.split(r"],?],?],\[\[\[", recipeData)]
-		levelData = formatStr(cls.getSection(2), ["\n", "  "])
-		levelSections = [wrap(x) for x in re.split(r"],?],\[\[", levelData)]
-		for i, (recipeSection, levelSection) in enumerate(zip(recipeSections, levelSections)):
-			if i >= len(cls.anvilItemNames):
-				break
-			recipeItems = [wrap(x) for x in re.split(r"],?],\[\[", recipeSection)]
-			levelItems = [wrap(x) for x in re.split(r"],\[", levelSection)]
-			for j, (item, level) in enumerate(zip(recipeItems, levelItems)):
-				recipe = re.findall(r'\["([a-zA-Z0-9_]*)", "([0-9]*)"', item)
-				recipe = [Component(item = q, quantity = v) for q, v in recipe]
-				lvlData = re.findall(r'\["([0-9]*)", "([0-9]*)"', level)
-				temp = Recipe(
-					intID = cls.anvilItemNames[i][j],
+
+		craftNames = getFromSplitArray(cls.getSection(0))
+		cls.anvilItemNames = craftNames
+		componentData = getFrom4dArray(cls.getSection(1))
+		levelData = getFrom4dArray(cls.getSection(2))[0]
+		for i, (tabName, tabComps, tabLevel) in enumerate(zip(craftNames, componentData, levelData)):
+			for j, (name, comps, level) in enumerate(zip(tabName, tabComps, tabLevel)):
+				recipe = [Component(item = q, quantity = v) for q, v in comps]
+				toAdd = Recipe(
+					intID = name,
 					recipe = recipe,
-					levelReqToCraft = lvlData[0][0],
-					expGiven = lvlData[0][1],
+					levelReqToCraft = level[0],
+					expGiven = level[1],
 					no = j + 1,
 					tab = i + 1
 				)
-				cls.add(cls.anvilItemNames[i][j], temp)
+				cls.add(cls.anvilItemNames[i][j], toAdd)
+
 		for _, v in cls.items():
 			cls.generateDetailedRecipe(v)
 			cls.generateDetTotals(v)
@@ -78,7 +82,7 @@ class RecipeRepo(Repository[Recipe]):
 				quantity = component.quantity
 			))
 			cRecipe = cls.get(component.item)
-			if cRecipe is None:
+			if cRecipe is None or cRecipe.intID == "FillerMaterial":
 				continue
 			if cRecipe.detailedRecipe is None:
 				cls.generateDetailedRecipe(cRecipe)
@@ -101,7 +105,7 @@ class RecipeRepo(Repository[Recipe]):
 		while not queue.empty():
 			cComponent = queue.get()
 			cRecipe = cls.get(cComponent.item)
-			if cRecipe is None:
+			if cRecipe is None or cRecipe.intID == "FillerMaterial":
 				total[cComponent.item] = total.get(cComponent.item, 0) + cComponent.quantity
 			else:
 				for subComponent in cRecipe.recipe:
@@ -118,17 +122,8 @@ class RecipeRepo(Repository[Recipe]):
 	def calculateSellPrice(cls, recipe: Recipe):
 		sellPrice = 0
 		for component in recipe.detailedRecipe.detRecipeTotals:
+			if not ItemDetailRepo.contains(component.item):
+				continue
 			sellPrice += ItemDetailRepo.get(component.item).sellPrice * component.quantity
 		recipe.sellPrice = sellPrice
 
-	@classmethod
-	def getWikiName(cls, name: str) -> str:
-		return ItemDetailRepo.getDisplayName(name)
-
-	@classmethod
-	def _overrideDict(cls) -> Set[str]:
-		return {"recipe"}
-
-	@classmethod
-	def compareVersions(cls, v1: str, v2: str, ignored: Set[str] = set()):
-		return super().compareVersions(v1, v2, {"detailedRecipe", "recipeFrom", 'intID'})

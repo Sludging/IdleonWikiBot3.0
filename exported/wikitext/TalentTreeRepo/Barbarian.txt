@@ -1,22 +1,28 @@
 {{Talent
 |name=Bear Swipe
-|textArr=A big ol' bear claw swipes up to (Table 1) monsters in front of you, dealing (Table 2)% damage
+|textArr=A big ol' bear claw swipes up to 5 monsters in front of you, dealing (Table 2)% damage
 |form1=intervalAdd
 |x1=3
 |x2=30
 |form2=bigBase
-|y1=108
-|y2=2
+|y1=160
+|y2=1
+|cooldown=8
+|actiontime=0.8
+|manacost=20
 }}
 {{Talent
 |name=Axe Hurl
 |textArr=Throws axe in a downward arc, which deals (Table 1)% dmg to up to (Table 2) monsters.
 |form1=bigBase
-|x1=200
-|x2=3
+|x1=150
+|x2=1
 |form2=intervalAdd
 |y1=2
 |y2=50
+|cooldown=17
+|actiontime=0.8
+|manacost=15
 }}
 {{Talent
 |name=Mocking Shout
@@ -27,6 +33,9 @@
 |form2=bigBase
 |y1=20
 |y2=0.2
+|cooldown=600
+|actiontime=1.5
+|manacost=15
 }}
 {{Talent
 |name=No Pain No Gain
@@ -37,10 +46,13 @@
 |form2=decay
 |y1=100
 |y2=50
+|cooldown=30
+|actiontime=1.5
+|manacost=20
 }}
 {{Talent
 |name=Monster Decimator
-|textArr=There is a (Table 1)% chance for a monster kill to be counted for double for opening new portals.
+|textArr=There is a (Table 1)% chance for a monster kill to be counted as double for opening portals and killcount.
 |form1=decay
 |x1=100
 |x2=50
@@ -78,17 +90,20 @@
 }}
 {{Talent
 |name=Beefy Bottles
-|textArr=Each Lv of 'Warriors Only' Bubble raises max Lv of 'CritiKill' Talent, up to +(Table 1)
+|textArr=Each Lv of 'Warriors Rule' Bubble raises max Lv of 'CritiKill' Talent, up to +(Table 1)
 |form1=add
 |x1=1
 |x2=0
 }}
 {{Talent
 |name=Worming Undercover
-|textArr=(Table 1)% chance
-|form1=9.3
-|x1=-1
-|x2=-1
+|textArr=(Table 1)% chance to wake the sleeper agent worm within the fish, letting you instantly catch
+|form1=bigBase
+|x1=9.3
+|x2=0.7
+|cooldown=15
+|actiontime=1.5
+|manacost=15
 }}
 {{Talent
 |name=Bobbin' Bobbers
@@ -108,7 +123,7 @@
 |x2=0
 }}
 {{Talent
-|name=Catching Some Zzz'S
+|name=Catching Some Zzz's
 |textArr=+(Table 1)% Away Gains for Fishing only. Just fishing. It totally doesn't boost anything else!
 |form1=decay
 |x1=20

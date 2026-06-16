@@ -1,0 +1,10 @@
+{{InfoCard
+|title=Honker Card
+|dropchance=1
+|order=30
+|category=Hard Resources
+|effect=+% Trapping EXP
+|bonus=8
+|reqtier=9.0
+|sellprice=1
+}}

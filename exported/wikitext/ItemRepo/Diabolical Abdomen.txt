@@ -1,0 +1,41 @@
+{{InfoItem
+|type=Shirt
+|class=All
+|level=130
+|str=20
+|agi=20
+|wis=20
+|luck=20
+|misc=11% Defence
+|upgrade=7
+|defence=90
+|sellprice=92545700
+|setname = Diabolical
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Lustre Chestplate|1}}
+{{detrecipe|40|Void Imperium Platebody|1}}
+{{detrecipe|80|Dementia Body|1}}
+{{detrecipe|120|Forest Soul|1000}}
+{{detrecipe|120|Dementia Bar|350}}
+{{detrecipe|80|Audio Cord|75000}}
+{{detrecipe|80|Void Bar|500}}
+{{detrecipe|80|Dense Water|4}}
+{{detrecipe|40|Purple Mush Cap|100000}}
+{{detrecipe|40|Lustre Bar|1200}}
+{{detrecipe|3|Cubed Logs|400000}}
+{{detrecipe|3|Starfire Bar|2500}}
+{{detrecipe|3|Nullo Salt|400}}
+|tot=
+{{detrecipe/totals|Cubed Logs|400000}}
+{{detrecipe/totals|Starfire Bar|2500}}
+{{detrecipe/totals|Nullo Salt|400}}
+{{detrecipe/totals|Purple Mush Cap|100000}}
+{{detrecipe/totals|Lustre Bar|1200}}
+{{detrecipe/totals|Audio Cord|75000}}
+{{detrecipe/totals|Void Bar|500}}
+{{detrecipe/totals|Dense Water|4}}
+{{detrecipe/totals|Forest Soul|1000}}
+{{detrecipe/totals|Dementia Bar|350}}
+}}

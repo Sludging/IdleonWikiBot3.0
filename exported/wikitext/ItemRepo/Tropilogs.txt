@@ -1,0 +1,9 @@
+{{InfoItem
+|type=Log
+|hascard=yes
+|sellprice=20
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Sandstone Silver Chest(W2)]]|0.5|100}}
+|}

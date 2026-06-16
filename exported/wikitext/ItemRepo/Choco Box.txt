@@ -1,0 +1,10 @@
+{{InfoItem
+|type=Quest Item
+|description=Hold down to open a random reward! Possibilites include Gems, exclusive hats, event food, event cards, and more! 
+|sellprice=100
+|notes=Droprates are displayed on the Event page: [[Events/Valentslimes_Day|Valentslimes Day Event]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Loveulyte]]|0.05|1}}
+{{detdrops|[[Chocco Box]]|0.05|1}}
+|}

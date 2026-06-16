@@ -1,0 +1,12 @@
+{{InfoItem
+|type=Boss Key
+|description=Hold down to add these Desert Boss Keys to your account. 
+|sellprice=50
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[King Doot]]|0.8|1}}
+{{detdrops|[[Sandstone Bronze Chest(W2)]]|0.04|1}}
+{{detdrops|[[Sandstone Silver Chest(W2)]]|0.1|1}}
+{{detdrops|[[Sandstone Golden Chest(W2)]]|0.18|1}}
+|}

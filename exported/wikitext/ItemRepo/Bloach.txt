@@ -1,0 +1,10 @@
+{{InfoItem
+|type=Fish
+|hascard=yes
+|description=The result of putting Blood and Leech into a bad pokemon generator. 
+|sellprice=18
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Sandstone Golden Chest(W2)]]|0.2|150}}
+|}

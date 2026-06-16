@@ -1,0 +1,34 @@
+{{InfoItem
+|type=Shirt
+|class=All
+|level=110
+|str=16
+|agi=16
+|wis=16
+|luck=16
+|misc=6% Defence
+|upgrade=6
+|defence=80
+|sellprice=60503200
+|setname = Lustre
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Void Imperium Platebody|1}}
+{{detrecipe|40|Dementia Body|1}}
+{{detrecipe|80|Forest Soul|1000}}
+{{detrecipe|80|Dementia Bar|350}}
+{{detrecipe|40|Audio Cord|75000}}
+{{detrecipe|40|Void Bar|500}}
+{{detrecipe|40|Dense Water|4}}
+{{detrecipe|3|Purple Mush Cap|100000}}
+{{detrecipe|3|Lustre Bar|1200}}
+|tot=
+{{detrecipe/totals|Purple Mush Cap|100000}}
+{{detrecipe/totals|Lustre Bar|1200}}
+{{detrecipe/totals|Audio Cord|75000}}
+{{detrecipe/totals|Void Bar|500}}
+{{detrecipe/totals|Dense Water|4}}
+{{detrecipe/totals|Forest Soul|1000}}
+{{detrecipe/totals|Dementia Bar|350}}
+}}

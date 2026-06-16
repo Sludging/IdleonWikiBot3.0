@@ -1,0 +1,19 @@
+{{InfoItem
+|type=Wand
+|class=All
+|level=4
+|weaponpower=7
+|wis=4
+|upgrade=1
+|speed=5
+|reach=115
+|sellprice=70
+|setname = Gnarled
+|notes= 
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Bean Slices|10}}
+|tot=
+{{detrecipe/totals|Bean Slices|10}}
+}}

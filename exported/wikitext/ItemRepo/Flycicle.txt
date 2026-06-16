@@ -1,0 +1,10 @@
+{{InfoItem
+|type=Bug
+|hascard=yes
+|description=Ok these bugs are really not making any sense anymore. 
+|sellprice=40
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Chillsnap Golden Chest(W3)]]|0.2|150}}
+|}

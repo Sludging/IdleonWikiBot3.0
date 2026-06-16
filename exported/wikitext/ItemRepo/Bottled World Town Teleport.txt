@@ -1,0 +1,5 @@
+{{InfoItem
+|type=Teleport
+|description=Buy this once and hold down on it to permanently allow for free teleports inbetween World Towns without consuming a teleport! From town to town, free of charge! 
+|sellprice=1000000
+}}

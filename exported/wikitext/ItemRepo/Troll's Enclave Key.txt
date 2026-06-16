@@ -1,0 +1,12 @@
+{{InfoItem
+|type=Boss Key
+|description=Hold down to add these Nebula Boss Keys to your account. 
+|sellprice=50
+}}
+{{detdrops/head}}
+{{detdrops|[[Mutated Mush]]|0.5|1}}
+{{detdrops|[[Stilted Seeker]]|0.00006667|1}}
+{{detdrops|[[Astro Bronze Chest(W4)]]|0.006|1}}
+{{detdrops|[[Astro Silver Chest(W4)]]|0.012|1}}
+{{detdrops|[[Astro Golden Chest(W4)]]|0.04|1}}
+|}

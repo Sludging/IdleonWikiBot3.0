@@ -1,0 +1,47 @@
+{{InfoItem
+|type=Bug Catching Net
+|class=All
+|level=40
+|str=8
+|agi=15
+|upgrade=4
+|skill=Catching
+|skillpower=45
+|speed=6
+|sellprice=11916050
+|setname = Lustre
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Worker Bee|130000}}
+{{detrecipe|3|Void Imperium Net|1}}
+{{detrecipe|40|Flycicle|50000}}
+{{detrecipe|40|Dementia Net|1}}
+{{detrecipe|80|Mosquisnow|15000}}
+{{detrecipe|80|Redox Salts|50}}
+{{detrecipe|80|Platinet|1}}
+{{detrecipe|120|Fruitfly|7000}}
+{{detrecipe|120|Platinum Ore|3000}}
+{{detrecipe|120|Golden Net|1}}
+{{detrecipe|160|Golden Dubloon|5}}
+{{detrecipe|160|Butterfly|2500}}
+{{detrecipe|160|Reinforced Net|1}}
+{{detrecipe|200|Forest Fibres|800}}
+{{detrecipe|200|Butterfly|850}}
+{{detrecipe|200|Distilled Water|3}}
+{{detrecipe|40|Dense Water|5}}
+{{detrecipe|3|Dioxide Synthesis|750}}
+|tot=
+{{detrecipe/totals|Worker Bee|130000}}
+{{detrecipe/totals|Dioxide Synthesis|750}}
+{{detrecipe/totals|Flycicle|50000}}
+{{detrecipe/totals|Dense Water|5}}
+{{detrecipe/totals|Mosquisnow|15000}}
+{{detrecipe/totals|Redox Salts|50}}
+{{detrecipe/totals|Fruitfly|7000}}
+{{detrecipe/totals|Platinum Ore|3000}}
+{{detrecipe/totals|Golden Dubloon|5}}
+{{detrecipe/totals|Butterfly|3350}}
+{{detrecipe/totals|Forest Fibres|800}}
+{{detrecipe/totals|Distilled Water|3}}
+}}

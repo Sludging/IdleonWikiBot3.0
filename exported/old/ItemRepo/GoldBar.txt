@@ -1,5 +1,9 @@
 {{InfoItem
 |type=Bar
 |sellprice=115
-|source=[[Sandstone Bronze Chest]], [[Sandstone Silver Chest]]
+|notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Sandstone Bronze Chest]]|0.2|20}}
+{{detdrops|[[Sandstone Silver Chest]]|0.35|60}}
+|}

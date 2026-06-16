@@ -1,0 +1,9 @@
+{{InfoItem
+|type=Soul
+|description=Well, his mom did warn him if that he kept making funny faces that it'd freeze that way! 
+|sellprice=35
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Molten Bronze Chest(W5)]]|0.6|450}}
+|}

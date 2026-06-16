@@ -1,0 +1,23 @@
+{{InfoEnemy
+|image=Clammie Walking.gif
+|attack=5800
+|health=8000000
+|defence=8700
+|speed=4
+|exp=23400
+|respawn=40
+|defence0=6537.75
+|area=Shelled Shores
+|world=Hyperion Nebula
+|crystal=yes
+|crystalname=Crystal Custard
+|hascard=yes
+|nextenemy=Octodar
+|prevenemy=Biggole Wurm
+}}
+{{DropTable/head|Droptable for Clammie}}
+{{DropTable/coin|3100|0.5}}
+{{DropTable|Empty Oyster Shell|0.16|1}}
+{{DropTable|Pearler Shell|0.00002|1}}
+{{DropTable/card|0.00002}}
+{{DropTable/append|DropTable21|0.0025|1}}

@@ -1,0 +1,13 @@
+{{InfoCard
+|title=Dr Defecaus Card
+|dropchance=0.03
+|order=3
+|category=Bosses
+|effect=+% Total Damage
+|bonus=5
+|reqtier=1.5
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Dr Defecaus]]|0.03|1}}
+|}

@@ -1,0 +1,23 @@
+{{InfoEnemy
+|image=Sheepie Walking.gif
+|attack=155
+|health=55000
+|defence=290
+|speed=4
+|exp=620
+|respawn=40
+|defence0=158.98
+|area=Steep Sheep Ledge
+|world=Frostbite Tundra
+|crystal=yes
+|crystalname=Crystal Cattle
+|hascard=yes
+|nextenemy=Frost Flake
+}}
+{{DropTable/head|Droptable for Sheepie}}
+{{DropTable/coin|730|0.5}}
+{{DropTable|Floof Ploof|0.16|1}}
+{{DropTable/card|0.0001}}
+{{DropTable|Box Statue|0.0002|1}}
+{{DropTable|Twin Ores Stamp|0.00008|1}}
+{{DropTable/append|DropTable14|0.0025|1}}

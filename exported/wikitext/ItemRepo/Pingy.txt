@@ -1,0 +1,9 @@
+{{InfoItem
+|type=Critter
+|description=It's basically just Gunter but with RTX off. 
+|sellprice=35
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Astro Bronze Chest(W4)]]|0.6|200}}
+|}

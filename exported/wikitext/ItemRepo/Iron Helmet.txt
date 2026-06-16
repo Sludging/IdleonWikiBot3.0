@@ -1,0 +1,24 @@
+{{InfoItem
+|type=Helmet
+|class=All
+|level=15
+|str=5
+|agi=5
+|wis=5
+|upgrade=2
+|defence=10
+|sellprice=7280
+|setname = Iron
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Sandstone Silver Chest(W2)]]|0.02|1}}
+|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Iron Bar|40}}
+{{detrecipe|3|Glublin Ear|300}}
+|tot=
+{{detrecipe/totals|Iron Bar|40}}
+{{detrecipe/totals|Glublin Ear|300}}
+}}

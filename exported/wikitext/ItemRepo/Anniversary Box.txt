@@ -1,0 +1,6 @@
+{{InfoItem
+|type=Event Box
+|description=IdleOn is 4 years old! Hold down to open this box and celebrate! Contains a random Anniversary goodie, from event cards to foods to special vent equipment! 
+|sellprice=1
+|notes=Droprates are displayed on the Event page this item was apart of: [[Events/3rd Anniversary|3rd Anniversary]].
+}}

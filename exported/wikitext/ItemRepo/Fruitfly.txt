@@ -1,0 +1,10 @@
+{{InfoItem
+|type=Bug
+|hascard=yes
+|description=Hahaha I had my fingers crossed! 
+|sellprice=20
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Sandstone Golden Chest(W2)]]|0.2|169}}
+|}

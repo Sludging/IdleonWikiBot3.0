@@ -1,14 +1,16 @@
-from typing import Tuple, Union, Dict, Callable
+from typing import Union, Dict, Callable, List
 
 from pydantic import validator
 
+from definitions.enemy.AFKType import AFKType
+from definitions.enemy.EnemyType import EnemyType
 from definitions.master.IdleonModel import IdleonModel
 from helpers.CustomTypes import Integer
 
 
 class EnemyDetails(IdleonModel):
 	Name: str
-	AFKtype: str
+	AFKtype: AFKType
 	MonsterFace: Integer
 	MonsterOffsetX: Integer
 	MonsterOffsetY: Integer
@@ -18,13 +20,13 @@ class EnemyDetails(IdleonModel):
 	RespawnTime: Integer
 	DeathFrame: Integer
 	MonsterHPTotal: Integer
-	Type: str
+	Type: EnemyType
 	SpecialType: str
 	ExpGiven: Integer
 	ExpType: Integer
 	Defence: Integer
 	MoveSPEED: Integer
-	Damages: Tuple[Integer, Integer]
+	Damages: List[Integer]
 	DefFor0: Integer = 0
 
 	@validator("DefFor0", always = True, )

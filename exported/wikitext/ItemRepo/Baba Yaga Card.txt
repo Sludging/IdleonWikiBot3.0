@@ -1,0 +1,13 @@
+{{InfoCard
+|title=Baba Yaga Card
+|dropchance=0.03
+|order=2
+|category=Bosses
+|effect=+% Money from Monsters
+|bonus=10
+|reqtier=1.5
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Baba Yaga]]|0.03|1}}
+|}

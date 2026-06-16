@@ -1,0 +1,5 @@
+{{InfoItem
+|type=Usable
+|description=Hold down on this item to completely reset your spent Anvil Points for this character. 
+|sellprice=300000
+}}

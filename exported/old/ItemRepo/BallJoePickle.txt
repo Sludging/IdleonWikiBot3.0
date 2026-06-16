@@ -1,0 +1,5 @@
+{{InfoItem
+|type=Quest Item
+|description=What have they done to ya BobJoe? 
+|sellprice=40000
+}}

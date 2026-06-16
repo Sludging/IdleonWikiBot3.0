@@ -9,17 +9,8 @@
 |speed=5
 |reach=60
 |sellprice=530
-|source=[[Smithing]]
-}}
-{{ForgeSlot
-|anvtab=1
-|craftnum=14
-|levelreq=6
-|expgiven=15
-|recipefrom=Start
-|resource1=Copper Bar|quantity1=20
-|resource2=Oak Logs|quantity2=75
-|resource3=Trusty Nails|quantity3=20
+|setname = The
+|notes= 
 }}
 {{detrecipe/tab
 |reci=

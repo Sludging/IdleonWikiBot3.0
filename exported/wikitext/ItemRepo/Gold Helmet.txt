@@ -1,0 +1,30 @@
+{{InfoItem
+|type=Helmet
+|class=All
+|level=35
+|str=7
+|agi=7
+|wis=7
+|misc=3% Defence
+|upgrade=3
+|defence=15
+|sellprice=29420
+|setname = Gold
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Chillsnap Silver Chest(W3)]]|0.02|1}}
+|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Copper Helmet|1}}
+{{detrecipe|40|Copper Bar|20}}
+{{detrecipe|40|Bean Slices|40}}
+{{detrecipe|3|Fly|2000}}
+{{detrecipe|3|Gold Bar|200}}
+|tot=
+{{detrecipe/totals|Fly|2000}}
+{{detrecipe/totals|Gold Bar|200}}
+{{detrecipe/totals|Copper Bar|20}}
+{{detrecipe/totals|Bean Slices|40}}
+}}

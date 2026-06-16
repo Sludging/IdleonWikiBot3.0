@@ -1,0 +1,13 @@
+{{InfoCard
+|title=Dreadlo Ore Card
+|order=3
+|category=Hard Resources
+|effect=+% Mining Away Gains
+|bonus=3
+|reqtier=15.0
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Mining#Drops|Mining Dreadlo]]|0.00003|1}}
+{{detdrops|[[Mining#Drops|Mining Marble]]|0|1}}
+|}

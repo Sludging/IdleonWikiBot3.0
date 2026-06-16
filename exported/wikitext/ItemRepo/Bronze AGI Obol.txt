@@ -1,0 +1,20 @@
+{{InfoItem
+|type=Circle Obol
+|class=All
+|agi=1
+|family=AGI
+|rarity=Bronze
+|sellprice=1
+|setname = Bronze
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.0005775000000000001|1}}
+{{detdrops|[[Slime]]|0.000004620000000000001|1}}
+{{detdrops|[[Baby Boa]]|0.0000057750000000000015|1}}
+{{detdrops|[[Carrotman]]|0.000006930000000000001|1}}
+{{detdrops|[[Baba Yaga]]|0.0011550000000000002|1}}
+{{detdrops|[[Amarok]]|0.0011550000000000002|2}}
+{{detdrops|[[Chaotic Amarok]]|0.0011550000000000002|4}}
+{{detdrops|[[Dewdrop Silver Chest(W1)]]|0.0011550000000000002|1}}
+|}

@@ -1,0 +1,20 @@
+{{InfoItem
+|type=Ring
+|class=All
+|level=110
+|misc=25% Lab Exp
+|misc2=35% Lab Efficiency
+|upgrade=3
+|defence=10
+|sellprice=10000006
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Lab Ring|5}}
+{{detrecipe|3|Purple Mush Cap|100000}}
+{{detrecipe|3|Chef Ring|1}}
+|tot=
+{{detrecipe/totals|Lab Ring|5}}
+{{detrecipe/totals|Purple Mush Cap|100000}}
+{{detrecipe/totals|Chef Ring|1}}
+}}

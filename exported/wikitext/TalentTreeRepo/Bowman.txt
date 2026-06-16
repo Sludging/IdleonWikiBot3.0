@@ -7,6 +7,9 @@
 |form2=bigBase
 |y1=27
 |y2=3
+|cooldown=15
+|actiontime=0.45
+|manacost=18
 }}
 {{Talent
 |name=Magic Shortbow
@@ -17,6 +20,9 @@
 |form2=bigBase
 |y1=47
 |y2=3
+|cooldown=6
+|actiontime=0.45
+|manacost=7
 }}
 {{Talent
 |name=Flax Instastring
@@ -34,6 +40,9 @@
 |form2=decay
 |y1=40
 |y2=60
+|cooldown=30
+|actiontime=0.45
+|manacost=8
 }}
 {{Talent
 |name=Woah, That Was Fast!
@@ -78,7 +87,7 @@
 |x2=0
 }}
 {{Talent
-|name=Teleki'Net'Ic Logs
+|name=Teleki'net'ic Logs
 |textArr=+(Table 1)% Catching Efficiency for every power of 10 Oak Logs in the storage chest
 |form1=decay
 |x1=20

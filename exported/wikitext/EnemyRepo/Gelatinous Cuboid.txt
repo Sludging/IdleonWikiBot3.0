@@ -1,0 +1,24 @@
+{{InfoEnemy
+|image=Gelatinous Cuboid Walking.gif
+|attack=3500
+|health=3000000
+|defence=6200
+|speed=4
+|exp=10800
+|respawn=40
+|defence0=4115.32
+|area=Jelly Cube Bridge
+|world=Hyperion Nebula
+|crystal=yes
+|crystalname=Crystal Custard
+|hascard=yes
+|nextenemy=Choccie
+|prevenemy=Flying Worm
+}}
+{{DropTable/head|Droptable for Gelatinous Cuboid}}
+{{DropTable/coin|2300|0.5}}
+{{DropTable|Tongue Bone|0.16|1}}
+{{DropTable|Gelatinous Chest|0.0000038|1}}
+{{DropTable/card|0.00002}}
+{{DropTable|Propeller Cap|0.00000015|1}}
+{{DropTable/append|DropTable20|0.0029|1}}

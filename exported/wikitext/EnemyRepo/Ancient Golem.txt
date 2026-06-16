@@ -1,0 +1,22 @@
+{{InfoEnemy
+|image=Ancient Golem Walking.gif
+|attack=500000
+|health=30000000000000.0
+|defence=1000000000
+|speed=4
+|exp=40000000
+|respawn=90
+|defence0=287154.69
+|crystal=yes
+|crystalname=Crystal Capybara
+|hascard=yes
+|nextenemy=Crystal Capybara
+|prevenemy=Gloomie Mushroom
+}}
+{{DropTable/head|Droptable for Ancient Golem}}
+{{DropTable/coin|1|0}}
+{{DropTable/card|0.00005}}
+{{DropTable|Dragon Warrior Statue|0.00001|1}}
+{{DropTable|Cavern Resource Stamp|0.000001|1}}
+{{DropTable|Temple Torch|0.01|1}}
+{{DropTable|Study Hall Stamp|0.00000005|1}}

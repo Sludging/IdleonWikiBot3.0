@@ -1,0 +1,24 @@
+{{npc
+|world=Yum-Yum Desert
+|location=Encroaching Forest Villas, YumYum Grotto
+|noquest=1
+|birthweight=9.07
+|starsign=Gemini
+|mmm=ee
+|notes=The [[Obol Altar]] appears in both [[Worlds#F2 - Encroaching Forest Villas|Encroaching Forest Villas]] and [[Worlds#D0 - YumYum Grotto|YumYum Grotto]].
+}}
+{{Quest/head}}
+{{Quest|name=Bad Kitty, get off that altar!
+|text=Find something to scare the cat off the Obol Altar. Maybe from the Town Shop?
+|difficulty=6
+|requirements=1x{{ItemDisplay|BobJoePickle}}
+|consumed=Yes
+|rewards=1x{{ItemDisplay|Bronze Obol of Puny Damage}}
+|notes=
+}}
+|}
+{{dialogue/head}}
+{{dialogue/row|text=Zzz... Zzz... meow meow meow... <br> meeeeow... Zzz...}}
+{{dialogue/row|text=... meow... Zzz... <br> QUEST:Find something to scare the cat off the Obol Altar. Maybe from the Town Shop?|quest=Bad Kitty, get off that altar!}}
+{{dialogue/row|text=MROWW! 'The cat jumps off in fear of the pickle. What a silly cat getting scared of a little pickl-- OH MY GOD THE PICKLE HAS EYEBALLS AAAAAH KILL IT KILL IT!!!'}}
+|}

@@ -1,0 +1,15 @@
+{{InfoItem
+|type=Quest Item
+|description=Proof that you mastered the art of the Trapping, Construction, and Worship skills. DONT SELL THIS ITEM 
+|sellprice=500437522
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Frigid Soul|12500}}
+{{detrecipe|3|Jade Scarab|4}}
+{{detrecipe|3|Refurbished Cog|1}}
+|tot=
+{{detrecipe/totals|Frigid Soul|12500}}
+{{detrecipe/totals|Jade Scarab|4}}
+{{detrecipe/totals|Refurbished Cog|1}}
+}}

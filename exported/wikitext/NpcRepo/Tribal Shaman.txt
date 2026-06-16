@@ -1,0 +1,17 @@
+{{npc
+|world=Spirited Valley
+|location=Bamboo Laboredge
+|npcType=Unknown
+|birthweight=2.54
+|starsign=Virgo
+|mmm=Soukup
+}}
+{{Quest/head}}
+|}
+{{dialogue/head}}
+{{dialogue/row|text=Hark a fellow summoner! Don't think I couldn't tell I can see it in the way you walk the way you talk...}}
+{{dialogue/row|text=... the way you critiqued other player's strategies despite only having a few Total Career Wins yourself...}}
+{{dialogue/row|text=Well as a bonafied Summoner I'm sure you've noticed these Summoning Stones littered around the place and I'm sure you'd like to interact with them. You do right?}}
+{{dialogue/row|text=Of course you do!}}
+{{dialogue/row|text=Go ahead click the Summoning Stones! You have my full permission! <br> There are currently 7 stones I think I put a few in World 3 World 4 and maybe World 5...? Can't remember...}}
+|}

@@ -4,4 +4,4 @@
 |sellprice=1
 }}
 {{ProductionSlot
-|lvlreq=90|num=12|expcraft=1000|time=120000}}
+|lvlreq=999|num=12|expcraft=1000|time=120000}}

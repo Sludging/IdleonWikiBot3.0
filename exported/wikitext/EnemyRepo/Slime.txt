@@ -1,0 +1,26 @@
+{{InfoEnemy
+|image=Slime Walking.gif
+|attack=2
+|health=175
+|defence=4
+|speed=4
+|exp=26
+|respawn=42
+|defence0=0.5
+|area=Jungle Perimeter
+|world=Blunder Hills
+|crystal=yes
+|crystalname=Crystal Carrot
+|hascard=yes
+|nextenemy=Baby Boa
+|prevenemy=Bored Bean
+}}
+{{DropTable/head|Droptable for Slime}}
+{{DropTable/coin|110|0.44}}
+{{DropTable|Slime Sludge|0.19|1}}
+{{DropTable/card|0.0395}}
+{{DropTable/recipe|1|Goo Galoshes|0.00003}}
+{{DropTable/talent|Bored To Death|0.004}}
+{{DropTable|Toxic Sludge|0.0003|10}}
+{{DropTable/recipe|1|Dooble Goopi|0.00002}}
+{{DropTable/append|DropTable2|0.004|1}}

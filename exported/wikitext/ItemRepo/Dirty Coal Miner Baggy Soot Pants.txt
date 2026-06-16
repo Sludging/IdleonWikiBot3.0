@@ -1,0 +1,22 @@
+{{InfoItem
+|type=Pants
+|class=All
+|level=25
+|str=7
+|misc=5% Mining Efficincy
+|upgrade=3
+|defence=12
+|sellprice=1580
+|notes= 
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Torn Jeans|3}}
+{{detrecipe|40|Frog Leg|18}}
+{{detrecipe|40|Thread|30}}
+{{detrecipe|3|Iron Ore|200}}
+|tot=
+{{detrecipe/totals|Iron Ore|200}}
+{{detrecipe/totals|Frog Leg|18}}
+{{detrecipe/totals|Thread|30}}
+}}

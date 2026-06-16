@@ -1,0 +1,23 @@
+{{InfoEnemy
+|image=Soda Can Walking.gif
+|attack=2600
+|health=1500000
+|defence=5150
+|speed=6
+|exp=7600
+|respawn=38
+|defence0=3114.63
+|area=Mountainous Deugh
+|world=Hyperion Nebula
+|crystal=yes
+|crystalname=Crystal Custard
+|hascard=yes
+|nextenemy=Flying Worm
+|prevenemy=Demon Genie
+}}
+{{DropTable/head|Droptable for Soda Can}}
+{{DropTable/coin|1850|0.5}}
+{{DropTable|Bottle Cap|0.16|1}}
+{{DropTable|Basic Bobber|0.0000019|1}}
+{{DropTable/card|0.00002}}
+{{DropTable/append|DropTable20|0.0027|1}}

@@ -1,0 +1,13 @@
+{{InfoItem
+|type=Quest Item
+|description=Made up of the tokens from all of the Tundra NPCs whose quests are hardest to complete. DONT SELL THIS ITEM 
+|sellprice=8000
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Bellows Token|1}}
+{{detrecipe|3|Bill Brr Token|1}}
+|tot=
+{{detrecipe/totals|Bellows Token|1}}
+{{detrecipe/totals|Bill Brr Token|1}}
+}}

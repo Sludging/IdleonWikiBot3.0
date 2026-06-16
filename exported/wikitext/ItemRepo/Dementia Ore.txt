@@ -1,0 +1,11 @@
+{{InfoItem
+|type=Ore
+|hascard=yes
+|description=Smelt down 40 Ores into 1 Bar at the Forge. Smelting will take 400 Seconds per Bar using Forge Slot 1. 
+|sellprice=35
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Sandstone Golden Chest(W2)]]|0.1|80}}
+{{detdrops|[[Chillsnap Silver Chest(W3)]]|0.6|100}}
+|}

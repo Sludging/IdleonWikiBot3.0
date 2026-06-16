@@ -9,17 +9,8 @@
 |upgrade=6
 |defence=30
 |sellprice=4260
-|source=[[Smithing]]
-}}
-{{ForgeSlot
-|anvtab=2
-|craftnum=62
-|levelreq=39
-|expgiven=50000
-|recipefrom=Start
-|resource1=Ripped Tunic|quantity1=10
-|resource2=Midnight Cookie|quantity2=10
-|resource3=Distilled Water|quantity3=25
+|setname = Efaunt
+|notes= 
 }}
 {{detrecipe/tab
 |reci=

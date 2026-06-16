@@ -1,0 +1,10 @@
+{{InfoCard
+|title=Ice Guard Card
+|dropchance=0.017
+|order=20
+|category=Dungeons
+|effect=+% Dungeon MP regen
+|bonus=8
+|reqtier=8.0
+|sellprice=1
+}}

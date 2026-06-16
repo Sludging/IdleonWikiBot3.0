@@ -1,16 +1,22 @@
 {{Talent
 |name=Energy Bolt
-|textArr=Your next basic attack strikes the Targeted Enemy for (Table 1)% Damage
+|textArr=Your next basic attack strikes the Targeted Enemy for (Table 1)% Damage. You MUST have a wand equipped to cast.
 |form1=bigBase
-|x1=160
-|x2=2
+|x1=200
+|x2=3.5
+|cooldown=8
+|actiontime=0.5
+|manacost=4
 }}
 {{Talent
 |name=Mini Fireball
 |textArr=Shoots a fireball that explodes on impact, dealing (Table 1)% damage
 |form1=bigBase
-|x1=120
-|x2=1
+|x1=130
+|x2=1.5
+|cooldown=6
+|actiontime=0.85
+|manacost=6
 }}
 {{Talent
 |name=Mana Overdrive
@@ -25,16 +31,19 @@
 |form1=bigBase
 |x1=25
 |x2=1
+|cooldown=1
+|actiontime=0.5
+|manacost=2
 }}
 {{Talent
-|name=You'Re Next
+|name=You're Next
 |textArr=Basic attacks have a (Table 1)% chance to Mark enemies, who then take (Table 2)% more damage
 |form1=decay
 |x1=110
-|x2=70
+|x2=25
 |form2=bigBase
-|y1=25
-|y2=0.5
+|y1=35
+|y2=1
 }}
 {{Talent
 |name=Knowledge Is Power
@@ -44,7 +53,7 @@
 |x2=0
 }}
 {{Talent
-|name=Unt'Wis'Ted Robes
+|name=Unt'wis'ted Robes
 |textArr=All Equipment gives (Table 1)% more WIS than what's listed
 |form1=add
 |x1=1.5
@@ -80,6 +89,9 @@
 |form2=bigBase
 |y1=14
 |y2=1.86
+|cooldown=30
+|actiontime=0.95
+|manacost=5
 }}
 {{Talent
 |name=Leaf Thief

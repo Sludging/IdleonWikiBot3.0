@@ -1,0 +1,8 @@
+{{InfoItem
+|type=Monster Drop
+|description=Where are the green eggs to go with these? 
+|sellprice=110000
+}}
+{{detdrops/head}}
+{{detdrops|[[Crawler]]|0.16|1}}
+|}

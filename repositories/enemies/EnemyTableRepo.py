@@ -1,17 +1,26 @@
 import re
 from typing import List
 
-from definitions.DropTable import DropTable
-from definitions.common.DropTypes import Drop, ItemDrop
+from definitions.common.DropTypes import Drop, ItemDrop, RecipeDrop
 from definitions.enemy.EnemyTable import EnemyTable
+from helpers.HelperFunctions import formatStr, getFromArrayArray
+from repositories.item.RecipeRepo import RecipeRepo
+from repositories.item.SpecificItemRepo import SpecificItemRepo
 from repositories.master.Repository import Repository
+from repositories.talents.TalentNameRepo import TalentNameRepo
 
 
 class EnemyTableRepo(Repository[EnemyTable]):
 
 	@classmethod
-	def parse(cls, value) -> DropTable:
-		return DropTable.parse_obj(value)
+	def getCategory(cls) -> str:
+		return "Enemy"
+
+	@classmethod
+	def initDependencies(cls, log = True) -> None:
+		TalentNameRepo.initialise(cls.codeReader, log)
+		SpecificItemRepo.initialise(cls.codeReader, log)
+		RecipeRepo.initialise(cls.codeReader, log)
 
 	@classmethod
 	def getSections(cls) -> List[str]:
@@ -19,15 +28,12 @@ class EnemyTableRepo(Repository[EnemyTable]):
 
 	@classmethod
 	def generateRepo(cls) -> None:
-		reEnemies = r'.\.setReserved\("([a-zA-Z0-9_]*)", [a-zA-Z0-9_$]*\)'
-		reDrops = r'\["([^ ]*)", "([^ ]*)", "([^ ]*)", "([^ ]*)"\],'
-		droptableData = cls.getSection()
-		droptables = re.split(reEnemies, droptableData)
-		for i in range(0, len(droptables) - 1, 2):
-			drops = re.findall(reDrops, droptables[i])
-
+		reDropTables = r'.\..\.(\S*?) = ?"?(.*?)"?\)'
+		droptableData = formatStr(cls.getSection(), ["\n", "  "], replaceUnderscores = False)
+		for name, dt in re.findall(reDropTables, droptableData):
+			drops = getFromArrayArray(dt, repU = False)
 			drops = [Drop.arrayToDropType(drop) for drop in drops]
-			cls.add(droptables[i + 1], EnemyTable(drops = drops.copy()))
+			cls.add(name, EnemyTable(drops = drops.copy()))
 		cls.insertMissing()
 
 	@classmethod
@@ -43,4 +49,19 @@ class EnemyTableRepo(Repository[EnemyTable]):
 			quantity = "1",
 			chance = "1",
 			questLink = "N/A",
+		))
+		# DNA Guns
+		pincerDrops = cls.get("pincermin").drops
+		pincerDrops.insert(len(pincerDrops) - 1, RecipeDrop(
+			item = "SmithingRecipes4",
+			quantity = "53",
+			chance = "0.000003",
+			questLink = "(Enter World 4)",
+		))
+		thermoDrops = cls.get("thermostat").drops
+		thermoDrops.insert(len(thermoDrops) - 1, RecipeDrop(
+			item = "SmithingRecipes4",
+			quantity = "54",
+			chance = "0.0000008",
+			questLink = "(Enter World 4)",
 		))

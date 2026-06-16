@@ -1,0 +1,13 @@
+{{InfoItem
+|type=Nametag
+|class=All
+|level=4
+|weaponpower=10
+|str=20
+|agi=20
+|wis=20
+|misc=80% All Afk Gain
+|misc2=10% Drop Chance
+|defence=30
+|sellprice=1
+}}

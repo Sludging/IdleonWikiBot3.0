@@ -1,0 +1,13 @@
+{{InfoCard
+|title=Fairy Card
+|dropchance=2e-05
+|order=20
+|category=Hard Resources
+|effect=+% Catching Speed
+|bonus=4
+|reqtier=10.0
+|sellprice=1
+}}
+{{detdrops/head}}
+{{detdrops|[[Catching#Drops|Catching Fairy]]|0.00002|1}}
+|}

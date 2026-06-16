@@ -1,0 +1,12 @@
+{{InfoEnemy
+|image=Spirit Reindeer Walking.gif
+|attack=1
+|health=500000000
+|defence=1
+|speed=5
+|exp=1
+|respawn=45
+}}
+{{DropTable/head|Droptable for Spirit Reindeer}}
+{{DropTable/coin|1|0}}
+{{DropTable|Royal Headpiece|0|1}}

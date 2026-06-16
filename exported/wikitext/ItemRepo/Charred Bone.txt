@@ -1,0 +1,5 @@
+{{InfoItem
+|type=Usable
+|description=Hold down to instantly get 1 Hours of Bones added to the Grimoire! The amount is based on the current hourly rate shown in AFK info. You must be on your Deathbringer to use this. 
+|sellprice=100
+}}

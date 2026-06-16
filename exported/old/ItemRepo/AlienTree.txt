@@ -1,4 +1,9 @@
 {{InfoItem
 |type=Log
-|sellprice=5000
+|hascard=yes
+|sellprice=55
+|notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Astro Silver Chest]]|0.5|750}}
+|}

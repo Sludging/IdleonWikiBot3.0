@@ -1,6 +1,6 @@
 from typing import List
 
-from definitions.common.Component import Component
+from definitions.component.Component import Component
 from definitions.questdef.Quest import Quest
 
 

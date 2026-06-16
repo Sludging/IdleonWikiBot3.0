@@ -1,0 +1,24 @@
+{{InfoItem
+|type=Helmet
+|class=All
+|level=8
+|str=3
+|agi=3
+|wis=3
+|upgrade=2
+|defence=7
+|sellprice=420
+|setname = Copper
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Dewdrop Silver Chest(W1)]]|0.02|1}}
+|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Copper Bar|20}}
+{{detrecipe|3|Bean Slices|40}}
+|tot=
+{{detrecipe/totals|Copper Bar|20}}
+{{detrecipe/totals|Bean Slices|40}}
+}}

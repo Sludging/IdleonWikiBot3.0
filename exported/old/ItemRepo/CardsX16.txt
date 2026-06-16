@@ -1,0 +1,10 @@
+{{InfoCard
+|title=Lazlo Card
+|dropchance=0.07
+|order=14
+|category=Dungeons
+|effect=+% RNG item rarity
+|bonus=10
+|reqtier=2.0
+|sellprice=1
+}}

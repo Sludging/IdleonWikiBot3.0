@@ -1,0 +1,11 @@
+{{InfoEnemy
+|image=Shielding Rune Walking.gif
+|attack=50
+|health=1000
+|defence=1
+|exp=150
+|respawn=55
+|defence0=40.66
+}}
+{{DropTable/head|Droptable for Shielding Rune}}
+{{DropTable/coin|1|0}}

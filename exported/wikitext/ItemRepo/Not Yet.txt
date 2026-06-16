@@ -1,0 +1,13 @@
+{{InfoItem
+|type=Fish
+|description=Sorry gamer, but this material isn't in the game yet! You'll have to wait for the next update to get it. 
+|sellprice=8
+|notes= 
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Not Yet|1}}
+{{detrecipe|3|Not Yet|1}}
+|tot=
+{{detrecipe/totals|Not Yet|2}}
+}}

@@ -2,11 +2,14 @@
 |name=Piercing Arrow
 |textArr=Shoots an arrow that deals (Table 1)% damage to up to (Table 2) monsters
 |form1=bigBase
-|x1=110
+|x1=125
 |x2=2
 |form2=intervalAdd
-|y1=2
-|y2=40
+|y1=5
+|y2=50
+|cooldown=5
+|actiontime=0.45
+|manacost=5
 }}
 {{Talent
 |name=Kung Fu Kick
@@ -17,6 +20,9 @@
 |form2=bigBase
 |y1=60
 |y2=2
+|cooldown=7
+|actiontime=0.45
+|manacost=3
 }}
 {{Talent
 |name=Hema Overdrive
@@ -34,6 +40,9 @@
 |form2=intervalAdd
 |y1=2
 |y2=15
+|cooldown=30
+|actiontime=0.45
+|manacost=5
 }}
 {{Talent
 |name=Have Another!
@@ -50,7 +59,7 @@
 |x2=60
 }}
 {{Talent
-|name=Garb Of Un'Agi'Ng Quality
+|name=Garb Of Un'agi'ng Quality
 |textArr=All Equipment gives (Table 1)% more AGI than what's listed
 |form1=add
 |x1=1.5

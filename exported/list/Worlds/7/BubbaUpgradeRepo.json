@@ -1,0 +1,282 @@
+[
+    {
+        "name": "1st Slice",
+        "x0": 1,
+        "costExponent": 1.07,
+        "bonus": 1,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "Produce +{ Meat Slices per second. @ Click the upgrade again to upgrade it! @ Or, Hold Down on an upgrade to upgrade fast!"
+    },
+    {
+        "name": "Happi Boi",
+        "x0": 1,
+        "costExponent": 1.3,
+        "bonus": 1,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "Unlocks the Happiness Meter, multiplying Meat Slice production! @ You can pat Bubba $ times per hour, giving +{ Happiness each time. @ Your next pats come in ~"
+    },
+    {
+        "name": "Good Meat",
+        "x0": 0.6,
+        "costExponent": 1.07,
+        "bonus": 2,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "Boosts Meat Slice production by +{%"
+    },
+    {
+        "name": "Bubba Boon",
+        "x0": 1,
+        "costExponent": 10,
+        "bonus": 1,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "Gain a permanent bonus for the rest of IdleOn! @ This upgrade never resets, so those bonuses at the bottom are permanent!"
+    },
+    {
+        "name": "Bargain",
+        "x0": 1,
+        "costExponent": 1.12,
+        "bonus": 1,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "All upgrades are $% cheaper"
+    },
+    {
+        "name": "Buyer Grin",
+        "x0": 1.3,
+        "costExponent": 1.5,
+        "bonus": 1,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "Bubba gains +$ Happiness for every upgrade you purchase!"
+    },
+    {
+        "name": "Charisma",
+        "x0": 1,
+        "costExponent": 1.1,
+        "bonus": 5,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "Unlocks the Charisma Chart, boosting stats as you level up attributes! @ Click the (?) Icon to get started! @ This upgrade boosts attribute Lv Up speed by +{%"
+    },
+    {
+        "name": "2nd Slice",
+        "x0": 1,
+        "costExponent": 1.1,
+        "bonus": 6,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "Produce an extra +{ Meat Slices per second"
+    },
+    {
+        "name": "Megaflesh",
+        "x0": 1.6,
+        "costExponent": 125,
+        "bonus": 1,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "Reset it all. Get a permanent Megaflesh."
+    },
+    {
+        "name": "Fun Gifts",
+        "x0": 0.4,
+        "costExponent": 3000,
+        "bonus": 1,
+        "maxLevel": 6,
+        "x2": 0,
+        "x3": 0,
+        "description": "Start each run with a new gift. You can choose from { different options!"
+    },
+    {
+        "name": "Open Gift",
+        "x0": 1,
+        "costExponent": 3,
+        "bonus": 1,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "Trigger the effect of your gifts! Remember, each one has a unique effect!"
+    },
+    {
+        "name": "Great Meat",
+        "x0": 1,
+        "costExponent": 1.1,
+        "bonus": 8,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "Boosts Meat Slice production by +{%"
+    },
+    {
+        "name": "Dice Roll",
+        "x0": 1,
+        "costExponent": 25,
+        "bonus": 1,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "Unlocks the Frozen Dice, which boost Meat Slice production by the sum of their rolls. Each upgrade here rerolls dice. @ Price resets in ~"
+    },
+    {
+        "name": "Super Chart",
+        "x0": 1,
+        "costExponent": 1.8,
+        "bonus": 1,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "All Attributes from Bubba's Charisma Chart give a }x higher bonus!"
+    },
+    {
+        "name": "More Dice",
+        "x0": 1,
+        "costExponent": 75000,
+        "bonus": 1,
+        "maxLevel": 6,
+        "x2": 0,
+        "x3": 0,
+        "description": "Increase the number of Dice you roll by +{"
+    },
+    {
+        "name": "Smoker",
+        "x0": 1,
+        "costExponent": 1.2,
+        "bonus": 1,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "Unlock the Smoker, making Smoked Meats that multiply Meat Slice production! @ Each upgrade makes a Smoked Meat based on how long you wait! @ Your smoker has been smoking for ~"
+    },
+    {
+        "name": "More Sides",
+        "x0": 1,
+        "costExponent": 1000,
+        "bonus": 1,
+        "maxLevel": 9,
+        "x2": 0,
+        "x3": 0,
+        "description": "Increase the number of sides of each Dice by +{, so your highest possible dice roll is now $!"
+    },
+    {
+        "name": "Uber Gifts",
+        "x0": 1,
+        "costExponent": 1.6,
+        "bonus": 1,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "The passive bonus of your gifts is }x higher!"
+    },
+    {
+        "name": "Cost Saver",
+        "x0": 1,
+        "costExponent": 1.23,
+        "bonus": 2,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "All upgrades are $% cheaper"
+    },
+    {
+        "name": "Best Meat",
+        "x0": 1,
+        "costExponent": 1.12,
+        "bonus": 25,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "Boosts Meat Slice production by +{%"
+    },
+    {
+        "name": "Real Love",
+        "x0": 1,
+        "costExponent": 1.5,
+        "bonus": 1,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "All happiness gained for Bubba from all sources is now }x higher!"
+    },
+    {
+        "name": "Spare Coins",
+        "x0": 1,
+        "costExponent": 1.8,
+        "bonus": 1,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "{% chance to find a random coin when upgrading, each one multiplying Meat Slice production. Better coins are rarer..."
+    },
+    {
+        "name": "Loaded Dice",
+        "x0": 1,
+        "costExponent": 1.3,
+        "bonus": 1,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "Your dice are all {% luckier. This will make low rolls rarer, and big rolls more common!"
+    },
+    {
+        "name": "3rd Slice",
+        "x0": 1,
+        "costExponent": 1.22,
+        "bonus": 50,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "Produce and extra +{ Meat Slices per second"
+    },
+    {
+        "name": "Crossover",
+        "x0": 1,
+        "costExponent": 1.75,
+        "bonus": 5,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "+{% Meat Slice production per POW 10 fish you own over at Poppy's Fish Pond!"
+    },
+    {
+        "name": "2X Smoke",
+        "x0": 1,
+        "costExponent": 1.12,
+        "bonus": 2,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "You now get double Smoked Meat when curing! Not every time, but {% of the time!"
+    },
+    {
+        "name": "Perma Sale",
+        "x0": 1,
+        "costExponent": 1.3,
+        "bonus": 4,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "All upgrades are $% cheaper"
+    },
+    {
+        "name": "Big Ol Coin",
+        "x0": 1,
+        "costExponent": 1.5,
+        "bonus": 2,
+        "maxLevel": 999,
+        "x2": 0,
+        "x3": 0,
+        "description": "{% chance to find two coins instead of one when finding Spare Coins!"
+    }
+]

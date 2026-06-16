@@ -1,0 +1,42 @@
+{{InfoItem
+|type=Helmet
+|class=All
+|level=135
+|weaponpower=5
+|str=30
+|agi=30
+|wis=30
+|luck=30
+|misc=16% Defence
+|upgrade=8
+|defence=90
+|sellprice=88055250
+|setname = Diabolical
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Lustre Veil|1}}
+{{detrecipe|40|Void Imperium Helmet|1}}
+{{detrecipe|80|Dementia Helmet|1}}
+{{detrecipe|120|Froge|5000}}
+{{detrecipe|120|Dementia Bar|300}}
+{{detrecipe|80|Spontaneity Salts|500}}
+{{detrecipe|80|Void Bar|1000}}
+{{detrecipe|80|Dense Water|5}}
+{{detrecipe|40|Skelefish|80000}}
+{{detrecipe|40|Lustre Bar|2500}}
+{{detrecipe|3|Blobfish|600000}}
+{{detrecipe|3|Starfire Bar|10000}}
+{{detrecipe|3|Nullo Salt|800}}
+|tot=
+{{detrecipe/totals|Blobfish|600000}}
+{{detrecipe/totals|Starfire Bar|10000}}
+{{detrecipe/totals|Nullo Salt|800}}
+{{detrecipe/totals|Skelefish|80000}}
+{{detrecipe/totals|Lustre Bar|2500}}
+{{detrecipe/totals|Spontaneity Salts|500}}
+{{detrecipe/totals|Void Bar|1000}}
+{{detrecipe/totals|Dense Water|5}}
+{{detrecipe/totals|Froge|5000}}
+{{detrecipe/totals|Dementia Bar|300}}
+}}

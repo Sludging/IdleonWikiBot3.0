@@ -1,0 +1,897 @@
+{{GemshopData
+|section=Hats
+|name=Quest90
+|mtxName=2 Hour Lantern
+|itemDisplayName=Blinding Lantern
+|description=Gives you a Lantern usable item, use it to instantly get 2 hours of ALL cavern progress!! (Except for skilling caverns, like Motherlode) This item restocks each day.
+|cost=245
+|maxPurchases=6
+}}
+{{GemshopData
+|section=Hats
+|name=GemP40
+|mtxName=Parallel Villagers
+|description=Permanently get a 2x EXP boost for the villager of your choice! @ You can only buy this once per villager.
+|cost=780
+|maxPurchases=5
+}}
+{{GemshopData
+|section=Hats
+|name=GemP41
+|mtxName=Resource Boost
+|description=Permanently get a 1.50x boost to resources collected from The Well and The Harp caverns! Two purchases would mean 2.00x resources, three purchases are 2.50x, etc.
+|cost=420
+|maxPurchases=10
+|costIncrement=15
+}}
+{{GemshopData
+|section=Time Candy
+|name=Blank
+|mtxName=Cosmic Candy
+|itemDisplayName=ERROR
+|description=Gives 1 Cosmic Time Candy, which can give up to 500 HOURS of AFK time! On average, it will give 24 hrs.
+|cost=325
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Hats
+|name=GemP42
+|mtxName=Conjuror Pts
+|description=Gives you +1 Conjure Point to invest in bonuses! If you haven't rescued Cosmo the Conjuror Villager yet, you'll want to hold off buying any of these.
+|cost=330
+|maxPurchases=12
+|costIncrement=15
+}}
+{{GemshopData
+|section=Hats
+|name=GemP43
+|mtxName=Opal
+|description=Gives you +1 Opal to invest into villagers! You'll find most of your opals in the caverns, but some ended up here! NOTE: You can only buy 4 per day.
+|cost=250
+|maxPurchases=60
+}}
+{{GemshopData
+|section=Chat Rings
+|name=EquipmentRingsChat1
+|mtxName=Lovers Chat Ring
+|itemDisplayName=Love Ring
+|cost=300
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Chat Rings
+|name=EquipmentRingsChat2
+|mtxName=All Natural Chat Ring
+|itemDisplayName=Leafy Ring
+|cost=250
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Chat Rings
+|name=EquipmentRingsChat4
+|mtxName=Bandit Bob Chat Ring
+|itemDisplayName=Bob Ring
+|cost=350
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Chat Rings
+|name=EquipmentRingsChat5
+|mtxName=Bubble Pop Chat Ring
+|itemDisplayName=Bubble Ring
+|cost=325
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Chat Rings
+|name=EquipmentRingsChat6
+|mtxName=Eyes Of Cthulu Chat Ring
+|itemDisplayName=Cthulu's Ring
+|cost=400
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Limited Specials
+|name=EquipmentRingsChat3
+|mtxName=Money Talks Chat Ring
+|itemDisplayName=Wealth Ring
+|cost=2500
+|maxPurchases=1
+}}
+{{GemshopData
+|section=Chat Rings
+|name=EquipmentRingsChat9
+|mtxName=Honk Ring
+|itemDisplayName=HONK Ring
+|cost=300
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Time Candy
+|name=Timecandy1
+|mtxName=Just One, Please
+|itemDisplayName=1 HR Time Candy
+|description=Gives you a single 1 Hour Candy!
+|cost=40
+|maxPurchases=4
+}}
+{{GemshopData
+|section=Time Candy
+|name=Timecandy2
+|mtxName=Baby's First Lolly
+|itemDisplayName=2 HR Time Candy
+|description=Gives a random Time Candy. The chances are: 34% for 1 Hr, 33% for 2 Hr, and 33% for 4 Hr.
+|cost=80
+|maxPurchases=4
+}}
+{{GemshopData
+|section=Time Candy
+|name=Timecandy3
+|mtxName=Kid In A Candy Store
+|itemDisplayName=4 HR Time Candy
+|description=Gives a random Time Candy. The chances are: 50% for 2 Hr, 25% for 4 Hr, 18% for 12 Hr, and 7% for 24 Hr.
+|cost=150
+|maxPurchases=4
+}}
+{{GemshopData
+|section=Time Candy
+|name=Timecandy4
+|mtxName=Absolute Sugar Maniac
+|itemDisplayName=12 HR Time Candy
+|description=Gives a random Time Candy. The chances are: 33% for 4 Hr, 40% for 12 Hr, 22% for 24 Hr, and 4% for 72 Hr.
+|cost=270
+|maxPurchases=4
+}}
+{{GemshopData
+|section=Inventory & Storage
+|name=InvBag21
+|mtxName=Item Backpack Space
+|itemDisplayName=Inventory Bag U
+|description=Gives +4 extra Item Slots for your backpack! Applies to all your characters, even ones you haven't made yet!
+|cost=200
+|maxPurchases=6
+|costIncrement=25
+}}
+{{GemshopData
+|section=Inventory & Storage
+|name=InvStorage31
+|mtxName=Storage Chest Space
+|itemDisplayName=Storage Chest 90
+|description=Gives +9 extra Storage Chest Slots! Storage Chests are found in each town, and the items you put in are shared by all your players!
+|cost=175
+|maxPurchases=12
+|costIncrement=25
+}}
+{{GemshopData
+|section=Inventory & Storage
+|name=GemP2
+|mtxName=Carry Capacity
+|description=Each purchase boosts the carry capacity by +25% for all your characters. This starts working immediately, and applies to every item type!
+|cost=150
+|maxPurchases=10
+|costIncrement=25
+}}
+{{GemshopData
+|section=Inventory & Storage
+|name=GemP8
+|mtxName=Food Slot
+|description=Gives +1 extra food slot for all characters, forever! Dont worry, 4 food slots will be added FOR FREE in game in later updates, scattered across the game!
+|cost=450
+|maxPurchases=2
+|costIncrement=300
+}}
+{{GemshopData
+|section=Inventory & Storage
+|name=InvStorage99
+|mtxName=More Storage Space
+|itemDisplayName=Cosmic Storage Chest
+|description=Gives +9 extra Storage Chest Slots! Perfect for any hoarding tendencies you may have!
+|cost=450
+|maxPurchases=10
+|costIncrement=12
+}}
+{{GemshopData
+|section=Inventory & Storage
+|name=GemQ9
+|mtxName=Card Presets
+|itemDisplayName=Infinite Forge
+|description=Lets you swap between different card loadouts with ease! No more manually swapping cards around when doing different things! Each purchase gives +1 preset for ALL characters!
+|cost=250
+|maxPurchases=5
+|costIncrement=160
+}}
+{{GemshopData
+|section=Dailies N' Resets
+|name=Pdaily0
+|mtxName=Daily Teleports
+|description=Each purchase gives +13 daily teleports every day, forever. You can use these on the Map Screen. You can be gone for up to 6 days and claim them all upon your return!
+|cost=120
+|maxPurchases=10
+|costIncrement=40
+}}
+{{GemshopData
+|section=Dailies N' Resets
+|name=Pdaily1
+|mtxName=Daily Minigame Plays
+|description=Each purchase gives you +4 additional Daily Minigame Plays across your account. These dont stack from day to day, else youd be swimmin' in them!
+|cost=150
+|maxPurchases=4
+|costIncrement=50
+}}
+{{GemshopData
+|section=Dailies N' Resets
+|name=ResetCompleted
+|mtxName=Regular Talent Reset
+|itemDisplayName=Talent Point Reset Potion
+|description=Resets all your talents to Lv 0, and fully refunds all talent points. This does NOT reset any of the Star Tab talents. This item restocks each week.
+|cost=200
+|maxPurchases=10
+}}
+{{GemshopData
+|section=Dailies N' Resets
+|name=ResetCompletedS
+|mtxName=Star Talent Reset
+|itemDisplayName=Star Talent Reset Potion
+|description=Resets all the talents in the Star Tab to Lv 0, and fully refunds all talent points. This does NOT reset other talents, only ones in the Star Tab. This item restocks each week.
+|cost=300
+|maxPurchases=3
+}}
+{{GemshopData
+|section=Dailies N' Resets
+|name=ClassSwap
+|mtxName=Subclass Swap Token
+|itemDisplayName=Sub Class Swap Token
+|description=Lets you swap subclass, like going from Barbarian to Squire. HOWEVER, you CANT change between main classes, like Warrior or Archer, or change Elite Classes like Blood Berserker. Stock refreshes after each major update.
+|cost=500
+|maxPurchases=2
+|costIncrement=250
+}}
+{{GemshopData
+|section=Dailies N' Resets
+|name=ResetBox
+|mtxName=Pandoras Office Box
+|itemDisplayName=Post Office Box Reseto Magnifico
+|description=Resets all your post office upgrades, and refunds all boxes spent. This lets you choose different post office box upgrades! This item restocks each week.
+|cost=250
+|maxPurchases=1
+}}
+{{GemshopData
+|section=Dailies N' Resets
+|name=ClassSwapC
+|mtxName=Complete Class Redo
+|itemDisplayName=Complete Class Redo Token
+|description=Sets you back to being a Level 1 Beginner. Nothing else resets. You can then redo the Class quests and become whatever you like. And yea, you can only buy ONE of these.
+|cost=999
+|maxPurchases=1
+}}
+{{GemshopData
+|section=Cards
+|name=CardPack1
+|mtxName=Newbie Card Pack
+|itemDisplayName=Newbie Card Pack
+|description=Contains 3 cards from these sets: Blunder Hills, Easy Resources, & Bosses n Nightmares (15% chance).<br/>Rarties - Lvl 1: 50%, Lvl 2: 35%, Lvl 3: 15%.
+|cost=200
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Cards
+|name=CardPack2
+|mtxName=Ancient Card Pack
+|itemDisplayName=Ancient Card Pack
+|description=Contains 4 cards from these sets: Yum-Yum Desert, Medium Resources, & Bosses n Nightmares (40% chance).<br/>Rarties - Lvl 1: 26%, Lvl 2: 30%, Lvl 3: 27%, Lvl 4: 17%.
+|cost=425
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Cards
+|name=CardPack3
+|mtxName=Eternal Card Pack
+|itemDisplayName=Eternal Card Pack
+|description=Contains 4 cards from these sets: Frostbite Tundra, Hard Resources, & Bosses n Nightmares (At least 1).<br/>Rarties - Lvl 2: 30%, Lvl 3: 35%, Lvl 4: 35%.
+|cost=600
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Cards
+|name=CardPack5
+|mtxName=Galaxy Card Pack
+|itemDisplayName=Galaxy Card Pack
+|description=Contains 4 cards from these sets: Hyperion Nebula, Hard Resources, & Bosses n Nightmares (At least 1).<br/>Rarties - Lvl 2: 30%, Lvl 3: 35%, Lvl 4: 35%.
+|cost=650
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Cards
+|name=GemP3
+|mtxName=Extra Card Slot
+|description=Lets you equip another card, so you can have more card bonuses! This applies to all characters, and is recommended before buying card packs!
+|cost=150
+|maxPurchases=4
+|costIncrement=40
+}}
+{{GemshopData
+|section=Cards
+|name=GemQ17
+|mtxName=4 Star Cardifier
+|itemDisplayName=Infinite Forge
+|description=Use this on a 3 star card to upgrade it to 4 stars! You can use it on any 3 star card you have, it's up to you! Each purchase allows for one card of your choice to be upgraded.
+|cost=325
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Cards
+|name=CardPack6
+|mtxName=Smolderin Card Pack
+|itemDisplayName=Smolderin Card Pack
+|description=Contains 4 cards from these sets: Smoulderin' Plateau, Hard Resources, & Bosses n Nightmares(At least 1).<br/>Rarties - Lvl 2: 30%, Lvl 3: 35%, Lvl 4: 35%.
+|cost=690
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Cards
+|name=CardPack7
+|mtxName=Spirit Card Pack
+|itemDisplayName=Spirit Card Pack
+|description=Blah
+|cost=720
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Goods & Services
+|name=GemP11
+|mtxName=Smol Arcade Balls
+|itemDisplayName=Marvelous Obol Stack
+|description=30 arcade balls. Use these at the Arcade, found at the clown in World 2 town!
+|cost=100
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Goods & Services
+|name=GemP12
+|mtxName=Med Arcade Balls
+|itemDisplayName=Marvelous Obol Stack
+|description=100 arcade balls. Use these at the Arcade, found at the clown in World 2 town! +20% better value compared to smol ball pack!
+|cost=275
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Goods & Services
+|name=GemP13
+|mtxName=Biggy Arcade Balls
+|itemDisplayName=Marvelous Obol Stack
+|description=500 arcade balls. Use these at the Arcade, found at the clown in World 2 town! +33% better value compared to smol ball pack!
+|cost=1250
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Goods & Services
+|name=GemP15
+|mtxName=Weekly Dungeon Boosters
+|itemDisplayName=Marvelous Obol Stack
+|description=Get an additional +3 Dungeon runs every week, FOREVER! I give you 12 per week for free, so buying this once, for example, would get you 15 runs every week!
+|cost=275
+|maxPurchases=11
+|costIncrement=40
+}}
+{{GemshopData
+|section=Goods & Services
+|name=EquipmentKeychain0
+|mtxName=Tier 1 Keychain
+|itemDisplayName=Simple Key Chain
+|description=Gives you 40 keychain fragments, enough to claim a Tier 1 Keychain from the Frog Dungeon Lobby! These keychains randomly give the following bonuses: Base Def, Accuracy, Move speed, Base Dmg, Card Drop rate, Money, Base Stat
+|cost=150
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Goods & Services
+|name=EquipmentKeychain8
+|mtxName=Tier 2 Keychain
+|itemDisplayName=Rustic Key Chain
+|description=Gives you 120 keychain fragments, enough to claim a Tier 2 Keychain from the Frog Dungeon Lobby! These keychains randomly give the following bonuses: %DEF, Mining XP, Fishing XP, %DMG, Drop chance, Atk speed, Crit chance, Multikill
+|cost=325
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Goods & Services
+|name=EquipmentKeychain17
+|mtxName=Tier 3 Keychain
+|itemDisplayName=Gilded Key Chain
+|description=Gives you 300 keychain fragments, enough to claim a Tier 3 Keychain from the Frog Dungeon Lobby! These keychains randomly give the following bonuses: %DEF, %Stat, %AFK gain, %DMG, mob respawn, Skilling spd, %All stat
+|cost=490
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Limited Specials
+|name=GemP47
+|mtxName=Cosmic Balls
+|description=Gives you 5 Cosmic Balls, which is exactly enough to DOUBLE any of any Maxed Out bonuses you have in the Arcade's Gold Ball Shop!
+|cost=790
+|maxPurchases=4
+}}
+{{GemshopData
+|section=Limited Specials
+|name=EquipmentPendant33
+|mtxName=Emerald Bling Pendant
+|itemDisplayName=Emerald Bling Pendant
+|description=Whoever wears this pendant will get 3.00X more money from monsters! Max out that Upgrade Vault in... well, not no time, but in slightly less time!
+|cost=1150
+|maxPurchases=2
+}}
+{{GemshopData
+|section=Limited Specials
+|name=EquipmentHats112
+|mtxName=Deathbringer Hood
+|itemDisplayName=Deathbringer Hood of Death
+|description=The hood of the reaper himself! Comes with a 1.25x Extra Bones multiplier, which will help upgrade the GRIMOIRE while playing on your Deathbringer!
+|cost=890
+|maxPurchases=1
+}}
+{{GemshopData
+|section=Limited Specials
+|name=EquipmentHats118
+|mtxName=Windwalker Hood
+|itemDisplayName=Windwalker Hood
+|description=Comes with a 1.25x Extra Dust multiplier, which will help upgrade The Compass while playing on your Windwalker!
+|cost=890
+|maxPurchases=1
+}}
+{{GemshopData
+|section=Limited Specials
+|name=GemQ18
+|mtxName=5 Star Cardifier
+|description=FREE!! FREEEE!!! Use this on a 4 star card to upgrade it to 5 stars! AND ITS FREE!!!
+|cost=1
+|maxPurchases=1
+}}
+{{GemshopData
+|section=Limited Specials
+|name=GemP18
+|mtxName=Dragonic Cauldron
+|description=Turns the 1st liquid cauldron DRAGONIC (2nd, 3rd, or 4th if you already own previous dragonic cauldrons). These give 2x Liquid Capacity, and 1.3x liquid generation.
+|cost=969
+|maxPurchases=1
+}}
+{{GemshopData
+|section=Limited Specials
+|name=RibbonBig14
+|mtxName=Super Tier Ribbon
+|description=FREEEE!!! Gives you a random ribbon for your Ribbon Shelf, found at the Meals Menu in World 4! 40% chance for Tier 10, 30% for Tier 11, 20% for T12, 7% for T13, and 3% for Tier 15!
+|cost=1
+|maxPurchases=2
+}}
+{{GemshopData
+|section=Premium Stones
+|name=StonePremSTR
+|mtxName=Str Stone
+|itemDisplayName=Premium STR Stone
+|description=Gives +5 STR to the applied item, and has a 100% Success Rate. Can ONLY be used on Premium Equipment bought in the Gem Shop!
+|cost=200
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Premium Stones
+|name=StonePremAGI
+|mtxName=Agi Stone
+|itemDisplayName=Premium AGI Stone
+|description=Gives +5 AGI to the applied item, and has a 100% Success Rate. Can ONLY be used on Premium Equipment bought in the Gem Shop!
+|cost=200
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Premium Stones
+|name=StonePremWIS
+|mtxName=Wis Stone
+|itemDisplayName=Premium WIS Stone
+|description=Gives +5 WIS to the applied item, and has a 100% Success Rate. Can ONLY be used on Premium Equipment bought in the Gem Shop!
+|cost=200
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Premium Stones
+|name=StonePremLUK
+|mtxName=Luk Stone
+|itemDisplayName=Premium LUK Stone
+|description=Gives +5 LUK to the applied item, and has a 100% Success Rate. Can ONLY be used on Premium Equipment bought in the Gem Shop!
+|cost=175
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Premium Stones
+|name=Ht
+|mtxName=Hat Premiumifier
+|itemDisplayName=Hat Premiumifier
+|description=Turns any normal hat into a premium hat! This is the same item buyable in the Cosmetics section, but I'm putting it here also since it works great with the Premium Hat Swapper Stone!
+|cost=250
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Premium Stones
+|name=StonePremStatswap
+|mtxName=Premium Hat Swapper
+|itemDisplayName=Premium Bonus Swapper
+|description=Put two hats on either side of this stone, and it'll swap the special bonuses between them! Works with Premium hats, as well as normal hats that you've Premium-ified!
+|cost=25
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=Premium Stones
+|name=StonePremRestore
+|mtxName=Premium Stone Refund
+|itemDisplayName=Premium Stone Refunder
+|description=Use this on a premium hat to refund all Premium Stones used on it, and reset the hat back to starting stats. No, this does not reset upgrades on regular items lol
+|cost=30
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=World 1&2
+|name=GemP1
+|mtxName=Infinity Hammer
+|itemDisplayName=Infinite Forge
+|description=Lets you produce TWO anvil items at once! Applies to all characters you make. Stacks with other bonuses that give +1 anvil hammer.
+|cost=300
+|maxPurchases=1
+}}
+{{GemshopData
+|section=World 1&2
+|name=GemP4
+|mtxName=Brimstone Forge Slot
+|description=Brimstone slots smelt bars 50% faster, and have +50% multi-bar chance, meaning you'll get extra bars for every ore! These MULTIPLY with forge upgrades, so they're always good!
+|cost=100
+|maxPurchases=16
+|costIncrement=15
+}}
+{{GemshopData
+|section=World 1&2
+|name=GemP6
+|mtxName=Ivory Bubble Cauldrons
+|description=Can assign +2 extra players to this cauldron. Also has 1.5x faster brewing, and 1.5x higher new bubble chance.
+|cost=300
+|maxPurchases=4
+|costIncrement=50
+}}
+{{GemshopData
+|section=World 1&2
+|name=GemP7
+|mtxName=Bleach Liquid Cauldrons
+|description=Can assign +1 extra player to this cauldron. Also has 1.5x higher Liquid Cap, and 1.5x faster liquid regeneration rate. Unlike the Bubble Cauldrons, you have to buy these in order.
+|cost=500
+|maxPurchases=4
+}}
+{{GemshopData
+|section=World 1&2
+|name=GemP5
+|mtxName=Obol Storage Space
+|description=Every purchase gives +4 Circle Slots. Every 2nd purchase gives +4 Square Slots. Every 3rd purchase gives +4 Hexagon and +4 Sparkle Slots. So buying this 4 times would give +16 Circles, +8 square, and +4 Hexagon and Sparkle
+|cost=250
+|maxPurchases=12
+|costIncrement=50
+}}
+{{GemshopData
+|section=World 1&2
+|name=GemP9
+|mtxName=Quality Obol Stack
+|itemDisplayName=Quality Obol Stack
+|description=Gives 3 random obols. Each obol has a 70% chance to be Silver, and 30% chance to be gold. Guaranteed at least 1 Gold obol per stack!
+|cost=250
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=World 1&2
+|name=GemP10
+|mtxName=Marvelous Obol Stack
+|itemDisplayName=Marvelous Obol Stack
+|description=Gives 3 random obols. Each obol has 65% chance to be Gold, 25% chance to be Platinum, and 10% chance to be Dementia rarity. Guaranteed at least 1 Platinum or Dementia Obol per stack!
+|cost=550
+|maxPurchases=100000
+}}
+{{GemshopData
+|section=World 1&2
+|name=GemP17
+|mtxName=Sigil Supercharge
+|description=Each purchase gives you a permanent bonus of +20% Sigil EXP gain! Remember, you must reach World 4 before you can level up sigils!
+|cost=250
+|maxPurchases=10
+|costIncrement=30
+}}
+{{GemshopData
+|section=World 3
+|name=GemQ1
+|mtxName=Crystal 3d Printer
+|itemDisplayName=Infinite Forge
+|description=Unlocks the 2nd printer chamber to print stuff in, for ALL characters you ever make, forever. This lets you print two things at once, it can even be the same thing twice!
+|cost=875
+|maxPurchases=1
+}}
+{{GemshopData
+|section=World 3
+|name=GemQ2
+|mtxName=More Sample Spaces
+|itemDisplayName=Infinite Forge
+|description=Unlocks +1 space to take samples in. These are the tiny blue squares. Buy this if you want to juggle between different samples without having to retake them all the time.
+|cost=275
+|maxPurchases=6
+|costIncrement=100
+}}
+{{GemshopData
+|section=World 3
+|name=GemQ3
+|mtxName=Burning Bad Books
+|itemDisplayName=Infinite Forge
+|description=Raises the minimum level of books from the Talent Book Library by +5. This means it's more likely for you to get the highest possible level books!
+|cost=250
+|maxPurchases=4
+|costIncrement=75
+}}
+{{GemshopData
+|section=World 3
+|name=GemQ4
+|mtxName=Prayer Slots
+|itemDisplayName=Infinite Forge
+|description=Lets you equip +1 more Prayer at the same time, on all characters!
+|cost=250
+|maxPurchases=4
+|costIncrement=75
+}}
+{{GemshopData
+|section=World 3
+|name=GemQ5
+|mtxName=Zen Cogs
+|itemDisplayName=Infinite Forge
+|description=These premium cogs are the best in the game! Yin Cogs have the best base stats! Yang Cogs have the best Surround Effects! Each purchase gives 1 of each!
+|cost=500
+|maxPurchases=8
+|costIncrement=125
+}}
+{{GemshopData
+|section=World 3
+|name=GemQ6
+|mtxName=Cog Inventory Space
+|itemDisplayName=Infinite Forge
+|description=Each purchase gives you +4 cog inventory spaces, to store all your cogs in!
+|cost=100
+|maxPurchases=20
+|costIncrement=40
+}}
+{{GemshopData
+|section=World 3
+|name=GemQ7
+|mtxName=Tower Building Slots
+|itemDisplayName=Infinite Forge
+|description=Unlocks +1 more slot to build towers in! Remember, each slot builds at your FULL build rate, so this upgrade helps massively to upgrade all your towers to max level!
+|cost=350
+|maxPurchases=4
+|costIncrement=100
+}}
+{{GemshopData
+|section=World 3
+|name=GemQ8
+|mtxName=Fluorescent Flaggies
+|itemDisplayName=Infinite Forge
+|description=Makes your flaggies unlock spaces faster, opening up your board for more cogs! Each purchase boosts Flaggy rate by +50%
+|cost=250
+|maxPurchases=6
+|costIncrement=75
+}}
+{{GemshopData
+|section=World 4
+|name=GemQ10
+|mtxName=Royal Egg Cap
+|itemDisplayName=Infinite Forge
+|description=Boosts the max number of eggs in your breeding nest by +1. ALSO, as an added bonus, you get 1.10x New Pet Breeding Chance for each time you buy this!
+|cost=350
+|maxPurchases=5
+|costIncrement=50
+}}
+{{GemshopData
+|section=World 4
+|name=GemQ11
+|mtxName=Richelin Kitchen
+|itemDisplayName=Infinite Forge
+|description=Upgrades 1 kitchen, in order from first to last, to a Richelin Kitchen! These have 3x Meal Cooking Speed, 2x New Recipe Speed, and 40% Cheaper Upgrade Costs!
+|cost=250
+|maxPurchases=10
+|costIncrement=40
+}}
+{{GemshopData
+|section=World 4
+|name=GemQ12
+|mtxName=Console Chip
+|itemDisplayName=Infinite Forge
+|description=Gives you a random console chip. There are currently 22 Chips in the game, so you have a 1 in 22 chance of getting any particular chip. This item restocks each week.
+|cost=385
+|maxPurchases=7
+}}
+{{GemshopData
+|section=World 4
+|name=GemQ13
+|mtxName=Mainframe Jewel
+|itemDisplayName=Infinite Forge
+|description=Gives you a random Jewel that you don't already own. No need to worry about duplicate jewels! This item restocks each week, unless you own all Jewels, then it wont restock.
+|cost=450
+|maxPurchases=2
+}}
+{{GemshopData
+|section=World 4
+|name=GemQ14
+|mtxName=Souped Up Tube
+|itemDisplayName=Infinite Forge
+|description=Each purchase soups up 2 lab Tubes. Players in souped-up tubes get 2x Lab EXP gain, and +30% Line Width. Keep in mind, players are placed in tubes in chronological order.
+|cost=480
+|maxPurchases=5
+|costIncrement=65
+}}
+{{GemshopData
+|section=World 4
+|name=GemQ15
+|mtxName=Pet Storage
+|itemDisplayName=Infinite Forge
+|description=Unlocks 12 pet storage spaces, which is an entire row!
+|cost=325
+|maxPurchases=12
+|costIncrement=55
+}}
+{{GemshopData
+|section=World 4
+|name=GemQ16
+|mtxName=Fenceyard Space
+|itemDisplayName=Infinite Forge
+|description=Unlocks 2 Fenceyard slots, which are great for Breedability Pets and Shiny Pets!
+|cost=275
+|maxPurchases=6
+|costIncrement=45
+}}
+{{GemshopData
+|section=World 4
+|name=PetEgg
+|mtxName=Carton Of Eggs
+|itemDisplayName=Pet Egg
+|description=Each purchase gives anywhere from 3 to 12 eggs in your item inventory! Use these eggs in your inventory to refill your nest with eggs! This item restocks each day.
+|cost=270
+|maxPurchases=4
+}}
+{{GemshopData
+|section=World 5
+|name=GemP20
+|mtxName=Miracle Chest
+|itemDisplayName=Infinite Forge
+|description=Gives you 1 Miracle Chest from a random island! These have 20x more treasure and 30x higher Artifact chance, including Ancient Artifacts! This item restocks each day.
+|cost=345
+|maxPurchases=3
+}}
+{{GemshopData
+|section=World 5
+|name=Quest72
+|mtxName=Bottled Wind
+|itemDisplayName=Bottled Wind
+|description=Gives you a bottled wind item. Use it in your player inventory to instantly get 6 hours of sailing progress! This item restocks each day.
+|cost=190
+|maxPurchases=4
+}}
+{{GemshopData
+|section=World 5
+|name=GemP21
+|mtxName=Chest Sluggo
+|itemDisplayName=Infinite Forge
+|description=Increases the maximum number of chests your sailing Loot Pile can hold by +1! Also adds a Chest Sluggo to roam around your dock! (Note:Not every purchase will visually add another slug, it'd be too chaotic!)
+|cost=250
+|maxPurchases=12
+|costIncrement=40
+}}
+{{GemshopData
+|section=World 5
+|name=GemP26
+|mtxName=Ancient Artifact
+|description=Upgrades a random artifact you own to its ANCIENT form! 100% Success chance, no foolin! This item restocks every week. See Guild GP claim for when that happens. You must own a normal artifact to buy this.
+|cost=790
+|maxPurchases=2
+}}
+{{GemshopData
+|section=World 5
+|name=GemP22
+|mtxName=Divinity Sparkie
+|itemDisplayName=Infinite Forge
+|description=Boosts the amount of Divinity Points and Divinity EXP gained by +25% for all of your players! Also adds a divinity sparkie that wanders around the deity volcanos, pondering its existence.
+|cost=250
+|maxPurchases=6
+|costIncrement=50
+}}
+{{GemshopData
+|section=World 5
+|name=GemP23
+|mtxName=Golden Sprinkler
+|itemDisplayName=Infinite Forge
+|description=The Sprinkler in the garden, which instantly regrows sprouts, now has a 30% chance to not use up its charge! Each additional purchase boosts this chance by 1.5x! Instantly unlocks Sprinkler if not unlocked yet!
+|cost=400
+|maxPurchases=4
+|costIncrement=75
+}}
+{{GemshopData
+|section=World 5
+|name=Quest73
+|mtxName=Gaming Fertilizer
+|itemDisplayName=Gaming Fertilizer
+|description=Gives you a gaming fertilizer item. Use it in your player inventory to instantly get 8 hours of gaming progress! This item restocks each day.
+|cost=230
+|maxPurchases=4
+}}
+{{GemshopData
+|section=World 5
+|name=GemP24
+|mtxName=Lava Sprouts
+|itemDisplayName=Infinite Forge
+|description=Increases the maximum number of sprouts your garden can hold by +1! Also adds a small lava sprout to your underground gamer lair, which complements the dankness of the ground walls!
+|cost=310
+|maxPurchases=6
+|costIncrement=70
+}}
+{{GemshopData
+|section=World 6
+|name=GemP27
+|mtxName=Plot Of Land
+|description=Permanently gives you +1 Land Plot to grow crops in!
+|cost=420
+|maxPurchases=12
+|costIncrement=40
+}}
+{{GemshopData
+|section=World 6
+|name=GemP28
+|mtxName=Pristine Charm
+|description=Gives you a random Pristine Charm! Find it in your Sneaking Inventory. You cannot get duplicates from this. This item restocks each day.
+|cost=920
+|maxPurchases=2
+}}
+{{GemshopData
+|section=World 6
+|name=GemP29
+|mtxName=Shroom Familiar
+|description=Adds a shroom familiar to your Summoning Sanctuary, which gives a permanent 1.40x bonus to all Essence gain.
+|cost=750
+|maxPurchases=6
+|costIncrement=40
+}}
+{{GemshopData
+|section=World 6
+|name=GemP30
+|mtxName=Sand Of Time
+|itemDisplayName=Sand of Time
+|description=Gives you a Sand of Time usable item. Use it in your player inventory to instantly get 6 hours of Sneaking progress for all Ninja Twins! This item restocks each day.
+|cost=190
+|maxPurchases=6
+}}
+{{GemshopData
+|section=World 6
+|name=GemP31
+|mtxName=Instagrow Generator
+|description=Each purchase gives +2 daily crop instagrows every day you log in, forever. Also, each purchase gives +20% additional chance for +1 crop when fully grown.
+|cost=610
+|maxPurchases=8
+|costIncrement=50
+}}
+{{GemshopData
+|section=World 6
+|name=GemP32
+|mtxName=Life Refill
+|description=Refills 1 life in Summoning, so you can try again now without waiting for the free life refill you get every day. This restocks every day, so you can buy 12 every day.
+|cost=75
+|maxPurchases=12
+|costIncrement=12
+}}
+{{GemshopData
+|section=World 6
+|name=Quest81
+|mtxName=Compost Bag
+|itemDisplayName=Compost Bag
+|description=Gives you a Compost Bag usable item. Use it in your player inventory to instantly get 4 hours of Farming growth for all your crops, instantly! This item restocks each day.
+|cost=155
+|maxPurchases=9
+}}
+{{GemshopData
+|section=World 6
+|name=Quest82
+|mtxName=Summoner Stone
+|itemDisplayName=Summoner Stone
+|description=Gives you a Summoner Stone usable item Use it in your player inventory to instantly get 4 hours of Summoning Essence, instantly! This item restocks each day.
+|cost=155
+|maxPurchases=9
+}}

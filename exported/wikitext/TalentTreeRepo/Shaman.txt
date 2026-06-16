@@ -4,16 +4,22 @@
 |form1=bigBase
 |x1=17
 |x2=3
+|cooldown=25
+|actiontime=0.95
+|manacost=15
 }}
 {{Talent
 |name=Auspicious Aura
-|textArr=Casts (Table 2) aura which heals you and damages monsters. The strength of the aura is (Table 1)%
+|textArr=Casts (Table 2) aura which heals you and damages monsters. The aura deals (Table 1)% DMG
 |form1=bigBase
 |x1=10
-|x2=3
+|x2=0.6
 |form2=intervalAdd
 |y1=1
 |y2=35
+|cooldown=40
+|actiontime=0.95
+|manacost=40
 }}
 {{Talent
 |name=Sizzling Skull
@@ -24,6 +30,9 @@
 |form2=intervalAdd
 |y1=3
 |y2=20
+|cooldown=18
+|actiontime=0.95
+|manacost=20
 }}
 {{Talent
 |name=Tenteyecle
@@ -86,6 +95,9 @@
 |form2=intervalAdd
 |y1=10
 |y2=2
+|cooldown=80000
+|actiontime=0.95
+|manacost=100
 }}
 {{Talent
 |name=Busy Brewin'

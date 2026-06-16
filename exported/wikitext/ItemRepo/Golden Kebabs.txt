@@ -1,0 +1,14 @@
+{{InfoItem
+|type=Golden Food
+|description=Increases Total Damage to all monsters. Golden foods are never consumed.
+|sellprice=200
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Sandstone Silver Chest(W2)]]|0.5|1}}
+{{detdrops|[[Molten Silver Chest(W5)]]|0.25|40}}
+{{detdrops|[[Molten Golden Chest(W5)]]|0.25|40}}
+{{detdrops|[[Whimsical Silver Chest(W6)]]|0.25|200}}
+{{detdrops|[[Whimsical Golden Chest(W6)]]|0.25|150}}
+|}
+{{gfoodbonus|20|Increases Total Damage to all monsters by [%.}}

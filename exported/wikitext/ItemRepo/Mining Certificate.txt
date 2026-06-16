@@ -1,0 +1,6 @@
+{{InfoItem
+|type=Quest Item
+|description=Proof that you passed Glumlee's tutorial quests. It's worthless. 
+|sellprice=1
+|notes= 
+}}

@@ -1,0 +1,9 @@
+{{InfoItem
+|type=Boost Food
+|description=Increases Move Spd by 17%. 1% chance to be consumed every 10 meters walked. Must be equipped in a Food Slot to give its bonus. 
+|sellprice=400
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Sir Stache]]|0.002|1}}
+|}

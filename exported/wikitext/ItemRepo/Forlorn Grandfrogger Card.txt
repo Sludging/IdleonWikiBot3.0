@@ -1,0 +1,10 @@
+{{InfoCard
+|title=Forlorn Grandfrogger Card
+|dropchance=1
+|order=9
+|category=Dungeons
+|effect=+% Dungeon Credits
+|bonus=5
+|reqtier=1.5
+|sellprice=1
+}}

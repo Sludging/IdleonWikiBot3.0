@@ -1,0 +1,23 @@
+{{InfoItem
+|type=Pendant
+|class=All
+|level=30
+|weaponpower=2
+|wis=12
+|misc=20% Total Damage
+|misc2=5% Drop Chance
+|upgrade=4
+|sellprice=4150
+|setname = Amarok
+|notes= 
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Chaotic Amarok Slab|4}}
+{{detrecipe|3|Amarok Slab|10}}
+{{detrecipe|3|Distilled Water|25}}
+|tot=
+{{detrecipe/totals|Chaotic Amarok Slab|4}}
+{{detrecipe/totals|Amarok Slab|10}}
+{{detrecipe/totals|Distilled Water|25}}
+}}

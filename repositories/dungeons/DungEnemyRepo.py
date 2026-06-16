@@ -2,11 +2,20 @@ import re
 from typing import List
 
 from definitions.dungeons.DungEnemy import DungEnemy
-from helpers.HelperFunctions import reAll, strToArray
+from helpers.HelperFunctions import strToArray
+from repositories.enemies.EnemyDetailsRepo import EnemyDetailsRepo
 from repositories.master.Repository import Repository
 
 
 class DungEnemyRepo(Repository[DungEnemy]):
+
+	@classmethod
+	def getCategory(cls) -> str:
+		return "Dungeon"
+
+	@classmethod
+	def initDependencies(cls, log = True) -> None:
+		EnemyDetailsRepo.initialise(cls.codeReader, log)
 
 	@classmethod
 	def getSections(cls) -> List[str]:
@@ -14,14 +23,12 @@ class DungEnemyRepo(Repository[DungEnemy]):
 
 	@classmethod
 	def generateRepo(cls) -> None:
-		reEnemies = r'.\.setReserved\("([a-zA-Z0-9_]*)", [a-zA-Z0-9_$]*\)'
-		reInner = fr'\[({reAll}*)\];'
-		dungEnemy = re.split(reEnemies, cls.getSection())
-		for i in range(0, len(dungEnemy) - 1, 2):
-			data = re.findall(reInner, dungEnemy[i])[0]
-			dungData = strToArray(data)
-			cls.add(dungEnemy[i + 1], DungEnemy(
-				intName = dungEnemy[i + 1],
+		reEnemies = r'.\..\.(\S*?) = ?"?(.*?)"?\)'
+		dungEnemy = re.findall(reEnemies, cls.getSection())
+		for enemy in dungEnemy:
+			dungData = strToArray(enemy[1])
+			cls.add(enemy[0], DungEnemy(
+				intName = enemy[0],
 				health = dungData[0],
 				damage = dungData[1],
 				credit1DR = dungData[2],
@@ -31,3 +38,7 @@ class DungEnemyRepo(Repository[DungEnemy]):
 				itemDropChance = dungData[6],
 				cardDropChance = dungData[7],
 			))
+
+	@classmethod
+	def getWikiName(cls, name: str) -> str:
+		return EnemyDetailsRepo.getWikiName(name)
