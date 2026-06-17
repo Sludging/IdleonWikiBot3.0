@@ -107,9 +107,6 @@ export const initStudyRepo = () => {
                 "name": "TRENCH",
                 "description": "Every depth cast lowers the resources needed to destroy other skilling caverns by {%",
                 "multiplier": 3
-            }),
-        new StudyBase(17, <StudyModel>{"index": 17, "name": "BRUH", "description": "", "multiplier": 0}),
-        new StudyBase(18, <StudyModel>{"index": 18, "name": "BRUH", "description": "", "multiplier": 0}),
-        new StudyBase(19, <StudyModel>{"index": 19, "name": "BRUH", "description": "", "multiplier": 0})    
+            })    
 ]
 }

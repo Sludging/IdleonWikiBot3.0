@@ -5,7 +5,8 @@
         "scalingType": "decay",
         "totalVal": 1000,
         "decimalDisplay": null,
-        "desc": "Your Tome Score of # PTS is in the Top $ of all players in IdleOn! @   @ If you can reach ~ PTS, you'll be in the Top ` of all players!"
+        "desc": "Your Tome Score of # PTS is in the Top $ of all players in IdleOn! @   @ If you can reach ~ PTS, you'll be in the Top ` of all players!",
+        "uiPositionIndex": 5
     },
     {
         "name": "Statue Total LV",
@@ -13,7 +14,8 @@
         "scalingType": "decay",
         "totalVal": 600,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 7
     },
     {
         "name": "Cards Total LV",
@@ -21,7 +23,8 @@
         "scalingType": "linearToMax",
         "totalVal": 1000,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 6
     },
     {
         "name": "Total Talent Max LV 膛 (Tap for more info)",
@@ -29,7 +32,8 @@
         "scalingType": "decay",
         "totalVal": 600,
         "decimalDisplay": null,
-        "desc": "For each talent, the tome counts the highest Max LV out of all your players."
+        "desc": "For each talent, the tome counts the highest Max LV out of all your players.",
+        "uiPositionIndex": 2
     },
     {
         "name": "Unique Quests Completed 膛",
@@ -37,7 +41,8 @@
         "scalingType": "linearToMax",
         "totalVal": 500,
         "decimalDisplay": null,
-        "desc": "Doing the same quest on multiple players doesn't count for this."
+        "desc": "Doing the same quest on multiple players doesn't count for this.",
+        "uiPositionIndex": 9
     },
     {
         "name": "Account LV",
@@ -45,7 +50,8 @@
         "scalingType": "decay",
         "totalVal": 1500,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 0
     },
     {
         "name": "Total Tasks Completed",
@@ -53,7 +59,8 @@
         "scalingType": "linearToMax",
         "totalVal": 470,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 10
     },
     {
         "name": "Total Achievements Completed",
@@ -61,7 +68,8 @@
         "scalingType": "linearToMax",
         "totalVal": 850,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 8
     },
     {
         "name": "Most Money held in Storage",
@@ -69,7 +77,8 @@
         "scalingType": "decayLog",
         "totalVal": 500,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 12
     },
     {
         "name": "Most Spore Caps held in Inventory at once",
@@ -77,7 +86,8 @@
         "scalingType": "decayLog",
         "totalVal": 200,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 13
     },
     {
         "name": "Trophies Found",
@@ -85,7 +95,8 @@
         "scalingType": "linearToMax",
         "totalVal": 700,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 15
     },
     {
         "name": "Account Skills LV",
@@ -93,7 +104,8 @@
         "scalingType": "decay",
         "totalVal": 1200,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 1
     },
     {
         "name": "Best Spiketrap Surprise round",
@@ -101,7 +113,8 @@
         "scalingType": "linearToMax",
         "totalVal": 100,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 18
     },
     {
         "name": "Total AFK Hours claimed",
@@ -109,7 +122,8 @@
         "scalingType": "decay",
         "totalVal": 350,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 22
     },
     {
         "name": "DPS Record on Shimmer Island",
@@ -117,7 +131,8 @@
         "scalingType": "decayLog",
         "totalVal": 350,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 23
     },
     {
         "name": "Star Talent Points Owned",
@@ -125,7 +140,8 @@
         "scalingType": "decay",
         "totalVal": 200,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 27
     },
     {
         "name": "Average kills for a Crystal Spawn 膛",
@@ -133,7 +149,8 @@
         "scalingType": "inverseDecay",
         "totalVal": 350,
         "decimalDisplay": null,
-        "desc": "This tracks your Crystal Mob spawn chance! While this is capped at 1 in 100, you get BONUS Exp and Drops if your Crystal Spawn is better! For example, if your average kills is 20, you're getting 5x Exp and Drops from Crystals!"
+        "desc": "This tracks your Crystal Mob spawn chance! While this is capped at 1 in 100, you get BONUS Exp and Drops if your Crystal Spawn is better! For example, if your average kills is 20, you're getting 5x Exp and Drops from Crystals!",
+        "uiPositionIndex": 28
     },
     {
         "name": "Dungeon Rank",
@@ -141,7 +158,8 @@
         "scalingType": "decay",
         "totalVal": 250,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 29
     },
     {
         "name": "Highest Drop Rate Multi",
@@ -149,7 +167,8 @@
         "scalingType": "decay",
         "totalVal": 350,
         "decimalDisplay": 1,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 30
     },
     {
         "name": "Constellations Completed",
@@ -157,7 +176,8 @@
         "scalingType": "linearToMax",
         "totalVal": 300,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 31
     },
     {
         "name": "Most DMG Dealt to Gravestone in a Weekly Battle 膛",
@@ -165,7 +185,8 @@
         "scalingType": "decay",
         "totalVal": 200,
         "decimalDisplay": null,
-        "desc": "Gravestone appears when you defeat all weekly bosses. This is the negative number shown after."
+        "desc": "Gravestone appears when you defeat all weekly bosses. This is the negative number shown after.",
+        "uiPositionIndex": 101
     },
     {
         "name": "Unique Obols Found",
@@ -173,7 +194,8 @@
         "scalingType": "linearToMax",
         "totalVal": 250,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 32
     },
     {
         "name": "Total Bubble LV",
@@ -181,7 +203,8 @@
         "scalingType": "boundedDecay",
         "totalVal": 1750,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 4
     },
     {
         "name": "Total Vial LV",
@@ -189,7 +212,8 @@
         "scalingType": "linearToMax",
         "totalVal": 600,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 33
     },
     {
         "name": "Total Sigil LV",
@@ -197,7 +221,8 @@
         "scalingType": "linearToMax",
         "totalVal": 500,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 34
     },
     {
         "name": "Jackpots Hit in Arcade",
@@ -205,7 +230,8 @@
         "scalingType": "linearToMax",
         "totalVal": 80,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 26
     },
     {
         "name": "Post Office PO Boxes Earned",
@@ -213,7 +239,8 @@
         "scalingType": "decay",
         "totalVal": 300,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 35
     },
     {
         "name": "Highest Killroy Score on a Warrior",
@@ -221,7 +248,8 @@
         "scalingType": "decay",
         "totalVal": 200,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 36
     },
     {
         "name": "Highest Killroy Score on an Archer",
@@ -229,7 +257,8 @@
         "scalingType": "decay",
         "totalVal": 200,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 37
     },
     {
         "name": "Highest Killroy Score on a Mage",
@@ -237,7 +266,8 @@
         "scalingType": "decay",
         "totalVal": 200,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 38
     },
     {
         "name": "Fastest Time to kill Chaotic Efaunt (in Seconds)",
@@ -245,7 +275,8 @@
         "scalingType": "inverseDecay",
         "totalVal": 200,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 42
     },
     {
         "name": "Largest Oak Log Printer Sample",
@@ -253,7 +284,8 @@
         "scalingType": "decayLog",
         "totalVal": 400,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 43
     },
     {
         "name": "Largest Copper Ore Printer Sample",
@@ -261,7 +293,8 @@
         "scalingType": "decayLog",
         "totalVal": 400,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 44
     },
     {
         "name": "Largest Spore Cap Printer Sample",
@@ -269,7 +302,8 @@
         "scalingType": "decayLog",
         "totalVal": 300,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 45
     },
     {
         "name": "Largest Goldfish Printer Sample",
@@ -277,7 +311,8 @@
         "scalingType": "decayLog",
         "totalVal": 300,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 46
     },
     {
         "name": "Largest Fly Printer Sample",
@@ -285,7 +320,8 @@
         "scalingType": "decayLog",
         "totalVal": 300,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 47
     },
     {
         "name": "Best Non Duplicate Goblin Gorefest Wave 膛",
@@ -293,7 +329,8 @@
         "scalingType": "decay",
         "totalVal": 200,
         "decimalDisplay": null,
-        "desc": "Non Duplicate means you can only place 1 of each Wizard Type, 2 or more invalidates the attempt."
+        "desc": "Non Duplicate means you can only place 1 of each Wizard Type, 2 or more invalidates the attempt.",
+        "uiPositionIndex": 49
     },
     {
         "name": "Total Best Wave in Worship",
@@ -301,7 +338,8 @@
         "scalingType": "decay",
         "totalVal": 300,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 48
     },
     {
         "name": "Total Digits of all Deathnote Kills 膛",
@@ -309,7 +347,8 @@
         "scalingType": "decay",
         "totalVal": 600,
         "decimalDisplay": null,
-        "desc": "For example, 1,520 kills would be 4 digits, and this is for all monster types."
+        "desc": "For example, 1,520 kills would be 4 digits, and this is for all monster types.",
+        "uiPositionIndex": 51
     },
     {
         "name": "Equinox Clouds Completed",
@@ -317,7 +356,8 @@
         "scalingType": "linearToMax",
         "totalVal": 750,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 56
     },
     {
         "name": "Total Refinery Rank",
@@ -325,7 +365,8 @@
         "scalingType": "decay",
         "totalVal": 450,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 53
     },
     {
         "name": "Total Atom Upgrade LV",
@@ -333,7 +374,8 @@
         "scalingType": "decay",
         "totalVal": 400,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 54
     },
     {
         "name": "Total Construct Buildings LV",
@@ -341,7 +383,8 @@
         "scalingType": "decay",
         "totalVal": 900,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 55
     },
     {
         "name": "Most Tottoise in Storage 膛",
@@ -349,7 +392,8 @@
         "scalingType": "decayLog",
         "totalVal": 150,
         "decimalDisplay": null,
-        "desc": "Tottoise is the 11th Shiny Critter unlocked from the Jade Emporium in World 6"
+        "desc": "Tottoise is the 11th Shiny Critter unlocked from the Jade Emporium in World 6",
+        "uiPositionIndex": 102
     },
     {
         "name": "Most Greenstacks in Storage 膛",
@@ -357,7 +401,8 @@
         "scalingType": "decay",
         "totalVal": 600,
         "decimalDisplay": null,
-        "desc": "Greenstack is when you have 10,000,000 or more of a single item in your Storage Chest."
+        "desc": "Greenstack is when you have 10,000,000 or more of a single item in your Storage Chest.",
+        "uiPositionIndex": 57
     },
     {
         "name": "Rift Levels Completed",
@@ -365,7 +410,8 @@
         "scalingType": "linearToMax",
         "totalVal": 500,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 65
     },
     {
         "name": "Highest Power Mob",
@@ -373,7 +419,8 @@
         "scalingType": "decayLog",
         "totalVal": 150,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 60
     },
     {
         "name": "Fastest Time reaching Round 100 Arena (in Seconds)",
@@ -381,7 +428,8 @@
         "scalingType": "inverseDecay",
         "totalVal": 180,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 61
     },
     {
         "name": "Total Kitchen Upgrade LV",
@@ -389,7 +437,8 @@
         "scalingType": "decay",
         "totalVal": 200,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 59
     },
     {
         "name": "Total Shiny Mob LV",
@@ -397,7 +446,8 @@
         "scalingType": "decay",
         "totalVal": 250,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 62
     },
     {
         "name": "Total Cooking Meals LV",
@@ -405,7 +455,8 @@
         "scalingType": "decay",
         "totalVal": 750,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 58
     },
     {
         "name": "Total Mob Breedability LV",
@@ -413,7 +464,8 @@
         "scalingType": "linearToMax",
         "totalVal": 200,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 63
     },
     {
         "name": "Total Lab Chips Owned",
@@ -421,7 +473,8 @@
         "scalingType": "decay",
         "totalVal": 150,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 64
     },
     {
         "name": "Total Colosseum Score",
@@ -429,7 +482,8 @@
         "scalingType": "decayLog",
         "totalVal": 200,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 14
     },
     {
         "name": "Most Giants Killed in a Single Week",
@@ -437,7 +491,8 @@
         "scalingType": "decay",
         "totalVal": 250,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 52
     },
     {
         "name": "Total Onyx Statues",
@@ -445,7 +500,8 @@
         "scalingType": "linearToMax",
         "totalVal": 450,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 66
     },
     {
         "name": "Fastest Time to Kill 200 Tremor Wurms (in Seconds)",
@@ -453,7 +509,8 @@
         "scalingType": "inverseDecay",
         "totalVal": 150,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 77
     },
     {
         "name": "Total Boat Upgrade LV",
@@ -461,7 +518,8 @@
         "scalingType": "decay",
         "totalVal": 200,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 68
     },
     {
         "name": "God Rank in Divinity",
@@ -469,7 +527,8 @@
         "scalingType": "decay",
         "totalVal": 200,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 76
     },
     {
         "name": "Total Gaming Plants Evolved",
@@ -477,7 +536,8 @@
         "scalingType": "decay",
         "totalVal": 200,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 72
     },
     {
         "name": "Total Artifacts Found 膛",
@@ -485,7 +545,8 @@
         "scalingType": "linearToMax",
         "totalVal": 1000,
         "decimalDisplay": null,
-        "desc": "Rarer versions of an artifact count for more, so an Ancient Form Artifact counts as +2, Eldritch Form counts as +3, and so on..."
+        "desc": "Rarer versions of an artifact count for more, so an Ancient Form Artifact counts as +2, Eldritch Form counts as +3, and so on...",
+        "uiPositionIndex": 67
     },
     {
         "name": "Gold Bar Sailing Treasure Owned",
@@ -493,7 +554,8 @@
         "scalingType": "decayLog",
         "totalVal": 200,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 69
     },
     {
         "name": "Highest Captain LV",
@@ -501,7 +563,8 @@
         "scalingType": "decay",
         "totalVal": 150,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 70
     },
     {
         "name": "Highest Immortal Snail LV",
@@ -509,7 +572,8 @@
         "scalingType": "linearToMax",
         "totalVal": 300,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 74
     },
     {
         "name": "Best Gold Nugget",
@@ -517,7 +581,8 @@
         "scalingType": "decayLog",
         "totalVal": 200,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 73
     },
     {
         "name": "Items Found",
@@ -525,7 +590,8 @@
         "scalingType": "linearToMax",
         "totalVal": 1300,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 3
     },
     {
         "name": "Most Gaming Bits Owned",
@@ -533,7 +599,8 @@
         "scalingType": "decayLog",
         "totalVal": 400,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 71
     },
     {
         "name": "Highest Crop OG",
@@ -541,7 +608,8 @@
         "scalingType": "decayLog",
         "totalVal": 200,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 90
     },
     {
         "name": "Total Crops Discovered",
@@ -549,7 +617,8 @@
         "scalingType": "linearToMax",
         "totalVal": 350,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 88
     },
     {
         "name": "Total Golden Food Beanstacks 膛",
@@ -557,7 +626,8 @@
         "scalingType": "linearToMax",
         "totalVal": 400,
         "decimalDisplay": null,
-        "desc": "Supersized Gold Food Beanstacks count as 2 Beanstacks!"
+        "desc": "Supersized Gold Food Beanstacks count as 2 Beanstacks!",
+        "uiPositionIndex": 89
     },
     {
         "name": "Total Summoning Upgrades LV",
@@ -565,7 +635,8 @@
         "scalingType": "decay",
         "totalVal": 200,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 98
     },
     {
         "name": "Total Career Summoning Wins 膛",
@@ -573,7 +644,8 @@
         "scalingType": "decay",
         "totalVal": 500,
         "decimalDisplay": null,
-        "desc": "Rack up those wins! Endless Summoning wins count for this too, of course!"
+        "desc": "Rack up those wins! Endless Summoning wins count for this too, of course!",
+        "uiPositionIndex": 97
     },
     {
         "name": "Ninja Floors Unlocked",
@@ -581,7 +653,8 @@
         "scalingType": "linearToMax",
         "totalVal": 250,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 94
     },
     {
         "name": "Familiars Owned in Summoning 膛",
@@ -589,7 +662,8 @@
         "scalingType": "decay",
         "totalVal": 150,
         "decimalDisplay": null,
-        "desc": "Measured in terms of Grey Slime, so a Vrumbi would count as 3, Bloomy as 12, and so on."
+        "desc": "Measured in terms of Grey Slime, so a Vrumbi would count as 3, Bloomy as 12, and so on.",
+        "uiPositionIndex": 99
     },
     {
         "name": "Jade Emporium Upgrades Purchased",
@@ -597,7 +671,8 @@
         "scalingType": "linearToMax",
         "totalVal": 700,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 95
     },
     {
         "name": "Total Minigame Highscore 膛",
@@ -605,7 +680,8 @@
         "scalingType": "linearToMax",
         "totalVal": 100,
         "decimalDisplay": null,
-        "desc": "This is Choppin game, Mining Cart game, Fishing game, Catching Hoops game, and Trapping game"
+        "desc": "This is Choppin game, Mining Cart game, Fishing game, Catching Hoops game, and Trapping game",
+        "uiPositionIndex": 21
     },
     {
         "name": "Total Prayer Upgrade LV",
@@ -613,7 +689,8 @@
         "scalingType": "linearToMax",
         "totalVal": 200,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 50
     },
     {
         "name": "Total Land Rank 膛",
@@ -621,7 +698,8 @@
         "scalingType": "decay",
         "totalVal": 200,
         "decimalDisplay": null,
-        "desc": "Land Ranks are from the Farming skill, in World 6. Unlocked from the Night Market!"
+        "desc": "Land Ranks are from the Farming skill, in World 6. Unlocked from the Night Market!",
+        "uiPositionIndex": 91
     },
     {
         "name": "Largest Magic Bean Trade",
@@ -629,7 +707,8 @@
         "scalingType": "decay",
         "totalVal": 200,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 92
     },
     {
         "name": "Most Balls earned from LBoFaF 膛",
@@ -637,7 +716,8 @@
         "scalingType": "decay",
         "totalVal": 150,
         "decimalDisplay": null,
-        "desc": "LBoFaF means Lava's Ballpit of Fire and Fury, the bonus round in Arcade"
+        "desc": "LBoFaF means Lava's Ballpit of Fire and Fury, the bonus round in Arcade",
+        "uiPositionIndex": 25
     },
     {
         "name": "Total Arcade Gold Ball Shop Upgrade LV",
@@ -645,7 +725,8 @@
         "scalingType": "linearToMax",
         "totalVal": 1200,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 24
     },
     {
         "name": "Vault Upgrade bonus LV",
@@ -653,7 +734,8 @@
         "scalingType": "linearToMax",
         "totalVal": 1200,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 11
     },
     {
         "name": "Total Gambit Time (in Seconds) 膛",
@@ -661,7 +743,8 @@
         "scalingType": "decay",
         "totalVal": 400,
         "decimalDisplay": null,
-        "desc": "Gambit is the 14th Cavern in The Hole."
+        "desc": "Gambit is the 14th Cavern in The Hole.",
+        "uiPositionIndex": 86
     },
     {
         "name": "Total Digits of all Cavern Resources 膛",
@@ -669,7 +752,8 @@
         "scalingType": "decay",
         "totalVal": 750,
         "decimalDisplay": null,
-        "desc": "For example, if you had 1273 gravel and 422 gold dust, thats 7 Digits. If you then got 23 quaver notes from harp, thats another 2 digits, making your total 9 Digits."
+        "desc": "For example, if you had 1273 gravel and 422 gold dust, thats 7 Digits. If you then got 23 quaver notes from harp, thats another 2 digits, making your total 9 Digits.",
+        "uiPositionIndex": 80
     },
     {
         "name": "Total LV of Cavern Villagers",
@@ -677,7 +761,8 @@
         "scalingType": "decay",
         "totalVal": 350,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 79
     },
     {
         "name": "Megafeathers Earned from Orion",
@@ -685,7 +770,8 @@
         "scalingType": "decay",
         "totalVal": 250,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 39
     },
     {
         "name": "Megafish Earned from Poppy",
@@ -693,7 +779,8 @@
         "scalingType": "decay",
         "totalVal": 250,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 40
     },
     {
         "name": "Best Bravery Monument Round 膛",
@@ -701,7 +788,8 @@
         "scalingType": "decay",
         "totalVal": 250,
         "decimalDisplay": null,
-        "desc": "Bravery Monument is the 4th Cavern in The Hole. The Hole is found in World 5."
+        "desc": "Bravery Monument is the 4th Cavern in The Hole. The Hole is found in World 5.",
+        "uiPositionIndex": 83
     },
     {
         "name": "Best Justice Monument Round 膛",
@@ -709,7 +797,8 @@
         "scalingType": "decay",
         "totalVal": 250,
         "decimalDisplay": null,
-        "desc": "Justice Monument is the 10th Cavern in The Hole. 'Best Round' here means your highest Court Case reached in a run."
+        "desc": "Justice Monument is the 10th Cavern in The Hole. 'Best Round' here means your highest Court Case reached in a run.",
+        "uiPositionIndex": 84
     },
     {
         "name": "Best Wisdom Monument Round 膛",
@@ -717,7 +806,8 @@
         "scalingType": "linearToMax",
         "totalVal": 250,
         "decimalDisplay": null,
-        "desc": "Wisdom Monument is the 13th Cavern in The Hole."
+        "desc": "Wisdom Monument is the 13th Cavern in The Hole.",
+        "uiPositionIndex": 85
     },
     {
         "name": "Best Deathbringer Max Damage in Wraith Mode 膛",
@@ -725,7 +815,8 @@
         "scalingType": "decayLog",
         "totalVal": 400,
         "decimalDisplay": null,
-        "desc": "Deathbringer is the Blood Berserker's Master Class, given by Masterius NPC in World 6. You need to open your grimoire to register damage."
+        "desc": "Deathbringer is the Blood Berserker's Master Class, given by Masterius NPC in World 6. You need to open your grimoire to register damage.",
+        "uiPositionIndex": 103
     },
     {
         "name": "Best Dawg Den score 膛",
@@ -733,7 +824,8 @@
         "scalingType": "decayLog",
         "totalVal": 250,
         "decimalDisplay": null,
-        "desc": "The Dawg Den is the 3rd Cavern in The Hole. The Hole is found in World 5."
+        "desc": "The Dawg Den is the 3rd Cavern in The Hole. The Hole is found in World 5.",
+        "uiPositionIndex": 82
     },
     {
         "name": "Total Resource Layers Destroyed 膛",
@@ -741,7 +833,8 @@
         "scalingType": "decay",
         "totalVal": 350,
         "decimalDisplay": null,
-        "desc": "Destroying Layers includes the following caverns... Motherlode, Eternal Hive, and Evertree Cavern, with more added later!"
+        "desc": "Destroying Layers includes the following caverns... Motherlode, Eternal Hive, and Evertree Cavern, with more added later!",
+        "uiPositionIndex": 81
     },
     {
         "name": "Total Opals Found",
@@ -749,7 +842,8 @@
         "scalingType": "decay",
         "totalVal": 400,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 78
     },
     {
         "name": "Best Pure Memory Round Reached 膛",
@@ -757,7 +851,8 @@
         "scalingType": "linearToMax",
         "totalVal": 50,
         "decimalDisplay": null,
-        "desc": "Yea nah, I aint snitchin'. This is a SECRET mode."
+        "desc": "Yea nah, I aint snitchin'. This is a SECRET mode.",
+        "uiPositionIndex": 87
     },
     {
         "name": "Spirited Valley Emperor Boss Kills 膛",
@@ -765,7 +860,8 @@
         "scalingType": "linearToMax",
         "totalVal": 400,
         "decimalDisplay": null,
-        "desc": "This counts your current Showdown for the Emperor boss in World 6, not the total amount of kills."
+        "desc": "This counts your current Showdown for the Emperor boss in World 6, not the total amount of kills.",
+        "uiPositionIndex": 106
     },
     {
         "name": "Total Summoning Boss Stone victories 膛",
@@ -773,7 +869,8 @@
         "scalingType": "decay",
         "totalVal": 300,
         "decimalDisplay": null,
-        "desc": "This is the TOTAL wins you have against all Summoning Bosses combined. These are the bossfights from the stones, like the one next to Tribal Shaman NPC!"
+        "desc": "This is the TOTAL wins you have against all Summoning Bosses combined. These are the bossfights from the stones, like the one next to Tribal Shaman NPC!",
+        "uiPositionIndex": 100
     },
     {
         "name": "Total Coral Reef upgrades 膛",
@@ -781,7 +878,8 @@
         "scalingType": "linearToMax",
         "totalVal": 400,
         "decimalDisplay": null,
-        "desc": "The Coral Reef is a feature in World 7 town, unlocked by rescuing Humble Hugh's missing Fishies!"
+        "desc": "The Coral Reef is a feature in World 7 town, unlocked by rescuing Humble Hugh's missing Fishies!",
+        "uiPositionIndex": 107
     },
     {
         "name": "Deepest Depth reached in a single Delve 膛",
@@ -789,7 +887,8 @@
         "scalingType": "decay",
         "totalVal": 300,
         "decimalDisplay": null,
-        "desc": "This is for the Spelunking skill, it's just the deepest you've gone in a single attempt."
+        "desc": "This is for the Spelunking skill, it's just the deepest you've gone in a single attempt.",
+        "uiPositionIndex": 110
     },
     {
         "name": "Total Ninja Knowledge Upgrades LV 膛",
@@ -797,7 +896,8 @@
         "scalingType": "decay",
         "totalVal": 500,
         "decimalDisplay": null,
-        "desc": "Ninja Knowledge is the upgrade tree accessed within Sneaking. This includes mini knowledge upgrades, but you'll unlock those later..."
+        "desc": "Ninja Knowledge is the upgrade tree accessed within Sneaking. This includes mini knowledge upgrades, but you'll unlock those later...",
+        "uiPositionIndex": 96
     },
     {
         "name": "Best Windwalker Max Damage in Tempest Mode 膛",
@@ -805,7 +905,8 @@
         "scalingType": "decayLog",
         "totalVal": 400,
         "decimalDisplay": null,
-        "desc": "Windwalker is the Beast Masters's Master Class, given by Masterius NPC in World 6. You need to open your Compass to register damage."
+        "desc": "Windwalker is the Beast Masters's Master Class, given by Masterius NPC in World 6. You need to open your Compass to register damage.",
+        "uiPositionIndex": 104
     },
     {
         "name": "Best Arcane Cultist Max Damage in Arcanist Mode 膛",
@@ -813,7 +914,8 @@
         "scalingType": "decayLog",
         "totalVal": 400,
         "decimalDisplay": null,
-        "desc": "Arcane Cultist is the Bubonic Conjuror's Master Class, given by Masterius NPC in World 6. You need to open your Tesseract to register damage."
+        "desc": "Arcane Cultist is the Bubonic Conjuror's Master Class, given by Masterius NPC in World 6. You need to open your Tesseract to register damage.",
+        "uiPositionIndex": 105
     },
     {
         "name": "Biggest Haul in a single Delve 膛",
@@ -821,7 +923,8 @@
         "scalingType": "decayLog",
         "totalVal": 300,
         "decimalDisplay": null,
-        "desc": "This is for the Spelunking skill, it's just the most amount of Amber you've gotten in a single attempt."
+        "desc": "This is for the Spelunking skill, it's just the most amount of Amber you've gotten in a single attempt.",
+        "uiPositionIndex": 111
     },
     {
         "name": "Total Spelunk Shop Upgrades LV",
@@ -829,7 +932,8 @@
         "scalingType": "decay",
         "totalVal": 500,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 108
     },
     {
         "name": "Total Spelunk Discoveries made 膛",
@@ -837,7 +941,8 @@
         "scalingType": "linearToMax",
         "totalVal": 300,
         "decimalDisplay": null,
-        "desc": "A Discovery is when you destroy a rock for the first time in a cave. It's basically how many unique 'things' you've encountered while spelunking!"
+        "desc": "A Discovery is when you destroy a rock for the first time in a cave. It's basically how many unique 'things' you've encountered while spelunking!",
+        "uiPositionIndex": 109
     },
     {
         "name": "Highest leveled Spelunker 膛",
@@ -845,7 +950,8 @@
         "scalingType": "decay",
         "totalVal": 200,
         "decimalDisplay": null,
-        "desc": "In other words, this is the Spelunking LV of the highest leveled spelunker in your account."
+        "desc": "In other words, this is the Spelunking LV of the highest leveled spelunker in your account.",
+        "uiPositionIndex": 112
     },
     {
         "name": "Lava Dev Streams watched 膛",
@@ -853,7 +959,8 @@
         "scalingType": "linearToMax",
         "totalVal": 250,
         "decimalDisplay": null,
-        "desc": "To get +1 Stream Watched, you need to tune in at Twitch.tv/ Lava贫Flame2 and keep an eye out for when I enable +1 TOME mode! It'll happen multiple times per stream."
+        "desc": "To get +1 Stream Watched, you need to tune in at Twitch.tv/ Lava贫Flame2 and keep an eye out for when I enable +1 TOME mode! It'll happen multiple times per stream.",
+        "uiPositionIndex": 20
     },
     {
         "name": "Nametags Found 膛",
@@ -861,7 +968,8 @@
         "scalingType": "linearToMax",
         "totalVal": 700,
         "decimalDisplay": null,
-        "desc": "This only counts the amount of unique nametags you found... but don't throw away your duplicate nametags! You'll need them for The Gallery in World 7!"
+        "desc": "This only counts the amount of unique nametags you found... but don't throw away your duplicate nametags! You'll need them for The Gallery in World 7!",
+        "uiPositionIndex": 16
     },
     {
         "name": "Megaflesh Earned from Bubba",
@@ -869,7 +977,8 @@
         "scalingType": "decay",
         "totalVal": 250,
         "decimalDisplay": null,
-        "desc": null
+        "desc": null,
+        "uiPositionIndex": 41
     },
     {
         "name": "Premium Hats Found 膛",
@@ -877,7 +986,8 @@
         "scalingType": "linearToMax",
         "totalVal": 700,
         "decimalDisplay": null,
-        "desc": "This metric is based on the total hats you've deposited to the Hat Rack in World 3!"
+        "desc": "This metric is based on the total hats you've deposited to the Hat Rack in World 3!",
+        "uiPositionIndex": 17
     },
     {
         "name": "Minehead Opponents Defeated 膛",
@@ -885,7 +995,8 @@
         "scalingType": "linearToMax",
         "totalVal": 600,
         "decimalDisplay": null,
-        "desc": "Haven't heard of Mr Minehead's Depth Charge game yet? It's great, you'll find it deep in World 7!"
+        "desc": "Haven't heard of Mr Minehead's Depth Charge game yet? It's great, you'll find it deep in World 7!",
+        "uiPositionIndex": 113
     },
     {
         "name": "Rat King Crowns Reclaimed 膛",
@@ -893,7 +1004,8 @@
         "scalingType": "linearToMax",
         "totalVal": 400,
         "decimalDisplay": null,
-        "desc": "The Rat King is one of the last Import Items you buy in Gaming, and he unlocks the ROYALE sprout mutation, which, when harvested, has a chance to reclaim Crowns!"
+        "desc": "The Rat King is one of the last Import Items you buy in Gaming, and he unlocks the ROYALE sprout mutation, which, when harvested, has a chance to reclaim Crowns!",
+        "uiPositionIndex": 75
     },
     {
         "name": "Farming Stickers Found 膛",
@@ -901,7 +1013,8 @@
         "scalingType": "decay",
         "totalVal": 300,
         "decimalDisplay": null,
-        "desc": "You need to unlock the Sticker Depot from Research in World 7, and grow some Megacrops to find Stickers!"
+        "desc": "You need to unlock the Sticker Depot from Research in World 7, and grow some Megacrops to find Stickers!",
+        "uiPositionIndex": 93
     },
     {
         "name": "Tournaments Registrations 膛",
@@ -909,7 +1022,8 @@
         "scalingType": "linearToMax",
         "totalVal": 365,
         "decimalDisplay": null,
-        "desc": "This metric tracks how many days you've registered for a Tournament! It currently caps at 365, so you aren't permanently behind if you miss a day!"
+        "desc": "This metric tracks how many days you've registered for a Tournament! It currently caps at 365, so you aren't permanently behind if you miss a day!",
+        "uiPositionIndex": 19
     },
     {
         "name": "Total Research Grid Upgrades 膛",
@@ -917,7 +1031,8 @@
         "scalingType": "linearToMax",
         "totalVal": 750,
         "decimalDisplay": null,
-        "desc": "Research is a World 7 skill, you need to progress past the Ballonfish Map to unlock it!"
+        "desc": "Research is a World 7 skill, you need to progress past the Ballonfish Map to unlock it!",
+        "uiPositionIndex": 114
     },
     {
         "name": "Total Glimbo Trades 膛",
@@ -925,7 +1040,8 @@
         "scalingType": "decay",
         "totalVal": 400,
         "decimalDisplay": null,
-        "desc": "Glimbo can be found deep in World 7, he increases your Upgrade Vault max LV's in exchange for valuable items!"
+        "desc": "Glimbo can be found deep in World 7, he increases your Upgrade Vault max LV's in exchange for valuable items!",
+        "uiPositionIndex": 115
     },
     {
         "name": "Unique Sushi Created 膛",
@@ -933,7 +1049,8 @@
         "scalingType": "linearToMax",
         "totalVal": 800,
         "decimalDisplay": null,
-        "desc": "Basically, the highest Tier of Sushi you've created over at the Sushi Station in World 7!"
+        "desc": "Basically, the highest Tier of Sushi you've created over at the Sushi Station in World 7!",
+        "uiPositionIndex": 116
     },
     {
         "name": "Button Presses 膛",
@@ -941,6 +1058,7 @@
         "scalingType": "decay",
         "totalVal": 500,
         "decimalDisplay": null,
-        "desc": "This is referring to THE BUTTON, found in the Mantaray map in World 7! This map is the 12th map away from town, to give you an idea of where this map is."
+        "desc": "This is referring to THE BUTTON, found in the Mantaray map in World 7! This map is the 12th map away from town, to give you an idea of where this map is.",
+        "uiPositionIndex": 117
     }
 ]

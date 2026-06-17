@@ -7,5 +7,5 @@ export interface TomeModel {
     totalVal: number,
     decimalDisplay?: number,
     desc?: string,
-    uiPositionIndex?: number
+    uiPositionIndex: number
 }
