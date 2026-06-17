@@ -1239,13 +1239,21 @@
         "bonus": 4,
         "order": 15
     },
+    "caveD": {
+        "cardID": "H17",
+        "category": "Smolderin' Plateau",
+        "perTier": 1e+06,
+        "effect": "+{% Total Drop Rate (Passive)",
+        "bonus": 6,
+        "order": 16
+    },
     "Crystal4": {
         "cardID": "H14",
         "category": "Smolderin' Plateau",
         "perTier": 15,
         "effect": "+{% Skill Efficncy (Passive)",
         "bonus": 3,
-        "order": 16
+        "order": 17
     },
     "w6a1": {
         "cardID": "I1",

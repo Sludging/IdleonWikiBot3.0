@@ -1574,7 +1574,14 @@
     "caveD": {
         "drops": [
             {"item": "COIN", "quantity": 1, "chance": 0, "questLink": "N/A"},
-            {"item": "SpiD3", "quantity": 1, "chance": 0, "questLink": "N/A"}
+            {"item": "CardsH17", "quantity": 1, "chance": 0.05, "questLink": "N/A"},
+            {"item": "HoleGshape0", "quantity": 1, "chance": 0.1, "questLink": "N/A"},
+            {"item": "HoleGshape1", "quantity": 1, "chance": 0.02, "questLink": "N/A"},
+            {"item": "HoleGshape2", "quantity": 1, "chance": 0.005, "questLink": "N/A"},
+            {"item": "HoleGshape3", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "HoleGshape4", "quantity": 1, "chance": 0.0002, "questLink": "N/A"},
+            {"item": "HoleGshape5", "quantity": 1, "chance": 1e-05, "questLink": "N/A"},
+            {"item": "DropTable39", "quantity": 1, "chance": 1, "questLink": "N/A"}
         ]
     },
     "w7a1": {

@@ -28206,6 +28206,102 @@
         "Type": "Time Sand",
         "description": "Hold down instantly gain 6 Hours of Sneaking Progress! Applies to all your ninja twins, so it doesn't matter who uses this. "
     },
+    "HoleGshape0": {
+        "internalName": "HoleGshape0",
+        "displayName": "Gooey Triangle",
+        "sellPrice": 100,
+        "typeGen": "dQuest",
+        "Type": "Dungeon Evaporate",
+        "description": "Now now, you shouldn't be seeing this! I spray you with water bottle pss pss shoo! "
+    },
+    "HoleGshape1": {
+        "internalName": "HoleGshape1",
+        "displayName": "Gooey Square",
+        "sellPrice": 100,
+        "typeGen": "dQuest",
+        "Type": "Dungeon Evaporate",
+        "description": "Now now, you shouldn't be seeing this! I spray you with water bottle pss pss shoo! "
+    },
+    "HoleGshape2": {
+        "internalName": "HoleGshape2",
+        "displayName": "Gooey Pentagon",
+        "sellPrice": 100,
+        "typeGen": "dQuest",
+        "Type": "Dungeon Evaporate",
+        "description": "Now now, you shouldn't be seeing this! I spray you with water bottle pss pss shoo! "
+    },
+    "HoleGshape3": {
+        "internalName": "HoleGshape3",
+        "displayName": "Gooey Hexagon",
+        "sellPrice": 100,
+        "typeGen": "dQuest",
+        "Type": "Dungeon Evaporate",
+        "description": "Now now, you shouldn't be seeing this! I spray you with water bottle pss pss shoo! "
+    },
+    "HoleGshape4": {
+        "internalName": "HoleGshape4",
+        "displayName": "Gooey Heptagon",
+        "sellPrice": 100,
+        "typeGen": "dQuest",
+        "Type": "Dungeon Evaporate",
+        "description": "Now now, you shouldn't be seeing this! I spray you with water bottle pss pss shoo! "
+    },
+    "HoleGshape5": {
+        "internalName": "HoleGshape5",
+        "displayName": "Gooey Nonagon",
+        "sellPrice": 100,
+        "typeGen": "dQuest",
+        "Type": "Dungeon Evaporate",
+        "description": "Now now, you shouldn't be seeing this! I spray you with water bottle pss pss shoo! "
+    },
+    "HoleGshape6": {
+        "internalName": "HoleGshape6",
+        "displayName": "Quartz Prismagon",
+        "sellPrice": 100,
+        "typeGen": "dQuest",
+        "Type": "Dungeon Evaporate",
+        "description": "Now now, you shouldn't be seeing this! I spray you with water bottle pss pss shoo! "
+    },
+    "HoleGshape7": {
+        "internalName": "HoleGshape7",
+        "displayName": "Quartz Cubigon",
+        "sellPrice": 100,
+        "typeGen": "dQuest",
+        "Type": "Dungeon Evaporate",
+        "description": "Now now, you shouldn't be seeing this! I spray you with water bottle pss pss shoo! "
+    },
+    "HoleGshape8": {
+        "internalName": "HoleGshape8",
+        "displayName": "Quartz Pointagon",
+        "sellPrice": 100,
+        "typeGen": "dQuest",
+        "Type": "Dungeon Evaporate",
+        "description": "Now now, you shouldn't be seeing this! I spray you with water bottle pss pss shoo! "
+    },
+    "HoleGshape9": {
+        "internalName": "HoleGshape9",
+        "displayName": "Quartz Octergon",
+        "sellPrice": 100,
+        "typeGen": "dQuest",
+        "Type": "Dungeon Evaporate",
+        "description": "Now now, you shouldn't be seeing this! I spray you with water bottle pss pss shoo! "
+    },
+    "HoleGshape10": {
+        "internalName": "HoleGshape10",
+        "displayName": "Quartz Nullagon",
+        "sellPrice": 100,
+        "typeGen": "dQuest",
+        "Type": "Dungeon Evaporate",
+        "description": "Now now, you shouldn't be seeing this! I spray you with water bottle pss pss shoo! "
+    },
+    "HoleGshape11": {
+        "internalName": "HoleGshape11",
+        "displayName": "Quartz Brillagon",
+        "sellPrice": 100,
+        "typeGen": "dQuest",
+        "Type": "Dungeon Evaporate",
+        "description": "Now now, you shouldn't be seeing this! I spray you with water bottle pss pss shoo! "
+    },
     "Trophy1": {
         "internalName": "Trophy1",
         "displayName": "King of Food",
@@ -34908,7 +35004,7 @@
             "perTier": 15,
             "effect": "+{% Skill Efficncy (Passive)",
             "bonus": 3,
-            "order": 16
+            "order": 17
         },
         "dropChance": 0.006
     },
@@ -34943,6 +35039,22 @@
             "order": 15
         },
         "dropChance": 5e-05
+    },
+    "CardsH17": {
+        "internalName": "CardsH17",
+        "displayName": "Crystal Glunko Card",
+        "sellPrice": 1,
+        "typeGen": "dCard",
+        "Type": "Card",
+        "cardData": {
+            "cardID": "H17",
+            "category": "Smolderin' Plateau",
+            "perTier": 1e+06,
+            "effect": "+{% Total Drop Rate (Passive)",
+            "bonus": 6,
+            "order": 16
+        },
+        "dropChance": 0.05
     },
     "CardsI1": {
         "internalName": "CardsI1",

@@ -551,6 +551,7 @@
             {"source": "w7b11", "quantity": 1, "chance": 0},
             {"source": "w7b12", "quantity": 1, "chance": 0},
             {"source": "w7d1", "quantity": 1, "chance": 0},
+            {"source": "caveD", "quantity": 1, "chance": 0},
             {"source": "frogGG", "quantity": 25000, "chance": 1},
             {"source": "frogGR2", "quantity": 25000, "chance": 1},
             {"source": "frogGR3", "quantity": 25000, "chance": 1},
@@ -5258,6 +5259,24 @@
             {"source": "w7d1", "quantity": 1, "chance": 2.5e-12}
         ]
     },
+    "HoleGshape6": {"sources": [
+        {"source": "caveD", "quantity": 1, "chance": 1e-06}
+    ]},
+    "HoleGshape7": {"sources": [
+        {"source": "caveD", "quantity": 1, "chance": 1e-07}
+    ]},
+    "HoleGshape8": {"sources": [
+        {"source": "caveD", "quantity": 1, "chance": 1e-08}
+    ]},
+    "HoleGshape9": {"sources": [
+        {"source": "caveD", "quantity": 1, "chance": 1e-09}
+    ]},
+    "HoleGshape10": {"sources": [
+        {"source": "caveD", "quantity": 1, "chance": 1e-10}
+    ]},
+    "HoleGshape11": {"sources": [
+        {"source": "caveD", "quantity": 1, "chance": 1e-11}
+    ]},
     "DungCredits1": {
         "sources": [
             {"source": "frogGG", "quantity": 1, "chance": 0.04},
@@ -6928,8 +6947,7 @@
         "sources": [
             {"source": "w6d3", "quantity": 1, "chance": 0.1},
             {"source": "reindeer", "quantity": 1, "chance": 0},
-            {"source": "caveA", "quantity": 1, "chance": 0},
-            {"source": "caveD", "quantity": 1, "chance": 0}
+            {"source": "caveA", "quantity": 1, "chance": 0}
         ]
     },
     "CardsI14": {"sources": [
@@ -7003,6 +7021,30 @@
     ]},
     "StampC25": {"sources": [
         {"source": "caveC", "quantity": 1, "chance": 5e-08}
+    ]},
+    "CardsH17": {"sources": [
+        {"source": "caveD", "quantity": 1, "chance": 0.05}
+    ]},
+    "HoleGshape0": {"sources": [
+        {"source": "caveD", "quantity": 1, "chance": 0.1}
+    ]},
+    "HoleGshape1": {"sources": [
+        {"source": "caveD", "quantity": 1, "chance": 0.02}
+    ]},
+    "HoleGshape2": {"sources": [
+        {"source": "caveD", "quantity": 1, "chance": 0.005}
+    ]},
+    "HoleGshape3": {"sources": [
+        {"source": "caveD", "quantity": 1, "chance": 0.001}
+    ]},
+    "HoleGshape4": {"sources": [
+        {"source": "caveD", "quantity": 1, "chance": 0.0002}
+    ]},
+    "HoleGshape5": {"sources": [
+        {"source": "caveD", "quantity": 1, "chance": 1e-05}
+    ]},
+    "DropTable39": {"sources": [
+        {"source": "caveD", "quantity": 1, "chance": 1}
     ]},
     "w7A1": {"sources": [
         {"source": "w7a1", "quantity": 1, "chance": 0.001}
