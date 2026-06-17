@@ -100,8 +100,5 @@
         "name": "TRENCH",
         "description": "Every depth cast lowers the resources needed to destroy other skilling caverns by {%",
         "multiplier": 3
-    },
-    "17": {"index": 17, "name": "BRUH", "description": "", "multiplier": 0},
-    "18": {"index": 18, "name": "BRUH", "description": "", "multiplier": 0},
-    "19": {"index": 19, "name": "BRUH", "description": "", "multiplier": 0}
+    }
 }
