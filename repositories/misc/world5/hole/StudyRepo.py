@@ -25,7 +25,7 @@ class StudyRepo(Repository[Study]):
 		descriptions = data[HoleOrder.StudyDescriptions.value]
 		multipliers = data[HoleOrder.StudyMultipliers.value]
 		
-		# 1.17 keeps placeholder BRUH rows after the described studies.
+		# Studies information is spread across 3 indexes, we take the shortest one for overall study count
 		study_count = min(len(names), len(descriptions), len(multipliers))
 		
 		# Process each described study
