@@ -118,6 +118,7 @@
     "CardsZ23": {"dropChance": 0.001},
     "CardsH15": {"dropChance": 5e-05},
     "CardsH16": {"dropChance": 5e-05},
+    "CardsH17": {"dropChance": 0.05},
     "CardsJ1": {"dropChance": 1e-05},
     "CardsJ2": {"dropChance": 6e-06},
     "CardsJ3": {"dropChance": 2.5e-06},

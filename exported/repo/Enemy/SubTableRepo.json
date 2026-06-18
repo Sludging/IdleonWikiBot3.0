@@ -411,6 +411,9 @@
             {"name": "GiantMobzz69", "chance": 1, "quantity": 1}
         ]
     },
+    "DropTable39": {"sources": [
+        {"name": "caveD", "chance": 1, "quantity": 1}
+    ]},
     "DropTable12": {
         "sources": [
             {"name": "Bug1", "chance": 0.015, "quantity": 1},

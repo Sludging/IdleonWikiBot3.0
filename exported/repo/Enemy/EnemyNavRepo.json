@@ -519,14 +519,21 @@
     },
     "caveC": {
         "prev": "caveB",
+        "next": "caveD",
+        "hasCrystal": true,
+        "crystalName": "Crystal4",
+        "hasCard": true
+    },
+    "caveD": {
+        "prev": "caveC",
         "next": "Crystal4",
         "hasCrystal": true,
         "crystalName": "Crystal4",
         "hasCard": true
     },
     "Crystal4": {
-        "prev": "caveC",
-        "next": null,
+        "prev": "caveD",
+        "next": "Blank",
         "hasCrystal": false,
         "crystalName": "Crystal4",
         "hasCard": true

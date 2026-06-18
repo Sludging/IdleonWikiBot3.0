@@ -4827,7 +4827,7 @@
             {"wikiName": "[[Demon Hound]]", "txtName": "Demon Hound"},
             {"wikiName": "[[Gloomie Mushroom]]", "txtName": "Gloomie Mushroom"},
             {"wikiName": "[[Ancient Golem]]", "txtName": "Ancient Golem"},
-            {"wikiName": "[[Shimmer Glunko]]", "txtName": "Shimmer Glunko"},
+            {"wikiName": "[[Crystal Glunko]]", "txtName": "Crystal Glunko"},
             {"wikiName": "[[Equinox Broadbass]]", "txtName": "Equinox Broadbass"},
             {"wikiName": "[[Doodlefish]]", "txtName": "Doodlefish"},
             {"wikiName": "[[Eamsy Earl]]", "txtName": "Eamsy Earl"},
@@ -5111,7 +5111,8 @@
             {"wikiName": "[[DropTable36]]", "txtName": "DropTable36"},
             {"wikiName": "[[DropTable37]]", "txtName": "DropTable37"},
             {"wikiName": "[[DropTable38]]", "txtName": "DropTable38"},
-            {"wikiName": "[[SuperDropTable7]]", "txtName": "SuperDropTable7"}
+            {"wikiName": "[[SuperDropTable7]]", "txtName": "SuperDropTable7"},
+            {"wikiName": "[[DropTable39]]", "txtName": "DropTable39"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -9104,8 +9105,7 @@
         "sources": [
             {"wikiName": "[[Samurai Guardian]]", "txtName": "Samurai Guardian"},
             {"wikiName": "[[Spirit Reindeer]]", "txtName": "Spirit Reindeer"},
-            {"wikiName": "[[Demon Hound]]", "txtName": "Demon Hound"},
-            {"wikiName": "[[Shimmer Glunko]]", "txtName": "Shimmer Glunko"}
+            {"wikiName": "[[Demon Hound]]", "txtName": "Demon Hound"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -9230,6 +9230,62 @@
     "StampC25": {
         "sources": [
             {"wikiName": "[[Ancient Golem]]", "txtName": "Ancient Golem"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsH17": {
+        "sources": [
+            {"wikiName": "[[Crystal Glunko]]", "txtName": "Crystal Glunko"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "HoleGshape0": {
+        "sources": [
+            {"wikiName": "[[Crystal Glunko]]", "txtName": "Crystal Glunko"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "HoleGshape1": {
+        "sources": [
+            {"wikiName": "[[Crystal Glunko]]", "txtName": "Crystal Glunko"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "HoleGshape2": {
+        "sources": [
+            {"wikiName": "[[Crystal Glunko]]", "txtName": "Crystal Glunko"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "HoleGshape3": {
+        "sources": [
+            {"wikiName": "[[Crystal Glunko]]", "txtName": "Crystal Glunko"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "HoleGshape4": {
+        "sources": [
+            {"wikiName": "[[Crystal Glunko]]", "txtName": "Crystal Glunko"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "HoleGshape5": {
+        "sources": [
+            {"wikiName": "[[Crystal Glunko]]", "txtName": "Crystal Glunko"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "DropTable39": {
+        "sources": [
+            {"wikiName": "[[Crystal Glunko]]", "txtName": "Crystal Glunko"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -14811,6 +14867,48 @@
         "recipeFrom": [],
         "questAss": []
     },
+    "HoleGshape6": {
+        "sources": [
+            {"wikiName": "[[DropTable39]]", "txtName": "DropTable39"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "HoleGshape7": {
+        "sources": [
+            {"wikiName": "[[DropTable39]]", "txtName": "DropTable39"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "HoleGshape8": {
+        "sources": [
+            {"wikiName": "[[DropTable39]]", "txtName": "DropTable39"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "HoleGshape9": {
+        "sources": [
+            {"wikiName": "[[DropTable39]]", "txtName": "DropTable39"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "HoleGshape10": {
+        "sources": [
+            {"wikiName": "[[DropTable39]]", "txtName": "DropTable39"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "HoleGshape11": {
+        "sources": [
+            {"wikiName": "[[DropTable39]]", "txtName": "DropTable39"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
     "Secretstone": {
         "sources": [],
         "recipeFrom": [],
@@ -17149,7 +17247,8 @@
             {
                 "wikiName": "[[Toobus Goobus#RESEARCH STUDIES|RESEARCH STUDIES]]",
                 "txtName": "Toobus Goobus: RESEARCH STUDIES"
-            }
+            },
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -17400,6 +17499,20 @@
                 "wikiName": "[[Dungeons#Loot Rolls|Dungeon Loot Rolls]]",
                 "txtName": "Dungeons: Flurbo Shop"
             }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentNametag3": {
+        "sources": [
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentHats118": {
+        "sources": [
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
         "recipeFrom": [],
         "questAss": []
