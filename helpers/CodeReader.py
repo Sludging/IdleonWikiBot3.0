@@ -205,7 +205,9 @@ class IdleonReader:
 		# Research
 		self.codeReader.addSection("ResGridSquares = function ()", "ResearchGridBonus")
 		# The Button
-		self.codeReader.addSection("_customBlock_Minehead = function (", "Minehead")
+		self.codeReader.addSection('"Button_BonusPerTime"', "ButtonBonuses", ";")
+		self.codeReader.addSection("ButtonTasks = function ()", "ButtonTasks")
+		self.codeReader.addSection("Research = function ()", "Research")
 
 
 

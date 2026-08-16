@@ -2,7 +2,7 @@
     "0": {
         "index": 0,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -11,7 +11,7 @@
     "1": {
         "index": 1,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -20,7 +20,7 @@
     "2": {
         "index": 2,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -29,7 +29,7 @@
     "3": {
         "index": 3,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -38,7 +38,7 @@
     "4": {
         "index": 4,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -47,7 +47,7 @@
     "5": {
         "index": 5,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -56,7 +56,7 @@
     "6": {
         "index": 6,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -65,7 +65,7 @@
     "7": {
         "index": 7,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -74,7 +74,7 @@
     "8": {
         "index": 8,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -83,7 +83,7 @@
     "9": {
         "index": 9,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -92,7 +92,7 @@
     "10": {
         "index": 10,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -101,7 +101,7 @@
     "11": {
         "index": 11,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -110,7 +110,7 @@
     "12": {
         "index": 12,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -119,7 +119,7 @@
     "13": {
         "index": 13,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -128,7 +128,7 @@
     "14": {
         "index": 14,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -137,7 +137,7 @@
     "15": {
         "index": 15,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -146,7 +146,7 @@
     "16": {
         "index": 16,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -155,7 +155,7 @@
     "17": {
         "index": 17,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -164,7 +164,7 @@
     "18": {
         "index": 18,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -173,7 +173,7 @@
     "19": {
         "index": 19,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -182,7 +182,7 @@
     "20": {
         "index": 20,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -191,7 +191,7 @@
     "21": {
         "index": 21,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -200,7 +200,7 @@
     "22": {
         "index": 22,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -209,7 +209,7 @@
     "23": {
         "index": 23,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -218,7 +218,7 @@
     "24": {
         "index": 24,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -227,7 +227,7 @@
     "25": {
         "index": 25,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -236,7 +236,7 @@
     "26": {
         "index": 26,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -245,7 +245,7 @@
     "27": {
         "index": 27,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -254,7 +254,7 @@
     "28": {
         "index": 28,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -263,7 +263,7 @@
     "29": {
         "index": 29,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -272,7 +272,7 @@
     "30": {
         "index": 30,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -281,7 +281,7 @@
     "31": {
         "index": 31,
         "name": "Smart Eye",
-        "x1": 3,
+        "maxLevel": 3,
         "bonusPerLevel": 5,
         "x3": 0,
         "x4": 0,
@@ -290,7 +290,7 @@
     "32": {
         "index": 32,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -299,7 +299,7 @@
     "33": {
         "index": 33,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -308,7 +308,7 @@
     "34": {
         "index": 34,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -317,7 +317,7 @@
     "35": {
         "index": 35,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -326,7 +326,7 @@
     "36": {
         "index": 36,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -335,7 +335,7 @@
     "37": {
         "index": 37,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -344,7 +344,7 @@
     "38": {
         "index": 38,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -353,7 +353,7 @@
     "39": {
         "index": 39,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -362,7 +362,7 @@
     "40": {
         "index": 40,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -371,7 +371,7 @@
     "41": {
         "index": 41,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -380,7 +380,7 @@
     "42": {
         "index": 42,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -389,7 +389,7 @@
     "43": {
         "index": 43,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -398,7 +398,7 @@
     "44": {
         "index": 44,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -407,7 +407,7 @@
     "45": {
         "index": 45,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -416,7 +416,7 @@
     "46": {
         "index": 46,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -425,7 +425,7 @@
     "47": {
         "index": 47,
         "name": "Sticker-it To Em!",
-        "x1": 2,
+        "maxLevel": 2,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -434,7 +434,7 @@
     "48": {
         "index": 48,
         "name": "Materials Science",
-        "x1": 4,
+        "maxLevel": 4,
         "bonusPerLevel": 25,
         "x3": 0,
         "x4": 0,
@@ -443,7 +443,7 @@
     "49": {
         "index": 49,
         "name": "Polymer Refinery",
-        "x1": 2,
+        "maxLevel": 2,
         "bonusPerLevel": 5,
         "x3": 0,
         "x4": 0,
@@ -452,7 +452,7 @@
     "50": {
         "index": 50,
         "name": "Pts Every Ten",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 5,
         "x3": 0,
         "x4": 0,
@@ -461,7 +461,7 @@
     "51": {
         "index": 51,
         "name": "Sharp Eye",
-        "x1": 4,
+        "maxLevel": 4,
         "bonusPerLevel": 5,
         "x3": 0,
         "x4": 0,
@@ -470,7 +470,7 @@
     "52": {
         "index": 52,
         "name": "Holding Onto You",
-        "x1": 3,
+        "maxLevel": 3,
         "bonusPerLevel": 10,
         "x3": 0,
         "x4": 0,
@@ -479,7 +479,7 @@
     "53": {
         "index": 53,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -488,7 +488,7 @@
     "54": {
         "index": 54,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -497,7 +497,7 @@
     "55": {
         "index": 55,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -506,7 +506,7 @@
     "56": {
         "index": 56,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -515,7 +515,7 @@
     "57": {
         "index": 57,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -524,7 +524,7 @@
     "58": {
         "index": 58,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -533,7 +533,7 @@
     "59": {
         "index": 59,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -542,7 +542,7 @@
     "60": {
         "index": 60,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -551,7 +551,7 @@
     "61": {
         "index": 61,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -560,7 +560,7 @@
     "62": {
         "index": 62,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -569,7 +569,7 @@
     "63": {
         "index": 63,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -578,7 +578,7 @@
     "64": {
         "index": 64,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -587,7 +587,7 @@
     "65": {
         "index": 65,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -596,7 +596,7 @@
     "66": {
         "index": 66,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -605,7 +605,7 @@
     "67": {
         "index": 67,
         "name": "Sticky Crowns",
-        "x1": 3,
+        "maxLevel": 3,
         "bonusPerLevel": 25,
         "x3": 0,
         "x4": 0,
@@ -614,7 +614,7 @@
     "68": {
         "index": 68,
         "name": "Boony Crowns",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -623,7 +623,7 @@
     "69": {
         "index": 69,
         "name": "Adequate Sized, Actually",
-        "x1": 2,
+        "maxLevel": 2,
         "bonusPerLevel": 50,
         "x3": 0,
         "x4": 0,
@@ -632,7 +632,7 @@
     "70": {
         "index": 70,
         "name": "Takin' Notes",
-        "x1": 4,
+        "maxLevel": 4,
         "bonusPerLevel": 12,
         "x3": 0,
         "x4": 0,
@@ -641,7 +641,7 @@
     "71": {
         "index": 71,
         "name": "Powered Down Research",
-        "x1": 2,
+        "maxLevel": 2,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -650,7 +650,7 @@
     "72": {
         "index": 72,
         "name": "Kaleidoscope",
-        "x1": 4,
+        "maxLevel": 4,
         "bonusPerLevel": 5,
         "x3": 0,
         "x4": 0,
@@ -659,7 +659,7 @@
     "73": {
         "index": 73,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -668,7 +668,7 @@
     "74": {
         "index": 74,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -677,7 +677,7 @@
     "75": {
         "index": 75,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -686,7 +686,7 @@
     "76": {
         "index": 76,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -695,7 +695,7 @@
     "77": {
         "index": 77,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -704,7 +704,7 @@
     "78": {
         "index": 78,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -713,7 +713,7 @@
     "79": {
         "index": 79,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -722,7 +722,7 @@
     "80": {
         "index": 80,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -731,7 +731,7 @@
     "81": {
         "index": 81,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -740,7 +740,7 @@
     "82": {
         "index": 82,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -749,7 +749,7 @@
     "83": {
         "index": 83,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -758,7 +758,7 @@
     "84": {
         "index": 84,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -767,7 +767,7 @@
     "85": {
         "index": 85,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -776,7 +776,7 @@
     "86": {
         "index": 86,
         "name": "Equinox Nightmares",
-        "x1": 3,
+        "maxLevel": 3,
         "bonusPerLevel": 20,
         "x3": 0,
         "x4": 0,
@@ -785,7 +785,7 @@
     "87": {
         "index": 87,
         "name": "Gaming Zuperbits",
-        "x1": 2,
+        "maxLevel": 2,
         "bonusPerLevel": 200,
         "x3": 0,
         "x4": 0,
@@ -794,7 +794,7 @@
     "88": {
         "index": 88,
         "name": "Sticker Depot",
-        "x1": 3,
+        "maxLevel": 3,
         "bonusPerLevel": 50,
         "x3": 0,
         "x4": 0,
@@ -803,7 +803,7 @@
     "89": {
         "index": 89,
         "name": "Tiny Cogs",
-        "x1": 4,
+        "maxLevel": 4,
         "bonusPerLevel": 200,
         "x3": 0,
         "x4": 0,
@@ -812,7 +812,7 @@
     "90": {
         "index": 90,
         "name": "Observationalistic",
-        "x1": 4,
+        "maxLevel": 4,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -821,7 +821,7 @@
     "91": {
         "index": 91,
         "name": "Optical Monocle",
-        "x1": 4,
+        "maxLevel": 4,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -830,7 +830,7 @@
     "92": {
         "index": 92,
         "name": "Oracular Spectacular",
-        "x1": 2,
+        "maxLevel": 2,
         "bonusPerLevel": 25,
         "x3": 0,
         "x4": 0,
@@ -839,7 +839,7 @@
     "93": {
         "index": 93,
         "name": "Game Design 101",
-        "x1": 3,
+        "maxLevel": 3,
         "bonusPerLevel": 4,
         "x3": 0,
         "x4": 0,
@@ -848,7 +848,7 @@
     "94": {
         "index": 94,
         "name": "Game Design 102",
-        "x1": 4,
+        "maxLevel": 4,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -857,7 +857,7 @@
     "95": {
         "index": 95,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -866,7 +866,7 @@
     "96": {
         "index": 96,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -875,7 +875,7 @@
     "97": {
         "index": 97,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -884,7 +884,7 @@
     "98": {
         "index": 98,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -893,7 +893,7 @@
     "99": {
         "index": 99,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -902,7 +902,7 @@
     "100": {
         "index": 100,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -911,7 +911,7 @@
     "101": {
         "index": 101,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -920,7 +920,7 @@
     "102": {
         "index": 102,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -929,7 +929,7 @@
     "103": {
         "index": 103,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -938,7 +938,7 @@
     "104": {
         "index": 104,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -947,7 +947,7 @@
     "105": {
         "index": 105,
         "name": "Revival of the Undead Battalion",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -956,7 +956,7 @@
     "106": {
         "index": 106,
         "name": "The Maw",
-        "x1": 4,
+        "maxLevel": 4,
         "bonusPerLevel": 25,
         "x3": 0,
         "x4": 0,
@@ -965,7 +965,7 @@
     "107": {
         "index": 107,
         "name": "Palettable Crowns",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 3,
         "x3": 0,
         "x4": 0,
@@ -974,7 +974,7 @@
     "108": {
         "index": 108,
         "name": "Rat King of Olde",
-        "x1": 2,
+        "maxLevel": 2,
         "bonusPerLevel": 25,
         "x3": 0,
         "x4": 0,
@@ -983,7 +983,7 @@
     "109": {
         "index": 109,
         "name": "Transcendent Artifacts",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 25,
         "x3": 0,
         "x4": 0,
@@ -992,7 +992,7 @@
     "110": {
         "index": 110,
         "name": "All Night Studying",
-        "x1": 2,
+        "maxLevel": 2,
         "bonusPerLevel": 50,
         "x3": 0,
         "x4": 0,
@@ -1001,7 +1001,7 @@
     "111": {
         "index": 111,
         "name": "Research AFK Gains",
-        "x1": 2,
+        "maxLevel": 2,
         "bonusPerLevel": 5,
         "x3": 0,
         "x4": 0,
@@ -1010,7 +1010,7 @@
     "112": {
         "index": 112,
         "name": "See 'Em All",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 5,
         "x3": 0,
         "x4": 0,
@@ -1019,7 +1019,7 @@
     "113": {
         "index": 113,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1028,7 +1028,7 @@
     "114": {
         "index": 114,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1037,7 +1037,7 @@
     "115": {
         "index": 115,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1046,7 +1046,7 @@
     "116": {
         "index": 116,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1055,7 +1055,7 @@
     "117": {
         "index": 117,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1064,7 +1064,7 @@
     "118": {
         "index": 118,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1073,7 +1073,7 @@
     "119": {
         "index": 119,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1082,7 +1082,7 @@
     "120": {
         "index": 120,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1091,7 +1091,7 @@
     "121": {
         "index": 121,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1100,7 +1100,7 @@
     "122": {
         "index": 122,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1109,7 +1109,7 @@
     "123": {
         "index": 123,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1118,7 +1118,7 @@
     "124": {
         "index": 124,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1127,7 +1127,7 @@
     "125": {
         "index": 125,
         "name": "Better Button",
-        "x1": 3,
+        "maxLevel": 3,
         "bonusPerLevel": 5,
         "x3": 0,
         "x4": 0,
@@ -1136,7 +1136,7 @@
     "126": {
         "index": 126,
         "name": "Insta Skips",
-        "x1": 2,
+        "maxLevel": 2,
         "bonusPerLevel": 3,
         "x3": 0,
         "x4": 0,
@@ -1145,7 +1145,7 @@
     "127": {
         "index": 127,
         "name": "Eclectoplasmaticism",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1154,7 +1154,7 @@
     "128": {
         "index": 128,
         "name": "Eclectic Sigils",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 10,
         "x3": 0,
         "x4": 0,
@@ -1163,7 +1163,7 @@
     "129": {
         "index": 129,
         "name": "Mr Minehead Linguistics",
-        "x1": 4,
+        "maxLevel": 4,
         "bonusPerLevel": 10,
         "x3": 0,
         "x4": 0,
@@ -1172,7 +1172,7 @@
     "130": {
         "index": 130,
         "name": "Legendary Yellow Fever",
-        "x1": 3,
+        "maxLevel": 3,
         "bonusPerLevel": 5,
         "x3": 0,
         "x4": 0,
@@ -1181,7 +1181,7 @@
     "131": {
         "index": 131,
         "name": "Legendary Red Fever",
-        "x1": 3,
+        "maxLevel": 3,
         "bonusPerLevel": 5,
         "x3": 0,
         "x4": 0,
@@ -1190,7 +1190,7 @@
     "132": {
         "index": 132,
         "name": "Legendary Brown Fever",
-        "x1": 3,
+        "maxLevel": 3,
         "bonusPerLevel": 5,
         "x3": 0,
         "x4": 0,
@@ -1199,7 +1199,7 @@
     "133": {
         "index": 133,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1208,7 +1208,7 @@
     "134": {
         "index": 134,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1217,7 +1217,7 @@
     "135": {
         "index": 135,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1226,7 +1226,7 @@
     "136": {
         "index": 136,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1235,7 +1235,7 @@
     "137": {
         "index": 137,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1244,7 +1244,7 @@
     "138": {
         "index": 138,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1253,7 +1253,7 @@
     "139": {
         "index": 139,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1262,7 +1262,7 @@
     "140": {
         "index": 140,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1271,7 +1271,7 @@
     "141": {
         "index": 141,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1280,7 +1280,7 @@
     "142": {
         "index": 142,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1289,7 +1289,7 @@
     "143": {
         "index": 143,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1298,7 +1298,7 @@
     "144": {
         "index": 144,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1307,7 +1307,7 @@
     "145": {
         "index": 145,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1316,7 +1316,7 @@
     "146": {
         "index": 146,
         "name": "Risky Strategy",
-        "x1": 2,
+        "maxLevel": 2,
         "bonusPerLevel": 10,
         "x3": 0,
         "x4": 0,
@@ -1325,7 +1325,7 @@
     "147": {
         "index": 147,
         "name": "Depth Charge Rematch!",
-        "x1": 4,
+        "maxLevel": 4,
         "bonusPerLevel": 25,
         "x3": 0,
         "x4": 0,
@@ -1334,7 +1334,7 @@
     "148": {
         "index": 148,
         "name": "More of that Minehead Money Pls",
-        "x1": 4,
+        "maxLevel": 4,
         "bonusPerLevel": 25,
         "x3": 0,
         "x4": 0,
@@ -1343,7 +1343,7 @@
     "149": {
         "index": 149,
         "name": "Glimbo Linguistics",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 15,
         "x3": 0,
         "x4": 0,
@@ -1352,7 +1352,7 @@
     "150": {
         "index": 150,
         "name": "Masterclass Research",
-        "x1": 2,
+        "maxLevel": 2,
         "bonusPerLevel": 10,
         "x3": 0,
         "x4": 0,
@@ -1361,7 +1361,7 @@
     "151": {
         "index": 151,
         "name": "Spelunking Research",
-        "x1": 2,
+        "maxLevel": 2,
         "bonusPerLevel": 25,
         "x3": 0,
         "x4": 0,
@@ -1370,7 +1370,7 @@
     "152": {
         "index": 152,
         "name": "Legendary Green Fever",
-        "x1": 3,
+        "maxLevel": 3,
         "bonusPerLevel": 5,
         "x3": 0,
         "x4": 0,
@@ -1379,7 +1379,7 @@
     "153": {
         "index": 153,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1388,7 +1388,7 @@
     "154": {
         "index": 154,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1397,7 +1397,7 @@
     "155": {
         "index": 155,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1406,7 +1406,7 @@
     "156": {
         "index": 156,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1415,7 +1415,7 @@
     "157": {
         "index": 157,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1424,7 +1424,7 @@
     "158": {
         "index": 158,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1433,7 +1433,7 @@
     "159": {
         "index": 159,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1442,7 +1442,7 @@
     "160": {
         "index": 160,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1451,7 +1451,7 @@
     "161": {
         "index": 161,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1460,7 +1460,7 @@
     "162": {
         "index": 162,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1469,7 +1469,7 @@
     "163": {
         "index": 163,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1478,7 +1478,7 @@
     "164": {
         "index": 164,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1487,7 +1487,7 @@
     "165": {
         "index": 165,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1496,7 +1496,7 @@
     "166": {
         "index": 166,
         "name": "Minehead Copium",
-        "x1": 4,
+        "maxLevel": 4,
         "bonusPerLevel": 15,
         "x3": 0,
         "x4": 0,
@@ -1505,7 +1505,7 @@
     "167": {
         "index": 167,
         "name": "Minehead Damagio",
-        "x1": 3,
+        "maxLevel": 3,
         "bonusPerLevel": 15,
         "x3": 0,
         "x4": 0,
@@ -1514,7 +1514,7 @@
     "168": {
         "index": 168,
         "name": "Glimbo Insider Trading Secrets",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1523,7 +1523,7 @@
     "169": {
         "index": 169,
         "name": "Glimbo BOGO Offer",
-        "x1": 2,
+        "maxLevel": 2,
         "bonusPerLevel": 10,
         "x3": 0,
         "x4": 0,
@@ -1532,7 +1532,7 @@
     "170": {
         "index": 170,
         "name": "All Quick All Done",
-        "x1": 3,
+        "maxLevel": 3,
         "bonusPerLevel": 50,
         "x3": 0,
         "x4": 0,
@@ -1541,7 +1541,7 @@
     "171": {
         "index": 171,
         "name": "Day 'N' Nite",
-        "x1": 4,
+        "maxLevel": 4,
         "bonusPerLevel": 50,
         "x3": 0,
         "x4": 0,
@@ -1550,7 +1550,7 @@
     "172": {
         "index": 172,
         "name": "Well Dressed",
-        "x1": 2,
+        "maxLevel": 2,
         "bonusPerLevel": 25,
         "x3": 0,
         "x4": 0,
@@ -1559,7 +1559,7 @@
     "173": {
         "index": 173,
         "name": "Divine Design",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 25,
         "x3": 0,
         "x4": 0,
@@ -1568,7 +1568,7 @@
     "174": {
         "index": 174,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1577,7 +1577,7 @@
     "175": {
         "index": 175,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1586,7 +1586,7 @@
     "176": {
         "index": 176,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1595,7 +1595,7 @@
     "177": {
         "index": 177,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1604,7 +1604,7 @@
     "178": {
         "index": 178,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1613,7 +1613,7 @@
     "179": {
         "index": 179,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1622,7 +1622,7 @@
     "180": {
         "index": 180,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1631,7 +1631,7 @@
     "181": {
         "index": 181,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1640,7 +1640,7 @@
     "182": {
         "index": 182,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1649,7 +1649,7 @@
     "183": {
         "index": 183,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1658,7 +1658,7 @@
     "184": {
         "index": 184,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1667,7 +1667,7 @@
     "185": {
         "index": 185,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1676,7 +1676,7 @@
     "186": {
         "index": 186,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1685,7 +1685,7 @@
     "187": {
         "index": 187,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1694,7 +1694,7 @@
     "188": {
         "index": 188,
         "name": "Shakin' It",
-        "x1": 2,
+        "maxLevel": 2,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1703,7 +1703,7 @@
     "189": {
         "index": 189,
         "name": "Sushi Station Linguistics",
-        "x1": 4,
+        "maxLevel": 4,
         "bonusPerLevel": 25,
         "x3": 0,
         "x4": 0,
@@ -1712,7 +1712,7 @@
     "190": {
         "index": 190,
         "name": "Masterius Cookerius",
-        "x1": 4,
+        "maxLevel": 4,
         "bonusPerLevel": 75,
         "x3": 0,
         "x4": 0,
@@ -1721,7 +1721,7 @@
     "191": {
         "index": 191,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1730,7 +1730,7 @@
     "192": {
         "index": 192,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1739,7 +1739,7 @@
     "193": {
         "index": 193,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1748,7 +1748,7 @@
     "194": {
         "index": 194,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1757,7 +1757,7 @@
     "195": {
         "index": 195,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1766,7 +1766,7 @@
     "196": {
         "index": 196,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1775,7 +1775,7 @@
     "197": {
         "index": 197,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1784,7 +1784,7 @@
     "198": {
         "index": 198,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1793,7 +1793,7 @@
     "199": {
         "index": 199,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1802,7 +1802,7 @@
     "200": {
         "index": 200,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1811,7 +1811,7 @@
     "201": {
         "index": 201,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1820,7 +1820,7 @@
     "202": {
         "index": 202,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1829,7 +1829,7 @@
     "203": {
         "index": 203,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1838,7 +1838,7 @@
     "204": {
         "index": 204,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1847,7 +1847,7 @@
     "205": {
         "index": 205,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1856,7 +1856,7 @@
     "206": {
         "index": 206,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1865,7 +1865,7 @@
     "207": {
         "index": 207,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1874,7 +1874,7 @@
     "208": {
         "index": 208,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1883,7 +1883,7 @@
     "209": {
         "index": 209,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1892,7 +1892,7 @@
     "210": {
         "index": 210,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1901,7 +1901,7 @@
     "211": {
         "index": 211,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1910,7 +1910,7 @@
     "212": {
         "index": 212,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1919,7 +1919,7 @@
     "213": {
         "index": 213,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1928,7 +1928,7 @@
     "214": {
         "index": 214,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1937,7 +1937,7 @@
     "215": {
         "index": 215,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1946,7 +1946,7 @@
     "216": {
         "index": 216,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1955,7 +1955,7 @@
     "217": {
         "index": 217,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1964,7 +1964,7 @@
     "218": {
         "index": 218,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1973,7 +1973,7 @@
     "219": {
         "index": 219,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1982,7 +1982,7 @@
     "220": {
         "index": 220,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -1991,7 +1991,7 @@
     "221": {
         "index": 221,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -2000,7 +2000,7 @@
     "222": {
         "index": 222,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -2009,7 +2009,7 @@
     "223": {
         "index": 223,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -2018,7 +2018,7 @@
     "224": {
         "index": 224,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -2027,7 +2027,7 @@
     "225": {
         "index": 225,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -2036,7 +2036,7 @@
     "226": {
         "index": 226,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -2045,7 +2045,7 @@
     "227": {
         "index": 227,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -2054,7 +2054,7 @@
     "228": {
         "index": 228,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -2063,7 +2063,7 @@
     "229": {
         "index": 229,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -2072,7 +2072,7 @@
     "230": {
         "index": 230,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -2081,7 +2081,7 @@
     "231": {
         "index": 231,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -2090,7 +2090,7 @@
     "232": {
         "index": 232,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -2099,7 +2099,7 @@
     "233": {
         "index": 233,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -2108,7 +2108,7 @@
     "234": {
         "index": 234,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -2117,7 +2117,7 @@
     "235": {
         "index": 235,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -2126,7 +2126,7 @@
     "236": {
         "index": 236,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -2135,7 +2135,7 @@
     "237": {
         "index": 237,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -2144,7 +2144,7 @@
     "238": {
         "index": 238,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
@@ -2153,7 +2153,7 @@
     "239": {
         "index": 239,
         "name": "Name",
-        "x1": 1,
+        "maxLevel": 1,
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,

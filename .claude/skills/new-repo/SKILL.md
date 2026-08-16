@@ -23,6 +23,10 @@ Ask the user what game feature they want to extract data for. Then:
 
 4. **Find UI/game code** — Search the codefile for how the game uses these data indices. This helps name fields properly. Look for references to the function name or array variable.
 
+5. **Resolve the feature identity** — Container functions often combine unrelated features. Name models and repositories after the player-facing feature, not the wrapper function. When the code is ambiguous, consult the [official IdleOn Wiki](https://idleon.wiki/) and confirm the terminology against UI/game usage.
+
+6. **Inventory adjacent feature data** — Identify nearby lists that belong to the same player-facing feature, including definitions, ordering tables, labels, and modifiers. Include cohesive data that prevents an incomplete representation; exclude unrelated data that merely shares the container function.
+
 ## Step 2: Create the Model
 
 Create the model file in the appropriate `definitions/` subdirectory.
@@ -171,6 +175,8 @@ If the data comes from a function not yet registered in `helpers/CodeReader.py`:
 3. Add: `self.codeReader.addSection("FunctionName = function ()", "SectionName")`
 
 The pattern is: `addSection(start_of_function_signature, section_name)`
+
+When data is embedded in runtime logic, register the narrowest stable semantic section. Prefer a named string key plus an explicit delimiter, such as `addSection('"Feature_Data"', "FeatureData", ";")`, then use the common parsing helpers. Avoid coupling repositories to minified variable names or compiler-generated control-flow structure.
 
 ## Step 5: Register in AllRepos
 

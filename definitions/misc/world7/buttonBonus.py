@@ -2,6 +2,7 @@ from definitions.master.IdleonModel import IdleonModel
 from helpers.CustomTypes import Integer, Numeric
 
 
-class MineheadButtonBonus(IdleonModel):
+class ButtonBonus(IdleonModel):
     index: Integer
-    bonusPerCycle: Numeric
+    name: str
+    bonusPerPress: Numeric

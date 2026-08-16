@@ -9,7 +9,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(0, <ResearchGridBonusModel>{
                 "index": 0,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -18,7 +18,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(1, <ResearchGridBonusModel>{
                 "index": 1,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -27,7 +27,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(2, <ResearchGridBonusModel>{
                 "index": 2,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -36,7 +36,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(3, <ResearchGridBonusModel>{
                 "index": 3,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -45,7 +45,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(4, <ResearchGridBonusModel>{
                 "index": 4,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -54,7 +54,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(5, <ResearchGridBonusModel>{
                 "index": 5,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -63,7 +63,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(6, <ResearchGridBonusModel>{
                 "index": 6,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -72,7 +72,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(7, <ResearchGridBonusModel>{
                 "index": 7,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -81,7 +81,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(8, <ResearchGridBonusModel>{
                 "index": 8,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -90,7 +90,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(9, <ResearchGridBonusModel>{
                 "index": 9,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -99,7 +99,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(10, <ResearchGridBonusModel>{
                 "index": 10,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -108,7 +108,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(11, <ResearchGridBonusModel>{
                 "index": 11,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -117,7 +117,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(12, <ResearchGridBonusModel>{
                 "index": 12,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -126,7 +126,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(13, <ResearchGridBonusModel>{
                 "index": 13,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -135,7 +135,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(14, <ResearchGridBonusModel>{
                 "index": 14,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -144,7 +144,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(15, <ResearchGridBonusModel>{
                 "index": 15,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -153,7 +153,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(16, <ResearchGridBonusModel>{
                 "index": 16,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -162,7 +162,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(17, <ResearchGridBonusModel>{
                 "index": 17,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -171,7 +171,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(18, <ResearchGridBonusModel>{
                 "index": 18,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -180,7 +180,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(19, <ResearchGridBonusModel>{
                 "index": 19,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -189,7 +189,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(20, <ResearchGridBonusModel>{
                 "index": 20,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -198,7 +198,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(21, <ResearchGridBonusModel>{
                 "index": 21,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -207,7 +207,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(22, <ResearchGridBonusModel>{
                 "index": 22,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -216,7 +216,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(23, <ResearchGridBonusModel>{
                 "index": 23,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -225,7 +225,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(24, <ResearchGridBonusModel>{
                 "index": 24,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -234,7 +234,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(25, <ResearchGridBonusModel>{
                 "index": 25,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -243,7 +243,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(26, <ResearchGridBonusModel>{
                 "index": 26,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -252,7 +252,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(27, <ResearchGridBonusModel>{
                 "index": 27,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -261,7 +261,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(28, <ResearchGridBonusModel>{
                 "index": 28,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -270,7 +270,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(29, <ResearchGridBonusModel>{
                 "index": 29,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -279,7 +279,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(30, <ResearchGridBonusModel>{
                 "index": 30,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -288,7 +288,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(31, <ResearchGridBonusModel>{
                 "index": 31,
                 "name": "Smart Eye",
-                "x1": 3,
+                "maxLevel": 3,
                 "bonusPerLevel": 5,
                 "x3": 0,
                 "x4": 0,
@@ -297,7 +297,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(32, <ResearchGridBonusModel>{
                 "index": 32,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -306,7 +306,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(33, <ResearchGridBonusModel>{
                 "index": 33,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -315,7 +315,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(34, <ResearchGridBonusModel>{
                 "index": 34,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -324,7 +324,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(35, <ResearchGridBonusModel>{
                 "index": 35,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -333,7 +333,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(36, <ResearchGridBonusModel>{
                 "index": 36,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -342,7 +342,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(37, <ResearchGridBonusModel>{
                 "index": 37,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -351,7 +351,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(38, <ResearchGridBonusModel>{
                 "index": 38,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -360,7 +360,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(39, <ResearchGridBonusModel>{
                 "index": 39,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -369,7 +369,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(40, <ResearchGridBonusModel>{
                 "index": 40,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -378,7 +378,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(41, <ResearchGridBonusModel>{
                 "index": 41,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -387,7 +387,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(42, <ResearchGridBonusModel>{
                 "index": 42,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -396,7 +396,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(43, <ResearchGridBonusModel>{
                 "index": 43,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -405,7 +405,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(44, <ResearchGridBonusModel>{
                 "index": 44,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -414,7 +414,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(45, <ResearchGridBonusModel>{
                 "index": 45,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -423,7 +423,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(46, <ResearchGridBonusModel>{
                 "index": 46,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -432,7 +432,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(47, <ResearchGridBonusModel>{
                 "index": 47,
                 "name": "Sticker-it To Em!",
-                "x1": 2,
+                "maxLevel": 2,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -441,7 +441,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(48, <ResearchGridBonusModel>{
                 "index": 48,
                 "name": "Materials Science",
-                "x1": 4,
+                "maxLevel": 4,
                 "bonusPerLevel": 25,
                 "x3": 0,
                 "x4": 0,
@@ -450,7 +450,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(49, <ResearchGridBonusModel>{
                 "index": 49,
                 "name": "Polymer Refinery",
-                "x1": 2,
+                "maxLevel": 2,
                 "bonusPerLevel": 5,
                 "x3": 0,
                 "x4": 0,
@@ -459,7 +459,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(50, <ResearchGridBonusModel>{
                 "index": 50,
                 "name": "Pts Every Ten",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 5,
                 "x3": 0,
                 "x4": 0,
@@ -468,7 +468,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(51, <ResearchGridBonusModel>{
                 "index": 51,
                 "name": "Sharp Eye",
-                "x1": 4,
+                "maxLevel": 4,
                 "bonusPerLevel": 5,
                 "x3": 0,
                 "x4": 0,
@@ -477,7 +477,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(52, <ResearchGridBonusModel>{
                 "index": 52,
                 "name": "Holding Onto You",
-                "x1": 3,
+                "maxLevel": 3,
                 "bonusPerLevel": 10,
                 "x3": 0,
                 "x4": 0,
@@ -486,7 +486,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(53, <ResearchGridBonusModel>{
                 "index": 53,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -495,7 +495,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(54, <ResearchGridBonusModel>{
                 "index": 54,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -504,7 +504,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(55, <ResearchGridBonusModel>{
                 "index": 55,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -513,7 +513,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(56, <ResearchGridBonusModel>{
                 "index": 56,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -522,7 +522,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(57, <ResearchGridBonusModel>{
                 "index": 57,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -531,7 +531,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(58, <ResearchGridBonusModel>{
                 "index": 58,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -540,7 +540,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(59, <ResearchGridBonusModel>{
                 "index": 59,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -549,7 +549,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(60, <ResearchGridBonusModel>{
                 "index": 60,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -558,7 +558,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(61, <ResearchGridBonusModel>{
                 "index": 61,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -567,7 +567,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(62, <ResearchGridBonusModel>{
                 "index": 62,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -576,7 +576,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(63, <ResearchGridBonusModel>{
                 "index": 63,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -585,7 +585,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(64, <ResearchGridBonusModel>{
                 "index": 64,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -594,7 +594,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(65, <ResearchGridBonusModel>{
                 "index": 65,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -603,7 +603,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(66, <ResearchGridBonusModel>{
                 "index": 66,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -612,7 +612,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(67, <ResearchGridBonusModel>{
                 "index": 67,
                 "name": "Sticky Crowns",
-                "x1": 3,
+                "maxLevel": 3,
                 "bonusPerLevel": 25,
                 "x3": 0,
                 "x4": 0,
@@ -621,7 +621,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(68, <ResearchGridBonusModel>{
                 "index": 68,
                 "name": "Boony Crowns",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -630,7 +630,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(69, <ResearchGridBonusModel>{
                 "index": 69,
                 "name": "Adequate Sized, Actually",
-                "x1": 2,
+                "maxLevel": 2,
                 "bonusPerLevel": 50,
                 "x3": 0,
                 "x4": 0,
@@ -639,7 +639,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(70, <ResearchGridBonusModel>{
                 "index": 70,
                 "name": "Takin' Notes",
-                "x1": 4,
+                "maxLevel": 4,
                 "bonusPerLevel": 12,
                 "x3": 0,
                 "x4": 0,
@@ -648,7 +648,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(71, <ResearchGridBonusModel>{
                 "index": 71,
                 "name": "Powered Down Research",
-                "x1": 2,
+                "maxLevel": 2,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -657,7 +657,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(72, <ResearchGridBonusModel>{
                 "index": 72,
                 "name": "Kaleidoscope",
-                "x1": 4,
+                "maxLevel": 4,
                 "bonusPerLevel": 5,
                 "x3": 0,
                 "x4": 0,
@@ -666,7 +666,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(73, <ResearchGridBonusModel>{
                 "index": 73,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -675,7 +675,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(74, <ResearchGridBonusModel>{
                 "index": 74,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -684,7 +684,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(75, <ResearchGridBonusModel>{
                 "index": 75,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -693,7 +693,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(76, <ResearchGridBonusModel>{
                 "index": 76,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -702,7 +702,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(77, <ResearchGridBonusModel>{
                 "index": 77,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -711,7 +711,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(78, <ResearchGridBonusModel>{
                 "index": 78,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -720,7 +720,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(79, <ResearchGridBonusModel>{
                 "index": 79,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -729,7 +729,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(80, <ResearchGridBonusModel>{
                 "index": 80,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -738,7 +738,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(81, <ResearchGridBonusModel>{
                 "index": 81,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -747,7 +747,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(82, <ResearchGridBonusModel>{
                 "index": 82,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -756,7 +756,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(83, <ResearchGridBonusModel>{
                 "index": 83,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -765,7 +765,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(84, <ResearchGridBonusModel>{
                 "index": 84,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -774,7 +774,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(85, <ResearchGridBonusModel>{
                 "index": 85,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -783,7 +783,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(86, <ResearchGridBonusModel>{
                 "index": 86,
                 "name": "Equinox Nightmares",
-                "x1": 3,
+                "maxLevel": 3,
                 "bonusPerLevel": 20,
                 "x3": 0,
                 "x4": 0,
@@ -792,7 +792,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(87, <ResearchGridBonusModel>{
                 "index": 87,
                 "name": "Gaming Zuperbits",
-                "x1": 2,
+                "maxLevel": 2,
                 "bonusPerLevel": 200,
                 "x3": 0,
                 "x4": 0,
@@ -801,7 +801,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(88, <ResearchGridBonusModel>{
                 "index": 88,
                 "name": "Sticker Depot",
-                "x1": 3,
+                "maxLevel": 3,
                 "bonusPerLevel": 50,
                 "x3": 0,
                 "x4": 0,
@@ -810,7 +810,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(89, <ResearchGridBonusModel>{
                 "index": 89,
                 "name": "Tiny Cogs",
-                "x1": 4,
+                "maxLevel": 4,
                 "bonusPerLevel": 200,
                 "x3": 0,
                 "x4": 0,
@@ -819,7 +819,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(90, <ResearchGridBonusModel>{
                 "index": 90,
                 "name": "Observationalistic",
-                "x1": 4,
+                "maxLevel": 4,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -828,7 +828,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(91, <ResearchGridBonusModel>{
                 "index": 91,
                 "name": "Optical Monocle",
-                "x1": 4,
+                "maxLevel": 4,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -837,7 +837,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(92, <ResearchGridBonusModel>{
                 "index": 92,
                 "name": "Oracular Spectacular",
-                "x1": 2,
+                "maxLevel": 2,
                 "bonusPerLevel": 25,
                 "x3": 0,
                 "x4": 0,
@@ -846,7 +846,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(93, <ResearchGridBonusModel>{
                 "index": 93,
                 "name": "Game Design 101",
-                "x1": 3,
+                "maxLevel": 3,
                 "bonusPerLevel": 4,
                 "x3": 0,
                 "x4": 0,
@@ -855,7 +855,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(94, <ResearchGridBonusModel>{
                 "index": 94,
                 "name": "Game Design 102",
-                "x1": 4,
+                "maxLevel": 4,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -864,7 +864,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(95, <ResearchGridBonusModel>{
                 "index": 95,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -873,7 +873,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(96, <ResearchGridBonusModel>{
                 "index": 96,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -882,7 +882,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(97, <ResearchGridBonusModel>{
                 "index": 97,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -891,7 +891,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(98, <ResearchGridBonusModel>{
                 "index": 98,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -900,7 +900,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(99, <ResearchGridBonusModel>{
                 "index": 99,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -909,7 +909,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(100, <ResearchGridBonusModel>{
                 "index": 100,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -918,7 +918,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(101, <ResearchGridBonusModel>{
                 "index": 101,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -927,7 +927,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(102, <ResearchGridBonusModel>{
                 "index": 102,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -936,7 +936,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(103, <ResearchGridBonusModel>{
                 "index": 103,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -945,7 +945,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(104, <ResearchGridBonusModel>{
                 "index": 104,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -954,7 +954,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(105, <ResearchGridBonusModel>{
                 "index": 105,
                 "name": "Revival of the Undead Battalion",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -963,7 +963,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(106, <ResearchGridBonusModel>{
                 "index": 106,
                 "name": "The Maw",
-                "x1": 4,
+                "maxLevel": 4,
                 "bonusPerLevel": 25,
                 "x3": 0,
                 "x4": 0,
@@ -972,7 +972,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(107, <ResearchGridBonusModel>{
                 "index": 107,
                 "name": "Palettable Crowns",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 3,
                 "x3": 0,
                 "x4": 0,
@@ -981,7 +981,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(108, <ResearchGridBonusModel>{
                 "index": 108,
                 "name": "Rat King of Olde",
-                "x1": 2,
+                "maxLevel": 2,
                 "bonusPerLevel": 25,
                 "x3": 0,
                 "x4": 0,
@@ -990,7 +990,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(109, <ResearchGridBonusModel>{
                 "index": 109,
                 "name": "Transcendent Artifacts",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 25,
                 "x3": 0,
                 "x4": 0,
@@ -999,7 +999,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(110, <ResearchGridBonusModel>{
                 "index": 110,
                 "name": "All Night Studying",
-                "x1": 2,
+                "maxLevel": 2,
                 "bonusPerLevel": 50,
                 "x3": 0,
                 "x4": 0,
@@ -1008,7 +1008,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(111, <ResearchGridBonusModel>{
                 "index": 111,
                 "name": "Research AFK Gains",
-                "x1": 2,
+                "maxLevel": 2,
                 "bonusPerLevel": 5,
                 "x3": 0,
                 "x4": 0,
@@ -1017,7 +1017,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(112, <ResearchGridBonusModel>{
                 "index": 112,
                 "name": "See 'Em All",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 5,
                 "x3": 0,
                 "x4": 0,
@@ -1026,7 +1026,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(113, <ResearchGridBonusModel>{
                 "index": 113,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1035,7 +1035,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(114, <ResearchGridBonusModel>{
                 "index": 114,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1044,7 +1044,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(115, <ResearchGridBonusModel>{
                 "index": 115,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1053,7 +1053,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(116, <ResearchGridBonusModel>{
                 "index": 116,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1062,7 +1062,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(117, <ResearchGridBonusModel>{
                 "index": 117,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1071,7 +1071,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(118, <ResearchGridBonusModel>{
                 "index": 118,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1080,7 +1080,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(119, <ResearchGridBonusModel>{
                 "index": 119,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1089,7 +1089,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(120, <ResearchGridBonusModel>{
                 "index": 120,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1098,7 +1098,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(121, <ResearchGridBonusModel>{
                 "index": 121,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1107,7 +1107,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(122, <ResearchGridBonusModel>{
                 "index": 122,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1116,7 +1116,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(123, <ResearchGridBonusModel>{
                 "index": 123,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1125,7 +1125,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(124, <ResearchGridBonusModel>{
                 "index": 124,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1134,7 +1134,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(125, <ResearchGridBonusModel>{
                 "index": 125,
                 "name": "Better Button",
-                "x1": 3,
+                "maxLevel": 3,
                 "bonusPerLevel": 5,
                 "x3": 0,
                 "x4": 0,
@@ -1143,7 +1143,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(126, <ResearchGridBonusModel>{
                 "index": 126,
                 "name": "Insta Skips",
-                "x1": 2,
+                "maxLevel": 2,
                 "bonusPerLevel": 3,
                 "x3": 0,
                 "x4": 0,
@@ -1152,7 +1152,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(127, <ResearchGridBonusModel>{
                 "index": 127,
                 "name": "Eclectoplasmaticism",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1161,7 +1161,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(128, <ResearchGridBonusModel>{
                 "index": 128,
                 "name": "Eclectic Sigils",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 10,
                 "x3": 0,
                 "x4": 0,
@@ -1170,7 +1170,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(129, <ResearchGridBonusModel>{
                 "index": 129,
                 "name": "Mr Minehead Linguistics",
-                "x1": 4,
+                "maxLevel": 4,
                 "bonusPerLevel": 10,
                 "x3": 0,
                 "x4": 0,
@@ -1179,7 +1179,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(130, <ResearchGridBonusModel>{
                 "index": 130,
                 "name": "Legendary Yellow Fever",
-                "x1": 3,
+                "maxLevel": 3,
                 "bonusPerLevel": 5,
                 "x3": 0,
                 "x4": 0,
@@ -1188,7 +1188,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(131, <ResearchGridBonusModel>{
                 "index": 131,
                 "name": "Legendary Red Fever",
-                "x1": 3,
+                "maxLevel": 3,
                 "bonusPerLevel": 5,
                 "x3": 0,
                 "x4": 0,
@@ -1197,7 +1197,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(132, <ResearchGridBonusModel>{
                 "index": 132,
                 "name": "Legendary Brown Fever",
-                "x1": 3,
+                "maxLevel": 3,
                 "bonusPerLevel": 5,
                 "x3": 0,
                 "x4": 0,
@@ -1206,7 +1206,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(133, <ResearchGridBonusModel>{
                 "index": 133,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1215,7 +1215,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(134, <ResearchGridBonusModel>{
                 "index": 134,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1224,7 +1224,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(135, <ResearchGridBonusModel>{
                 "index": 135,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1233,7 +1233,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(136, <ResearchGridBonusModel>{
                 "index": 136,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1242,7 +1242,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(137, <ResearchGridBonusModel>{
                 "index": 137,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1251,7 +1251,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(138, <ResearchGridBonusModel>{
                 "index": 138,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1260,7 +1260,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(139, <ResearchGridBonusModel>{
                 "index": 139,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1269,7 +1269,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(140, <ResearchGridBonusModel>{
                 "index": 140,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1278,7 +1278,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(141, <ResearchGridBonusModel>{
                 "index": 141,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1287,7 +1287,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(142, <ResearchGridBonusModel>{
                 "index": 142,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1296,7 +1296,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(143, <ResearchGridBonusModel>{
                 "index": 143,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1305,7 +1305,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(144, <ResearchGridBonusModel>{
                 "index": 144,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1314,7 +1314,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(145, <ResearchGridBonusModel>{
                 "index": 145,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1323,7 +1323,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(146, <ResearchGridBonusModel>{
                 "index": 146,
                 "name": "Risky Strategy",
-                "x1": 2,
+                "maxLevel": 2,
                 "bonusPerLevel": 10,
                 "x3": 0,
                 "x4": 0,
@@ -1332,7 +1332,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(147, <ResearchGridBonusModel>{
                 "index": 147,
                 "name": "Depth Charge Rematch!",
-                "x1": 4,
+                "maxLevel": 4,
                 "bonusPerLevel": 25,
                 "x3": 0,
                 "x4": 0,
@@ -1341,7 +1341,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(148, <ResearchGridBonusModel>{
                 "index": 148,
                 "name": "More of that Minehead Money Pls",
-                "x1": 4,
+                "maxLevel": 4,
                 "bonusPerLevel": 25,
                 "x3": 0,
                 "x4": 0,
@@ -1350,7 +1350,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(149, <ResearchGridBonusModel>{
                 "index": 149,
                 "name": "Glimbo Linguistics",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 15,
                 "x3": 0,
                 "x4": 0,
@@ -1359,7 +1359,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(150, <ResearchGridBonusModel>{
                 "index": 150,
                 "name": "Masterclass Research",
-                "x1": 2,
+                "maxLevel": 2,
                 "bonusPerLevel": 10,
                 "x3": 0,
                 "x4": 0,
@@ -1368,7 +1368,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(151, <ResearchGridBonusModel>{
                 "index": 151,
                 "name": "Spelunking Research",
-                "x1": 2,
+                "maxLevel": 2,
                 "bonusPerLevel": 25,
                 "x3": 0,
                 "x4": 0,
@@ -1377,7 +1377,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(152, <ResearchGridBonusModel>{
                 "index": 152,
                 "name": "Legendary Green Fever",
-                "x1": 3,
+                "maxLevel": 3,
                 "bonusPerLevel": 5,
                 "x3": 0,
                 "x4": 0,
@@ -1386,7 +1386,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(153, <ResearchGridBonusModel>{
                 "index": 153,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1395,7 +1395,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(154, <ResearchGridBonusModel>{
                 "index": 154,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1404,7 +1404,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(155, <ResearchGridBonusModel>{
                 "index": 155,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1413,7 +1413,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(156, <ResearchGridBonusModel>{
                 "index": 156,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1422,7 +1422,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(157, <ResearchGridBonusModel>{
                 "index": 157,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1431,7 +1431,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(158, <ResearchGridBonusModel>{
                 "index": 158,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1440,7 +1440,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(159, <ResearchGridBonusModel>{
                 "index": 159,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1449,7 +1449,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(160, <ResearchGridBonusModel>{
                 "index": 160,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1458,7 +1458,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(161, <ResearchGridBonusModel>{
                 "index": 161,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1467,7 +1467,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(162, <ResearchGridBonusModel>{
                 "index": 162,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1476,7 +1476,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(163, <ResearchGridBonusModel>{
                 "index": 163,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1485,7 +1485,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(164, <ResearchGridBonusModel>{
                 "index": 164,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1494,7 +1494,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(165, <ResearchGridBonusModel>{
                 "index": 165,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1503,7 +1503,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(166, <ResearchGridBonusModel>{
                 "index": 166,
                 "name": "Minehead Copium",
-                "x1": 4,
+                "maxLevel": 4,
                 "bonusPerLevel": 15,
                 "x3": 0,
                 "x4": 0,
@@ -1512,7 +1512,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(167, <ResearchGridBonusModel>{
                 "index": 167,
                 "name": "Minehead Damagio",
-                "x1": 3,
+                "maxLevel": 3,
                 "bonusPerLevel": 15,
                 "x3": 0,
                 "x4": 0,
@@ -1521,7 +1521,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(168, <ResearchGridBonusModel>{
                 "index": 168,
                 "name": "Glimbo Insider Trading Secrets",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1530,7 +1530,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(169, <ResearchGridBonusModel>{
                 "index": 169,
                 "name": "Glimbo BOGO Offer",
-                "x1": 2,
+                "maxLevel": 2,
                 "bonusPerLevel": 10,
                 "x3": 0,
                 "x4": 0,
@@ -1539,7 +1539,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(170, <ResearchGridBonusModel>{
                 "index": 170,
                 "name": "All Quick All Done",
-                "x1": 3,
+                "maxLevel": 3,
                 "bonusPerLevel": 50,
                 "x3": 0,
                 "x4": 0,
@@ -1548,7 +1548,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(171, <ResearchGridBonusModel>{
                 "index": 171,
                 "name": "Day 'N' Nite",
-                "x1": 4,
+                "maxLevel": 4,
                 "bonusPerLevel": 50,
                 "x3": 0,
                 "x4": 0,
@@ -1557,7 +1557,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(172, <ResearchGridBonusModel>{
                 "index": 172,
                 "name": "Well Dressed",
-                "x1": 2,
+                "maxLevel": 2,
                 "bonusPerLevel": 25,
                 "x3": 0,
                 "x4": 0,
@@ -1566,7 +1566,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(173, <ResearchGridBonusModel>{
                 "index": 173,
                 "name": "Divine Design",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 25,
                 "x3": 0,
                 "x4": 0,
@@ -1575,7 +1575,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(174, <ResearchGridBonusModel>{
                 "index": 174,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1584,7 +1584,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(175, <ResearchGridBonusModel>{
                 "index": 175,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1593,7 +1593,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(176, <ResearchGridBonusModel>{
                 "index": 176,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1602,7 +1602,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(177, <ResearchGridBonusModel>{
                 "index": 177,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1611,7 +1611,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(178, <ResearchGridBonusModel>{
                 "index": 178,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1620,7 +1620,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(179, <ResearchGridBonusModel>{
                 "index": 179,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1629,7 +1629,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(180, <ResearchGridBonusModel>{
                 "index": 180,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1638,7 +1638,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(181, <ResearchGridBonusModel>{
                 "index": 181,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1647,7 +1647,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(182, <ResearchGridBonusModel>{
                 "index": 182,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1656,7 +1656,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(183, <ResearchGridBonusModel>{
                 "index": 183,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1665,7 +1665,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(184, <ResearchGridBonusModel>{
                 "index": 184,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1674,7 +1674,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(185, <ResearchGridBonusModel>{
                 "index": 185,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1683,7 +1683,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(186, <ResearchGridBonusModel>{
                 "index": 186,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1692,7 +1692,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(187, <ResearchGridBonusModel>{
                 "index": 187,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1701,7 +1701,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(188, <ResearchGridBonusModel>{
                 "index": 188,
                 "name": "Shakin' It",
-                "x1": 2,
+                "maxLevel": 2,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1710,7 +1710,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(189, <ResearchGridBonusModel>{
                 "index": 189,
                 "name": "Sushi Station Linguistics",
-                "x1": 4,
+                "maxLevel": 4,
                 "bonusPerLevel": 25,
                 "x3": 0,
                 "x4": 0,
@@ -1719,7 +1719,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(190, <ResearchGridBonusModel>{
                 "index": 190,
                 "name": "Masterius Cookerius",
-                "x1": 4,
+                "maxLevel": 4,
                 "bonusPerLevel": 75,
                 "x3": 0,
                 "x4": 0,
@@ -1728,7 +1728,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(191, <ResearchGridBonusModel>{
                 "index": 191,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1737,7 +1737,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(192, <ResearchGridBonusModel>{
                 "index": 192,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1746,7 +1746,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(193, <ResearchGridBonusModel>{
                 "index": 193,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1755,7 +1755,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(194, <ResearchGridBonusModel>{
                 "index": 194,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1764,7 +1764,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(195, <ResearchGridBonusModel>{
                 "index": 195,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1773,7 +1773,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(196, <ResearchGridBonusModel>{
                 "index": 196,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1782,7 +1782,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(197, <ResearchGridBonusModel>{
                 "index": 197,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1791,7 +1791,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(198, <ResearchGridBonusModel>{
                 "index": 198,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1800,7 +1800,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(199, <ResearchGridBonusModel>{
                 "index": 199,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1809,7 +1809,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(200, <ResearchGridBonusModel>{
                 "index": 200,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1818,7 +1818,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(201, <ResearchGridBonusModel>{
                 "index": 201,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1827,7 +1827,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(202, <ResearchGridBonusModel>{
                 "index": 202,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1836,7 +1836,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(203, <ResearchGridBonusModel>{
                 "index": 203,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1845,7 +1845,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(204, <ResearchGridBonusModel>{
                 "index": 204,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1854,7 +1854,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(205, <ResearchGridBonusModel>{
                 "index": 205,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1863,7 +1863,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(206, <ResearchGridBonusModel>{
                 "index": 206,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1872,7 +1872,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(207, <ResearchGridBonusModel>{
                 "index": 207,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1881,7 +1881,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(208, <ResearchGridBonusModel>{
                 "index": 208,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1890,7 +1890,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(209, <ResearchGridBonusModel>{
                 "index": 209,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1899,7 +1899,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(210, <ResearchGridBonusModel>{
                 "index": 210,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1908,7 +1908,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(211, <ResearchGridBonusModel>{
                 "index": 211,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1917,7 +1917,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(212, <ResearchGridBonusModel>{
                 "index": 212,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1926,7 +1926,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(213, <ResearchGridBonusModel>{
                 "index": 213,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1935,7 +1935,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(214, <ResearchGridBonusModel>{
                 "index": 214,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1944,7 +1944,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(215, <ResearchGridBonusModel>{
                 "index": 215,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1953,7 +1953,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(216, <ResearchGridBonusModel>{
                 "index": 216,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1962,7 +1962,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(217, <ResearchGridBonusModel>{
                 "index": 217,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1971,7 +1971,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(218, <ResearchGridBonusModel>{
                 "index": 218,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1980,7 +1980,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(219, <ResearchGridBonusModel>{
                 "index": 219,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1989,7 +1989,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(220, <ResearchGridBonusModel>{
                 "index": 220,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -1998,7 +1998,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(221, <ResearchGridBonusModel>{
                 "index": 221,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -2007,7 +2007,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(222, <ResearchGridBonusModel>{
                 "index": 222,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -2016,7 +2016,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(223, <ResearchGridBonusModel>{
                 "index": 223,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -2025,7 +2025,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(224, <ResearchGridBonusModel>{
                 "index": 224,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -2034,7 +2034,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(225, <ResearchGridBonusModel>{
                 "index": 225,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -2043,7 +2043,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(226, <ResearchGridBonusModel>{
                 "index": 226,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -2052,7 +2052,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(227, <ResearchGridBonusModel>{
                 "index": 227,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -2061,7 +2061,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(228, <ResearchGridBonusModel>{
                 "index": 228,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -2070,7 +2070,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(229, <ResearchGridBonusModel>{
                 "index": 229,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -2079,7 +2079,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(230, <ResearchGridBonusModel>{
                 "index": 230,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -2088,7 +2088,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(231, <ResearchGridBonusModel>{
                 "index": 231,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -2097,7 +2097,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(232, <ResearchGridBonusModel>{
                 "index": 232,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -2106,7 +2106,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(233, <ResearchGridBonusModel>{
                 "index": 233,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -2115,7 +2115,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(234, <ResearchGridBonusModel>{
                 "index": 234,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -2124,7 +2124,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(235, <ResearchGridBonusModel>{
                 "index": 235,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -2133,7 +2133,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(236, <ResearchGridBonusModel>{
                 "index": 236,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -2142,7 +2142,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(237, <ResearchGridBonusModel>{
                 "index": 237,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -2151,7 +2151,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(238, <ResearchGridBonusModel>{
                 "index": 238,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
@@ -2160,7 +2160,7 @@ export const initResearchGridBonusRepo = () => {
         new ResearchGridBonusBase(239, <ResearchGridBonusModel>{
                 "index": 239,
                 "name": "Name",
-                "x1": 1,
+                "maxLevel": 1,
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
