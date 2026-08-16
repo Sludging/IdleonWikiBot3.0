@@ -5,7 +5,8 @@
         "baseRequirement": 1000,
         "scalingType": "exponent",
         "scalingValue": 1.045,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [34, 56]
     },
     {
         "index": 1,
@@ -13,7 +14,8 @@
         "baseRequirement": 1000,
         "scalingType": "exponent",
         "scalingValue": 1.045,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [15, 73]
     },
     {
         "index": 2,
@@ -21,7 +23,8 @@
         "baseRequirement": 1000,
         "scalingType": "exponent",
         "scalingValue": 1.045,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [16, 48]
     },
     {
         "index": 3,
@@ -29,7 +32,8 @@
         "baseRequirement": 400,
         "scalingType": "exponent",
         "scalingValue": 1.04,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [6, 86]
     },
     {
         "index": 4,
@@ -37,7 +41,8 @@
         "baseRequirement": 5000,
         "scalingType": "exponent",
         "scalingValue": 1.18,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [29, 61]
     },
     {
         "index": 5,
@@ -45,7 +50,8 @@
         "baseRequirement": 3000,
         "scalingType": "exponent",
         "scalingValue": 1.16,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [26, 69]
     },
     {
         "index": 6,
@@ -53,7 +59,8 @@
         "baseRequirement": 1500,
         "scalingType": "exponent",
         "scalingValue": 1.14,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [3, 55]
     },
     {
         "index": 7,
@@ -61,7 +68,8 @@
         "baseRequirement": 1000,
         "scalingType": "exponent",
         "scalingValue": 1.12,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [41, 81]
     },
     {
         "index": 8,
@@ -69,7 +77,8 @@
         "baseRequirement": 100,
         "scalingType": "linear",
         "scalingValue": 1.5,
-        "x4": 1
+        "x4": 1,
+        "cycleIndexes": [42, 77]
     },
     {
         "index": 9,
@@ -77,7 +86,8 @@
         "baseRequirement": 100,
         "scalingType": "linear",
         "scalingValue": 1.5,
-        "x4": 1
+        "x4": 1,
+        "cycleIndexes": [20, 21]
     },
     {
         "index": 10,
@@ -85,7 +95,8 @@
         "baseRequirement": 100,
         "scalingType": "linear",
         "scalingValue": 1.5,
-        "x4": 1
+        "x4": 1,
+        "cycleIndexes": [60, 68]
     },
     {
         "index": 11,
@@ -93,7 +104,8 @@
         "baseRequirement": 100,
         "scalingType": "linear",
         "scalingValue": 1.5,
-        "x4": 1
+        "x4": 1,
+        "cycleIndexes": [9, 10]
     },
     {
         "index": 12,
@@ -101,7 +113,8 @@
         "baseRequirement": 100,
         "scalingType": "linear",
         "scalingValue": 1.5,
-        "x4": 1
+        "x4": 1,
+        "cycleIndexes": [47, 51]
     },
     {
         "index": 13,
@@ -109,7 +122,8 @@
         "baseRequirement": 100,
         "scalingType": "linear",
         "scalingValue": 1.5,
-        "x4": 1
+        "x4": 1,
+        "cycleIndexes": [25, 36]
     },
     {
         "index": 14,
@@ -117,7 +131,8 @@
         "baseRequirement": 100,
         "scalingType": "linear",
         "scalingValue": 1.5,
-        "x4": 1
+        "x4": 1,
+        "cycleIndexes": [19, 82]
     },
     {
         "index": 15,
@@ -125,7 +140,8 @@
         "baseRequirement": 100,
         "scalingType": "exponent",
         "scalingValue": 1.15,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [2, 33]
     },
     {
         "index": 16,
@@ -133,7 +149,8 @@
         "baseRequirement": 25,
         "scalingType": "exponent",
         "scalingValue": 1.031,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [18, 76]
     },
     {
         "index": 17,
@@ -141,7 +158,8 @@
         "baseRequirement": 25,
         "scalingType": "linear",
         "scalingValue": 1.6,
-        "x4": 1
+        "x4": 1,
+        "cycleIndexes": [46, 65]
     },
     {
         "index": 18,
@@ -149,7 +167,8 @@
         "baseRequirement": 200,
         "scalingType": "exponent",
         "scalingValue": 1.035,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [30, 92]
     },
     {
         "index": 19,
@@ -157,7 +176,8 @@
         "baseRequirement": 200,
         "scalingType": "exponent",
         "scalingValue": 1.035,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [7, 64]
     },
     {
         "index": 20,
@@ -165,7 +185,8 @@
         "baseRequirement": 200,
         "scalingType": "exponent",
         "scalingValue": 1.035,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [39, 85]
     },
     {
         "index": 21,
@@ -173,7 +194,8 @@
         "baseRequirement": 50000000,
         "scalingType": "exponent",
         "scalingValue": 1.13,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [40, 75]
     },
     {
         "index": 22,
@@ -181,7 +203,8 @@
         "baseRequirement": 100000,
         "scalingType": "exponent",
         "scalingValue": 1.15,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [17, 52]
     },
     {
         "index": 23,
@@ -189,7 +212,8 @@
         "baseRequirement": 1000000000,
         "scalingType": "exponent",
         "scalingValue": 1.5,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [14, 72]
     },
     {
         "index": 24,
@@ -197,7 +221,8 @@
         "baseRequirement": 500,
         "scalingType": "linear",
         "scalingValue": 3.5,
-        "x4": 1
+        "x4": 1,
+        "cycleIndexes": [11, 58]
     },
     {
         "index": 25,
@@ -205,7 +230,8 @@
         "baseRequirement": 25000,
         "scalingType": "exponent",
         "scalingValue": 1.023,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [57, 88]
     },
     {
         "index": 26,
@@ -213,7 +239,8 @@
         "baseRequirement": 100000,
         "scalingType": "exponent",
         "scalingValue": 1.047,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [22, 28]
     },
     {
         "index": 27,
@@ -221,7 +248,8 @@
         "baseRequirement": 5,
         "scalingType": "step",
         "scalingValue": 20,
-        "x4": 1
+        "x4": 1,
+        "cycleIndexes": [79, 80]
     },
     {
         "index": 28,
@@ -229,7 +257,8 @@
         "baseRequirement": 25,
         "scalingType": "step",
         "scalingValue": 2.5,
-        "x4": 1
+        "x4": 1,
+        "cycleIndexes": [4, 31]
     },
     {
         "index": 29,
@@ -237,7 +266,8 @@
         "baseRequirement": 5000,
         "scalingType": "exponent",
         "scalingValue": 1.011,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [66, 94]
     },
     {
         "index": 30,
@@ -245,7 +275,8 @@
         "baseRequirement": 100,
         "scalingType": "linear",
         "scalingValue": 3,
-        "x4": 1
+        "x4": 1,
+        "cycleIndexes": [44, 67]
     },
     {
         "index": 31,
@@ -253,7 +284,8 @@
         "baseRequirement": 200,
         "scalingType": "linear",
         "scalingValue": 4.3,
-        "x4": 1
+        "x4": 1,
+        "cycleIndexes": [23, 49]
     },
     {
         "index": 32,
@@ -261,7 +293,8 @@
         "baseRequirement": 25,
         "scalingType": "linear",
         "scalingValue": 1.3,
-        "x4": 1
+        "x4": 1,
+        "cycleIndexes": [1, 78]
     },
     {
         "index": 33,
@@ -269,7 +302,8 @@
         "baseRequirement": 75,
         "scalingType": "step",
         "scalingValue": 2,
-        "x4": 1
+        "x4": 1,
+        "cycleIndexes": [53, 62]
     },
     {
         "index": 34,
@@ -277,7 +311,8 @@
         "baseRequirement": 75,
         "scalingType": "step",
         "scalingValue": 2,
-        "x4": 1
+        "x4": 1,
+        "cycleIndexes": [5, 32]
     },
     {
         "index": 35,
@@ -285,7 +320,8 @@
         "baseRequirement": 100,
         "scalingType": "linear",
         "scalingValue": 2.5,
-        "x4": 1
+        "x4": 1,
+        "cycleIndexes": [37, 87]
     },
     {
         "index": 36,
@@ -293,7 +329,8 @@
         "baseRequirement": 1000000,
         "scalingType": "exponent",
         "scalingValue": 1.1,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [70, 84]
     },
     {
         "index": 37,
@@ -301,7 +338,8 @@
         "baseRequirement": 1000000,
         "scalingType": "exponent",
         "scalingValue": 1.13,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [13, 54]
     },
     {
         "index": 38,
@@ -309,7 +347,8 @@
         "baseRequirement": 1000,
         "scalingType": "exponent",
         "scalingValue": 1.037,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [12, 91]
     },
     {
         "index": 39,
@@ -317,7 +356,8 @@
         "baseRequirement": 1000000000,
         "scalingType": "exponent",
         "scalingValue": 3,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [59, 71]
     },
     {
         "index": 40,
@@ -325,7 +365,8 @@
         "baseRequirement": 1000,
         "scalingType": "exponent",
         "scalingValue": 1.042,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [38, 90]
     },
     {
         "index": 41,
@@ -333,7 +374,8 @@
         "baseRequirement": 10,
         "scalingType": "exponent",
         "scalingValue": 1.021,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [27, 74]
     },
     {
         "index": 42,
@@ -341,7 +383,8 @@
         "baseRequirement": 500,
         "scalingType": "linear",
         "scalingValue": 6,
-        "x4": 1
+        "x4": 1,
+        "cycleIndexes": [0, 43]
     },
     {
         "index": 43,
@@ -349,7 +392,8 @@
         "baseRequirement": 1000000000,
         "scalingType": "exponent",
         "scalingValue": 1.3,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [95]
     },
     {
         "index": 44,
@@ -357,7 +401,8 @@
         "baseRequirement": 50,
         "scalingType": "linear",
         "scalingValue": 2,
-        "x4": 1
+        "x4": 1,
+        "cycleIndexes": [83]
     },
     {
         "index": 45,
@@ -365,7 +410,8 @@
         "baseRequirement": 10000,
         "scalingType": "exponent",
         "scalingValue": 1.06,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [50]
     },
     {
         "index": 46,
@@ -373,7 +419,8 @@
         "baseRequirement": 1000000,
         "scalingType": "exponent",
         "scalingValue": 2.5,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [98]
     },
     {
         "index": 47,
@@ -381,7 +428,8 @@
         "baseRequirement": 500,
         "scalingType": "linear",
         "scalingValue": 100,
-        "x4": 1
+        "x4": 1,
+        "cycleIndexes": [24]
     },
     {
         "index": 48,
@@ -389,7 +437,8 @@
         "baseRequirement": 70,
         "scalingType": "linear",
         "scalingValue": 1,
-        "x4": 1
+        "x4": 1,
+        "cycleIndexes": [89]
     },
     {
         "index": 49,
@@ -397,7 +446,8 @@
         "baseRequirement": 100,
         "scalingType": "exponent",
         "scalingValue": 1.09,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [97]
     },
     {
         "index": 50,
@@ -405,7 +455,8 @@
         "baseRequirement": 1000000000,
         "scalingType": "exponent",
         "scalingValue": 1.22,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [93]
     },
     {
         "index": 51,
@@ -413,7 +464,8 @@
         "baseRequirement": 40,
         "scalingType": "step",
         "scalingValue": 2,
-        "x4": 1
+        "x4": 1,
+        "cycleIndexes": [99]
     },
     {
         "index": 52,
@@ -421,7 +473,8 @@
         "baseRequirement": 1000000000,
         "scalingType": "exponent",
         "scalingValue": 1.55,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [45]
     },
     {
         "index": 53,
@@ -429,7 +482,8 @@
         "baseRequirement": 25,
         "scalingType": "step",
         "scalingValue": 2,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [63]
     },
     {
         "index": 54,
@@ -437,7 +491,8 @@
         "baseRequirement": 1000000,
         "scalingType": "exponent",
         "scalingValue": 1.34,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [8]
     },
     {
         "index": 55,
@@ -445,7 +500,8 @@
         "baseRequirement": 1000000000,
         "scalingType": "exponent",
         "scalingValue": 1.28,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [96]
     },
     {
         "index": 56,
@@ -453,6 +509,7 @@
         "baseRequirement": 1000000,
         "scalingType": "exponent",
         "scalingValue": 1.15,
-        "x4": 0
+        "x4": 0,
+        "cycleIndexes": [35]
     }
 ]

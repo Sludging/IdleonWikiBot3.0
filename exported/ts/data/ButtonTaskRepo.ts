@@ -12,7 +12,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 1000,
                 "scalingType": "exponent",
                 "scalingValue": 1.045,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [34, 56]
             }),
         new ButtonTaskBase(1, <ButtonTaskModel>{
                 "index": 1,
@@ -20,7 +21,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 1000,
                 "scalingType": "exponent",
                 "scalingValue": 1.045,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [15, 73]
             }),
         new ButtonTaskBase(2, <ButtonTaskModel>{
                 "index": 2,
@@ -28,7 +30,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 1000,
                 "scalingType": "exponent",
                 "scalingValue": 1.045,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [16, 48]
             }),
         new ButtonTaskBase(3, <ButtonTaskModel>{
                 "index": 3,
@@ -36,7 +39,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 400,
                 "scalingType": "exponent",
                 "scalingValue": 1.04,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [6, 86]
             }),
         new ButtonTaskBase(4, <ButtonTaskModel>{
                 "index": 4,
@@ -44,7 +48,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 5000,
                 "scalingType": "exponent",
                 "scalingValue": 1.18,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [29, 61]
             }),
         new ButtonTaskBase(5, <ButtonTaskModel>{
                 "index": 5,
@@ -52,7 +57,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 3000,
                 "scalingType": "exponent",
                 "scalingValue": 1.16,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [26, 69]
             }),
         new ButtonTaskBase(6, <ButtonTaskModel>{
                 "index": 6,
@@ -60,7 +66,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 1500,
                 "scalingType": "exponent",
                 "scalingValue": 1.14,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [3, 55]
             }),
         new ButtonTaskBase(7, <ButtonTaskModel>{
                 "index": 7,
@@ -68,7 +75,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 1000,
                 "scalingType": "exponent",
                 "scalingValue": 1.12,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [41, 81]
             }),
         new ButtonTaskBase(8, <ButtonTaskModel>{
                 "index": 8,
@@ -76,7 +84,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 100,
                 "scalingType": "linear",
                 "scalingValue": 1.5,
-                "x4": 1
+                "x4": 1,
+                "cycleIndexes": [42, 77]
             }),
         new ButtonTaskBase(9, <ButtonTaskModel>{
                 "index": 9,
@@ -84,7 +93,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 100,
                 "scalingType": "linear",
                 "scalingValue": 1.5,
-                "x4": 1
+                "x4": 1,
+                "cycleIndexes": [20, 21]
             }),
         new ButtonTaskBase(10, <ButtonTaskModel>{
                 "index": 10,
@@ -92,7 +102,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 100,
                 "scalingType": "linear",
                 "scalingValue": 1.5,
-                "x4": 1
+                "x4": 1,
+                "cycleIndexes": [60, 68]
             }),
         new ButtonTaskBase(11, <ButtonTaskModel>{
                 "index": 11,
@@ -100,7 +111,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 100,
                 "scalingType": "linear",
                 "scalingValue": 1.5,
-                "x4": 1
+                "x4": 1,
+                "cycleIndexes": [9, 10]
             }),
         new ButtonTaskBase(12, <ButtonTaskModel>{
                 "index": 12,
@@ -108,7 +120,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 100,
                 "scalingType": "linear",
                 "scalingValue": 1.5,
-                "x4": 1
+                "x4": 1,
+                "cycleIndexes": [47, 51]
             }),
         new ButtonTaskBase(13, <ButtonTaskModel>{
                 "index": 13,
@@ -116,7 +129,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 100,
                 "scalingType": "linear",
                 "scalingValue": 1.5,
-                "x4": 1
+                "x4": 1,
+                "cycleIndexes": [25, 36]
             }),
         new ButtonTaskBase(14, <ButtonTaskModel>{
                 "index": 14,
@@ -124,7 +138,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 100,
                 "scalingType": "linear",
                 "scalingValue": 1.5,
-                "x4": 1
+                "x4": 1,
+                "cycleIndexes": [19, 82]
             }),
         new ButtonTaskBase(15, <ButtonTaskModel>{
                 "index": 15,
@@ -132,7 +147,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 100,
                 "scalingType": "exponent",
                 "scalingValue": 1.15,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [2, 33]
             }),
         new ButtonTaskBase(16, <ButtonTaskModel>{
                 "index": 16,
@@ -140,7 +156,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 25,
                 "scalingType": "exponent",
                 "scalingValue": 1.031,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [18, 76]
             }),
         new ButtonTaskBase(17, <ButtonTaskModel>{
                 "index": 17,
@@ -148,7 +165,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 25,
                 "scalingType": "linear",
                 "scalingValue": 1.6,
-                "x4": 1
+                "x4": 1,
+                "cycleIndexes": [46, 65]
             }),
         new ButtonTaskBase(18, <ButtonTaskModel>{
                 "index": 18,
@@ -156,7 +174,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 200,
                 "scalingType": "exponent",
                 "scalingValue": 1.035,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [30, 92]
             }),
         new ButtonTaskBase(19, <ButtonTaskModel>{
                 "index": 19,
@@ -164,7 +183,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 200,
                 "scalingType": "exponent",
                 "scalingValue": 1.035,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [7, 64]
             }),
         new ButtonTaskBase(20, <ButtonTaskModel>{
                 "index": 20,
@@ -172,7 +192,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 200,
                 "scalingType": "exponent",
                 "scalingValue": 1.035,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [39, 85]
             }),
         new ButtonTaskBase(21, <ButtonTaskModel>{
                 "index": 21,
@@ -180,7 +201,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 50000000,
                 "scalingType": "exponent",
                 "scalingValue": 1.13,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [40, 75]
             }),
         new ButtonTaskBase(22, <ButtonTaskModel>{
                 "index": 22,
@@ -188,7 +210,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 100000,
                 "scalingType": "exponent",
                 "scalingValue": 1.15,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [17, 52]
             }),
         new ButtonTaskBase(23, <ButtonTaskModel>{
                 "index": 23,
@@ -196,7 +219,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 1000000000,
                 "scalingType": "exponent",
                 "scalingValue": 1.5,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [14, 72]
             }),
         new ButtonTaskBase(24, <ButtonTaskModel>{
                 "index": 24,
@@ -204,7 +228,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 500,
                 "scalingType": "linear",
                 "scalingValue": 3.5,
-                "x4": 1
+                "x4": 1,
+                "cycleIndexes": [11, 58]
             }),
         new ButtonTaskBase(25, <ButtonTaskModel>{
                 "index": 25,
@@ -212,7 +237,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 25000,
                 "scalingType": "exponent",
                 "scalingValue": 1.023,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [57, 88]
             }),
         new ButtonTaskBase(26, <ButtonTaskModel>{
                 "index": 26,
@@ -220,7 +246,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 100000,
                 "scalingType": "exponent",
                 "scalingValue": 1.047,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [22, 28]
             }),
         new ButtonTaskBase(27, <ButtonTaskModel>{
                 "index": 27,
@@ -228,7 +255,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 5,
                 "scalingType": "step",
                 "scalingValue": 20,
-                "x4": 1
+                "x4": 1,
+                "cycleIndexes": [79, 80]
             }),
         new ButtonTaskBase(28, <ButtonTaskModel>{
                 "index": 28,
@@ -236,7 +264,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 25,
                 "scalingType": "step",
                 "scalingValue": 2.5,
-                "x4": 1
+                "x4": 1,
+                "cycleIndexes": [4, 31]
             }),
         new ButtonTaskBase(29, <ButtonTaskModel>{
                 "index": 29,
@@ -244,7 +273,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 5000,
                 "scalingType": "exponent",
                 "scalingValue": 1.011,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [66, 94]
             }),
         new ButtonTaskBase(30, <ButtonTaskModel>{
                 "index": 30,
@@ -252,7 +282,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 100,
                 "scalingType": "linear",
                 "scalingValue": 3,
-                "x4": 1
+                "x4": 1,
+                "cycleIndexes": [44, 67]
             }),
         new ButtonTaskBase(31, <ButtonTaskModel>{
                 "index": 31,
@@ -260,7 +291,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 200,
                 "scalingType": "linear",
                 "scalingValue": 4.3,
-                "x4": 1
+                "x4": 1,
+                "cycleIndexes": [23, 49]
             }),
         new ButtonTaskBase(32, <ButtonTaskModel>{
                 "index": 32,
@@ -268,7 +300,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 25,
                 "scalingType": "linear",
                 "scalingValue": 1.3,
-                "x4": 1
+                "x4": 1,
+                "cycleIndexes": [1, 78]
             }),
         new ButtonTaskBase(33, <ButtonTaskModel>{
                 "index": 33,
@@ -276,7 +309,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 75,
                 "scalingType": "step",
                 "scalingValue": 2,
-                "x4": 1
+                "x4": 1,
+                "cycleIndexes": [53, 62]
             }),
         new ButtonTaskBase(34, <ButtonTaskModel>{
                 "index": 34,
@@ -284,7 +318,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 75,
                 "scalingType": "step",
                 "scalingValue": 2,
-                "x4": 1
+                "x4": 1,
+                "cycleIndexes": [5, 32]
             }),
         new ButtonTaskBase(35, <ButtonTaskModel>{
                 "index": 35,
@@ -292,7 +327,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 100,
                 "scalingType": "linear",
                 "scalingValue": 2.5,
-                "x4": 1
+                "x4": 1,
+                "cycleIndexes": [37, 87]
             }),
         new ButtonTaskBase(36, <ButtonTaskModel>{
                 "index": 36,
@@ -300,7 +336,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 1000000,
                 "scalingType": "exponent",
                 "scalingValue": 1.1,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [70, 84]
             }),
         new ButtonTaskBase(37, <ButtonTaskModel>{
                 "index": 37,
@@ -308,7 +345,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 1000000,
                 "scalingType": "exponent",
                 "scalingValue": 1.13,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [13, 54]
             }),
         new ButtonTaskBase(38, <ButtonTaskModel>{
                 "index": 38,
@@ -316,7 +354,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 1000,
                 "scalingType": "exponent",
                 "scalingValue": 1.037,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [12, 91]
             }),
         new ButtonTaskBase(39, <ButtonTaskModel>{
                 "index": 39,
@@ -324,7 +363,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 1000000000,
                 "scalingType": "exponent",
                 "scalingValue": 3,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [59, 71]
             }),
         new ButtonTaskBase(40, <ButtonTaskModel>{
                 "index": 40,
@@ -332,7 +372,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 1000,
                 "scalingType": "exponent",
                 "scalingValue": 1.042,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [38, 90]
             }),
         new ButtonTaskBase(41, <ButtonTaskModel>{
                 "index": 41,
@@ -340,7 +381,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 10,
                 "scalingType": "exponent",
                 "scalingValue": 1.021,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [27, 74]
             }),
         new ButtonTaskBase(42, <ButtonTaskModel>{
                 "index": 42,
@@ -348,7 +390,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 500,
                 "scalingType": "linear",
                 "scalingValue": 6,
-                "x4": 1
+                "x4": 1,
+                "cycleIndexes": [0, 43]
             }),
         new ButtonTaskBase(43, <ButtonTaskModel>{
                 "index": 43,
@@ -356,7 +399,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 1000000000,
                 "scalingType": "exponent",
                 "scalingValue": 1.3,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [95]
             }),
         new ButtonTaskBase(44, <ButtonTaskModel>{
                 "index": 44,
@@ -364,7 +408,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 50,
                 "scalingType": "linear",
                 "scalingValue": 2,
-                "x4": 1
+                "x4": 1,
+                "cycleIndexes": [83]
             }),
         new ButtonTaskBase(45, <ButtonTaskModel>{
                 "index": 45,
@@ -372,7 +417,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 10000,
                 "scalingType": "exponent",
                 "scalingValue": 1.06,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [50]
             }),
         new ButtonTaskBase(46, <ButtonTaskModel>{
                 "index": 46,
@@ -380,7 +426,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 1000000,
                 "scalingType": "exponent",
                 "scalingValue": 2.5,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [98]
             }),
         new ButtonTaskBase(47, <ButtonTaskModel>{
                 "index": 47,
@@ -388,7 +435,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 500,
                 "scalingType": "linear",
                 "scalingValue": 100,
-                "x4": 1
+                "x4": 1,
+                "cycleIndexes": [24]
             }),
         new ButtonTaskBase(48, <ButtonTaskModel>{
                 "index": 48,
@@ -396,7 +444,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 70,
                 "scalingType": "linear",
                 "scalingValue": 1,
-                "x4": 1
+                "x4": 1,
+                "cycleIndexes": [89]
             }),
         new ButtonTaskBase(49, <ButtonTaskModel>{
                 "index": 49,
@@ -404,7 +453,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 100,
                 "scalingType": "exponent",
                 "scalingValue": 1.09,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [97]
             }),
         new ButtonTaskBase(50, <ButtonTaskModel>{
                 "index": 50,
@@ -412,7 +462,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 1000000000,
                 "scalingType": "exponent",
                 "scalingValue": 1.22,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [93]
             }),
         new ButtonTaskBase(51, <ButtonTaskModel>{
                 "index": 51,
@@ -420,7 +471,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 40,
                 "scalingType": "step",
                 "scalingValue": 2,
-                "x4": 1
+                "x4": 1,
+                "cycleIndexes": [99]
             }),
         new ButtonTaskBase(52, <ButtonTaskModel>{
                 "index": 52,
@@ -428,7 +480,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 1000000000,
                 "scalingType": "exponent",
                 "scalingValue": 1.55,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [45]
             }),
         new ButtonTaskBase(53, <ButtonTaskModel>{
                 "index": 53,
@@ -436,7 +489,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 25,
                 "scalingType": "step",
                 "scalingValue": 2,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [63]
             }),
         new ButtonTaskBase(54, <ButtonTaskModel>{
                 "index": 54,
@@ -444,7 +498,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 1000000,
                 "scalingType": "exponent",
                 "scalingValue": 1.34,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [8]
             }),
         new ButtonTaskBase(55, <ButtonTaskModel>{
                 "index": 55,
@@ -452,7 +507,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 1000000000,
                 "scalingType": "exponent",
                 "scalingValue": 1.28,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [96]
             }),
         new ButtonTaskBase(56, <ButtonTaskModel>{
                 "index": 56,
@@ -460,7 +516,8 @@ export const initButtonTaskRepo = () => {
                 "baseRequirement": 1000000,
                 "scalingType": "exponent",
                 "scalingValue": 1.15,
-                "x4": 0
+                "x4": 0,
+                "cycleIndexes": [35]
             })    
 ]
 }

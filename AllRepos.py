@@ -94,7 +94,6 @@ from repositories.misc.world7.ZenithMarketRepo import ZenithMarketRepo
 from repositories.misc.world7.ResearchGridBonusRepo import ResearchGridBonusRepo
 from repositories.misc.world7.ButtonBonusRepo import ButtonBonusRepo
 from repositories.misc.world7.ButtonTaskRepo import ButtonTaskRepo
-from repositories.misc.world7.ButtonTaskOrderRepo import ButtonTaskOrderRepo
 from repositories.misc.world7.BigFishBonusRepo import BigFishBonusRepo
 from repositories.misc.world7.BubbaCharismaBonusRepo import BubbaCharismaBonusRepo
 from repositories.misc.world7.BubbaGiftRepo import BubbaGiftRepo
@@ -126,7 +125,7 @@ AllRepos = [*SpelunkingRepos, ItemDetailRepo, EquipmentSetsRepo, CosmoUpgradeRep
             MarketInfoRepo, SeedInfoRepo, SummonEnemyRepo, SummonUnitRepo, NinjaItemRepo, FeatherRepo, TomeRepo,
             HoleBuildingRepo, MeasurementRepo, StudyRepo, BellActionRepo, BellImprovementRepo, BellBonusRepo, SedimentRepo, GambitBonusRepo,
             HarpStringsRepo, HarpNotesRepo, MonumentRepo, SaltLickRepo, ZenithMarketRepo, ResearchGridBonusRepo,
-            ButtonBonusRepo, ButtonTaskRepo, ButtonTaskOrderRepo, BubbaUpgradeRepo,
+            ButtonBonusRepo, ButtonTaskRepo, BubbaUpgradeRepo,
             LegendTalentsRepo, BigFishBonusRepo, BubbaCharismaBonusRepo, BubbaGiftRepo, BubbaMegafleshRepo, ClamworksBonusRepo,
             CoralReefUpgradeRepo, DancingCoralBonusRepo, TomeEpilogueBonusRepo, VoteBonusRepo, MeritocratyBonusRepo,
             EventShopBonusRepo, HoleJarRepo, HoleJarBonusRepo, OrionUpgradeRepo, PoppyUpgradeRepo,

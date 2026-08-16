@@ -1,3 +1,5 @@
+from typing import List
+
 from definitions.master.IdleonModel import IdleonModel
 from helpers.CustomTypes import Integer, Numeric
 
@@ -9,3 +11,4 @@ class ButtonTask(IdleonModel):
     scalingType: str
     scalingValue: Numeric
     x4: Integer
+    cycleIndexes: List[Integer]

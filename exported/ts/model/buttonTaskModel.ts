@@ -6,5 +6,6 @@ export interface ButtonTaskModel {
     baseRequirement: number,
     scalingType: string,
     scalingValue: number,
-    x4: number
+    x4: number,
+    cycleIndexes: number[]
 }

@@ -36,34 +36,86 @@ def getFromSplitArray(v: str, replaceUnderscores: bool = True) -> List[List[str]
 
 def getFromMixedArray(v: str, replaceUnderscores: bool = True, formatSubSection: bool = True) -> List[List[str]]:
 	"""
-	Converts a section into a list of strings based upon the exportation of an array represented as
-	"0 1 2 3 4 5 6 7 8 9".split(" ")
-	Args:
-		v:
-
-	Returns:
-
+	Converts the top-level entries of a JavaScript array containing a mix of
+	``.split()`` strings and array literals into lists of strings.
 	"""
-	section = formatStr(v, )  # ["  ", "\n"]
-	subSections = re.findall(fr'"(.*?)"\.split|\[(.*?)\],?', section)
-	newSections = []
-	for subSec in subSections:
-		if subSec[0]:
-			if subSec[0].count(" ") > subSec[0].count(";"):
-				newSections.append(subSec[0].split(" "))
-			else:
-				newSections.append(subSec[0].split(";"))
-		else:
-			newSections.append(strToArray(subSec[1], replaceUnderscores))
+	container = v
+	returnArray = re.search(r"return\s*\[", v)
+	if returnArray:
+		start = returnArray.end() - 1
+		depth = 0
+		quote = ""
+		escaped = False
+		for index in range(start, len(v)):
+			char = v[index]
+			if quote:
+				if escaped:
+					escaped = False
+				elif char == "\\":
+					escaped = True
+				elif char == quote:
+					quote = ""
+				continue
+			if char in ['"', "'"]:
+				quote = char
+			elif char == "[":
+				depth += 1
+			elif char == "]":
+				depth -= 1
+				if depth == 0:
+					container = v[start + 1:index]
+					break
+
+	entries = []
+	entryStart = 0
+	squareDepth = 0
+	roundDepth = 0
+	curlyDepth = 0
+	quote = ""
+	escaped = False
+	for index, char in enumerate(container):
+		if quote:
+			if escaped:
+				escaped = False
+			elif char == "\\":
+				escaped = True
+			elif char == quote:
+				quote = ""
+			continue
+		if char in ['"', "'"]:
+			quote = char
+		elif char == "[":
+			squareDepth += 1
+		elif char == "]":
+			squareDepth -= 1
+		elif char == "(":
+			roundDepth += 1
+		elif char == ")":
+			roundDepth -= 1
+		elif char == "{":
+			curlyDepth += 1
+		elif char == "}":
+			curlyDepth -= 1
+		elif char == "," and squareDepth == 0 and roundDepth == 0 and curlyDepth == 0:
+			entries.append(container[entryStart:index])
+			entryStart = index + 1
+	entries.append(container[entryStart:])
+
 	newList = []
-	for subSection in newSections:
-		internalList = []
-		for i in range(len(subSection)):
-			if formatSubSection:
-				internalList.append(formatStr(subSection[i], replaceUnderscores = replaceUnderscores))
-			else:
-				internalList.append(subSection[i])
-		newList.append(internalList[:])
+	for entry in entries:
+		splitEntry = re.search(r'"(.*?)"\.split', entry, re.DOTALL)
+		if splitEntry:
+			value = splitEntry.group(1)
+			subSection = value.split(" ") if value.count(" ") > value.count(";") else value.split(";")
+		elif entry.strip().startswith("[") and entry.strip().endswith("]"):
+			subSection = strToArray(entry, replaceUnderscores)
+		else:
+			continue
+
+		if formatSubSection:
+			newList.append([formatStr(value, replaceUnderscores = replaceUnderscores) for value in subSection])
+		else:
+			newList.append(subSection)
 	return newList
 
 
