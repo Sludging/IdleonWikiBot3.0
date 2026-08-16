@@ -38,8 +38,16 @@ def getFromMixedArray(v: str, replaceUnderscores: bool = True, formatSubSection:
 	"""
 	Converts the top-level entries of a JavaScript array containing a mix of
 	``.split()`` strings and array literals into lists of strings.
+
+	A regex cannot preserve the source indexes when the returned array contains
+	nested array literals: it treats the outer ``[`` and the first inner ``]`` as
+	one entry. Research data relies on those indexes, so this parser tracks
+	delimiter depth and quoted strings instead.
 	"""
 	container = v
+	# Function sections include ``return [...]``. Isolate that outer array first
+	# so each nested literal is handled as one top-level entry below. Some callers
+	# pass an array fragment directly, in which case the full input is the container.
 	returnArray = re.search(r"return\s*\[", v)
 	if returnArray:
 		start = returnArray.end() - 1
@@ -66,6 +74,8 @@ def getFromMixedArray(v: str, replaceUnderscores: bool = True, formatSubSection:
 					container = v[start + 1:index]
 					break
 
+	# Split only on commas between top-level entries. Commas inside nested arrays,
+	# calls, objects, or quoted descriptions belong to the current entry.
 	entries = []
 	entryStart = 0
 	squareDepth = 0
@@ -101,6 +111,8 @@ def getFromMixedArray(v: str, replaceUnderscores: bool = True, formatSubSection:
 			entryStart = index + 1
 	entries.append(container[entryStart:])
 
+	# Convert each isolated entry with the same formatting behavior as the previous
+	# implementation; unsupported JavaScript expressions remain intentionally skipped.
 	newList = []
 	for entry in entries:
 		splitEntry = re.search(r'"(.*?)"\.split', entry, re.DOTALL)
