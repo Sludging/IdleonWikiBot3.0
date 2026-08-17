@@ -1,0 +1,515 @@
+{
+    "0": {
+        "index": 0,
+        "description": "Have a total of { STR or more",
+        "baseRequirement": 1000,
+        "scalingType": "exponent",
+        "scalingValue": 1.045,
+        "x4": 0,
+        "cycleIndexes": [34, 56]
+    },
+    "1": {
+        "index": 1,
+        "description": "Have a total of { AGI or more",
+        "baseRequirement": 1000,
+        "scalingType": "exponent",
+        "scalingValue": 1.045,
+        "x4": 0,
+        "cycleIndexes": [15, 73]
+    },
+    "2": {
+        "index": 2,
+        "description": "Have a total of { WIS or more",
+        "baseRequirement": 1000,
+        "scalingType": "exponent",
+        "scalingValue": 1.045,
+        "x4": 0,
+        "cycleIndexes": [16, 48]
+    },
+    "3": {
+        "index": 3,
+        "description": "Have a total of { LUK or more",
+        "baseRequirement": 400,
+        "scalingType": "exponent",
+        "scalingValue": 1.04,
+        "x4": 0,
+        "cycleIndexes": [6, 86]
+    },
+    "4": {
+        "index": 4,
+        "description": "Have { of the 1st type of Deathbringer Bones in your Grimoire",
+        "baseRequirement": 5000,
+        "scalingType": "exponent",
+        "scalingValue": 1.18,
+        "x4": 0,
+        "cycleIndexes": [29, 61]
+    },
+    "5": {
+        "index": 5,
+        "description": "Have { of the 2nd type of Windwalker Dust in your Compass",
+        "baseRequirement": 3000,
+        "scalingType": "exponent",
+        "scalingValue": 1.16,
+        "x4": 0,
+        "cycleIndexes": [26, 69]
+    },
+    "6": {
+        "index": 6,
+        "description": "Have { of the 3rd type of Arcane Cultist Tachyon in your Tesseract",
+        "baseRequirement": 1500,
+        "scalingType": "exponent",
+        "scalingValue": 1.14,
+        "x4": 0,
+        "cycleIndexes": [3, 55]
+    },
+    "7": {
+        "index": 7,
+        "description": "Have { of the 4rd type of Arcane Cultist Tachyon in your Tesseract",
+        "baseRequirement": 1000,
+        "scalingType": "exponent",
+        "scalingValue": 1.12,
+        "x4": 0,
+        "cycleIndexes": [41, 81]
+    },
+    "8": {
+        "index": 8,
+        "description": "Level up your DRAGON Statue to at least LV",
+        "baseRequirement": 100,
+        "scalingType": "linear",
+        "scalingValue": 1.5,
+        "x4": 1,
+        "cycleIndexes": [42, 77]
+    },
+    "9": {
+        "index": 9,
+        "description": "Level up your MINING Statue to at least LV",
+        "baseRequirement": 100,
+        "scalingType": "linear",
+        "scalingValue": 1.5,
+        "x4": 1,
+        "cycleIndexes": [20, 21]
+    },
+    "10": {
+        "index": 10,
+        "description": "Level up your LUMBERBOB Statue to at least LV",
+        "baseRequirement": 100,
+        "scalingType": "linear",
+        "scalingValue": 1.5,
+        "x4": 1,
+        "cycleIndexes": [60, 68]
+    },
+    "11": {
+        "index": 11,
+        "description": "Level up your OCEANMAN Statue to at least LV",
+        "baseRequirement": 100,
+        "scalingType": "linear",
+        "scalingValue": 1.5,
+        "x4": 1,
+        "cycleIndexes": [9, 10]
+    },
+    "12": {
+        "index": 12,
+        "description": "Level up your OL RELIABLE Statue to at least LV",
+        "baseRequirement": 100,
+        "scalingType": "linear",
+        "scalingValue": 1.5,
+        "x4": 1,
+        "cycleIndexes": [47, 51]
+    },
+    "13": {
+        "index": 13,
+        "description": "Level up your BOX Statue to at least LV",
+        "baseRequirement": 100,
+        "scalingType": "linear",
+        "scalingValue": 1.5,
+        "x4": 1,
+        "cycleIndexes": [25, 36]
+    },
+    "14": {
+        "index": 14,
+        "description": "Level up your TWOSOUL Statue to at least LV",
+        "baseRequirement": 100,
+        "scalingType": "linear",
+        "scalingValue": 1.5,
+        "x4": 1,
+        "cycleIndexes": [19, 82]
+    },
+    "15": {
+        "index": 15,
+        "description": "Have a x Class EXP multi or higher",
+        "baseRequirement": 100,
+        "scalingType": "exponent",
+        "scalingValue": 1.15,
+        "x4": 0,
+        "cycleIndexes": [2, 33]
+    },
+    "16": {
+        "index": 16,
+        "description": "Have a x Drop Rate multi or higher",
+        "baseRequirement": 25,
+        "scalingType": "exponent",
+        "scalingValue": 1.031,
+        "x4": 0,
+        "cycleIndexes": [18, 76]
+    },
+    "17": {
+        "index": 17,
+        "description": "Level up your Crystallin Stamp to at least LV",
+        "baseRequirement": 25,
+        "scalingType": "linear",
+        "scalingValue": 1.6,
+        "x4": 1,
+        "cycleIndexes": [46, 65]
+    },
+    "18": {
+        "index": 18,
+        "description": "Level up your Roid Ragin Bubble to at least LV",
+        "baseRequirement": 200,
+        "scalingType": "exponent",
+        "scalingValue": 1.035,
+        "x4": 0,
+        "cycleIndexes": [30, 92]
+    },
+    "19": {
+        "index": 19,
+        "description": "Level up your Swift Steppin Bubble to at least LV",
+        "baseRequirement": 200,
+        "scalingType": "exponent",
+        "scalingValue": 1.035,
+        "x4": 0,
+        "cycleIndexes": [7, 64]
+    },
+    "20": {
+        "index": 20,
+        "description": "Level up your Stable Jenius Bubble to at least LV",
+        "baseRequirement": 200,
+        "scalingType": "exponent",
+        "scalingValue": 1.035,
+        "x4": 0,
+        "cycleIndexes": [39, 85]
+    },
+    "21": {
+        "index": 21,
+        "description": "Have a Construction Build Rate of at least /hr",
+        "baseRequirement": 50000000,
+        "scalingType": "exponent",
+        "scalingValue": 1.13,
+        "x4": 0,
+        "cycleIndexes": [40, 75]
+    },
+    "22": {
+        "index": 22,
+        "description": "Have a 3d Printer sample of Copper Ore of at least /hr",
+        "baseRequirement": 100000,
+        "scalingType": "exponent",
+        "scalingValue": 1.15,
+        "x4": 0,
+        "cycleIndexes": [17, 52]
+    },
+    "23": {
+        "index": 23,
+        "description": "Save up { Feathers for your pal Orion",
+        "baseRequirement": 1000000000,
+        "scalingType": "exponent",
+        "scalingValue": 1.5,
+        "x4": 0,
+        "cycleIndexes": [14, 72]
+    },
+    "24": {
+        "index": 24,
+        "description": "Have a total of { Waves, according to your Miniature Soul Apparatus",
+        "baseRequirement": 500,
+        "scalingType": "linear",
+        "scalingValue": 3.5,
+        "x4": 1,
+        "cycleIndexes": [11, 58]
+    },
+    "25": {
+        "index": 25,
+        "description": "Have a Breeding Mob with at least { power in your 1st storage slot",
+        "baseRequirement": 25000,
+        "scalingType": "exponent",
+        "scalingValue": 1.023,
+        "x4": 0,
+        "cycleIndexes": [57, 88]
+    },
+    "26": {
+        "index": 26,
+        "description": "Have a Foraging Speed of at least { in the Desert Oasis Breeding grounds",
+        "baseRequirement": 100000,
+        "scalingType": "exponent",
+        "scalingValue": 1.047,
+        "x4": 0,
+        "cycleIndexes": [22, 28]
+    },
+    "27": {
+        "index": 27,
+        "description": "Put a Tier { or better Ribbon on Yumi Peachring in Cooking",
+        "baseRequirement": 5,
+        "scalingType": "step",
+        "scalingValue": 20,
+        "x4": 1,
+        "cycleIndexes": [79, 80]
+    },
+    "28": {
+        "index": 28,
+        "description": "Level up your Sausy Sausage meal to at least LV",
+        "baseRequirement": 25,
+        "scalingType": "step",
+        "scalingValue": 2.5,
+        "x4": 1,
+        "cycleIndexes": [4, 31]
+    },
+    "29": {
+        "index": 29,
+        "description": "Have a Tome Score of at least { PTS",
+        "baseRequirement": 5000,
+        "scalingType": "exponent",
+        "scalingValue": 1.011,
+        "x4": 0,
+        "cycleIndexes": [66, 94]
+    },
+    "30": {
+        "index": 30,
+        "description": "Reach Laboratory LV { or higher",
+        "baseRequirement": 100,
+        "scalingType": "linear",
+        "scalingValue": 3,
+        "x4": 1,
+        "cycleIndexes": [44, 67]
+    },
+    "31": {
+        "index": 31,
+        "description": "Reach Sneaking LV { or higher",
+        "baseRequirement": 200,
+        "scalingType": "linear",
+        "scalingValue": 4.3,
+        "x4": 1,
+        "cycleIndexes": [23, 49]
+    },
+    "32": {
+        "index": 32,
+        "description": "Reach Spelunking LV { or higher",
+        "baseRequirement": 25,
+        "scalingType": "linear",
+        "scalingValue": 1.3,
+        "x4": 1,
+        "cycleIndexes": [1, 78]
+    },
+    "33": {
+        "index": 33,
+        "description": "Reach Mining LV { or higher",
+        "baseRequirement": 75,
+        "scalingType": "step",
+        "scalingValue": 2,
+        "x4": 1,
+        "cycleIndexes": [53, 62]
+    },
+    "34": {
+        "index": 34,
+        "description": "Reach Choppin LV { or higher",
+        "baseRequirement": 75,
+        "scalingType": "step",
+        "scalingValue": 2,
+        "x4": 1,
+        "cycleIndexes": [5, 32]
+    },
+    "35": {
+        "index": 35,
+        "description": "Reach Divinity LV { or higher",
+        "baseRequirement": 100,
+        "scalingType": "linear",
+        "scalingValue": 2.5,
+        "x4": 1,
+        "cycleIndexes": [37, 87]
+    },
+    "36": {
+        "index": 36,
+        "description": "Save up { Divinity PTS",
+        "baseRequirement": 1000000,
+        "scalingType": "exponent",
+        "scalingValue": 1.1,
+        "x4": 0,
+        "cycleIndexes": [70, 84]
+    },
+    "37": {
+        "index": 37,
+        "description": "Save up { bars of gold in Sailing",
+        "baseRequirement": 1000000,
+        "scalingType": "exponent",
+        "scalingValue": 1.13,
+        "x4": 0,
+        "cycleIndexes": [13, 54]
+    },
+    "38": {
+        "index": 38,
+        "description": "Have a total Artifact Find Chance multi of x or higher in Sailing",
+        "baseRequirement": 1000,
+        "scalingType": "exponent",
+        "scalingValue": 1.037,
+        "x4": 0,
+        "cycleIndexes": [12, 91]
+    },
+    "39": {
+        "index": 39,
+        "description": "Save up { Gaming Bits",
+        "baseRequirement": 1000000000,
+        "scalingType": "exponent",
+        "scalingValue": 3,
+        "x4": 0,
+        "cycleIndexes": [59, 71]
+    },
+    "40": {
+        "index": 40,
+        "description": "Evolve a total of { Plants in Gaming, as shown by your Elegant Seashell",
+        "baseRequirement": 1000,
+        "scalingType": "exponent",
+        "scalingValue": 1.042,
+        "x4": 0,
+        "cycleIndexes": [38, 90]
+    },
+    "41": {
+        "index": 41,
+        "description": "Have a total Palette Multi of x or higher in Gaming",
+        "baseRequirement": 10,
+        "scalingType": "exponent",
+        "scalingValue": 1.021,
+        "x4": 0,
+        "cycleIndexes": [27, 74]
+    },
+    "42": {
+        "index": 42,
+        "description": "Find at least { items, as shown by the Slab",
+        "baseRequirement": 500,
+        "scalingType": "linear",
+        "scalingValue": 6,
+        "x4": 1,
+        "cycleIndexes": [0, 43]
+    },
+    "43": {
+        "index": 43,
+        "description": "Save up { White Essence in Summoning",
+        "baseRequirement": 1000000000,
+        "scalingType": "exponent",
+        "scalingValue": 1.3,
+        "x4": 0,
+        "cycleIndexes": [95]
+    },
+    "44": {
+        "index": 44,
+        "description": "Reach a total of { Total Career Wins in Summoning",
+        "baseRequirement": 50,
+        "scalingType": "linear",
+        "scalingValue": 2,
+        "x4": 1,
+        "cycleIndexes": [83]
+    },
+    "45": {
+        "index": 45,
+        "description": "Check a Crop Transfer Ticket worth at least { Magic Beans",
+        "baseRequirement": 10000,
+        "scalingType": "exponent",
+        "scalingValue": 1.06,
+        "x4": 0,
+        "cycleIndexes": [50]
+    },
+    "46": {
+        "index": 46,
+        "description": "Save up { Jade from the Ninja Castle",
+        "baseRequirement": 1000000,
+        "scalingType": "exponent",
+        "scalingValue": 2.5,
+        "x4": 0,
+        "cycleIndexes": [98]
+    },
+    "47": {
+        "index": 47,
+        "description": "Have a total of {% Golden Food Bonus, as shown by The Beanstalk",
+        "baseRequirement": 500,
+        "scalingType": "linear",
+        "scalingValue": 100,
+        "x4": 1,
+        "cycleIndexes": [24]
+    },
+    "48": {
+        "index": 48,
+        "description": "Find a total of { Crops, as shown by your Crop Scientist",
+        "baseRequirement": 70,
+        "scalingType": "linear",
+        "scalingValue": 1,
+        "x4": 1,
+        "cycleIndexes": [89]
+    },
+    "49": {
+        "index": 49,
+        "description": "Have a max damage range of { crystal damage, as shown in Player Info",
+        "baseRequirement": 100,
+        "scalingType": "exponent",
+        "scalingValue": 1.09,
+        "x4": 0,
+        "cycleIndexes": [97]
+    },
+    "50": {
+        "index": 50,
+        "description": "Have a total Spelunking POW of { or more",
+        "baseRequirement": 1000000000,
+        "scalingType": "exponent",
+        "scalingValue": 1.22,
+        "x4": 0,
+        "cycleIndexes": [93]
+    },
+    "51": {
+        "index": 51,
+        "description": "Have a Best Depth of at least { in Chucklemire",
+        "baseRequirement": 40,
+        "scalingType": "step",
+        "scalingValue": 2,
+        "x4": 1,
+        "cycleIndexes": [99]
+    },
+    "52": {
+        "index": 52,
+        "description": "Save up { Coins in your inventory... like, money, those coins",
+        "baseRequirement": 1000000000,
+        "scalingType": "exponent",
+        "scalingValue": 1.55,
+        "x4": 0,
+        "cycleIndexes": [45]
+    },
+    "53": {
+        "index": 53,
+        "description": "Reach Showdown { or higher at the Emperor's Castle in World 6",
+        "baseRequirement": 25,
+        "scalingType": "step",
+        "scalingValue": 2,
+        "x4": 0,
+        "cycleIndexes": [63]
+    },
+    "54": {
+        "index": 54,
+        "description": "Save up { Bucks at your Sushi Station",
+        "baseRequirement": 1000000,
+        "scalingType": "exponent",
+        "scalingValue": 1.34,
+        "x4": 0,
+        "cycleIndexes": [8]
+    },
+    "55": {
+        "index": 55,
+        "description": "Save up { Fish for your pal Poppy",
+        "baseRequirement": 1000000000,
+        "scalingType": "exponent",
+        "scalingValue": 1.28,
+        "x4": 0,
+        "cycleIndexes": [96]
+    },
+    "56": {
+        "index": 56,
+        "description": "Save up { Meat Slices for best friend Bubba",
+        "baseRequirement": 1000000,
+        "scalingType": "exponent",
+        "scalingValue": 1.15,
+        "x4": 0,
+        "cycleIndexes": [35]
+    }
+}

@@ -202,6 +202,14 @@ class IdleonReader:
 		self.codeReader.addSection("ZenithMarket = function ()", "ZenithMarket")
 
 		# World 7
+		# Research
+		self.codeReader.addSection("ResGridSquares = function ()", "ResearchGridBonus")
+		# The Button
+		self.codeReader.addSection('"Button_BonusPerTime"', "ButtonBonuses", ";")
+		self.codeReader.addSection("ButtonTasks = function ()", "ButtonTasks")
+		self.codeReader.addSection("Research = function ()", "Research")
+
+
 
 		#Spelunking
 		self.codeReader.addSection("Spelunky = function ()", "Spelunking")

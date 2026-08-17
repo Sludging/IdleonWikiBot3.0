@@ -1,0 +1,2162 @@
+[
+    {
+        "index": 0,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 1,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 2,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 3,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 4,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 5,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 6,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 7,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 8,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 9,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 10,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 11,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 12,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 13,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 14,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 15,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 16,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 17,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 18,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 19,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 20,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 21,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 22,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 23,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 24,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 25,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 26,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 27,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 28,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 29,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 30,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 31,
+        "name": "Smart Eye",
+        "maxLevel": 3,
+        "bonusPerLevel": 5,
+        "x3": 0,
+        "x4": 0,
+        "description": "Raises the minimum possible Roll by +1 for each failed Roll, up to +$. This resets back to 0 upon a successful Roll. Also +{% Research EXP Gain."
+    },
+    {
+        "index": 32,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 33,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 34,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 35,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 36,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 37,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 38,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 39,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 40,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 41,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 42,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 43,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 44,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 45,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 46,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 47,
+        "name": "Sticker-it To Em!",
+        "maxLevel": 2,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "Unlocks a new TRUE Damage Multiplier as shown in the Sticker Depot, which goes up by +{% for every Sticker you find!"
+    },
+    {
+        "index": 48,
+        "name": "Materials Science",
+        "maxLevel": 4,
+        "bonusPerLevel": 25,
+        "x3": 0,
+        "x4": 0,
+        "description": "Reduces the Cycle Time for the Polymerization tab in the Refinery by {%"
+    },
+    {
+        "index": 49,
+        "name": "Polymer Refinery",
+        "maxLevel": 2,
+        "bonusPerLevel": 5,
+        "x3": 0,
+        "x4": 0,
+        "description": "Unlocks a new tab in the Refinery, POLYMERIZATION! Also, +{% faster refinery cycles for ALL tabs!"
+    },
+    {
+        "index": 50,
+        "name": "Pts Every Ten",
+        "maxLevel": 1,
+        "bonusPerLevel": 5,
+        "x3": 0,
+        "x4": 0,
+        "description": "Get +  extra Research PTS every 10 Research LVs! Also, +{% Research EXP Gain!"
+    },
+    {
+        "index": 51,
+        "name": "Sharp Eye",
+        "maxLevel": 4,
+        "bonusPerLevel": 5,
+        "x3": 0,
+        "x4": 0,
+        "description": "Increase the max possible Roll while searching for new observations by + , and +{% Research EXP gain!"
+    },
+    {
+        "index": 52,
+        "name": "Holding Onto You",
+        "maxLevel": 3,
+        "bonusPerLevel": 10,
+        "x3": 0,
+        "x4": 0,
+        "description": "Twists the Kaleidoscope behind both of your eyes, increasing their effect by +{%"
+    },
+    {
+        "index": 53,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 54,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 55,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 56,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 57,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 58,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 59,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 60,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 61,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 62,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 63,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 64,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 65,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 66,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 67,
+        "name": "Sticky Crowns",
+        "maxLevel": 3,
+        "bonusPerLevel": 25,
+        "x3": 0,
+        "x4": 0,
+        "description": "For every King Rat Crown you reclaim, your Megacrop growth chance goes up by {%. Total Bonus:^x"
+    },
+    {
+        "index": 68,
+        "name": "Boony Crowns",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "For every King Rat Crown you reclaim, all your stickers gives {% higher bonuses. Total Bonus:$%"
+    },
+    {
+        "index": 69,
+        "name": "Adequate Sized, Actually",
+        "maxLevel": 2,
+        "bonusPerLevel": 50,
+        "x3": 0,
+        "x4": 0,
+        "description": "All Tiny Cogs you get have a {% chance be 1 Tier higher than they otherwise would've been! Huge, honestly!"
+    },
+    {
+        "index": 70,
+        "name": "Takin' Notes",
+        "maxLevel": 4,
+        "bonusPerLevel": 12,
+        "x3": 0,
+        "x4": 0,
+        "description": "Multiplies Research EXP gain by }x, TRUE multiplier style! So this bonus will never be additive!"
+    },
+    {
+        "index": 71,
+        "name": "Powered Down Research",
+        "maxLevel": 2,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "Further increases your Research AFK Gains rate by +{%, in your unending quest for 100%"
+    },
+    {
+        "index": 72,
+        "name": "Kaleidoscope",
+        "maxLevel": 4,
+        "bonusPerLevel": 5,
+        "x3": 0,
+        "x4": 0,
+        "description": "Gives +  Kaleidoscopes to use for Observations! Also, +{% Kaleidoscope effect!"
+    },
+    {
+        "index": 73,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 74,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 75,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 76,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 77,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 78,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 79,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 80,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 81,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 82,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 83,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 84,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 85,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 86,
+        "name": "Equinox Nightmares",
+        "maxLevel": 3,
+        "bonusPerLevel": 20,
+        "x3": 0,
+        "x4": 0,
+        "description": "Unlocks new dreams to complete at the Equinox Valley in World 3! @ Also boosts Equinox Bar Fill Rate by }x"
+    },
+    {
+        "index": 87,
+        "name": "Gaming Zuperbits",
+        "maxLevel": 2,
+        "bonusPerLevel": 200,
+        "x3": 0,
+        "x4": 0,
+        "description": "Unlocks the Zuperbits page of Superbits in Gaming! Yea, you ain't done with those just yet! Also gives }x Gaming Bit Multi!"
+    },
+    {
+        "index": 88,
+        "name": "Sticker Depot",
+        "maxLevel": 3,
+        "bonusPerLevel": 50,
+        "x3": 0,
+        "x4": 0,
+        "description": "Unlocks the Sticker mechanic for Farming! Also, boosts Megacrop growth chance by }x"
+    },
+    {
+        "index": 89,
+        "name": "Tiny Cogs",
+        "maxLevel": 4,
+        "bonusPerLevel": 200,
+        "x3": 0,
+        "x4": 0,
+        "description": "Unlocks the Tiny Cog board, and generates a single Tiny Cog per day! Also boosts Flaggy Rate by }x"
+    },
+    {
+        "index": 90,
+        "name": "Observationalistic",
+        "maxLevel": 4,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "Gives you +  more Daily Rolls for getting new Observations! Also, +{% Research EXP gain!"
+    },
+    {
+        "index": 91,
+        "name": "Optical Monocle",
+        "maxLevel": 4,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "Gives +  Optical Monocles to use for Observations! Also +{% Insight EXP gain, to level up your Observations faster with!"
+    },
+    {
+        "index": 92,
+        "name": "Oracular Spectacular",
+        "maxLevel": 2,
+        "bonusPerLevel": 25,
+        "x3": 0,
+        "x4": 0,
+        "description": "Taking only what you need from it, your Optical Monocles generate +{% more Insight!"
+    },
+    {
+        "index": 93,
+        "name": "Game Design 101",
+        "maxLevel": 3,
+        "bonusPerLevel": 4,
+        "x3": 0,
+        "x4": 0,
+        "description": "Psst... you forgot to give Observation LV a purpose while helping Lava research new content! How about you do... Observations give }x more EXP per LV!"
+    },
+    {
+        "index": 94,
+        "name": "Game Design 102",
+        "maxLevel": 4,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "Design problem, why would players level up old Observations? How about... +{% Research EXP per TOTAL Observation LV! @ Total Bonus:$%"
+    },
+    {
+        "index": 95,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 96,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 97,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 98,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 99,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 100,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 101,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 102,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 103,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 104,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 105,
+        "name": "Revival of the Undead Battalion",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "Your Sailing Boats turn into the Undead Battalion at LV 400+ These boats find 3x more Treasure, are 3x faster, and have 3x higher Artifact Find Chance!"
+    },
+    {
+        "index": 106,
+        "name": "The Maw",
+        "maxLevel": 4,
+        "bonusPerLevel": 25,
+        "x3": 0,
+        "x4": 0,
+        "description": "Unlocks a new island in Sailing, THE MAW! @ Also, }x Artifact Find Chance. You'll need it."
+    },
+    {
+        "index": 107,
+        "name": "Palettable Crowns",
+        "maxLevel": 1,
+        "bonusPerLevel": 3,
+        "x3": 0,
+        "x4": 0,
+        "description": "+{% Palette Luck for every King Rat Crown you reclaim. @ Total Bonus:$%"
+    },
+    {
+        "index": 108,
+        "name": "Rat King of Olde",
+        "maxLevel": 2,
+        "bonusPerLevel": 25,
+        "x3": 0,
+        "x4": 0,
+        "description": "You can now buy the Rat King from the Import Shop in Gaming! Also, +{% King Tokens per hour!"
+    },
+    {
+        "index": 109,
+        "name": "Transcendent Artifacts",
+        "maxLevel": 1,
+        "bonusPerLevel": 25,
+        "x3": 0,
+        "x4": 0,
+        "description": "Unlocks Transcendent Sailing Artifacts tier, and boosts Artifact Find Chance by a smol +{%"
+    },
+    {
+        "index": 110,
+        "name": "All Night Studying",
+        "maxLevel": 2,
+        "bonusPerLevel": 50,
+        "x3": 0,
+        "x4": 0,
+        "description": "Boosts Research EXP gain by +{% @ You'll be filling out this Grid in no time at all!"
+    },
+    {
+        "index": 111,
+        "name": "Research AFK Gains",
+        "maxLevel": 2,
+        "bonusPerLevel": 5,
+        "x3": 0,
+        "x4": 0,
+        "description": "+{% Research AFK Gains. This affects OFFLINE gains for Research, Minehead, Insight... everything Research related!"
+    },
+    {
+        "index": 112,
+        "name": "See 'Em All",
+        "maxLevel": 1,
+        "bonusPerLevel": 5,
+        "x3": 0,
+        "x4": 0,
+        "description": "+{% Research EXP gain per Observation found! @ Total Bonus:+$%"
+    },
+    {
+        "index": 113,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 114,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 115,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 116,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 117,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 118,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 119,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 120,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 121,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 122,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 123,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 124,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 125,
+        "name": "Better Button",
+        "maxLevel": 3,
+        "bonusPerLevel": 5,
+        "x3": 0,
+        "x4": 0,
+        "description": "All button bonuses are +{% bigger, which is ballin' since all button upgrades sans Class EXP are multiplicative!"
+    },
+    {
+        "index": 126,
+        "name": "Insta Skips",
+        "maxLevel": 2,
+        "bonusPerLevel": 3,
+        "x3": 0,
+        "x4": 0,
+        "description": "Every week, you get +  Insta uses for The Button on the Mantaray map, which let you skip the current demand. @ Also, +{% chance for +1 use every day"
+    },
+    {
+        "index": 127,
+        "name": "Eclectoplasmaticism",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "What kind of word is Eclectopl... whatever, this gives you +{% TRUE DMG Multi per Eclectic Sigil!"
+    },
+    {
+        "index": 128,
+        "name": "Eclectic Sigils",
+        "maxLevel": 1,
+        "bonusPerLevel": 10,
+        "x3": 0,
+        "x4": 0,
+        "description": "Sigils can be upgraded a 5th time to Eclectic! @ NOTE:You must defeat Lore Boss 7 in Spelunking first!"
+    },
+    {
+        "index": 129,
+        "name": "Mr Minehead Linguistics",
+        "maxLevel": 4,
+        "bonusPerLevel": 10,
+        "x3": 0,
+        "x4": 0,
+        "description": "You can now speak to Mr Minehead and play his Depth Charge game! Also, +{ base Minehead Currency/hr"
+    },
+    {
+        "index": 130,
+        "name": "Legendary Yellow Fever",
+        "maxLevel": 3,
+        "bonusPerLevel": 5,
+        "x3": 0,
+        "x4": 0,
+        "description": "Raises the Max LV of certain Yellow Legend Talents by + . Also, }x Class EXP gain!"
+    },
+    {
+        "index": 131,
+        "name": "Legendary Red Fever",
+        "maxLevel": 3,
+        "bonusPerLevel": 5,
+        "x3": 0,
+        "x4": 0,
+        "description": "Raises the Max LV of certain Red Legend Talents by + . @ Also, }x Class EXP gain!"
+    },
+    {
+        "index": 132,
+        "name": "Legendary Brown Fever",
+        "maxLevel": 3,
+        "bonusPerLevel": 5,
+        "x3": 0,
+        "x4": 0,
+        "description": "Raises the Max LV of certain Brown Legend Talents by + . Also, }x Class EXP gain!"
+    },
+    {
+        "index": 133,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 134,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 135,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 136,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 137,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 138,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 139,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 140,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 141,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 142,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 143,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 144,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 145,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 146,
+        "name": "Risky Strategy",
+        "maxLevel": 2,
+        "bonusPerLevel": 10,
+        "x3": 0,
+        "x4": 0,
+        "description": "Your Minehead Damage is boosted by +{% for every tile revealed in a single turn. This resets at the start of every turn."
+    },
+    {
+        "index": 147,
+        "name": "Depth Charge Rematch!",
+        "maxLevel": 4,
+        "bonusPerLevel": 25,
+        "x3": 0,
+        "x4": 0,
+        "description": "Gives you +  more tries every day at Mr Minehead's Depth Charge! Also, +{% Minehead Currency/hr"
+    },
+    {
+        "index": 148,
+        "name": "More of that Minehead Money Pls",
+        "maxLevel": 4,
+        "bonusPerLevel": 25,
+        "x3": 0,
+        "x4": 0,
+        "description": "Multiplies Minehead Currency/hr by }x"
+    },
+    {
+        "index": 149,
+        "name": "Glimbo Linguistics",
+        "maxLevel": 1,
+        "bonusPerLevel": 15,
+        "x3": 0,
+        "x4": 0,
+        "description": "You can now speak to Glimbo, and make trades with him! Also boosts coins dropped by monsters by }x!"
+    },
+    {
+        "index": 150,
+        "name": "Masterclass Research",
+        "maxLevel": 2,
+        "bonusPerLevel": 10,
+        "x3": 0,
+        "x4": 0,
+        "description": "Reduces the cost of all Masterclass upgrades by {% every day, FOREVER! Total Reduction:-&%"
+    },
+    {
+        "index": 151,
+        "name": "Spelunking Research",
+        "maxLevel": 2,
+        "bonusPerLevel": 25,
+        "x3": 0,
+        "x4": 0,
+        "description": "Boosts Spelunking POW by +{% every day, FOREVER! @ Total Boost:^x POW"
+    },
+    {
+        "index": 152,
+        "name": "Legendary Green Fever",
+        "maxLevel": 3,
+        "bonusPerLevel": 5,
+        "x3": 0,
+        "x4": 0,
+        "description": "Raises the Max LV of certain Green Legend Talents by + . Also, }x Class EXP gain!"
+    },
+    {
+        "index": 153,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 154,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 155,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 156,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 157,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 158,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 159,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 160,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 161,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 162,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 163,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 164,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 165,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 166,
+        "name": "Minehead Copium",
+        "maxLevel": 4,
+        "bonusPerLevel": 15,
+        "x3": 0,
+        "x4": 0,
+        "description": "If your 1st click is on a depth charge, 50% chance it wiggles and doesn't count! Happens up to   times per game. @ Also, +{% Minehead Currency gain!"
+    },
+    {
+        "index": 167,
+        "name": "Minehead Damagio",
+        "maxLevel": 3,
+        "bonusPerLevel": 15,
+        "x3": 0,
+        "x4": 0,
+        "description": "Multiplies all damage you deal in Mr Minehead's Depth Charge by }x"
+    },
+    {
+        "index": 168,
+        "name": "Glimbo Insider Trading Secrets",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "+{% Drop Rate TRUE Multi per 100 Glimbo Trades! @ Total Bonus:^x DR"
+    },
+    {
+        "index": 169,
+        "name": "Glimbo BOGO Offer",
+        "maxLevel": 2,
+        "bonusPerLevel": 10,
+        "x3": 0,
+        "x4": 0,
+        "description": "Some of Glimbo's trades give +  additional LVs! This works retroactively. Also, }x Coin gain"
+    },
+    {
+        "index": 170,
+        "name": "All Quick All Done",
+        "maxLevel": 3,
+        "bonusPerLevel": 50,
+        "x3": 0,
+        "x4": 0,
+        "description": "Every day, the first 'All Quick' use at the MSA in World 3 gives }x more Souls and EXP!"
+    },
+    {
+        "index": 171,
+        "name": "Day 'N' Nite",
+        "maxLevel": 4,
+        "bonusPerLevel": 50,
+        "x3": 0,
+        "x4": 0,
+        "description": "Increases the Max LV of all Day and Night Market upgrades by +{"
+    },
+    {
+        "index": 172,
+        "name": "Well Dressed",
+        "maxLevel": 2,
+        "bonusPerLevel": 25,
+        "x3": 0,
+        "x4": 0,
+        "description": "The first MISC Bonus on your Attire Equipment (i.e. Clothing) gives }x more bonus!"
+    },
+    {
+        "index": 173,
+        "name": "Divine Design",
+        "maxLevel": 1,
+        "bonusPerLevel": 25,
+        "x3": 0,
+        "x4": 0,
+        "description": "<. Also, +{% Drop Rate."
+    },
+    {
+        "index": 174,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 175,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 176,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 177,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 178,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 179,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 180,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 181,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 182,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 183,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 184,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 185,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 186,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 187,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 188,
+        "name": "Shakin' It",
+        "maxLevel": 2,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "Every day, you get another +  extra uses for ALL your shakers at the Sushi Station! @ And +{% chance for free use when using Shakers!"
+    },
+    {
+        "index": 189,
+        "name": "Sushi Station Linguistics",
+        "maxLevel": 4,
+        "bonusPerLevel": 25,
+        "x3": 0,
+        "x4": 0,
+        "description": "You can now speak to the knife found in the map past Glimbo to play the Sushi Station game! @ Also, }x more Bucks gained from your Sushi!"
+    },
+    {
+        "index": 190,
+        "name": "Masterius Cookerius",
+        "maxLevel": 4,
+        "bonusPerLevel": 75,
+        "x3": 0,
+        "x4": 0,
+        "description": "Multiplies your EXP gain for Cooking Mastery, a feature unlocked at Rift 61, by a massive }x @ Also gives +  Yellow PTS to spend on Meals!"
+    },
+    {
+        "index": 191,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 192,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 193,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 194,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 195,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 196,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 197,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 198,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 199,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 200,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 201,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 202,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 203,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 204,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 205,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 206,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 207,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 208,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 209,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 210,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 211,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 212,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 213,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 214,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 215,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 216,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 217,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 218,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 219,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 220,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 221,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 222,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 223,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 224,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 225,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 226,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 227,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 228,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 229,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 230,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 231,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 232,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 233,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 234,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 235,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 236,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 237,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 238,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    },
+    {
+        "index": 239,
+        "name": "Name",
+        "maxLevel": 1,
+        "bonusPerLevel": 1,
+        "x3": 0,
+        "x4": 0,
+        "description": "desc"
+    }
+]
