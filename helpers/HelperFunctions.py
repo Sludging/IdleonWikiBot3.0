@@ -1,37 +1,125 @@
+import json
 import re
 from typing import List, Set
 
 import numpy as np
+from tree_sitter import Language, Node, Parser
+import tree_sitter_javascript
+
 from helpers.Constants import Constants
 
 reAll = r'[ a-zA-Z0-_\'n()@,#!$+{/}%:.~\-&\|/\*\u4E00-\u9FFF`]'
+javascriptParser = Parser(Language(tree_sitter_javascript.language()))
+
 
 
 def getFromSplitArray(v: str, replaceUnderscores: bool = True) -> List[List[str]]:
-	"""
-	Converts a section into a list of strings based upon the exportation of an array represented as
-	"0 1 2 3 4 5 6 7 8 9".split(" ")
-	Args:
-		v:
-
-	Returns:
-
-	"""
-	section = formatStr(v, ["  ", "\n"])
-	subSections = re.findall(fr'"({reAll}*)"\.split', section)
-	newSections = []
-	for subSec in subSections:
-		if subSec.count(" ") > subSec.count(";"):
-			newSections.append(subSec.split(" "))
-		else:
-			newSections.append(subSec.split(";"))
+	"""Extracts every string ``.split()`` expression in source order."""
+	source, root = _parseJavascript(v)
 	newList = []
-	for subSection in newSections:
-		internalList = []
-		for i in range(len(subSection)):
-			internalList.append(formatStr(subSection[i], replaceUnderscores = replaceUnderscores))
-		newList.append(internalList[:])
+	for call in _findNodes(root, "call_expression"):
+		values = _splitValues(source, call)
+		if values is not None:
+			newList.append([formatStr(value, replaceUnderscores = replaceUnderscores) for value in values])
 	return newList
+
+
+def _findNode(node: Node, nodeType: str) -> Node | None:
+	"""Finds the first named AST node of ``nodeType`` below ``node``.
+
+	Tree-sitter exposes punctuation such as brackets as anonymous children.
+	``named_children`` visits only meaningful syntax nodes such as arrays,
+	function calls, and string literals.
+	"""
+	if node.type == nodeType:
+		return node
+	for child in node.named_children:
+		result = _findNode(child, nodeType)
+		if result:
+			return result
+	return None
+
+def _findNodes(node: Node, nodeType: str) -> List[Node]:
+	"""Finds all named AST nodes of ``nodeType`` in source order."""
+	results = [node] if node.type == nodeType else []
+	for child in node.named_children:
+		results.extend(_findNodes(child, nodeType))
+	return results
+
+
+def _parseJavascript(v: str) -> tuple[bytes, Node]:
+	"""Parses a CodeReader function section, complete array, or array fragment."""
+	if re.search(r"\breturn\b", v):
+		source = f"function extract() {{ {v} }}".encode("utf-8")
+		return source, javascriptParser.parse(source).root_node
+
+	source = f"const extract = {v};".encode("utf-8")
+	root = javascriptParser.parse(source).root_node
+	declaration = _findNode(root, "variable_declarator")
+	value = declaration.child_by_field_name("value") if declaration else None
+	if not root.has_error and value and value.type == "array":
+		return source, root
+
+	source = f"const extract = [{v}];".encode("utf-8")
+	return source, javascriptParser.parse(source).root_node
+
+
+def _topLevelArray(v: str) -> tuple[bytes, Node]:
+	"""Returns the AST array represented by a function return or array fragment."""
+	source, root = _parseJavascript(v)
+	returnNode = _findNode(root, "return_statement")
+	if returnNode:
+		return source, returnNode.named_children[0]
+	declaration = _findNode(root, "variable_declarator")
+	return source, declaration.child_by_field_name("value")
+
+
+def _nodeText(source: bytes, node: Node) -> str:
+	"""Returns the exact source text represented by a Tree-sitter node."""
+	return source[node.start_byte:node.end_byte].decode("utf-8")
+
+
+def _stringValue(source: bytes, node: Node) -> str:
+	"""Decodes a JavaScript double-quoted string node, including escape sequences."""
+	return json.loads(_nodeText(source, node))
+
+
+
+def _splitValues(source: bytes, node: Node) -> List[str] | None:
+	"""Returns WikiBot-normalized values when ``node`` is a string ``.split()`` call."""
+	if node.type != "call_expression":
+		return None
+	function = node.child_by_field_name("function")
+	if not function or function.type != "member_expression":
+		return None
+	target = function.child_by_field_name("object")
+	propertyName = function.child_by_field_name("property")
+	if not target or target.type != "string" or not propertyName or _nodeText(source, propertyName) != "split":
+		return None
+	value = _stringValue(source, target)
+	delimiter = " " if value.count(" ") > value.count(";") else ";"
+	return value.split(delimiter)
+
+def _mixedArrayEntry(source: bytes, node: Node, replaceUnderscores: bool) -> List[str] | None:
+	"""Converts one top-level JavaScript array entry into WikiBot string values.
+
+	Supported AST shapes mirror the data formats used by the codefile:
+
+	- ``"a b".split(" ")`` is a call expression whose function is the
+	  ``split`` member of a string. WikiBot keeps its existing space-versus-semicolon
+	  delimiter rule so generated exports do not change.
+	- ``["a", 1]`` is an array node passed to the existing ``strToArray``
+	  converter, preserving WikiBot's formatting behavior.
+
+	Other expressions are not static data entries and are ignored.
+	"""
+	values = _splitValues(source, node)
+	if values is not None:
+		return values
+
+	if node.type == "array":
+		return strToArray(_nodeText(source, node), replaceUnderscores)
+	return None
 
 
 def getFromMixedArray(v: str, replaceUnderscores: bool = True, formatSubSection: bool = True) -> List[List[str]]:
@@ -39,91 +127,23 @@ def getFromMixedArray(v: str, replaceUnderscores: bool = True, formatSubSection:
 	Converts the top-level entries of a JavaScript array containing a mix of
 	``.split()`` strings and array literals into lists of strings.
 
-	A regex cannot preserve the source indexes when the returned array contains
-	nested array literals: it treats the outer ``[`` and the first inner ``]`` as
-	one entry. Research data relies on those indexes, so this parser tracks
-	delimiter depth and quoted strings instead.
+	Tree-sitter owns JavaScript tokenization and nesting. Function sections are
+	wrapped as a complete function; callers such as EquipmentSets that provide
+	an array fragment are wrapped as an array initializer.
+
+	Tree-sitter nodes reference byte ranges in the parsed ``source`` rather than
+	storing decoded values. The helper keeps that source beside the syntax tree
+	and uses those ranges to recover literals.
 	"""
-	container = v
-	# Function sections include ``return [...]``. Isolate that outer array first
-	# so each nested literal is handled as one top-level entry below. Some callers
-	# pass an array fragment directly, in which case the full input is the container.
-	returnArray = re.search(r"return\s*\[", v)
-	if returnArray:
-		start = returnArray.end() - 1
-		depth = 0
-		quote = ""
-		escaped = False
-		for index in range(start, len(v)):
-			char = v[index]
-			if quote:
-				if escaped:
-					escaped = False
-				elif char == "\\":
-					escaped = True
-				elif char == quote:
-					quote = ""
-				continue
-			if char in ['"', "'"]:
-				quote = char
-			elif char == "[":
-				depth += 1
-			elif char == "]":
-				depth -= 1
-				if depth == 0:
-					container = v[start + 1:index]
-					break
+	source, arrayNode = _topLevelArray(v)
 
-	# Split only on commas between top-level entries. Commas inside nested arrays,
-	# calls, objects, or quoted descriptions belong to the current entry.
-	entries = []
-	entryStart = 0
-	squareDepth = 0
-	roundDepth = 0
-	curlyDepth = 0
-	quote = ""
-	escaped = False
-	for index, char in enumerate(container):
-		if quote:
-			if escaped:
-				escaped = False
-			elif char == "\\":
-				escaped = True
-			elif char == quote:
-				quote = ""
-			continue
-		if char in ['"', "'"]:
-			quote = char
-		elif char == "[":
-			squareDepth += 1
-		elif char == "]":
-			squareDepth -= 1
-		elif char == "(":
-			roundDepth += 1
-		elif char == ")":
-			roundDepth -= 1
-		elif char == "{":
-			curlyDepth += 1
-		elif char == "}":
-			curlyDepth -= 1
-		elif char == "," and squareDepth == 0 and roundDepth == 0 and curlyDepth == 0:
-			entries.append(container[entryStart:index])
-			entryStart = index + 1
-	entries.append(container[entryStart:])
-
-	# Convert each isolated entry with the same formatting behavior as the previous
-	# implementation; unsupported JavaScript expressions remain intentionally skipped.
 	newList = []
-	for entry in entries:
-		splitEntry = re.search(r'"(.*?)"\.split', entry, re.DOTALL)
-		if splitEntry:
-			value = splitEntry.group(1)
-			subSection = value.split(" ") if value.count(" ") > value.count(";") else value.split(";")
-		elif entry.strip().startswith("[") and entry.strip().endswith("]"):
-			subSection = strToArray(entry, replaceUnderscores)
-		else:
+	# ``named_children`` returns array elements only; bracket and comma tokens are
+	# anonymous children and therefore require no manual filtering.
+	for entry in arrayNode.named_children:
+		subSection = _mixedArrayEntry(source, entry, replaceUnderscores)
+		if subSection is None:
 			continue
-
 		if formatSubSection:
 			newList.append([formatStr(value, replaceUnderscores = replaceUnderscores) for value in subSection])
 		else:
@@ -132,52 +152,55 @@ def getFromMixedArray(v: str, replaceUnderscores: bool = True, formatSubSection:
 
 
 def getFromSplit(v: str) -> List[str]:
-	"""
-	Converts a section into a list of strings based upon the exportation of an array represented as
-	"0 1 2 3 4 5 6 7 8 9".split(" ")
-	Args:
-		v:
-
-	Returns:
-
-	"""
+	"""Extracts the first string ``.split()`` expression from a code section."""
+	source, root = _parseJavascript(v)
+	for call in _findNodes(root, "call_expression"):
+		values = _splitValues(source, call)
+		if values is not None:
+			return values
 	section = formatStr(v, ["  ", "\n"])
-	subSections = re.findall(fr'"({reAll}*)"\.', section)
-	if not subSections:
-		return section.replace(".split( )", "").split(" ")
-	return subSections[0].split(" ")
+	return section.replace(".split( )", "").split(" ")
 
 
 def getFromArrayArray(v: str, repU = True) -> List[List[str]]:
-	"""
-	Converts a string representation of a 2d array into an actual 2d array
-	Args:
-		v:
-
-	Returns:
-
-	"""
-	section = formatStr(v, ["  ", "\n"])
-	subSections = section.split("],[")
-
-	return [strToArray(x, repU) for x in subSections]
+	"""Converts a JavaScript array or its direct child arrays into string lists."""
+	source, arrayNode = _topLevelArray(v)
+	arrayChildren = [child for child in arrayNode.named_children if child.type == "array"]
+	if not arrayChildren:
+		return [strToArray(_nodeText(source, arrayNode), repU)]
+	return [strToArray(_nodeText(source, child), repU) for child in arrayChildren]
 
 
 def getFrom4dArray(v: str) -> List[List[List[List[str]]]]:
-	section = formatStr(v, ["\n", "  "])
-	subSections = [wrap(x) for x in re.split(r"],?],?],\[\[\[", section)]
-	outer = []
-	for subSection in subSections:
-		subSubSections = [wrap(x) for x in re.split(r",?],?],\[\[", subSection)]
-		mid = []
-		for subSubSection in subSubSections:
-			subSubSubSection = [wrap(x) for x in re.split(r",?], ?\[", subSubSection)]
-			inner = []
-			for subSubSubSection in subSubSubSection:
-				inner.append(strToArray(subSubSubSection))
-			mid.append(inner.copy())
-		outer.append(mid.copy())
-	return outer
+	"""Converts nested arrays to the four-dimensional shape expected by existing repositories."""
+	source, arrayNode = _topLevelArray(v)
+	def convert(node: Node):
+		arrayChildren = [child for child in node.named_children if child.type == "array"]
+		if not arrayChildren:
+			return strToArray(_nodeText(source, node))
+
+		children = []
+		for child in node.named_children:
+			if child.type == "array":
+				children.append(convert(child))
+				continue
+			values = _splitValues(source, child)
+			if values is not None:
+				children.append(values)
+		return children
+
+	# Source functions vary between three and four nested array levels. The
+	# helper's public contract has always padded shallower inputs to four levels.
+	result = convert(arrayNode)
+	depth = 0
+	current = result
+	while isinstance(current, list):
+		depth += 1
+		current = current[0] if current else None
+	while depth < 4:
+		result = [result]
+		depth += 1
+	return result
 
 
 def isRecipe(name: str) -> bool:
