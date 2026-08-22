@@ -1,0 +1,452 @@
+{
+    "0": {
+        "index": 0,
+        "displayOrder": 6,
+        "name": "Sushi Slot",
+        "maxLevel": 50,
+        "costExponent": 3.5,
+        "bonusPerLevel": 1,
+        "costMultiplier": 0,
+        "description": "Adds a new slot for your Sushi Station!"
+    },
+    "1": {
+        "index": 1,
+        "displayOrder": 3,
+        "name": "Fuel Capacity I",
+        "maxLevel": 9999,
+        "costExponent": 1.08,
+        "bonusPerLevel": 50,
+        "costMultiplier": 0,
+        "description": "+{ max Fuel Capacity!"
+    },
+    "2": {
+        "index": 2,
+        "displayOrder": 8,
+        "name": "Fuel Capacity II",
+        "maxLevel": 9999,
+        "costExponent": 1.1,
+        "bonusPerLevel": 200,
+        "costMultiplier": 0,
+        "description": "+{ max Fuel Capacity, and a unique @ $x Fuel Cap bonus!"
+    },
+    "3": {
+        "index": 3,
+        "displayOrder": 18,
+        "name": "Fuel Capacity III",
+        "maxLevel": 9999,
+        "costExponent": 1.12,
+        "bonusPerLevel": 1500,
+        "costMultiplier": 0,
+        "description": "+{ max Fuel Capacity, and a unique @ $x Fuel Cap bonus!"
+    },
+    "4": {
+        "index": 4,
+        "displayOrder": 29,
+        "name": "Fuel Capacity IV",
+        "maxLevel": 9999,
+        "costExponent": 1.13,
+        "bonusPerLevel": 10000,
+        "costMultiplier": 0,
+        "description": "+{ max Fuel Capacity, and a unique @ $x Fuel Cap bonus!"
+    },
+    "5": {
+        "index": 5,
+        "displayOrder": 39,
+        "name": "Fuel Capacity V",
+        "maxLevel": 9999,
+        "costExponent": 1.15,
+        "bonusPerLevel": 50000,
+        "costMultiplier": 0,
+        "description": "+{ max Fuel Capacity, and a unique @ $x Fuel Cap bonus!"
+    },
+    "6": {
+        "index": 6,
+        "displayOrder": 7,
+        "name": "Superior Sushi Skillz",
+        "maxLevel": 35,
+        "costExponent": 3.8,
+        "bonusPerLevel": 1,
+        "costMultiplier": 0.2,
+        "description": "You can now click the Sushi on your fuel bar to change which sushi you cook, up to Tier $. This also increases fuel cost."
+    },
+    "7": {
+        "index": 7,
+        "displayOrder": 21,
+        "name": "Quality Freshness",
+        "maxLevel": 25,
+        "costExponent": 6.5,
+        "bonusPerLevel": 1,
+        "costMultiplier": 0,
+        "description": "{% chance for freshly cooked Sushi to be +1 higher Tier! Cook T1, get T2!"
+    },
+    "8": {
+        "index": 8,
+        "displayOrder": 1,
+        "name": "Fastburn Fuel I",
+        "maxLevel": 9999,
+        "costExponent": 1.1,
+        "bonusPerLevel": 15,
+        "costMultiplier": 0,
+        "description": "+{% faster Fuel generation! @ Your current rate is $"
+    },
+    "9": {
+        "index": 9,
+        "displayOrder": 5,
+        "name": "Fastburn Fuel II",
+        "maxLevel": 9999,
+        "costExponent": 1.12,
+        "bonusPerLevel": 100,
+        "costMultiplier": 0,
+        "description": "+{% faster Fuel generation, and a unique @ $x Fuel Generation multi bonus!"
+    },
+    "10": {
+        "index": 10,
+        "displayOrder": 17,
+        "name": "Fastburn Fuel III",
+        "maxLevel": 9999,
+        "costExponent": 1.14,
+        "bonusPerLevel": 750,
+        "costMultiplier": 0,
+        "description": "+{% faster Fuel generation, and a unique @ $x Fuel Generation multi bonus!"
+    },
+    "11": {
+        "index": 11,
+        "displayOrder": 26,
+        "name": "Fastburn Fuel IV",
+        "maxLevel": 9999,
+        "costExponent": 1.16,
+        "bonusPerLevel": 5000,
+        "costMultiplier": 0,
+        "description": "+{% faster Fuel generation, and a unique @ $x Fuel Generation multi bonus!"
+    },
+    "12": {
+        "index": 12,
+        "displayOrder": 34,
+        "name": "Fastburn Fuel V",
+        "maxLevel": 9999,
+        "costExponent": 1.17,
+        "bonusPerLevel": 25000,
+        "costMultiplier": 0,
+        "description": "+{% faster Fuel generation, and a unique @ $x Fuel Generation multi bonus!"
+    },
+    "13": {
+        "index": 13,
+        "displayOrder": 14,
+        "name": "Seared Knowledge",
+        "maxLevel": 1,
+        "costExponent": 1.1,
+        "bonusPerLevel": 1,
+        "costMultiplier": 1.5,
+        "description": "Whenever a sushi is created in any way, that sushi type gains +1 EXP. Level up sushi for unique knowledge bonuses!"
+    },
+    "14": {
+        "index": 14,
+        "displayOrder": 12,
+        "name": "Hot Slot",
+        "maxLevel": 20,
+        "costExponent": 20,
+        "bonusPerLevel": 1,
+        "costMultiplier": 0,
+        "description": "Adds a new SPECIAL slot for your Sushi Station... the Hot Plate! Sushi on these slots generate $x more Bucks!"
+    },
+    "15": {
+        "index": 15,
+        "displayOrder": 33,
+        "name": "Cold Slot",
+        "maxLevel": 8,
+        "costExponent": 150,
+        "bonusPerLevel": 1,
+        "costMultiplier": 0,
+        "description": "Adds a new SPECIAL slot for your Sushi Station... the Cold Plate! Sushi on these slots generate +$ EXP/day for ALL sushi lower tiered than this one!"
+    },
+    "16": {
+        "index": 16,
+        "displayOrder": 23,
+        "name": "Milktoast Slot",
+        "maxLevel": 12,
+        "costExponent": 70,
+        "bonusPerLevel": 1,
+        "costMultiplier": 0,
+        "description": "Adds a new SPECIAL slot for your Sushi Station... the Milktoast Plate! Sushi on these slots generate +$ EXP/day"
+    },
+    "17": {
+        "index": 17,
+        "displayOrder": 10,
+        "name": "Salt Shaker",
+        "maxLevel": 1,
+        "costExponent": 1.1,
+        "bonusPerLevel": 1,
+        "costMultiplier": 2,
+        "description": "Click to use once per day. When used, all sushi have a chance of getting a Tier Up! By default, you get +1 shaker use every day, just sayin'."
+    },
+    "18": {
+        "index": 18,
+        "displayOrder": 22,
+        "name": "Pepper Shaker",
+        "maxLevel": 1,
+        "costExponent": 1.1,
+        "bonusPerLevel": 1,
+        "costMultiplier": 3,
+        "description": "Click to use once per day. When used, all sushi have a chance to be Perfecto'd, which means its Knowledge Bonus is 2x bigger!"
+    },
+    "19": {
+        "index": 19,
+        "displayOrder": 32,
+        "name": "Saffron Shaker",
+        "maxLevel": 1,
+        "costExponent": 1.1,
+        "bonusPerLevel": 1,
+        "costMultiplier": 4,
+        "description": "Click to use once per day. When used, all sushi generate 1 hour's worth of Bucks!"
+    },
+    "20": {
+        "index": 20,
+        "displayOrder": 19,
+        "name": "Shake N' Bake",
+        "maxLevel": 10,
+        "costExponent": 100,
+        "bonusPerLevel": 1,
+        "costMultiplier": 0,
+        "description": "Whenever you use any Shaker, you instantly generate 1 hour's worth of Fuel! Also, {% chance to get 10 hour's worth instead!"
+    },
+    "21": {
+        "index": 21,
+        "displayOrder": 28,
+        "name": "Bottomless Shakers",
+        "maxLevel": 20,
+        "costExponent": 12,
+        "bonusPerLevel": 1,
+        "costMultiplier": 0,
+        "description": "Whenever you use any Shaker, there's a {% chance to get another usage! Free use, basically..."
+    },
+    "22": {
+        "index": 22,
+        "displayOrder": 35,
+        "name": "Sasaphrax Saffron",
+        "maxLevel": 23,
+        "costExponent": 11,
+        "bonusPerLevel": 1,
+        "costMultiplier": 0,
+        "description": "Saffron Shaker now generates $ hour's worth of Bucks, not just 1 hour!"
+    },
+    "23": {
+        "index": 23,
+        "displayOrder": 15,
+        "name": "Charcoal Fireplace",
+        "maxLevel": 15,
+        "costExponent": 40,
+        "bonusPerLevel": 1,
+        "costMultiplier": 0,
+        "description": "Unlock a new Fireplace! This default red charcoal fire increases Fuel generation by +1% per Tier of Sushi in the column above it."
+    },
+    "24": {
+        "index": 24,
+        "displayOrder": 31,
+        "name": "Copper Firelighter",
+        "maxLevel": 1,
+        "costExponent": 1.1,
+        "bonusPerLevel": 1,
+        "costMultiplier": 3,
+        "description": "Fireplaces can be changed to blue. Sushi above blue fires have a {% chance of getting +2 tiers instead of +1, so long as it's not your highest tier."
+    },
+    "25": {
+        "index": 25,
+        "displayOrder": 40,
+        "name": "Potassium Firelighter",
+        "maxLevel": 1,
+        "costExponent": 1.1,
+        "bonusPerLevel": 1,
+        "costMultiplier": 5,
+        "description": "Fireplaces can be changed to purple, which each give +1蒲/sec @ $"
+    },
+    "26": {
+        "index": 26,
+        "displayOrder": 38,
+        "name": "Lithium Firelighter",
+        "maxLevel": 1,
+        "costExponent": 1.1,
+        "bonusPerLevel": 1,
+        "costMultiplier": 4,
+        "description": "Fireplaces can be changed to pink. Sushi above pink fires generate $x more Knowledge EXP by all methods and means of doing so! Think about it."
+    },
+    "27": {
+        "index": 27,
+        "displayOrder": 24,
+        "name": "Barium Firelighter",
+        "maxLevel": 1,
+        "costExponent": 1.1,
+        "bonusPerLevel": 1,
+        "costMultiplier": 2,
+        "description": "Fireplaces can be changed to green. Sushi above green fires generate $x more Bucks."
+    },
+    "28": {
+        "index": 28,
+        "displayOrder": 37,
+        "name": "Overtuned Fuel",
+        "maxLevel": 1,
+        "costExponent": 1.1,
+        "bonusPerLevel": 1,
+        "costMultiplier": 0,
+        "description": "When you generate fuel while at max capacity, you get +1 识 @ $"
+    },
+    "29": {
+        "index": 29,
+        "displayOrder": 25,
+        "name": "Heat of the East Wind",
+        "maxLevel": 1,
+        "costExponent": 1.1,
+        "bonusPerLevel": 1,
+        "costMultiplier": 0,
+        "description": "When a sushi is combined, it tiers-up the sushi to its right, but only if that sushi is lower tiered. @ This only works on sushi Tier $ and lower."
+    },
+    "30": {
+        "index": 30,
+        "displayOrder": 4,
+        "name": "Customer Surcharge I",
+        "maxLevel": 9999,
+        "costExponent": 1.14,
+        "bonusPerLevel": 2,
+        "costMultiplier": 0,
+        "description": "All your sushi generate Bucks based on their tier. Higher tier sushi generate way more! @ This upgrade boosts all Bucks generated by +{%"
+    },
+    "31": {
+        "index": 31,
+        "displayOrder": 11,
+        "name": "Customer Surcharge II",
+        "maxLevel": 9999,
+        "costExponent": 1.16,
+        "bonusPerLevel": 3,
+        "costMultiplier": 0,
+        "description": "All your sushi generate +{% more Bucks! Also, each unique sushi you create gives a 1.10x multiplicative bonus to Bucks generated, did you know that?"
+    },
+    "32": {
+        "index": 32,
+        "displayOrder": 20,
+        "name": "Customer Surcharge III",
+        "maxLevel": 9999,
+        "costExponent": 1.17,
+        "bonusPerLevel": 5,
+        "costMultiplier": 0,
+        "description": "All your sushi generate +{% more Bucks!"
+    },
+    "33": {
+        "index": 33,
+        "displayOrder": 36,
+        "name": "Customer Surcharge IV",
+        "maxLevel": 9999,
+        "costExponent": 1.19,
+        "bonusPerLevel": 10,
+        "costMultiplier": 0,
+        "description": "All your sushi generate +{% more Bucks!"
+    },
+    "34": {
+        "index": 34,
+        "displayOrder": 43,
+        "name": "Customer Surcharge V",
+        "maxLevel": 9999,
+        "costExponent": 1.2,
+        "bonusPerLevel": 20,
+        "costMultiplier": 0,
+        "description": "All your sushi generate +{% more Bucks!"
+    },
+    "35": {
+        "index": 35,
+        "displayOrder": 16,
+        "name": "Quickpay Fee",
+        "maxLevel": 120,
+        "costExponent": 2,
+        "bonusPerLevel": 1,
+        "costMultiplier": 0,
+        "description": "When a sushi is created, it instantly generates { minute's worth of Bucks!"
+    },
+    "36": {
+        "index": 36,
+        "displayOrder": 27,
+        "name": "Wholesale Pricing",
+        "maxLevel": 9999,
+        "costExponent": 1.15,
+        "bonusPerLevel": 1,
+        "costMultiplier": 0,
+        "description": "All upgrades are $% cheaper, now and forever!"
+    },
+    "37": {
+        "index": 37,
+        "displayOrder": 30,
+        "name": "2nd Degree Searing",
+        "maxLevel": 9999,
+        "costExponent": 1.35,
+        "bonusPerLevel": 1,
+        "costMultiplier": 0,
+        "description": "Newly created Sushi generate +$ exp, instead of just +1 EXP. This is of course multiplied by all knowledge EXP multi's"
+    },
+    "38": {
+        "index": 38,
+        "displayOrder": 42,
+        "name": "3rd Degree Searing",
+        "maxLevel": 9999,
+        "costExponent": 1.15,
+        "bonusPerLevel": 1,
+        "costMultiplier": 0,
+        "description": "Boosts all Sushi EXP gained from all sources by +{%. That includes newly created Sushi and EXP from Cold and Milktoast plates."
+    },
+    "39": {
+        "index": 39,
+        "displayOrder": 44,
+        "name": "Rift Guy's Upgrade",
+        "maxLevel": 0,
+        "costExponent": 1.1,
+        "bonusPerLevel": 1,
+        "costMultiplier": 0,
+        "description": "I've got my hands in everything! Minehead, farming, the rift... so yea, of course I'm in the Sushi biz too, don't be so shocked."
+    },
+    "40": {
+        "index": 40,
+        "displayOrder": 41,
+        "name": "No Tax on Tips",
+        "maxLevel": 9999,
+        "costExponent": 1.2,
+        "bonusPerLevel": 2,
+        "costMultiplier": 0,
+        "description": "Multiplies all Bucks earned by }x"
+    },
+    "41": {
+        "index": 41,
+        "displayOrder": 0,
+        "name": "Hourly Wage Meter",
+        "maxLevel": 9999,
+        "costExponent": 1.08,
+        "bonusPerLevel": 1,
+        "costMultiplier": 0,
+        "description": "Adds a display to the Top Right of the Sushi Station which shows total Hourly Bucks generated by all your sushi. @ Also, +{% total Bucks generated by all sushi!"
+    },
+    "42": {
+        "index": 42,
+        "displayOrder": 13,
+        "name": "Movement Mittens",
+        "maxLevel": 1,
+        "costExponent": 1.1,
+        "bonusPerLevel": 1,
+        "costMultiplier": 0.3,
+        "description": "Adds the MOVE button. Enabling this option lets you drag the SLOTS themselves around your Sushi Station, instead of the sushi."
+    },
+    "43": {
+        "index": 43,
+        "displayOrder": 9,
+        "name": "Sushi Tier Vision",
+        "maxLevel": 9999,
+        "costExponent": 1.2,
+        "bonusPerLevel": 2,
+        "costMultiplier": 0,
+        "description": "Adds a toggle button to the Top Left of the Sushi Station. Click it to show Sushi Tiers numerically, can be turned off any time. @ Also, +{% total Bucks generated by all sushi!"
+    },
+    "44": {
+        "index": 44,
+        "displayOrder": 2,
+        "name": "Sushi Service Bonuses",
+        "maxLevel": 1,
+        "costExponent": 1.1,
+        "bonusPerLevel": 1,
+        "costMultiplier": 0,
+        "description": "Creating a new sushi type gives a new IdleOn bonus for the REST of the game! Check them out in the BONUS tap, top right corner."
+    }
+}
