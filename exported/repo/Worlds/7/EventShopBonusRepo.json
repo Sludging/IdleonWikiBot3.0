@@ -2,7 +2,7 @@
     "0": {
         "name": "Golden Tome",
         "desc": "Adds a new DMG Multi bonus type to the Tome in World 4",
-        "price": 25
+        "price": 35
     },
     "1": {
         "name": "Stamp Stack",
@@ -32,7 +32,7 @@
     "6": {
         "name": "Village Encouragement",
         "desc": "All Villagers in World 5 Camp get 1.25x EXP Gain",
-        "price": 30
+        "price": 40
     },
     "7": {
         "name": "Gilded Vote Button",
@@ -62,7 +62,7 @@
     "12": {
         "name": "Secret Pouch",
         "desc": "Get +3 Inventory slots for your Items Backpack",
-        "price": 27
+        "price": 30
     },
     "13": {
         "name": "Ribbon Connoisseur",
@@ -77,12 +77,12 @@
     "15": {
         "name": "Summoning Star",
         "desc": "Get +10 Summoning Doublers, used on Summoning Upgrades!",
-        "price": 30
+        "price": 50
     },
     "16": {
         "name": "Royal Vote Button",
         "desc": "Get +30% higher Ballot Bonus Multi instead of +17%",
-        "price": 25
+        "price": 35
     },
     "17": {
         "name": "Another Page",
@@ -149,7 +149,7 @@
     "31": {
         "name": "Omega Bubble",
         "desc": "Kattlekruk divinity gives 1.50x more daily bubbles",
-        "price": 75
+        "price": 90
     },
     "32": {
         "name": "Legend Scroll",
@@ -226,5 +226,20 @@
         "name": "Monumental Reverence",
         "desc": "+100 LVs for all Monument bonuses every day forever",
         "price": 175
+    },
+    "48": {
+        "name": "Noble Sluggo",
+        "desc": "Roams your dock, giving 1.50x Artifact Find chance",
+        "price": 90
+    },
+    "49": {
+        "name": "Doggie Sticker",
+        "desc": "Boosts Sticker odds by 2x daily, resets when finding one",
+        "price": 250
+    },
+    "50": {
+        "name": "6 Star Cardifiers",
+        "desc": "Gives you EIGHT usable 6star cardifiers!",
+        "price": 200
     }
 }

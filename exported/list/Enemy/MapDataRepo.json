@@ -1934,7 +1934,7 @@
     {
         "enemy": "w7b8",
         "world": "Shimmerfin Deep",
-        "map": {"intName": "uAquaB8", "name": "fillername", "id": 322},
+        "map": {"intName": "uAquaB8", "name": "The Glowing Underbelly", "id": 322},
         "portalRequirements": [500000000]
     },
     {

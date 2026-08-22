@@ -311,13 +311,13 @@
     },
     "Pet2": {
         "id": "Pet2",
-        "desc": "Bababooey!",
-        "bonus": 3,
+        "desc": "{15% Hat Rack Bonus Multi",
+        "bonus": 15,
         "x1": 2,
         "x2": 0,
         "x3": -8,
         "x4": 100,
-        "x5": 90
+        "x5": 170
     },
     "Pet4": {
         "id": "Pet4",
@@ -571,8 +571,8 @@
     },
     "w7b12": {
         "id": "w7b12",
-        "desc": "Not officially in the game and may never be",
-        "bonus": 1,
+        "desc": "Glimbo's Swap Meet's prices are 5.00x cheaper (World 7 feature)",
+        "bonus": 80,
         "x1": -36,
         "x2": 0,
         "x3": -41,
@@ -1678,5 +1678,15 @@
         "x3": -33,
         "x4": 1,
         "x5": 210
+    },
+    "fm goose": {
+        "id": "fm goose",
+        "desc": "All daily ribbons have a 50% chance to be +1 Tier, 40% for +3 Tiers, and 10% for +5 Tiers",
+        "bonus": 1,
+        "x1": -59,
+        "x2": 0,
+        "x3": -23,
+        "x4": 1,
+        "x5": 250
     }
 }
