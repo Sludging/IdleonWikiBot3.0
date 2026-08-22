@@ -18,6 +18,9 @@ find_unhandled_sources.py
 N.js
 TODO_REPOS.md
 
+# Local investigation notes
+/docs/local/
+
 # Who cares
 .vscode
 pywikibot.lwp

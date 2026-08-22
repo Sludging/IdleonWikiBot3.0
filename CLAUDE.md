@@ -48,6 +48,10 @@ Repositories use `add(key, model)` for dict-based storage and `addList(model)` f
 
 Use the `/new-repo` skill for guided repository creation with examples and best practices.
 
+### Local investigation notes
+
+Temporary investigation and handoff notes belong under `docs/local/` and remain untracked. Do not commit local notes or use them as generated data. Permanent project documentation may remain elsewhere under `docs/`.
+
 ### Key Helpers
 
 - `helpers/HelperFunctions.py`: String/array parsing (`getFromSplit`, `strToArray`, `formatStr`, `replaceUnderscores`)
