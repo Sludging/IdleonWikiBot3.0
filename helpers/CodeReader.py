@@ -237,6 +237,7 @@ class IdleonReader:
 		self.codeReader.addSection("CosmoUpgrades = function ()", "CosmoUpgrades")
 		self.codeReader.addSection("LampWishes = function ()", "LampWishes")
 		self.codeReader.addSection("HolesInfo = function ()", "HoleInfo")
+		self.codeReader.addSection("HoleFountUPG = function ()", "FountainUpgrade", "}),")
 
 		# Misc
 		self.codeReader.addSection("UpgradeVault = function ()", "UpgradeVault")

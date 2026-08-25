@@ -34,3 +34,6 @@ class HoleOrder(Enum):
 	CosmoUpgradeEnhance = 56
 	# Jars
 	JarDescriptions = 65 # TODO: Actual Repo!
+	# Fountain System
+	FountainCurrencyIcons = 29
+	FountainMarbleizationRestrictions = 76

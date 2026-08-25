@@ -1,0 +1,11 @@
+{
+    "0": {"index": 0, "name": "Bronze Coins", "holesResourceIndex": 30, "icon": "歧"},
+    "1": {"index": 1, "name": "Silver Coins", "holesResourceIndex": 31, "icon": "武"},
+    "2": {"index": 2, "name": "Golden Coins", "holesResourceIndex": 32, "icon": "歌"},
+    "3": {"index": 3, "name": "Dollar Bills", "holesResourceIndex": 33, "icon": "歉"},
+    "4": {"index": 4, "name": "Credit Bills", "holesResourceIndex": 34, "icon": "款"},
+    "5": {"index": 5, "name": "Treasury Bills", "holesResourceIndex": 35, "icon": "欺"},
+    "6": {"index": 6, "name": "Moolah Stacks", "holesResourceIndex": 36, "icon": "欧"},
+    "7": {"index": 7, "name": "Shilling Stacks", "holesResourceIndex": 37, "icon": "欣"},
+    "8": {"index": 8, "name": "Greane Stacks", "holesResourceIndex": 38, "icon": "欢"}
+}
