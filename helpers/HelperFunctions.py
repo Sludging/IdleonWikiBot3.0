@@ -23,6 +23,39 @@ def getFromSplitArray(v: str, replaceUnderscores: bool = True) -> List[List[str]
 			newList.append([formatStr(value, replaceUnderscores = replaceUnderscores) for value in values])
 	return newList
 
+def getFromNestedSplitArray(v: str, replaceUnderscores: bool = True) -> List[List[List[str]]]:
+	"""Extract nested arrays whose leaf entries are string ``.split()`` calls."""
+	source, arrayNode = _topLevelArray(v)
+	groups = []
+	for groupNode in arrayNode.named_children:
+		if groupNode.type != "array":
+			continue
+		rows = []
+		for rowNode in groupNode.named_children:
+			values = _splitValues(source, rowNode)
+			if values is not None:
+				rows.append([formatStr(value, replaceUnderscores = replaceUnderscores) for value in values])
+		groups.append(rows)
+	return groups
+
+
+def getFromLiteralArrayEntry(v: str, index: int, replaceUnderscores: bool = False) -> List[str]:
+	"""Read string literals from one indexed nested array without legacy normalization."""
+	source, arrayNode = _topLevelArray(v)
+	entries = arrayNode.named_children
+	if index < 0 or index >= len(entries):
+		raise IndexError(f"Array entry {index} is out of range")
+	entry = entries[index]
+	if entry.type != "array":
+		raise ValueError(f"Array entry {index} is not a literal array")
+	values = []
+	for valueNode in entry.named_children:
+		if valueNode.type != "string":
+			raise ValueError(f"Array entry {index} contains a non-string literal")
+		value = _stringValue(source, valueNode)
+		values.append(formatStr(value, replaceUnderscores = replaceUnderscores))
+	return values
+
 
 def _findNode(node: Node, nodeType: str) -> Node | None:
 	"""Finds the first named AST node of ``nodeType`` below ``node``.

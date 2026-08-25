@@ -48,6 +48,12 @@ Repositories use `add(key, model)` for dict-based storage and `addList(model)` f
 
 Use the `/new-repo` skill for guided repository creation with examples and best practices.
 
+### Downstream static-data requests
+
+When a request links to an `idleon-efficiency` correctness case, treat it as a semantic handoff to this repository's static extraction pipeline. Define models and repositories from static arrays and functions present in `N.js`/`codefiles`, and include cohesive adjacent static tables or modifiers from the same player-facing feature.
+
+The consumer's save fixtures, live-game extraction artifacts, runtime state arrays, formulas, domain implementations, and correctness tests remain outside this repository. Use them only to identify the requested static facts and version; they are not model fields or repository inputs here. Before editing, state the concrete repositories, model fields, and adjacent-data scope.
+
 ### Local investigation notes
 
 Temporary investigation and handoff notes belong under `docs/local/` and remain untracked. Do not commit local notes or use them as generated data. Permanent project documentation may remain elsewhere under `docs/`.
