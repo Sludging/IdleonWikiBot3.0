@@ -42,7 +42,7 @@
     {"id": 40, "portalRequirements": [0], "maxOnScreen": 1},
     {"id": 41, "portalRequirements": [0], "maxOnScreen": 0},
     {"id": 42, "portalRequirements": [0], "maxOnScreen": 1},
-    {"id": 43, "portalRequirements": [0], "maxOnScreen": 0},
+    {"id": 43, "portalRequirements": [0], "maxOnScreen": 15},
     {"id": 44, "portalRequirements": [0], "maxOnScreen": 0},
     {"id": 45, "portalRequirements": [0], "maxOnScreen": 0},
     {"id": 46, "portalRequirements": [0], "maxOnScreen": 0},

@@ -339,12 +339,12 @@
             },
             {
                 "cauldron": "Power Cauldron",
-                "name": "Bubble",
-                "x1": 99,
+                "name": "Royal Riches",
+                "x1": 20,
                 "x2": 40,
                 "func": "decay",
-                "description": "It's just a normal bubble. It doesn't have a bonus yet, it just floats and is round.",
-                "requirements": [{"item": "FillerMaterial", "quantity": 2500}, {"liquidNo": "4", "quantity": 6}],
+                "description": "+{% Resource Collection Rate for all of your Royal Guardian's Outposts",
+                "requirements": [{"item": "w7B2", "quantity": 10000}, {"liquidNo": "4", "quantity": 20}],
                 "bonusKey": "W14"
             },
             {
@@ -354,7 +354,10 @@
                 "x2": 40,
                 "func": "decay",
                 "description": "It's just a normal bubble. It doesn't have a bonus yet, it just floats and is round.",
-                "requirements": [{"item": "FillerMaterial", "quantity": 2500}, {"liquidNo": "4", "quantity": 6}],
+                "requirements": [
+                    {"item": "FillerMaterial", "quantity": 50000},
+                    {"liquidNo": "4", "quantity": 50}
+                ],
                 "bonusKey": "W15"
             }
         ]

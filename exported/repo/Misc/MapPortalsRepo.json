@@ -42,7 +42,7 @@
     "40": {"id": 40, "portalRequirements": [0], "maxOnScreen": 1},
     "41": {"id": 41, "portalRequirements": [0], "maxOnScreen": 0},
     "42": {"id": 42, "portalRequirements": [0], "maxOnScreen": 1},
-    "43": {"id": 43, "portalRequirements": [0], "maxOnScreen": 0},
+    "43": {"id": 43, "portalRequirements": [0], "maxOnScreen": 15},
     "44": {"id": 44, "portalRequirements": [0], "maxOnScreen": 0},
     "45": {"id": 45, "portalRequirements": [0], "maxOnScreen": 0},
     "46": {"id": 46, "portalRequirements": [0], "maxOnScreen": 0},

@@ -1,3 +1,5 @@
+from typing import Optional
+
 from definitions.master.IdleonModel import IdleonModel
 from helpers.CustomTypes import Numeric, Integer
 
@@ -11,3 +13,7 @@ class Companion(IdleonModel):
 	x3: Integer
 	x4: Integer
 	x5: Integer
+	x6: Optional[Integer] = None
+	x7: Optional[Integer] = None
+	desc2: Optional[str] = None
+	bonus2: Optional[Numeric] = None
