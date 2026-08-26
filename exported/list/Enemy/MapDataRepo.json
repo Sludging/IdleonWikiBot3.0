@@ -258,9 +258,9 @@
         "portalRequirements": [0]
     },
     {
-        "enemy": "Z",
+        "enemy": "Nothing",
         "world": "Blunder Hills",
-        "map": {"intName": "Z", "name": "Z", "id": 43},
+        "map": {"intName": "GrasslandsH", "name": "The Royal Castle", "id": 43},
         "portalRequirements": [0]
     },
     {

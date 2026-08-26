@@ -1009,6 +1009,13 @@
     },
     "Boss6C": {
         "prev": "Boss6B",
+        "next": "fm_rat",
+        "hasCrystal": true,
+        "crystalName": null,
+        "hasCard": true
+    },
+    "fm_rat": {
+        "prev": "Boss6C",
         "next": "Blank",
         "hasCrystal": true,
         "crystalName": null,

@@ -4698,6 +4698,7 @@
             {"wikiName": "[[Glaciaxus]]", "txtName": "Glaciaxus"},
             {"wikiName": "[[Golden Glaciaxus]]", "txtName": "Golden Glaciaxus"},
             {"wikiName": "[[Caustic Glaciaxus]]", "txtName": "Caustic Glaciaxus"},
+            {"wikiName": "[[Verminous]]", "txtName": "Verminous"},
             {"wikiName": "[[Crystal Carrot]]", "txtName": "Crystal Carrot"},
             {"wikiName": "[[Crystal Crabal]]", "txtName": "Crystal Crabal"},
             {"wikiName": "[[Crystal Cattle]]", "txtName": "Crystal Cattle"},
@@ -5178,6 +5179,21 @@
             {"wikiName": "[[Golden Glaciaxus]]", "txtName": "Golden Glaciaxus"},
             {"wikiName": "[[Caustic Glaciaxus]]", "txtName": "Caustic Glaciaxus"},
             {"wikiName": "[[Dungeons]]", "txtName": "Dungeons"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Sewers2": {
+        "sources": [
+            {"wikiName": "[[Verminous]]", "txtName": "Verminous"},
+            {"wikiName": "[[Rat]]", "txtName": "Rat"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "CardsZ27": {
+        "sources": [
+            {"wikiName": "[[Verminous]]", "txtName": "Verminous"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -6427,13 +6443,6 @@
     "DropTable3b": {
         "sources": [
             {"wikiName": "[[Poop]]", "txtName": "Poop"},
-            {"wikiName": "[[Rat]]", "txtName": "Rat"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Sewers2": {
-        "sources": [
             {"wikiName": "[[Rat]]", "txtName": "Rat"}
         ],
         "recipeFrom": [],
@@ -16519,7 +16528,8 @@
             {
                 "wikiName": "[[Royal Worm#Bossin' the Boss|Bossin' the Boss]]",
                 "txtName": "Royal Worm: Bossin' the Boss"
-            }
+            },
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -16607,8 +16617,7 @@
             {
                 "wikiName": "[[Coastiolyte#Vibe Check|Vibe Check]]",
                 "txtName": "Coastiolyte: Vibe Check"
-            },
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -17503,35 +17512,14 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "InvStorageZ": {
+    "EquipmentHats140": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
         "recipeFrom": [],
         "questAss": []
     },
-    "EquipmentNametag8": {
-        "sources": [
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "EquipmentHats35": {
-        "sources": [
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "EquipmentHats122": {
-        "sources": [
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "EquipmentPendant31": {
+    "EquipmentRings37": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],

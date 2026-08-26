@@ -7941,6 +7941,69 @@
         "Skill": "",
         "Skill_Power": 0
     },
+    "EquipmentRingsChat13": {
+        "internalName": "EquipmentRingsChat13",
+        "displayName": "Bronze Div Ring",
+        "sellPrice": 2500,
+        "typeGen": "aChatRingMTX",
+        "Type": "Chat Ring",
+        "lvReqToCraft": 55,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 0,
+        "STR": 0,
+        "AGI": 0,
+        "WIS": 0,
+        "LUK": 0,
+        "Defence": 0,
+        "miscUp1": "",
+        "miscUp2": "00",
+        "Upgrade_Slots_Left": 0,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "EquipmentRingsChat14": {
+        "internalName": "EquipmentRingsChat14",
+        "displayName": "Bronze Div Ring",
+        "sellPrice": 2500,
+        "typeGen": "aChatRingMTX",
+        "Type": "Chat Ring",
+        "lvReqToCraft": 55,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 0,
+        "STR": 0,
+        "AGI": 0,
+        "WIS": 0,
+        "LUK": 0,
+        "Defence": 0,
+        "miscUp1": "",
+        "miscUp2": "00",
+        "Upgrade_Slots_Left": 0,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "EquipmentRingsChat15": {
+        "internalName": "EquipmentRingsChat15",
+        "displayName": "Bronze Div Ring",
+        "sellPrice": 2500,
+        "typeGen": "aChatRingMTX",
+        "Type": "Chat Ring",
+        "lvReqToCraft": 55,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 0,
+        "STR": 0,
+        "AGI": 0,
+        "WIS": 0,
+        "LUK": 0,
+        "Defence": 0,
+        "miscUp1": "",
+        "miscUp2": "00",
+        "Upgrade_Slots_Left": 0,
+        "Skill": "",
+        "Skill_Power": 0
+    },
     "EquipmentCape0": {
         "internalName": "EquipmentCape0",
         "displayName": "Angel Wings",
@@ -8378,6 +8441,48 @@
         "Defence": 0,
         "miscUp1": "300% Bigger Damage",
         "miscUp2": "10% Afk Gains Multi",
+        "Upgrade_Slots_Left": 0,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "EquipmentCape21": {
+        "internalName": "EquipmentCape21",
+        "displayName": "Crystal Crescent",
+        "sellPrice": 1,
+        "typeGen": "aCape",
+        "Type": "Cape",
+        "lvReqToCraft": 55,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 30,
+        "STR": 0,
+        "AGI": 0,
+        "WIS": 0,
+        "LUK": 0,
+        "Defence": 0,
+        "miscUp1": "200% Class Exp Multi",
+        "miscUp2": "00",
+        "Upgrade_Slots_Left": 0,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "EquipmentCape22": {
+        "internalName": "EquipmentCape22",
+        "displayName": "Bladed Rucksack",
+        "sellPrice": 1,
+        "typeGen": "aCape",
+        "Type": "Cape",
+        "lvReqToCraft": 55,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 50,
+        "STR": 0,
+        "AGI": 0,
+        "WIS": 0,
+        "LUK": 0,
+        "Defence": 0,
+        "miscUp1": "500% Bigger Damage",
+        "miscUp2": "00",
         "Upgrade_Slots_Left": 0,
         "Skill": "",
         "Skill_Power": 0
@@ -19604,6 +19709,27 @@
         "Skill": "",
         "Skill_Power": 0
     },
+    "EquipmentGown8": {
+        "internalName": "EquipmentGown8",
+        "displayName": "Arctic Furcoat",
+        "sellPrice": 1,
+        "typeGen": "aGown",
+        "Type": "Attire",
+        "lvReqToCraft": 55,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 35,
+        "STR": 20,
+        "AGI": 20,
+        "WIS": 20,
+        "LUK": 20,
+        "Defence": 30,
+        "miscUp1": "250% Bonus Kills",
+        "miscUp2": "00",
+        "Upgrade_Slots_Left": 0,
+        "Skill": "",
+        "Skill_Power": 0
+    },
     "EquipmentKeychain0": {
         "internalName": "EquipmentKeychain0",
         "displayName": "Simple Key Chain",
@@ -23874,6 +24000,14 @@
         "typeGen": "dQuest",
         "Type": "Event Box",
         "description": "Hold down to get a random reward added directly to your account! It could be a Prisma Fragment for Alchemy, Gold Balls for the Arcade Shop, or even Cosmic Balls to super boost your maxed out Arcade Shop bonuses! "
+    },
+    "Orblet": {
+        "internalName": "Orblet",
+        "displayName": "Orblet",
+        "sellPrice": 1,
+        "typeGen": "dQuest",
+        "Type": "Currency",
+        "description": "Spend these in the Lil' Orblet Shop, opened by using the Royal Guardian talent! "
     },
     "EquipmentSmithingTabs2": {
         "internalName": "EquipmentSmithingTabs2",
@@ -32560,6 +32694,107 @@
         "Skill": "",
         "Skill_Power": 0
     },
+    "EquipmentHats140": {
+        "internalName": "EquipmentHats140",
+        "displayName": "Legion Commander Bicorne",
+        "sellPrice": 1,
+        "typeGen": "aHelmetMTX",
+        "Type": "Premium Helmet",
+        "lvReqToCraft": 5,
+        "lvReqToEquip": 1,
+        "Class": "All",
+        "Weapon_Power": 0,
+        "STR": 1,
+        "AGI": 1,
+        "WIS": 1,
+        "LUK": 0,
+        "Defence": 0,
+        "miscUp1": "3% Marble Drop",
+        "miscUp2": "00",
+        "Upgrade_Slots_Left": 5,
+        "Skill": "",
+        "Skill_Power": 0
+    },
+    "RGenh": {
+        "internalName": "RGenh",
+        "displayName": "Parchment of Enchantment",
+        "sellPrice": 1,
+        "typeGen": "dQuest",
+        "Type": "Royal Usable",
+        "description": "Used to enchant the Royal Statues, if you're lucky, to boost their bonuses! "
+    },
+    "RGenhB": {
+        "internalName": "RGenhB",
+        "displayName": "Parchment of Cease and Desist",
+        "sellPrice": 1,
+        "typeGen": "dQuest",
+        "Type": "Royal Usable",
+        "description": "You are not permitted to farm thine unholy rats, only those deemed Royal Guardians may do so. "
+    },
+    "RGshard0": {
+        "internalName": "RGshard0",
+        "displayName": "Leafy Marble",
+        "sellPrice": 1,
+        "typeGen": "dQuest",
+        "Type": "Royal Usable",
+        "description": "Used at the Royal Castle for a chance to restore the 1st Royal Statue, finally pulling back the curtain and unveiling its brilliance! "
+    },
+    "RGshard1": {
+        "internalName": "RGshard1",
+        "displayName": "Sandy Marble",
+        "sellPrice": 1,
+        "typeGen": "dQuest",
+        "Type": "Royal Usable",
+        "description": "Used at the Royal Castle for a chance to restore the 2nd Royal Statue, finally pulling back the curtain and unveiling its brilliance! "
+    },
+    "RGshard2": {
+        "internalName": "RGshard2",
+        "displayName": "Frosty Marble",
+        "sellPrice": 1,
+        "typeGen": "dQuest",
+        "Type": "Royal Usable",
+        "description": "Used at the Royal Castle for a chance to restore the 3rd Royal Statue, finally pulling back the curtain and unveiling its brilliance! "
+    },
+    "RGshard3": {
+        "internalName": "RGshard3",
+        "displayName": "Sparkly Marble",
+        "sellPrice": 1,
+        "typeGen": "dQuest",
+        "Type": "Royal Usable",
+        "description": "Used at the Royal Castle for a chance to restore the 4th Royal Statue, finally pulling back the curtain and unveiling its brilliance! "
+    },
+    "RGshard4": {
+        "internalName": "RGshard4",
+        "displayName": "Toasty Marble",
+        "sellPrice": 1,
+        "typeGen": "dQuest",
+        "Type": "Royal Usable",
+        "description": "Used at the Royal Castle for a chance to restore the 5th Royal Statue, finally pulling back the curtain and unveiling its brilliance! "
+    },
+    "RGshard5": {
+        "internalName": "RGshard5",
+        "displayName": "Wispy Marble",
+        "sellPrice": 1,
+        "typeGen": "dQuest",
+        "Type": "Royal Usable",
+        "description": "Used at the Royal Castle for a chance to restore the 6th Royal Statue, finally pulling back the curtain and unveiling its brilliance! "
+    },
+    "RGshard6": {
+        "internalName": "RGshard6",
+        "displayName": "Briny Marble",
+        "sellPrice": 1,
+        "typeGen": "dQuest",
+        "Type": "Royal Usable",
+        "description": "Used at the Royal Castle for a chance to restore the 7th Royal Statue, finally pulling back the curtain and unveiling its brilliance! "
+    },
+    "RGshard7": {
+        "internalName": "RGshard7",
+        "displayName": "NoNotYety Marble",
+        "sellPrice": 1,
+        "typeGen": "dQuest",
+        "Type": "Royal Usable",
+        "description": "Used at the Royal Castle for a chance to restore the 8th Royal Statue, finally pulling back the curtain and unveiling its brilliance! "
+    },
     "CardsA0": {
         "internalName": "CardsA0",
         "displayName": "Green Mushroom Card",
@@ -36974,5 +37209,21 @@
             "order": 1
         },
         "dropChance": 0.99
+    },
+    "CardsZ27": {
+        "internalName": "CardsZ27",
+        "displayName": "Verminous Card",
+        "sellPrice": 1,
+        "typeGen": "dCard",
+        "Type": "Card",
+        "cardData": {
+            "cardID": "Z27",
+            "category": "Bosses",
+            "perTier": 1e+08,
+            "effect": "+{% Masterclass Drops (Passive)",
+            "bonus": 1,
+            "order": 29
+        },
+        "dropChance": 1e-07
     }
 }

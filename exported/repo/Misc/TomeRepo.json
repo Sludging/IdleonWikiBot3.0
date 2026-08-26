@@ -861,7 +861,7 @@
         "totalVal": 400,
         "decimalDisplay": null,
         "desc": "This counts your current Showdown for the Emperor boss in World 6, not the total amount of kills.",
-        "uiPositionIndex": 106
+        "uiPositionIndex": 109
     },
     "Total Summoning Boss Stone victories \u819b": {
         "name": "Total Summoning Boss Stone victories 膛",
@@ -879,7 +879,7 @@
         "totalVal": 400,
         "decimalDisplay": null,
         "desc": "The Coral Reef is a feature in World 7 town, unlocked by rescuing Humble Hugh's missing Fishies!",
-        "uiPositionIndex": 107
+        "uiPositionIndex": 110
     },
     "Deepest Depth reached in a single Delve \u819b": {
         "name": "Deepest Depth reached in a single Delve 膛",
@@ -888,7 +888,7 @@
         "totalVal": 300,
         "decimalDisplay": null,
         "desc": "This is for the Spelunking skill, it's just the deepest you've gone in a single attempt.",
-        "uiPositionIndex": 110
+        "uiPositionIndex": 113
     },
     "Total Ninja Knowledge Upgrades LV \u819b": {
         "name": "Total Ninja Knowledge Upgrades LV 膛",
@@ -924,7 +924,7 @@
         "totalVal": 300,
         "decimalDisplay": null,
         "desc": "This is for the Spelunking skill, it's just the most amount of Amber you've gotten in a single attempt.",
-        "uiPositionIndex": 111
+        "uiPositionIndex": 114
     },
     "Total Spelunk Shop Upgrades LV": {
         "name": "Total Spelunk Shop Upgrades LV",
@@ -933,7 +933,7 @@
         "totalVal": 500,
         "decimalDisplay": null,
         "desc": null,
-        "uiPositionIndex": 108
+        "uiPositionIndex": 111
     },
     "Total Spelunk Discoveries made \u819b": {
         "name": "Total Spelunk Discoveries made 膛",
@@ -942,7 +942,7 @@
         "totalVal": 300,
         "decimalDisplay": null,
         "desc": "A Discovery is when you destroy a rock for the first time in a cave. It's basically how many unique 'things' you've encountered while spelunking!",
-        "uiPositionIndex": 109
+        "uiPositionIndex": 112
     },
     "Highest leveled Spelunker \u819b": {
         "name": "Highest leveled Spelunker 膛",
@@ -951,7 +951,7 @@
         "totalVal": 200,
         "decimalDisplay": null,
         "desc": "In other words, this is the Spelunking LV of the highest leveled spelunker in your account.",
-        "uiPositionIndex": 112
+        "uiPositionIndex": 115
     },
     "Lava Dev Streams watched \u819b": {
         "name": "Lava Dev Streams watched 膛",
@@ -996,7 +996,7 @@
         "totalVal": 600,
         "decimalDisplay": null,
         "desc": "Haven't heard of Mr Minehead's Depth Charge game yet? It's great, you'll find it deep in World 7!",
-        "uiPositionIndex": 113
+        "uiPositionIndex": 116
     },
     "Rat King Crowns Reclaimed \u819b": {
         "name": "Rat King Crowns Reclaimed 膛",
@@ -1032,7 +1032,7 @@
         "totalVal": 750,
         "decimalDisplay": null,
         "desc": "Research is a World 7 skill, you need to progress past the Ballonfish Map to unlock it!",
-        "uiPositionIndex": 114
+        "uiPositionIndex": 117
     },
     "Total Glimbo Trades \u819b": {
         "name": "Total Glimbo Trades 膛",
@@ -1041,16 +1041,16 @@
         "totalVal": 400,
         "decimalDisplay": null,
         "desc": "Glimbo can be found deep in World 7, he increases your Upgrade Vault max LV's in exchange for valuable items!",
-        "uiPositionIndex": 115
+        "uiPositionIndex": 118
     },
     "Unique Sushi Created \u819b": {
         "name": "Unique Sushi Created 膛",
-        "keyQty": 54,
+        "keyQty": 63,
         "scalingType": "linearToMax",
         "totalVal": 800,
         "decimalDisplay": null,
         "desc": "Basically, the highest Tier of Sushi you've created over at the Sushi Station in World 7!",
-        "uiPositionIndex": 116
+        "uiPositionIndex": 119
     },
     "Button Presses \u819b": {
         "name": "Button Presses 膛",
@@ -1059,6 +1059,33 @@
         "totalVal": 500,
         "decimalDisplay": null,
         "desc": "This is referring to THE BUTTON, found in the Mantaray map in World 7! This map is the 12th map away from town, to give you an idea of where this map is.",
-        "uiPositionIndex": 117
+        "uiPositionIndex": 120
+    },
+    "Total Royal Statue LV": {
+        "name": "Total Royal Statue LV",
+        "keyQty": 100,
+        "scalingType": "decay",
+        "totalVal": 600,
+        "decimalDisplay": null,
+        "desc": null,
+        "uiPositionIndex": 106
+    },
+    "Royal Guardian Outposts Built": {
+        "name": "Royal Guardian Outposts Built",
+        "keyQty": 65,
+        "scalingType": "linearToMax",
+        "totalVal": 650,
+        "decimalDisplay": null,
+        "desc": null,
+        "uiPositionIndex": 107
+    },
+    "Total Resource Grade \u819b": {
+        "name": "Total Resource Grade 膛",
+        "keyQty": 1000,
+        "scalingType": "decay",
+        "totalVal": 600,
+        "decimalDisplay": null,
+        "desc": "Resource Grade refers to the Royal Guardian resource system, where you increase each resource node's Grade by collecting all its resources.",
+        "uiPositionIndex": 108
     }
 }

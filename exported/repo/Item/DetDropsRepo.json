@@ -565,6 +565,7 @@
             {"source": "iceBossZ", "quantity": 69, "chance": 0.5},
             {"source": "iceBossZ2", "quantity": 69, "chance": 0.5},
             {"source": "iceBossZ3", "quantity": 69, "chance": 0.5},
+            {"source": "fm_rat", "quantity": 69, "chance": 0},
             {"source": "Crystal0", "quantity": 3, "chance": 0.5},
             {"source": "Crystal1", "quantity": 3, "chance": 0.5},
             {"source": "Crystal2", "quantity": 3, "chance": 0.5},
@@ -5312,6 +5313,15 @@
             {"source": "iceBossZ3", "quantity": 1, "chance": 0.8}
         ]
     },
+    "Sewers2": {
+        "sources": [
+            {"source": "fm_rat", "quantity": 1, "chance": 1},
+            {"source": "ratB", "quantity": 1, "chance": 0.19}
+        ]
+    },
+    "CardsZ27": {"sources": [
+        {"source": "fm_rat", "quantity": 1, "chance": 1e-07}
+    ]},
     "CardsA14": {"sources": [
         {"source": "Crystal0", "quantity": 1, "chance": 0.01}
     ]},
@@ -5931,9 +5941,6 @@
             {"source": "ratB", "quantity": 1, "chance": 0.006}
         ]
     },
-    "Sewers2": {"sources": [
-        {"source": "ratB", "quantity": 1, "chance": 0.19}
-    ]},
     "CardsA11": {"sources": [
         {"source": "ratB", "quantity": 1, "chance": 5e-05}
     ]},

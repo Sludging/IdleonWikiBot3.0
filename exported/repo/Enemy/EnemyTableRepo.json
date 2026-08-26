@@ -205,6 +205,13 @@
             {"item": "Quest19", "quantity": 69, "chance": 0.07, "questLink": "N/A"}
         ]
     },
+    "fm_rat": {
+        "drops": [
+            {"item": "COIN", "quantity": 69, "chance": 0, "questLink": "N/A"},
+            {"item": "Sewers2", "quantity": 1, "chance": 1, "questLink": "N/A"},
+            {"item": "CardsZ27", "quantity": 1, "chance": 1e-07, "questLink": "N/A"}
+        ]
+    },
     "mushPtutorial": {"drops": [{"item": "COIN", "quantity": 50, "chance": 0.5, "questLink": "N/A"}]},
     "demonPtutorial": {"drops": [{"item": "COIN", "quantity": 250, "chance": 0.4, "questLink": "N/A"}]},
     "behemoth": {"drops": [{"item": "COIN", "quantity": 1, "chance": 1, "questLink": "N/A"}]},

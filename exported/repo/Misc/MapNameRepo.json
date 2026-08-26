@@ -41,6 +41,7 @@
     "Dungeon1": {"intName": "Dungeon1", "name": "Grandfrog's Gazebo", "id": 40},
     "GrasslandsF": {"intName": "GrasslandsF", "name": "Pet Park", "id": 41},
     "GrasslandsG": {"intName": "GrasslandsG", "name": "Grand Owl Perch", "id": 42},
+    "GrasslandsH": {"intName": "GrasslandsH", "name": "The Royal Castle", "id": 43},
     "Z": {"intName": "Z", "name": "Z", "id": 299},
     "zDesertaTown": {"intName": "zDesertaTown", "name": "YumYum Grotto", "id": 50},
     "zDesertCalmA": {"intName": "zDesertCalmA", "name": "Jar Bridge", "id": 51},

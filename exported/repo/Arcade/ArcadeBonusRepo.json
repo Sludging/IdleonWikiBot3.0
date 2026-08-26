@@ -628,5 +628,23 @@
         "type": "%",
         "lvlUpText": "+{% EXP",
         "barType": 49
+    },
+    "Bonus 70": {
+        "effect": "+{% Kingdom Resources",
+        "x1": 6,
+        "x2": 100,
+        "func": "decay",
+        "type": "%",
+        "lvlUpText": "+{% Resources",
+        "barType": 31
+    },
+    "Bonus 71": {
+        "effect": "+{% Marble Drop Rate",
+        "x1": 3,
+        "x2": 100,
+        "func": "decay",
+        "type": "%",
+        "lvlUpText": "+{% Marble DR",
+        "barType": 35
     }
 }

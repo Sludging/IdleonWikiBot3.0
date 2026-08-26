@@ -441,6 +441,58 @@
         "AFKtype": "buff",
         "AFKactivity": 0
     },
+    "Castle Convene": {
+        "name": "Castle Convene",
+        "K": 1,
+        "D": 1,
+        "s": 1,
+        "cooldown": 3,
+        "castTime": 1,
+        "manaCost": 1,
+        "inputReq": 0,
+        "AFKrange": 230,
+        "AFKtype": "buff",
+        "AFKactivity": -2
+    },
+    "Royal Armory": {
+        "name": "Royal Armory",
+        "K": 1,
+        "D": 1,
+        "s": 1,
+        "cooldown": 3,
+        "castTime": 1,
+        "manaCost": 1,
+        "inputReq": 0,
+        "AFKrange": 230,
+        "AFKtype": "buff",
+        "AFKactivity": -2
+    },
+    "Guardian Disciple": {
+        "name": "Guardian Disciple",
+        "K": 1.2,
+        "D": 1.4,
+        "s": 1.2,
+        "cooldown": 40,
+        "castTime": 1,
+        "manaCost": 60,
+        "inputReq": 0,
+        "AFKrange": 230,
+        "AFKtype": "line",
+        "AFKactivity": 0
+    },
+    "Lil' Orblets": {
+        "name": "Lil' Orblets",
+        "K": 1,
+        "D": 1,
+        "s": 1,
+        "cooldown": 5,
+        "castTime": 0.5,
+        "manaCost": 1,
+        "inputReq": 0,
+        "AFKrange": 230,
+        "AFKtype": "buff",
+        "AFKactivity": -2
+    },
     "Piercing Arrow": {
         "name": "Piercing Arrow",
         "K": 1.15,
