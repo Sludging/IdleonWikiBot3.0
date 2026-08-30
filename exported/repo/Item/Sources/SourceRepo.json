@@ -9635,6 +9635,13 @@
         "recipeFrom": [],
         "questAss": []
     },
+    "Coral5": {
+        "sources": [
+            {"wikiName": "[[Ancientfish]]", "txtName": "Ancientfish"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
     "w7B10": {
         "sources": [
             {"wikiName": "[[Magni Pufferfin]]", "txtName": "Magni Pufferfin"}
@@ -11458,8 +11465,7 @@
     },
     "EquipmentHats86": {
         "sources": [
-            {"wikiName": "[[Falloween Pumpkin]]", "txtName": "Falloween Pumpkin"},
-            {"wikiName": "[[Bort The Cornhusk]]", "txtName": "Bort The Cornhusk"}
+            {"wikiName": "[[Falloween Pumpkin]]", "txtName": "Falloween Pumpkin"}
         ],
         "recipeFrom": [],
         "questAss": []
@@ -11518,6 +11524,13 @@
         "recipeFrom": [],
         "questAss": []
     },
+    "EquipmentHats141": {
+        "sources": [
+            {"wikiName": "[[Bort The Cornhusk]]", "txtName": "Bort The Cornhusk"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
     "EquipmentNametag12": {
         "sources": [
             {"wikiName": "[[Bort The Cornhusk]]", "txtName": "Bort The Cornhusk"}
@@ -11525,7 +11538,7 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "EquipmentNametag9": {
+    "EquipmentHats46": {
         "sources": [
             {"wikiName": "[[Bort The Cornhusk]]", "txtName": "Bort The Cornhusk"}
         ],
