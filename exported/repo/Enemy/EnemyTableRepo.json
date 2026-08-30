@@ -1777,6 +1777,7 @@
             {"item": "COIN", "quantity": 3.5e+09, "chance": 0.5, "questLink": "N/A"},
             {"item": "w7B9", "quantity": 1, "chance": 0.0002, "questLink": "N/A"},
             {"item": "CardsJ21", "quantity": 1, "chance": 1.5e-07, "questLink": "N/A"},
+            {"item": "Coral5", "quantity": 1, "chance": 2e-09, "questLink": "N/A"},
             {"item": "SmithingRecipes7", "quantity": 0, "chance": 8e-07, "questLink": "N/A"},
             {"item": "DropTable34", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
         ]
@@ -2326,10 +2327,10 @@
             {"item": "CardsY2", "quantity": 1, "chance": 0, "questLink": "N/A"},
             {"item": "PremiumGem", "quantity": 1, "chance": 0.2, "questLink": "N/A"},
             {"item": "Gfoodcoupon", "quantity": 1, "chance": 0.5, "questLink": "N/A"},
-            {"item": "EquipmentHats86", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats141", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
             {"item": "EquipmentHats117", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
             {"item": "EquipmentNametag12", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
-            {"item": "EquipmentNametag9", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
+            {"item": "EquipmentHats46", "quantity": 1, "chance": 0.001, "questLink": "N/A"},
             {"item": "EquipmentHats73", "quantity": 1, "chance": 0.001, "questLink": "N/A"}
         ]
     },

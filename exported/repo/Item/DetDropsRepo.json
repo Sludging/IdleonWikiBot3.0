@@ -7221,6 +7221,9 @@
     "CardsJ21": {"sources": [
         {"source": "w7b9", "quantity": 1, "chance": 1.5e-07}
     ]},
+    "Coral5": {"sources": [
+        {"source": "w7b9", "quantity": 1, "chance": 2e-09}
+    ]},
     "w7B10": {"sources": [
         {"source": "w7b10", "quantity": 1, "chance": 0.0001}
     ]},
@@ -7766,12 +7769,9 @@
     "Timecandy8": {"sources": [
         {"source": "fallEvent1", "quantity": 1, "chance": 0.1}
     ]},
-    "EquipmentHats86": {
-        "sources": [
-            {"source": "fallEvent1", "quantity": 1, "chance": 0.001},
-            {"source": "cropfallEvent1", "quantity": 1, "chance": 0.001}
-        ]
-    },
+    "EquipmentHats86": {"sources": [
+        {"source": "fallEvent1", "quantity": 1, "chance": 0.001}
+    ]},
     "EquipmentHats87": {
         "sources": [
             {"source": "fallEvent1", "quantity": 1, "chance": 0.001},
@@ -7803,12 +7803,17 @@
             {"source": "anni5Event1", "quantity": 1, "chance": 0.001}
         ]
     },
+    "EquipmentHats141": {
+        "sources": [
+            {"source": "cropfallEvent1", "quantity": 1, "chance": 0.001}
+        ]
+    },
     "EquipmentNametag12": {
         "sources": [
             {"source": "cropfallEvent1", "quantity": 1, "chance": 0.001}
         ]
     },
-    "EquipmentNametag9": {
+    "EquipmentHats46": {
         "sources": [
             {"source": "cropfallEvent1", "quantity": 1, "chance": 0.001}
         ]
