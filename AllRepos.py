@@ -91,6 +91,7 @@ from repositories.npc.NpcRepo import NpcRepo
 from repositories.talents.TalentTreeRepo import TalentTreeRepo
 from repositories.misc.world7.Spelunking import SpelunkingRepos
 from repositories.misc.world7.BubbaUpgradeRepo import BubbaUpgradeRepo
+from repositories.misc.world7.RoyalArmoryUpgradeRepo import RoyalArmoryUpgradeRepo
 from repositories.misc.world7.LegendTalentRepo import LegendTalentsRepo
 from repositories.misc.world7.ZenithMarketRepo import ZenithMarketRepo
 from repositories.misc.world7.ResearchGridBonusRepo import ResearchGridBonusRepo
@@ -131,6 +132,7 @@ AllRepos = [*SpelunkingRepos, ItemDetailRepo, EquipmentSetsRepo, CosmoUpgradeRep
             FountainCurrencyRepo, FountainUpgradeRepo,
             HarpStringsRepo, HarpNotesRepo, MonumentRepo, SaltLickRepo, ZenithMarketRepo, ResearchGridBonusRepo,
             ButtonBonusRepo, ButtonTaskRepo, SushiRepo, SushiStationUpgradeRepo, BubbaUpgradeRepo,
+            RoyalArmoryUpgradeRepo,
             LegendTalentsRepo, BigFishBonusRepo, BubbaCharismaBonusRepo, BubbaGiftRepo, BubbaMegafleshRepo, ClamworksBonusRepo,
             CoralReefUpgradeRepo, DancingCoralBonusRepo, TomeEpilogueBonusRepo, VoteBonusRepo, MeritocratyBonusRepo,
             EventShopBonusRepo, HoleJarRepo, HoleJarBonusRepo, OrionUpgradeRepo, PoppyUpgradeRepo,

@@ -202,6 +202,7 @@ class IdleonReader:
 		self.codeReader.addSection("ZenithMarket = function ()", "ZenithMarket")
 
 		# World 7
+		self.codeReader.addSection("ArmoryUpg = function ()", "ArmoryUpg")
 		# Research
 		self.codeReader.addSection("ResGridSquares = function ()", "ResearchGridBonus")
 		self.codeReader.addSection("SushiUPG = function ()", "SushiUpgrades")
