@@ -17042,6 +17042,43 @@
         "recipeFrom": [],
         "questAss": []
     },
+    "Quest108": {
+        "sources": [
+            {
+                "wikiName": "[[Wavey Wayne#Briny Tasks|Briny Tasks]]",
+                "txtName": "Wavey Wayne: Briny Tasks"
+            },
+            {
+                "wikiName": "[[Toobus Goobus#TUNNEL EXPLORING|TUNNEL EXPLORING]]",
+                "txtName": "Toobus Goobus: TUNNEL EXPLORING"
+            },
+            {
+                "wikiName": "[[Toobus Goobus#FEAR HOLE! FEAR HOLE!|FEAR HOLE! FEAR HOLE!]]",
+                "txtName": "Toobus Goobus: FEAR HOLE! FEAR HOLE!"
+            },
+            {
+                "wikiName": "[[Toobus Goobus#READING CHALLENGE|READING CHALLENGE]]",
+                "txtName": "Toobus Goobus: READING CHALLENGE"
+            },
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Quest115": {
+        "sources": [
+            {
+                "wikiName": "[[Wavey Wayne#Briny Tasks|Briny Tasks]]",
+                "txtName": "Wavey Wayne: Briny Tasks"
+            },
+            {
+                "wikiName": "[[Toobus Goobus#RESEARCH STUDIES|RESEARCH STUDIES]]",
+                "txtName": "Toobus Goobus: RESEARCH STUDIES"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
     "Quest70": {
         "sources": [
             {
@@ -17241,35 +17278,6 @@
             {
                 "wikiName": "[[Bloo Radley#The Hero's Journey|The Hero's Journey]]",
                 "txtName": "Bloo Radley: The Hero's Journey"
-            }
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Quest108": {
-        "sources": [
-            {
-                "wikiName": "[[Toobus Goobus#TUNNEL EXPLORING|TUNNEL EXPLORING]]",
-                "txtName": "Toobus Goobus: TUNNEL EXPLORING"
-            },
-            {
-                "wikiName": "[[Toobus Goobus#FEAR HOLE! FEAR HOLE!|FEAR HOLE! FEAR HOLE!]]",
-                "txtName": "Toobus Goobus: FEAR HOLE! FEAR HOLE!"
-            },
-            {
-                "wikiName": "[[Toobus Goobus#READING CHALLENGE|READING CHALLENGE]]",
-                "txtName": "Toobus Goobus: READING CHALLENGE"
-            },
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Quest115": {
-        "sources": [
-            {
-                "wikiName": "[[Toobus Goobus#RESEARCH STUDIES|RESEARCH STUDIES]]",
-                "txtName": "Toobus Goobus: RESEARCH STUDIES"
             }
         ],
         "recipeFrom": [],

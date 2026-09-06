@@ -149,7 +149,7 @@
         "scalingType": "inverseDecay",
         "totalVal": 350,
         "decimalDisplay": null,
-        "desc": "This tracks your Crystal Mob spawn chance! While this is capped at 1 in 100, you get BONUS Exp and Drops if your Crystal Spawn is better! For example, if your average kills is 20, you're getting 5x Exp and Drops from Crystals!",
+        "desc": "This tracks your Crystal Mob spawn chance! While this is capped at 1 in 10, you get BONUS Exp and Drops if your Crystal Spawn is better! For example, if your average kills is 1 in 5, you're getting 2x Exp and Drops from Crystals!",
         "uiPositionIndex": 28
     },
     "Dungeon Rank": {

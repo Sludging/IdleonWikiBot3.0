@@ -72594,7 +72594,7 @@
             "sellPrice": 100,
             "typeGen": "dQuest",
             "Type": "Event Wish",
-            "description": "Hold down on this candle to see the 5th Birthday Lucky Pet winners list! There's a new winner every 5 MINUTES! WOW! "
+            "description": "Hold down on this candle to see the Lucky Pet winners list! Who knows, maybe you'll win! "
         },
         "sources": null,
         "notes": null,
@@ -72913,6 +72913,10 @@
         "sources": {
             "sources": [
                 {
+                    "wikiName": "[[Wavey Wayne#Briny Tasks|Briny Tasks]]",
+                    "txtName": "Wavey Wayne: Briny Tasks"
+                },
+                {
                     "wikiName": "[[Toobus Goobus#TUNNEL EXPLORING|TUNNEL EXPLORING]]",
                     "txtName": "Toobus Goobus: TUNNEL EXPLORING"
                 },
@@ -73020,6 +73024,10 @@
         },
         "sources": {
             "sources": [
+                {
+                    "wikiName": "[[Wavey Wayne#Briny Tasks|Briny Tasks]]",
+                    "txtName": "Wavey Wayne: Briny Tasks"
+                },
                 {
                     "wikiName": "[[Toobus Goobus#RESEARCH STUDIES|RESEARCH STUDIES]]",
                     "txtName": "Toobus Goobus: RESEARCH STUDIES"
