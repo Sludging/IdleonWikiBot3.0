@@ -26,6 +26,7 @@ from repositories.misc.GuildBonusRepo import GuildBonusRepo
 from repositories.misc.TaskDescriptionsRepo import TaskDescriptionRepo
 from repositories.misc.TaskShopDescRepo import TaskShopDescRepo
 from repositories.misc.TomeRepo import TomeRepo
+from repositories.misc.TomeBonusRepo import TomeBonusRepo
 from repositories.misc.UpgradeVaultRepo import UpgradeVaultRepo
 from repositories.misc.EmperorBonusRepo import EmperorBonusRepo
 from repositories.misc.equinox.DreamChallengeRepo import DreamChallengeRepo
@@ -127,7 +128,7 @@ AllRepos = [*SpelunkingRepos, ItemDetailRepo, EquipmentSetsRepo, CosmoUpgradeRep
             CaptainBonusRepo, DivinityStyleRepo, GamingBoxRepo, GamingUpgradeRepo, GodInfoRepo, IslandInfoRepo,
             SlabItemSortRepo, GamingSuperbitsRepo, GamingPaletteRepo, CompanionRepo, AtomColliderRepo, WeeklyBossRepo, WeeklyActionRepo,
             WeeklyShopRepo, DreamChallengeRepo, DreamUpgradeRepo, SummonUpgradeRepo, NinjaUpgradeRepo, JadeUpgradeRepo,
-            MarketInfoRepo, SeedInfoRepo, SummonEnemyRepo, SummonUnitRepo, NinjaItemRepo, FeatherRepo, TomeRepo,
+            MarketInfoRepo, SeedInfoRepo, SummonEnemyRepo, SummonUnitRepo, NinjaItemRepo, FeatherRepo, TomeRepo, TomeBonusRepo,
             HoleBuildingRepo, MeasurementRepo, StudyRepo, BellActionRepo, BellImprovementRepo, BellBonusRepo, SedimentRepo, GambitBonusRepo,
             FountainCurrencyRepo, FountainUpgradeRepo,
             HarpStringsRepo, HarpNotesRepo, MonumentRepo, SaltLickRepo, ZenithMarketRepo, ResearchGridBonusRepo,
