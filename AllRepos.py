@@ -17,6 +17,7 @@ from repositories.misc.CardSetRepo import CardSetRepo
 from repositories.misc.bonusmap.CardSetBonusRepo import CardSetBonusRepo
 from repositories.misc.ColosseumRepo import ColosseumRepo
 from repositories.misc.CompanionRepo import CompanionRepo
+from repositories.misc.FriendBonusRepo import FriendBonusRepo
 from repositories.misc.ConstellationsRepo import ConstellationsRepo
 from repositories.misc.GemShopRepo import GemShopRepo
 from repositories.misc.GrimoireUpgradeRepo import GrimoireUpgradeRepo
@@ -39,6 +40,8 @@ from repositories.misc.world1.FeatherRepo import FeatherRepo
 from repositories.misc.world2.BubbleRepo import BubbleRepo
 from repositories.misc.world2.FishPoolRepo import FishPoolRepo
 from repositories.misc.world2.PostOfficeRepo import PostOfficeRepo
+from repositories.misc.world2.ShimmerBonusRepo import ShimmerBonusRepo
+from repositories.misc.world2.ShimmerChallengeRepo import ShimmerChallengeRepo
 from repositories.misc.world2.PostOfficeUpgradesRepo import PostOfficeUpgradesRepo
 from repositories.misc.world2.SigilRepo import SigilRepo
 from repositories.misc.world3.AtomColliderRepo import AtomColliderRepo
@@ -124,9 +127,11 @@ AllRepos = [*SpelunkingRepos, ItemDetailRepo, EquipmentSetsRepo, CosmoUpgradeRep
             GuildBonusRepo,
             AnvilRepo, ArenaBonusRepo, ChipRepo, InfiniteTerritoryRepo, JewelRepo, LabBonusRepo, MealRepo, PetGeneRepo,
             PetStatRepo, PetUpgradeRepo, TerritoryFightRepo, BossDetailRepo, CardSetRepo, CardSetBonusRepo, FishPoolRepo, TrapBoxRepo,
+            ShimmerBonusRepo, ShimmerChallengeRepo,
             ArcadeBonusRepo, SigilRepo, TaskShopDescRepo, TaskDescriptionRepo, ColosseumRepo, ArtifactRepo,
             CaptainBonusRepo, DivinityStyleRepo, GamingBoxRepo, GamingUpgradeRepo, GodInfoRepo, IslandInfoRepo,
             SlabItemSortRepo, GamingSuperbitsRepo, GamingPaletteRepo, CompanionRepo, AtomColliderRepo, WeeklyBossRepo, WeeklyActionRepo,
+            FriendBonusRepo, 
             WeeklyShopRepo, DreamChallengeRepo, DreamUpgradeRepo, SummonUpgradeRepo, NinjaUpgradeRepo, JadeUpgradeRepo,
             MarketInfoRepo, SeedInfoRepo, SummonEnemyRepo, SummonUnitRepo, NinjaItemRepo, FeatherRepo, TomeRepo, TomeBonusRepo,
             HoleBuildingRepo, MeasurementRepo, StudyRepo, BellActionRepo, BellImprovementRepo, BellBonusRepo, SedimentRepo, GambitBonusRepo,

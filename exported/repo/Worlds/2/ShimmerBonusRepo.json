@@ -1,0 +1,9 @@
+{
+    "0": {"description": "+{,Base STR", "levelDivisor": 12},
+    "1": {"description": "+{,Base AGI", "levelDivisor": 12},
+    "2": {"description": "+{,Base WIS", "levelDivisor": 12},
+    "3": {"description": "+{,Base LUK", "levelDivisor": 10},
+    "4": {"description": "+{%,Total DMG", "levelDivisor": 3},
+    "5": {"description": "+{%,Class EXP", "levelDivisor": 4},
+    "6": {"description": "+{%,Skill Eff", "levelDivisor": 5}
+}

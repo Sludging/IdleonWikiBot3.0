@@ -153,6 +153,20 @@ class IdleonReader:
 
 		self.codeReader.addSection("AtomInfo = function ()", "AtomInfo")
 
+		# World 2 Island Expeditions
+		self.codeReader.addSection('this._DL1.push("+{,Base_STR"', "ShimmerBonuses", "this._GenINFO.push(this._DL1),")
+		self.codeReader.addSection(
+			'this._DL1.push(1 + Math.floor(c.asNumber(a.engine.getGameAttribute("OptionsListAccount")[174]) / 12))',
+			"ShimmerBonusLevels",
+			"this._GenINFO[17] = this._DL1",
+		)
+		self.codeReader.addSection(
+			'this._DL1.push("Get_as_much_total_stats_as_possible',
+			"ShimmerChallenges",
+			"this._GenINFO.push(this._DL1),",
+		)
+		self.codeReader.addSection("this._DL1.push(5e4)", "ShimmerChallengeThresholds", "this._GenINFO.push(this._DL1),")
+
 		# World 5
 		self.codeReader.addSection("GamingUpgrades = function ()", "GamingUpgrades")
 		self.codeReader.addSection("GamingUpg = function ()", "GamingSuperbits")
@@ -248,5 +262,7 @@ class IdleonReader:
 		self.codeReader.addSection("EmperorBon = function ()", "EmperorBon")
 		self.codeReader.addSection("EquipmentSets = function ()", "EquipmentSets")
 
+		self.codeReader.addSection('this._GeneralINFO.push("{%_Total_Damage', "FriendBonusLabels", '"),')
+		self.codeReader.addSection('if ("FriendBonusQTY" == e)', "FriendBonusValues", 'if ("ReliquariumInPosession" == e)')
 
 		self.codeReader.readCode()
