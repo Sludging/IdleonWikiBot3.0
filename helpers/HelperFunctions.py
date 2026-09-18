@@ -118,8 +118,8 @@ def _stringValue(source: bytes, node: Node) -> str:
 
 
 
-def _splitValues(source: bytes, node: Node) -> List[str] | None:
-	"""Returns WikiBot-normalized values when ``node`` is a string ``.split()`` call."""
+def _splitValues(source: bytes, node: Node, respectDelimiter: bool = False) -> List[str] | None:
+	"""Returns values when ``node`` is a string ``.split(...)`` call."""
 	if node.type != "call_expression":
 		return None
 	function = node.child_by_field_name("function")
@@ -129,24 +129,34 @@ def _splitValues(source: bytes, node: Node) -> List[str] | None:
 	propertyName = function.child_by_field_name("property")
 	if not target or target.type != "string" or not propertyName or _nodeText(source, propertyName) != "split":
 		return None
+	arguments = node.child_by_field_name("arguments")
+	if not arguments or len(arguments.named_children) != 1:
+		return None
+	delimiterNode = arguments.named_children[0]
+	if delimiterNode.type != "string":
+		return None
 	value = _stringValue(source, target)
-	delimiter = " " if value.count(" ") > value.count(";") else ";"
-	return value.split(delimiter)
+	delimiter = _stringValue(source, delimiterNode)
+	if not respectDelimiter:
+		delimiter = " " if value.count(" ") > value.count(";") else ";"
+	return list(value) if delimiter == "" else value.split(delimiter)
 
-def _mixedArrayEntry(source: bytes, node: Node, replaceUnderscores: bool) -> List[str] | None:
+def _mixedArrayEntry(
+	source: bytes, node: Node, replaceUnderscores: bool, respectDelimiter: bool = False
+) -> List[str] | None:
 	"""Converts one top-level JavaScript array entry into WikiBot string values.
 
 	Supported AST shapes mirror the data formats used by the codefile:
 
 	- ``"a b".split(" ")`` is a call expression whose function is the
-	  ``split`` member of a string. WikiBot keeps its existing space-versus-semicolon
-	  delimiter rule so generated exports do not change.
+	  ``split`` member of a string. The source delimiter is optional because
+	  legacy callers use the existing content-based normalization.
 	- ``["a", 1]`` is an array node passed to the existing ``strToArray``
 	  converter, preserving WikiBot's formatting behavior.
 
 	Other expressions are not static data entries and are ignored.
 	"""
-	values = _splitValues(source, node)
+	values = _splitValues(source, node, respectDelimiter)
 	if values is not None:
 		return values
 
@@ -155,13 +165,15 @@ def _mixedArrayEntry(source: bytes, node: Node, replaceUnderscores: bool) -> Lis
 	return None
 
 
-def getFromMixedArray(v: str, replaceUnderscores: bool = True, formatSubSection: bool = True) -> List[List[str]]:
+def getFromMixedArray(
+	v: str, replaceUnderscores: bool = True, formatSubSection: bool = True, respectDelimiter: bool = False
+) -> List[List[str]]:
 	"""
 	Converts the top-level entries of a JavaScript array containing a mix of
 	``.split()`` strings and array literals into lists of strings.
 
 	Tree-sitter owns JavaScript tokenization and nesting. Function sections are
-	wrapped as a complete function; callers such as EquipmentSets that provide
+	wrapped as complete functions; callers such as EquipmentSets that provide
 	an array fragment are wrapped as an array initializer.
 
 	Tree-sitter nodes reference byte ranges in the parsed ``source`` rather than
@@ -174,7 +186,7 @@ def getFromMixedArray(v: str, replaceUnderscores: bool = True, formatSubSection:
 	# ``named_children`` returns array elements only; bracket and comma tokens are
 	# anonymous children and therefore require no manual filtering.
 	for entry in arrayNode.named_children:
-		subSection = _mixedArrayEntry(source, entry, replaceUnderscores)
+		subSection = _mixedArrayEntry(source, entry, replaceUnderscores, respectDelimiter)
 		if subSection is None:
 			continue
 		if formatSubSection:

@@ -94,6 +94,7 @@ from repositories.misc.world6.SummonUpgradeRepo import SummonUpgradeRepo
 from repositories.npc.NpcRepo import NpcRepo
 from repositories.talents.TalentTreeRepo import TalentTreeRepo
 from repositories.misc.world7.Spelunking import SpelunkingRepos
+from repositories.misc.world7.Minehead import MineheadRepos
 from repositories.misc.world7.BubbaUpgradeRepo import BubbaUpgradeRepo
 from repositories.misc.world7.RoyalArmoryUpgradeRepo import RoyalArmoryUpgradeRepo
 from repositories.misc.world7.LegendTalentRepo import LegendTalentsRepo
@@ -121,7 +122,7 @@ from repositories.misc.world7.PoppyUpgradeRepo import PoppyUpgradeRepo
 from repositories.misc.world7.OrionMegafeatherRepo import OrionMegafeatherRepo
 from repositories.misc.world7.PoppyMegafishRepo import PoppyMegafishRepo
 
-AllRepos = [*SpelunkingRepos, ItemDetailRepo, EquipmentSetsRepo, CosmoUpgradeRepo, SpecificItemRepo, EnemyRepo, DropTableRepo, NpcRepo, RecipeRepo, BubbleRepo, TalentTreeRepo,
+AllRepos = [*SpelunkingRepos, *MineheadRepos, ItemDetailRepo, EquipmentSetsRepo, CosmoUpgradeRepo, SpecificItemRepo, EnemyRepo, DropTableRepo, NpcRepo, RecipeRepo, BubbleRepo, TalentTreeRepo,
             UpgradeVaultRepo, GrimoireUpgradeRepo, CompassUpgradeRepo, TesseractUpgradeRepo, EmperorBonusRepo, PostOfficeUpgradesRepo, PostOfficeRepo, VendorRepo, PrayerRepo, GemShopRepo, BuildingRepo, ShrineRepo,
             RefineryCostRepo, BribeRepo, ConstellationsRepo, DungEnemyRepo, DungItemRepo, AchievementRepo,
             GuildBonusRepo,
