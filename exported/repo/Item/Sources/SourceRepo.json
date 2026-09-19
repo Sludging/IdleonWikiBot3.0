@@ -16541,8 +16541,7 @@
             {
                 "wikiName": "[[Royal Worm#Bossin' the Boss|Bossin' the Boss]]",
                 "txtName": "Royal Worm: Bossin' the Boss"
-            },
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -17533,14 +17532,33 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "EquipmentHats140": {
+    "EquipmentPendant33": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
         "recipeFrom": [],
         "questAss": []
     },
-    "EquipmentRings37": {
+    "EquipmentHats122": {
+        "sources": [
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentKeychain11": {
+        "sources": [
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"},
+            {"wikiName": "[[Dungeons#Flurbo Shop|Flurbo Shop]]", "txtName": "Dungeons: Flurbo Shop"},
+            {
+                "wikiName": "[[Dungeons#Loot Rolls|Dungeon Loot Rolls]]",
+                "txtName": "Dungeons: Flurbo Shop"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "GemP35": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
@@ -18308,17 +18326,6 @@
         "questAss": []
     },
     "EquipmentKeychain10": {
-        "sources": [
-            {"wikiName": "[[Dungeons#Flurbo Shop|Flurbo Shop]]", "txtName": "Dungeons: Flurbo Shop"},
-            {
-                "wikiName": "[[Dungeons#Loot Rolls|Dungeon Loot Rolls]]",
-                "txtName": "Dungeons: Flurbo Shop"
-            }
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "EquipmentKeychain11": {
         "sources": [
             {"wikiName": "[[Dungeons#Flurbo Shop|Flurbo Shop]]", "txtName": "Dungeons: Flurbo Shop"},
             {

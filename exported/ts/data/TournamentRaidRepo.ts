@@ -50,7 +50,8 @@ export const initTournamentRaidRepo = () => {
                     <TournamentRewardTierModel>{
                         "tier": 3,
                         "itemIds": ["EquipmentRingsChat13", "EquipmentRingsChat14", "EquipmentRingsChat15"]
-                    }
+                    },
+                    <TournamentRewardTierModel>{"tier": 4, "itemIds": ["EquipmentHats142", "EquipmentHats143", "EquipmentHats144"]}
                 ]
             })    
 ]

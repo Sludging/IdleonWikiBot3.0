@@ -106,6 +106,7 @@ from repositories.misc.world7.ExoticMarketRepo import ExoticMarketRepo
 from repositories.misc.world7.RoyalResourceRepo import RoyalResourceRepo
 from repositories.misc.world7.TournamentRaidRepo import TournamentRaidRepo
 from repositories.misc.world7.Spelunking import SpelunkingRepos
+from repositories.misc.world7.JellyOperator import JellyOperatorRepos
 from repositories.misc.world7.Minehead import MineheadRepos
 from repositories.misc.world7.BubbaUpgradeRepo import BubbaUpgradeRepo
 from repositories.misc.world7.RoyalArmoryUpgradeRepo import RoyalArmoryUpgradeRepo
@@ -150,7 +151,7 @@ AllRepos = [*SpelunkingRepos, *MineheadRepos, ItemDetailRepo, EquipmentSetsRepo,
             HoleBuildingRepo, MeasurementRepo, StudyRepo, BellActionRepo, BellImprovementRepo, BellBonusRepo, SedimentRepo, GambitBonusRepo,
             FountainCurrencyRepo, FountainUpgradeRepo,
             HarpStringsRepo, HarpNotesRepo, MonumentRepo, SaltLickRepo, ZenithMarketRepo, ResearchGridBonusRepo,
-            ButtonBonusRepo, ButtonTaskRepo, SushiRepo, SushiStationUpgradeRepo, BubbaUpgradeRepo,
+            *JellyOperatorRepos, ButtonBonusRepo, ButtonTaskRepo, SushiRepo, SushiStationUpgradeRepo, BubbaUpgradeRepo,
             ExoticMarketRepo, RoyalResourceRepo, TournamentRaidRepo,
             RoyalArmoryUpgradeRepo,
             LegendTalentsRepo, BigFishBonusRepo, BubbaCharismaBonusRepo, BubbaGiftRepo, BubbaMegafleshRepo, ClamworksBonusRepo,

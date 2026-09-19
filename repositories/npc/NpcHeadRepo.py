@@ -63,6 +63,7 @@ class NpcHeadRepo(FileRepository[NpcHead]):
 		"Minehead":          {"world": "Shimmerfin Deep",    "type": ""},
 		"Sushi_Station":     {"world": "Shimmerfin Deep",    "type": ""},
 		"The_Button":        {"world": "Shimmerfin Deep",    "type": ""},
+		"Jelly":              {"world": "Shimmerfin Deep",    "type": ""},
 	}
 
 	@classmethod

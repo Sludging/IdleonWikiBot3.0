@@ -1045,7 +1045,7 @@
     },
     "Unique Sushi Created \u819b": {
         "name": "Unique Sushi Created 膛",
-        "keyQty": 63,
+        "keyQty": 64,
         "scalingType": "linearToMax",
         "totalVal": 800,
         "decimalDisplay": null,
@@ -1087,5 +1087,14 @@
         "decimalDisplay": null,
         "desc": "Resource Grade refers to the Royal Guardian resource system, where you increase each resource node's Grade by collecting all its resources.",
         "uiPositionIndex": 108
+    },
+    "Successful Jelly Operations \u819b": {
+        "name": "Successful Jelly Operations 膛",
+        "keyQty": 72,
+        "scalingType": "linearToMax",
+        "totalVal": 800,
+        "decimalDisplay": null,
+        "desc": "This is the number of obstructions you've defeated at the Jelly Operator research game in World 7!",
+        "uiPositionIndex": 121
     }
 }

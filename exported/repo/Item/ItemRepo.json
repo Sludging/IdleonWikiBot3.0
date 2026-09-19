@@ -21200,7 +21200,13 @@
             "Skill": "",
             "Skill_Power": 0
         },
-        "sources": null,
+        "sources": {
+            "sources": [
+                {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+            ],
+            "recipeFrom": [],
+            "questAss": []
+        },
         "notes": null,
         "recipe": null,
         "vendors": null,
@@ -23193,13 +23199,7 @@
             "Skill": "",
             "Skill_Power": 0
         },
-        "sources": {
-            "sources": [
-                {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
-            ],
-            "recipeFrom": [],
-            "questAss": []
-        },
+        "sources": null,
         "notes": null,
         "recipe": null,
         "vendors": null,
@@ -33511,8 +33511,7 @@
                 {
                     "wikiName": "[[Royal Worm#Bossin' the Boss|Bossin' the Boss]]",
                     "txtName": "Royal Worm: Bossin' the Boss"
-                },
-                {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+                }
             ],
             "recipeFrom": [],
             "questAss": []
@@ -45066,7 +45065,13 @@
             "Type": "Obol Stack",
             "description": "Hold down and 1 square hyper obol will drop at your feet! YOU MUST BE IN WORLD 2 TOWN TO USE THIS! This way you can trash other obols incase you're out of space! "
         },
-        "sources": null,
+        "sources": {
+            "sources": [
+                {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+            ],
+            "recipeFrom": [],
+            "questAss": []
+        },
         "notes": null,
         "recipe": null,
         "vendors": null,
@@ -57785,6 +57790,7 @@
         },
         "sources": {
             "sources": [
+                {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"},
                 {"wikiName": "[[Dungeons#Flurbo Shop|Flurbo Shop]]", "txtName": "Dungeons: Flurbo Shop"},
                 {
                     "wikiName": "[[Dungeons#Loot Rolls|Dungeon Loot Rolls]]",
@@ -88966,7 +88972,13 @@
             "Skill": "",
             "Skill_Power": 0
         },
-        "sources": null,
+        "sources": {
+            "sources": [
+                {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+            ],
+            "recipeFrom": [],
+            "questAss": []
+        },
         "notes": null,
         "recipe": null,
         "vendors": null,
@@ -89419,6 +89431,107 @@
         "slabSort": {"item": {"item": "EquipmentHats135"}, "order": 390},
         "itemSet": null
     },
+    "EquipmentHats139": {
+        "item": {
+            "internalName": "EquipmentHats139",
+            "displayName": "Sun Hat",
+            "sellPrice": 1,
+            "typeGen": "aHelmetMTX",
+            "Type": "Premium Helmet",
+            "lvReqToCraft": 5,
+            "lvReqToEquip": 1,
+            "Class": "All",
+            "Weapon_Power": 0,
+            "STR": 0,
+            "AGI": 0,
+            "WIS": 0,
+            "LUK": 0,
+            "Defence": 0,
+            "miscUp1": "1% Class Exp Multi",
+            "miscUp2": "00",
+            "Upgrade_Slots_Left": 5,
+            "Skill": "",
+            "Skill_Power": 0
+        },
+        "sources": null,
+        "notes": null,
+        "recipe": null,
+        "vendors": null,
+        "anvilProduction": null,
+        "detDrops": null,
+        "slabSort": {"item": {"item": "EquipmentHats139"}, "order": 391},
+        "itemSet": null
+    },
+    "EquipmentHats140": {
+        "item": {
+            "internalName": "EquipmentHats140",
+            "displayName": "Legion Commander Bicorne",
+            "sellPrice": 1,
+            "typeGen": "aHelmetMTX",
+            "Type": "Premium Helmet",
+            "lvReqToCraft": 5,
+            "lvReqToEquip": 1,
+            "Class": "All",
+            "Weapon_Power": 0,
+            "STR": 1,
+            "AGI": 1,
+            "WIS": 1,
+            "LUK": 0,
+            "Defence": 0,
+            "miscUp1": "3% Marble Drop",
+            "miscUp2": "00",
+            "Upgrade_Slots_Left": 5,
+            "Skill": "",
+            "Skill_Power": 0
+        },
+        "sources": null,
+        "notes": null,
+        "recipe": null,
+        "vendors": null,
+        "anvilProduction": null,
+        "detDrops": null,
+        "slabSort": {"item": {"item": "EquipmentHats140"}, "order": 398},
+        "itemSet": null
+    },
+    "EquipmentHats141": {
+        "item": {
+            "internalName": "EquipmentHats141",
+            "displayName": "Fudd Hat",
+            "sellPrice": 1,
+            "typeGen": "aHelmetMTX",
+            "Type": "Premium Helmet",
+            "lvReqToCraft": 5,
+            "lvReqToEquip": 1,
+            "Class": "All",
+            "Weapon_Power": 0,
+            "STR": 0,
+            "AGI": 0,
+            "WIS": 0,
+            "LUK": 1,
+            "Defence": 0,
+            "miscUp1": "1% Damage Multi",
+            "miscUp2": "00",
+            "Upgrade_Slots_Left": 5,
+            "Skill": "",
+            "Skill_Power": 0
+        },
+        "sources": {
+            "sources": [
+                {"wikiName": "[[Bort The Cornhusk]]", "txtName": "Bort The Cornhusk"}
+            ],
+            "recipeFrom": [],
+            "questAss": []
+        },
+        "notes": null,
+        "recipe": null,
+        "vendors": null,
+        "anvilProduction": null,
+        "detDrops": [
+            {"source": "cropfallEvent1", "quantity": 1, "chance": 0.001}
+        ],
+        "slabSort": {"item": {"item": "EquipmentHats141"}, "order": 392},
+        "itemSet": null
+    },
     "EquipmentHats136": {
         "item": {
             "internalName": "EquipmentHats136",
@@ -89512,23 +89625,23 @@
         "slabSort": null,
         "itemSet": "Gold"
     },
-    "EquipmentHats139": {
+    "EquipmentHats142": {
         "item": {
-            "internalName": "EquipmentHats139",
-            "displayName": "Sun Hat",
+            "internalName": "EquipmentHats142",
+            "displayName": "Bronze Tournament Wrapped Hat",
             "sellPrice": 1,
             "typeGen": "aHelmetMTX",
             "Type": "Premium Helmet",
-            "lvReqToCraft": 5,
+            "lvReqToCraft": 69420,
             "lvReqToEquip": 1,
             "Class": "All",
             "Weapon_Power": 0,
             "STR": 0,
             "AGI": 0,
             "WIS": 0,
-            "LUK": 0,
+            "LUK": 1,
             "Defence": 0,
-            "miscUp1": "1% Class Exp Multi",
+            "miscUp1": "",
             "miscUp2": "00",
             "Upgrade_Slots_Left": 5,
             "Skill": "",
@@ -89540,54 +89653,17 @@
         "vendors": null,
         "anvilProduction": null,
         "detDrops": null,
-        "slabSort": {"item": {"item": "EquipmentHats139"}, "order": 391},
-        "itemSet": null
+        "slabSort": null,
+        "itemSet": "Bronze"
     },
-    "EquipmentHats140": {
+    "EquipmentHats143": {
         "item": {
-            "internalName": "EquipmentHats140",
-            "displayName": "Legion Commander Bicorne",
+            "internalName": "EquipmentHats143",
+            "displayName": "Silver Tournament Wrapped Hat",
             "sellPrice": 1,
             "typeGen": "aHelmetMTX",
             "Type": "Premium Helmet",
-            "lvReqToCraft": 5,
-            "lvReqToEquip": 1,
-            "Class": "All",
-            "Weapon_Power": 0,
-            "STR": 1,
-            "AGI": 1,
-            "WIS": 1,
-            "LUK": 0,
-            "Defence": 0,
-            "miscUp1": "3% Marble Drop",
-            "miscUp2": "00",
-            "Upgrade_Slots_Left": 5,
-            "Skill": "",
-            "Skill_Power": 0
-        },
-        "sources": {
-            "sources": [
-                {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
-            ],
-            "recipeFrom": [],
-            "questAss": []
-        },
-        "notes": null,
-        "recipe": null,
-        "vendors": null,
-        "anvilProduction": null,
-        "detDrops": null,
-        "slabSort": {"item": {"item": "EquipmentHats140"}, "order": 398},
-        "itemSet": null
-    },
-    "EquipmentHats141": {
-        "item": {
-            "internalName": "EquipmentHats141",
-            "displayName": "Fudd Hat",
-            "sellPrice": 1,
-            "typeGen": "aHelmetMTX",
-            "Type": "Premium Helmet",
-            "lvReqToCraft": 5,
+            "lvReqToCraft": 69420,
             "lvReqToEquip": 1,
             "Class": "All",
             "Weapon_Power": 0,
@@ -89596,28 +89672,51 @@
             "WIS": 0,
             "LUK": 1,
             "Defence": 0,
-            "miscUp1": "1% Damage Multi",
+            "miscUp1": "",
             "miscUp2": "00",
             "Upgrade_Slots_Left": 5,
             "Skill": "",
             "Skill_Power": 0
         },
-        "sources": {
-            "sources": [
-                {"wikiName": "[[Bort The Cornhusk]]", "txtName": "Bort The Cornhusk"}
-            ],
-            "recipeFrom": [],
-            "questAss": []
-        },
+        "sources": null,
         "notes": null,
         "recipe": null,
         "vendors": null,
         "anvilProduction": null,
-        "detDrops": [
-            {"source": "cropfallEvent1", "quantity": 1, "chance": 0.001}
-        ],
-        "slabSort": {"item": {"item": "EquipmentHats141"}, "order": 392},
-        "itemSet": null
+        "detDrops": null,
+        "slabSort": null,
+        "itemSet": "Silver"
+    },
+    "EquipmentHats144": {
+        "item": {
+            "internalName": "EquipmentHats144",
+            "displayName": "Gold Tournament Wrapped Hat",
+            "sellPrice": 1,
+            "typeGen": "aHelmetMTX",
+            "Type": "Premium Helmet",
+            "lvReqToCraft": 69420,
+            "lvReqToEquip": 1,
+            "Class": "All",
+            "Weapon_Power": 0,
+            "STR": 0,
+            "AGI": 0,
+            "WIS": 0,
+            "LUK": 1,
+            "Defence": 0,
+            "miscUp1": "",
+            "miscUp2": "00",
+            "Upgrade_Slots_Left": 5,
+            "Skill": "",
+            "Skill_Power": 0
+        },
+        "sources": null,
+        "notes": null,
+        "recipe": null,
+        "vendors": null,
+        "anvilProduction": null,
+        "detDrops": null,
+        "slabSort": null,
+        "itemSet": "Gold"
     },
     "RGenh": {
         "item": {

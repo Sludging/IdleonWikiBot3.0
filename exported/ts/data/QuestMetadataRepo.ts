@@ -135,7 +135,8 @@ export const initQuestMetadataRepo = () => {
                     <MainQuestModel>{"npc": "D. Coral", "map": [0, 0], "scene": [-7, -5], "index": [99999]},
                     <MainQuestModel>{"npc": "Glimbo", "map": [0, 0], "scene": [-7, -5], "index": [99999]},
                     <MainQuestModel>{"npc": "Sushi Station", "map": [0, 0], "scene": [-7, -5], "index": [99999]},
-                    <MainQuestModel>{"npc": "The Button", "map": [0, 0], "scene": [-7, -5], "index": [99999]}
+                    <MainQuestModel>{"npc": "The Button", "map": [0, 0], "scene": [-7, -5], "index": [99999]},
+                    <MainQuestModel>{"npc": "Jelly", "map": [0, 0], "scene": [-7, -5], "index": [99999]}
                 ],
                 "accountWideQuests": [
                     <AccountWideQuestModel>{"key": "Obol_Altar1", "npc": "Obol Altar", "index": 1, "accountWide": false},
