@@ -32,9 +32,11 @@ class KeychainItem(StatItem):
 	def getMisc1(cls, item: EquipItem) -> str:
 		bonuses = KeychainBonusRepo.get(item.internalID)
 		if not bonuses:
-			return ""
+			return super().getMisc1(item)
 		return bonuses.writeMisc()
 
 	@classmethod
-	def getMisc2(cls, item: EquipItem):
-		return "[[Keychains#Misc 2 Rolling|Misc 2 Table]]"
+	def getMisc2(cls, item: EquipItem) -> str:
+		if item.UQ2txt == "0":
+			return "[[Keychains#Misc 2 Rolling|Misc 2 Table]]"
+		return super().getMisc2(item)

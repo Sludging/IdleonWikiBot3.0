@@ -56695,8 +56695,8 @@ export const initItemRepo = () => {
                     "WIS": 0,
                     "LUK": 0,
                     "Defence": 5,
-                    "miscUp1": "",
-                    "miscUp2": "[[Keychains#Misc 2 Rolling|Misc 2 Table]]",
+                    "miscUp1": "30% Money",
+                    "miscUp2": "5% Damage Multi",
                     "Upgrade_Slots_Left": 0
                 },
                 "sources": <SourcesModel>{
