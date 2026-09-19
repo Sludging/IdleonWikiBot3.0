@@ -12,8 +12,9 @@ class Npc(IdleonModel):
 	dialogue: List[DialogueLine]
 
 	def writeWiki(self, newLine = True, ignoreZero = True) -> str:
-		res = self.head.writeWiki()
-		res += "\n"
+		res = self.head.writeWiki() if self.head else ""
+		if res:
+			res += "\n"
 		res += "{{Quest/head}}\n"
 		for _, quest in self.quests.items():
 			res += quest.writeWiki()

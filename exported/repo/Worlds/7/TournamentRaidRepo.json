@@ -1,0 +1,48 @@
+{
+    "tournament": {
+        "rankNames": ["Bronze", "Silver", "Gold", "Diamond", "Master"],
+        "rankMaterials": [
+            200,
+            200,
+            180,
+            170,
+            160,
+            200,
+            200,
+            200
+        ],
+        "mapNames": [
+            "Blunder Hills Meadow",
+            "Smolderin' Plateau Ridge",
+            "Mysterious Unknown Land",
+            "Mysterious Unknown Land",
+            "Mysterious Unknown Land",
+            "Mysterious Unknown Land",
+            "Mysterious Unknown Land",
+            "Mysterious Unknown Land"
+        ],
+        "mapLimits": [
+            6,
+            24,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6
+        ],
+        "rewardTiers": [
+            {"tier": 0, "itemIds": ["EquipmentRingsChat12"]},
+            {"tier": 1, "itemIds": ["EquipmentHats136", "EquipmentHats137", "EquipmentHats138"]},
+            {
+                "tier": 2,
+                "itemIds": ["EquipmentNametagReplica38", "EquipmentNametagReplica39", "EquipmentNametagReplica40"]
+            },
+            {
+                "tier": 3,
+                "itemIds": ["EquipmentRingsChat13", "EquipmentRingsChat14", "EquipmentRingsChat15"]
+            }
+        ]
+    }
+}

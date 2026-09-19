@@ -1,0 +1,642 @@
+[
+    {
+        "name": "SPROUTLUCK I",
+        "description": "}x crop evolution chance",
+        "cropId": 3,
+        "effect": 500,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "SPROUTLUCK II",
+        "description": "}x crop evolution chance",
+        "cropId": 5,
+        "effect": 600,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "SPROUTLUCK III",
+        "description": "}x crop evolution chance",
+        "cropId": 6,
+        "effect": 700,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "SPROUTLUCK IV",
+        "description": "}x crop evolution chance",
+        "cropId": 7,
+        "effect": 800,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "GENEOLOGY I",
+        "description": "+{% crop evolution chance per Farming LV above 50",
+        "cropId": 9,
+        "effect": 6,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "GENEOLOGY II",
+        "description": "+{% crop evolution chance per Farming LV above 100",
+        "cropId": 11,
+        "effect": 12,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "GENEOLOGY III",
+        "description": "+{% crop evolution chance per Farming LV above 150",
+        "cropId": 13,
+        "effect": 20,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "GENEOLOGY IV",
+        "description": "+{% crop evolution chance per Farming LV above 200",
+        "cropId": 15,
+        "effect": 28,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "GENEOLOGY V",
+        "description": "+{% crop evolution chance per Farming LV above 250",
+        "cropId": 16,
+        "effect": 50,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "STABLEROOT I",
+        "description": "+{% Land Rank EXP gain for all plots",
+        "cropId": 17,
+        "effect": 350,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "STABLEROOT II",
+        "description": "+{% Land Rank EXP gain for all plots",
+        "cropId": 18,
+        "effect": 250,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "STABLEROOT III",
+        "description": "+{% Land Rank EXP gain for all plots",
+        "cropId": 20,
+        "effect": 400,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "VIGOUROOT I",
+        "description": "}x Land Rank EXP gain for all plots",
+        "cropId": 21,
+        "effect": 100,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "VIGOUROOT II",
+        "description": "}x Land Rank EXP gain for all plots",
+        "cropId": 23,
+        "effect": 130,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "PLUMP DATABASE",
+        "description": "+{% higher bonuses from the Land Rank Database",
+        "cropId": 24,
+        "effect": 60,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "DATADIGGING",
+        "description": "+$ higher max LV for 5th column of Land Rank Database",
+        "cropId": 25,
+        "effect": 5,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "LEGUMIOSO I",
+        "description": "+{% Extra Beans from Legumulyte",
+        "cropId": 27,
+        "effect": 250,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "LEGUMIOSO II",
+        "description": "+{% Extra Beans from Legumulyte",
+        "cropId": 29,
+        "effect": 350,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "LEGUMIOSO III",
+        "description": "+{% Extra Beans from Legumulyte",
+        "cropId": 30,
+        "effect": 420,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "LARGUMES I",
+        "description": "}x more Beans from Lugumulyte",
+        "cropId": 31,
+        "effect": 90,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "LARGUMES II",
+        "description": "}x more Beans from Lugumulyte",
+        "cropId": 32,
+        "effect": 130,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "FARMER BRAIN",
+        "description": "+{% Farming EXP gain on all characters",
+        "cropId": 33,
+        "effect": 300,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "FARMER KNOWHOW",
+        "description": "}x Farming EXP gain on all characters",
+        "cropId": 34,
+        "effect": 120,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "STALK VALUE I",
+        "description": "+{% higher Crop Value max cap",
+        "cropId": 36,
+        "effect": 50,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "STALK VALUE II",
+        "description": "+{% higher Crop Value max cap",
+        "cropId": 37,
+        "effect": 70,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "STALK VALUE III",
+        "description": "+{% higher Crop Value max cap",
+        "cropId": 38,
+        "effect": 120,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "EVERGROW I",
+        "description": "}x Overgrowth Chance for all crops",
+        "cropId": 40,
+        "effect": 100,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "EVERGROW II",
+        "description": "}x Overgrowth Chance for all crops",
+        "cropId": 41,
+        "effect": 150,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "DOUBLE PETAL I",
+        "description": "+{% chance for crops to be worth 2x when harvested",
+        "cropId": 42,
+        "effect": 50,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "DOUBLE PETAL II",
+        "description": "+{% chance for crops to be worth 2x when harvested",
+        "cropId": 44,
+        "effect": 70,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "GOGOGROW",
+        "description": "+{% Growth Speed for all land plots",
+        "cropId": 45,
+        "effect": 50,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "BOUNTIFUL I",
+        "description": "+{% chance for +1 crop when fully grown",
+        "cropId": 46,
+        "effect": 50,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "BOUNTIFUL II",
+        "description": "+{% chance for +1 crop when fully grown",
+        "cropId": 48,
+        "effect": 60,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "BOUNTIFUL III",
+        "description": "+{% chance for +1 crop when fully grown",
+        "cropId": 50,
+        "effect": 70,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "BETTER DAY I",
+        "description": "+{% cheaper Day Market upgrades",
+        "cropId": 51,
+        "effect": 40,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "BETTER DAY II",
+        "description": "+{% cheaper Day Market upgrades",
+        "cropId": 53,
+        "effect": 55,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "BETTER NIGHT I",
+        "description": "+{% cheaper Night Market upgrades",
+        "cropId": 54,
+        "effect": 40,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "BETTER NIGHT II",
+        "description": "+{% cheaper Night Market upgrades",
+        "cropId": 56,
+        "effect": 55,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "BETTER EXOTIC",
+        "description": "+{% extra LVs when buying Exotic Upgrades",
+        "cropId": 58,
+        "effect": 70,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "FREEXOTIC",
+        "description": "+{% chance to save a purchase when buying Exotic",
+        "cropId": 60,
+        "effect": 30,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "SCIENTERRIFIC",
+        "description": "+{% higher bonuses from Crop Scientist",
+        "cropId": 62,
+        "effect": 20,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "BRIAR PATCH",
+        "description": "+{% Total Damage @ (Not Farming Related)",
+        "cropId": 64,
+        "effect": 1,
+        "x4": 0,
+        "x5": 2
+    },
+    {
+        "name": "GRAVEL POUND",
+        "description": "}x Total Spelunking POW @ (Not Farming Related)",
+        "cropId": 66,
+        "effect": 300,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "SAP SURGE",
+        "description": "}x Amber found in Spelunking @ (Not Farming Related)",
+        "cropId": 67,
+        "effect": 500,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "4 LEAF CLOVER",
+        "description": "+{% Palette Luck in Gaming @ (Not Farming Related)",
+        "cropId": 69,
+        "effect": 150,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "5 LEAF CLOVER",
+        "description": "}x Artifact Find Chance @ (Not Farming Related)",
+        "cropId": 79,
+        "effect": 30,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "BUD COURIER",
+        "description": "+{% chance for 2x Snail Mail @ (Not Farming Related)",
+        "cropId": 71,
+        "effect": 35,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "STUDIOUS SPORE",
+        "description": "+{% Spelunking EXP Gain @ (Not Farming Related)",
+        "cropId": 73,
+        "effect": 200,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "PRISMA PETAL",
+        "description": "+{% Prisma Bubble Bonus @ (Not Farming Related)",
+        "cropId": 75,
+        "effect": 2,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "EXALTED ELDOU",
+        "description": "+{% Exalted Stamp Bonus @ (Not Farming Related)",
+        "cropId": 77,
+        "effect": 2,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "INTELLEAF",
+        "description": "+{% Class EXP @ (Not Farming Related)",
+        "cropId": 78,
+        "effect": 300,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "GRAPEVINE",
+        "description": "}x Villager EXP gain @ (Not Farming Related)",
+        "cropId": 81,
+        "effect": 70,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "HOLLOW TRUNK",
+        "description": "}x Jar Collectibles Chance @ (Not Farming Related)",
+        "cropId": 83,
+        "effect": 200,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "BONEMEAL SOIL",
+        "description": "+{% Deathbringer Bones @ (Not Farming Related)",
+        "cropId": 85,
+        "effect": 160,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "FORCE OF NAUTRE",
+        "description": "+{% Windwalker Dust @ (Not Farming Related)",
+        "cropId": 86,
+        "effect": 160,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "PURPLE GRASS",
+        "description": "+{% Arcane Cultist Tachyons @ (Not Farming Related)",
+        "cropId": 87,
+        "effect": 160,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "POTENT HEMLOCK",
+        "description": "+{% Kill per Kill @ (Not Farming Related)",
+        "cropId": 88,
+        "effect": 35,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "GOLD FIGLEAF",
+        "description": "+{% Gold Balls gained in Arcade @ (Not Farming Related)",
+        "cropId": 89,
+        "effect": 10,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "SNAPEGRASS",
+        "description": "}x Jade Gain in Sneaking @ (Not Farming Related)",
+        "cropId": 91,
+        "effect": 1500,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "POMMELION SEED",
+        "description": "+{% Drop Rate @ (Not Farming Related)",
+        "cropId": 92,
+        "effect": 25,
+        "x4": 1,
+        "x5": 2
+    },
+    {
+        "name": "NAME MAGNI",
+        "description": "+{% everything is awesome evrythn is cool when u r tem",
+        "cropId": 93,
+        "effect": 1,
+        "x4": 0,
+        "x5": 2
+    },
+    {
+        "name": "NAME MAGNI",
+        "description": "+{% everything is awesome evrythn is cool when u r tem",
+        "cropId": 94,
+        "effect": 1,
+        "x4": 0,
+        "x5": 2
+    },
+    {
+        "name": "NAME MAGNI",
+        "description": "+{% everything is awesome evrythn is cool when u r tem",
+        "cropId": 95,
+        "effect": 1,
+        "x4": 0,
+        "x5": 2
+    },
+    {
+        "name": "NAME MAGNI",
+        "description": "+{% everything is awesome evrythn is cool when u r tem",
+        "cropId": 96,
+        "effect": 1,
+        "x4": 0,
+        "x5": 2
+    },
+    {
+        "name": "NAME MAGNI",
+        "description": "+{% everything is awesome evrythn is cool when u r tem",
+        "cropId": 97,
+        "effect": 1,
+        "x4": 0,
+        "x5": 2
+    },
+    {
+        "name": "NAME MAGNI",
+        "description": "+{% everything is awesome evrythn is cool when u r tem",
+        "cropId": 98,
+        "effect": 1,
+        "x4": 0,
+        "x5": 2
+    },
+    {
+        "name": "NAME MAGNI",
+        "description": "+{% everything is awesome evrythn is cool when u r tem",
+        "cropId": 99,
+        "effect": 1,
+        "x4": 0,
+        "x5": 2
+    },
+    {
+        "name": "NAME MAGNI",
+        "description": "+{% everything is awesome evrythn is cool when u r tem",
+        "cropId": 100,
+        "effect": 1,
+        "x4": 0,
+        "x5": 2
+    },
+    {
+        "name": "NAME MAGNI",
+        "description": "+{% everything is awesome evrythn is cool when u r tem",
+        "cropId": 101,
+        "effect": 1,
+        "x4": 0,
+        "x5": 2
+    },
+    {
+        "name": "NAME MAGNI",
+        "description": "+{% everything is awesome evrythn is cool when u r tem",
+        "cropId": 102,
+        "effect": 1,
+        "x4": 0,
+        "x5": 2
+    },
+    {
+        "name": "NAME MAGNI",
+        "description": "+{% everything is awesome evrythn is cool when u r tem",
+        "cropId": 104,
+        "effect": 1,
+        "x4": 0,
+        "x5": 2
+    },
+    {
+        "name": "NAME MAGNI",
+        "description": "+{% everything is awesome evrythn is cool when u r tem",
+        "cropId": 106,
+        "effect": 1,
+        "x4": 0,
+        "x5": 2
+    },
+    {
+        "name": "NAME MAGNI",
+        "description": "+{% everything is awesome evrythn is cool when u r tem",
+        "cropId": 108,
+        "effect": 1,
+        "x4": 0,
+        "x5": 2
+    },
+    {
+        "name": "NAME MAGNI",
+        "description": "+{% everything is awesome evrythn is cool when u r tem",
+        "cropId": 110,
+        "effect": 1,
+        "x4": 0,
+        "x5": 2
+    },
+    {
+        "name": "NAME MAGNI",
+        "description": "+{% everything is awesome evrythn is cool when u r tem",
+        "cropId": 112,
+        "effect": 1,
+        "x4": 0,
+        "x5": 2
+    },
+    {
+        "name": "NAME MAGNI",
+        "description": "+{% everything is awesome evrythn is cool when u r tem",
+        "cropId": 113,
+        "effect": 1,
+        "x4": 0,
+        "x5": 2
+    },
+    {
+        "name": "NAME MAGNI",
+        "description": "+{% everything is awesome evrythn is cool when u r tem",
+        "cropId": 114,
+        "effect": 1,
+        "x4": 0,
+        "x5": 2
+    },
+    {
+        "name": "NAME MAGNI",
+        "description": "+{% everything is awesome evrythn is cool when u r tem",
+        "cropId": 116,
+        "effect": 1,
+        "x4": 0,
+        "x5": 2
+    },
+    {
+        "name": "NAME MAGNI",
+        "description": "+{% everything is awesome evrythn is cool when u r tem",
+        "cropId": 118,
+        "effect": 1,
+        "x4": 0,
+        "x5": 2
+    },
+    {
+        "name": "NAME MAGNI",
+        "description": "+{% everything is awesome evrythn is cool when u r tem",
+        "cropId": 119,
+        "effect": 1,
+        "x4": 0,
+        "x5": 2
+    }
+]
