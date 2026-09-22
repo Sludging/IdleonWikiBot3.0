@@ -1,6 +1,7 @@
 {
     "0": {
         "index": 0,
+        "displayIndex": 0,
         "name": "Amoeba Cell Cultivation",
         "maxLevel": 1,
         "costExponent": 1,
@@ -10,6 +11,7 @@
     },
     "1": {
         "index": 1,
+        "displayIndex": 3,
         "name": "Plasmid Cell Cultivation",
         "maxLevel": 1,
         "costExponent": 1,
@@ -19,6 +21,7 @@
     },
     "2": {
         "index": 2,
+        "displayIndex": 8,
         "name": "Ribosome Cell Cultivation",
         "maxLevel": 1,
         "costExponent": 1,
@@ -28,6 +31,7 @@
     },
     "3": {
         "index": 3,
+        "displayIndex": 14,
         "name": "Organelle Cell Cultivation",
         "maxLevel": 1,
         "costExponent": 1,
@@ -37,6 +41,7 @@
     },
     "4": {
         "index": 4,
+        "displayIndex": 20,
         "name": "Immunoid Cell Cultivation",
         "maxLevel": 1,
         "costExponent": 1,
@@ -46,6 +51,7 @@
     },
     "5": {
         "index": 5,
+        "displayIndex": 25,
         "name": "Virus Cell Cultivation",
         "maxLevel": 1,
         "costExponent": 1,
@@ -55,6 +61,7 @@
     },
     "6": {
         "index": 6,
+        "displayIndex": 30,
         "name": "Mitochondria Cell Cultivation",
         "maxLevel": 1,
         "costExponent": 1,
@@ -64,6 +71,7 @@
     },
     "7": {
         "index": 7,
+        "displayIndex": 34,
         "name": "Gigacyst Cell Cultivation",
         "maxLevel": 1,
         "costExponent": 1,
@@ -73,6 +81,7 @@
     },
     "8": {
         "index": 8,
+        "displayIndex": 6,
         "name": "Another Unlock",
         "maxLevel": 25,
         "costExponent": 11.5,
@@ -82,6 +91,7 @@
     },
     "9": {
         "index": 9,
+        "displayIndex": 5,
         "name": "Slot Unlocking",
         "maxLevel": 1,
         "costExponent": 1,
@@ -91,6 +101,7 @@
     },
     "10": {
         "index": 10,
+        "displayIndex": 12,
         "name": "Cell Biology",
         "maxLevel": 9999,
         "costExponent": 1.21,
@@ -100,6 +111,7 @@
     },
     "11": {
         "index": 11,
+        "displayIndex": 38,
         "name": "Cell Evolution",
         "maxLevel": 9999,
         "costExponent": 1.65,
@@ -109,6 +121,7 @@
     },
     "12": {
         "index": 12,
+        "displayIndex": 9,
         "name": "DPS Biometrics",
         "maxLevel": 1,
         "costExponent": 1,
@@ -118,6 +131,7 @@
     },
     "13": {
         "index": 13,
+        "displayIndex": 31,
         "name": "Proximity Stimulus",
         "maxLevel": 5,
         "costExponent": 2000,
@@ -127,6 +141,7 @@
     },
     "14": {
         "index": 14,
+        "displayIndex": 21,
         "name": "Cells of Three, Better They Be!",
         "maxLevel": 1,
         "costExponent": 1,
@@ -136,6 +151,7 @@
     },
     "15": {
         "index": 15,
+        "displayIndex": 26,
         "name": "Viral Injection",
         "maxLevel": 4,
         "costExponent": 10000,
@@ -145,6 +161,7 @@
     },
     "16": {
         "index": 16,
+        "displayIndex": 18,
         "name": "Feverizer",
         "maxLevel": 6,
         "costExponent": 250,
@@ -154,6 +171,7 @@
     },
     "17": {
         "index": 17,
+        "displayIndex": 15,
         "name": "Cell Mutilation",
         "maxLevel": 20,
         "costExponent": 40,
@@ -163,6 +181,7 @@
     },
     "18": {
         "index": 18,
+        "displayIndex": 4,
         "name": "Cell Destruction I",
         "maxLevel": 9999,
         "costExponent": 1.15,
@@ -172,6 +191,7 @@
     },
     "19": {
         "index": 19,
+        "displayIndex": 10,
         "name": "Cell Destruction II",
         "maxLevel": 9999,
         "costExponent": 1.22,
@@ -181,6 +201,7 @@
     },
     "20": {
         "index": 20,
+        "displayIndex": 22,
         "name": "Cell Destruction III",
         "maxLevel": 9999,
         "costExponent": 1.51,
@@ -190,6 +211,7 @@
     },
     "21": {
         "index": 21,
+        "displayIndex": 28,
         "name": "Cell Desolation I",
         "maxLevel": 9999,
         "costExponent": 1.35,
@@ -199,6 +221,7 @@
     },
     "22": {
         "index": 22,
+        "displayIndex": 36,
         "name": "Cell Desolation II",
         "maxLevel": 9999,
         "costExponent": 2.1,
@@ -208,6 +231,7 @@
     },
     "23": {
         "index": 23,
+        "displayIndex": 1,
         "name": "Bloodcell Coagulation",
         "maxLevel": 9999,
         "costExponent": 1.1,
@@ -217,6 +241,7 @@
     },
     "24": {
         "index": 24,
+        "displayIndex": 7,
         "name": "Bloodletting I",
         "maxLevel": 9999,
         "costExponent": 1.15,
@@ -226,6 +251,7 @@
     },
     "25": {
         "index": 25,
+        "displayIndex": 19,
         "name": "Bloodletting II",
         "maxLevel": 9999,
         "costExponent": 1.32,
@@ -235,6 +261,7 @@
     },
     "26": {
         "index": 26,
+        "displayIndex": 37,
         "name": "Blood Tribunal I",
         "maxLevel": 9999,
         "costExponent": 1.4,
@@ -244,6 +271,7 @@
     },
     "27": {
         "index": 27,
+        "displayIndex": 29,
         "name": "Blood Tribunal II",
         "maxLevel": 9999,
         "costExponent": 1.85,
@@ -253,6 +281,7 @@
     },
     "28": {
         "index": 28,
+        "displayIndex": 16,
         "name": "Immuno Weakening",
         "maxLevel": 1,
         "costExponent": 1,
@@ -262,6 +291,7 @@
     },
     "29": {
         "index": 29,
+        "displayIndex": 23,
         "name": "Stronkroid",
         "maxLevel": 150,
         "costExponent": 1.3,
@@ -271,6 +301,7 @@
     },
     "30": {
         "index": 30,
+        "displayIndex": 32,
         "name": "Cell Adaptation I",
         "maxLevel": 9999,
         "costExponent": 1.12,
@@ -280,6 +311,7 @@
     },
     "31": {
         "index": 31,
+        "displayIndex": 24,
         "name": "Cell Adaptation II",
         "maxLevel": 9999,
         "costExponent": 1.18,
@@ -289,6 +321,7 @@
     },
     "32": {
         "index": 32,
+        "displayIndex": 27,
         "name": "Cell Metabolism",
         "maxLevel": 10,
         "costExponent": 65,
@@ -298,6 +331,7 @@
     },
     "33": {
         "index": 33,
+        "displayIndex": 13,
         "name": "Cell Dialysis",
         "maxLevel": 25,
         "costExponent": 5.5,
@@ -307,6 +341,7 @@
     },
     "34": {
         "index": 34,
+        "displayIndex": 33,
         "name": "Lower Cholesterol",
         "maxLevel": 9999,
         "costExponent": 1.45,
@@ -316,6 +351,7 @@
     },
     "35": {
         "index": 35,
+        "displayIndex": 35,
         "name": "Revival Shots",
         "maxLevel": 5,
         "costExponent": 1500,
@@ -325,6 +361,7 @@
     },
     "36": {
         "index": 36,
+        "displayIndex": 17,
         "name": "Critical Status",
         "maxLevel": 1,
         "costExponent": 1,
@@ -334,6 +371,7 @@
     },
     "37": {
         "index": 37,
+        "displayIndex": 39,
         "name": "Rift Guy's Upgrade",
         "maxLevel": 0,
         "costExponent": 1,
@@ -343,6 +381,7 @@
     },
     "38": {
         "index": 38,
+        "displayIndex": 11,
         "name": "Daily Transfusion",
         "maxLevel": 20,
         "costExponent": 2.5,
@@ -352,6 +391,7 @@
     },
     "39": {
         "index": 39,
+        "displayIndex": 2,
         "name": "Operational Bonuses",
         "maxLevel": 1,
         "costExponent": 1.1,
