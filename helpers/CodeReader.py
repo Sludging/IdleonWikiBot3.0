@@ -237,6 +237,7 @@ class IdleonReader:
 
 		# World 7
 		self.codeReader.addSection("ArmoryUpg = function ()", "ArmoryUpg")
+		self.codeReader.addSection("OrbletMarket = function ()", "OrbletMarket", "}),")
 		self.codeReader.addSection("MineheadUPG = function ()", "MineheadUpgrades")
 		# Research
 		self.codeReader.addSection("JellyUPG = function ()", "JellyOperatorUpgrades")
