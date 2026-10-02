@@ -247,6 +247,8 @@ class IdleonReader:
 		self.codeReader.addSection('"Button_BonusPerTime"', "ButtonBonuses", ";")
 		self.codeReader.addSection("ButtonTasks = function ()", "ButtonTasks")
 		self.codeReader.addSection("Research = function ()", "Research")
+		self.codeReader.addSection('"StatueUpgOdds"', "RoyalStatueUnlockOdds", ";")
+		self.codeReader.addSection('"Statue_Cost" == e) return', "RoyalStatueAttemptCost", ";")
 
 
 
