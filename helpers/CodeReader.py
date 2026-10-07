@@ -241,6 +241,14 @@ class IdleonReader:
 		self.codeReader.addSection("MineheadUPG = function ()", "MineheadUpgrades")
 		# Research
 		self.codeReader.addSection("JellyUPG = function ()", "JellyOperatorUpgrades")
+		self.codeReader.addSection("_customBlock_IsXYmouseWithinBounds(0, 133, 47, 442)", "JellyCellNames", '"MainAtkCD",')
+		self.codeReader.addSection('"OrganelleSPD", 0, 99)', "JellyCellPassives", '"PASSIVE;"')
+		self.codeReader.addSection('"MainAtkCD" ==', "JellyCellCooldownCoefficients", '"UnitSumAtkCD" ==')
+		self.codeReader.addSection('"MainAtkDMG" ==', "JellyCellDamageCoefficients", '"UnitSumAtk" ==')
+		self.codeReader.addSection('_customBlock_JellyOperation("FEVERunlocked", 0, 0))', "JellyFeverDisplay", '_customBlock_JellyOperation("ROIDunlocked", 0, 0)')
+		self.codeReader.addSection('"SlotUnlocked" ==', "JellyBoardUnlocks", '"SlotPurchasesLeft" ==')
+		self.codeReader.addSection('"BossHP" ==', "JellyInitialObstructionHp", ";")
+		self.codeReader.addSection('_customBlock_JellyOperation("SlotUnlocked", Math.round', "JellyBoardPlacement", "if (1 ==")
 		self.codeReader.addSection("ResGridSquares = function ()", "ResearchGridBonus")
 		self.codeReader.addSection("SushiUPG = function ()", "SushiUpgrades")
 		# The Button

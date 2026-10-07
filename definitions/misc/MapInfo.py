@@ -8,3 +8,6 @@ class MapInfo(IdleonModel):
 	id: Integer
 	portalRequirements: List[Integer]
 	maxOnScreen: Integer
+	# MapDetails coordinates, retaining raw sentinel values.
+	x: Integer
+	y: Integer

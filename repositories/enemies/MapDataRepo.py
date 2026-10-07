@@ -35,11 +35,14 @@ class MapDataRepo(Repository[MapData]):
 				continue
 			if n >= MapPortalsRepo.lengthList():
 				break
+			mapPortals = MapPortalsRepo.getList(n)
 			toAdd = MapData(
 				enemy = v,
 				map = MapNameRepo.getList(n),
 				world = Constants.worlds[worldIndex],
-				portalRequirements = MapPortalsRepo.getList(n).portalRequirements
+				portalRequirements = mapPortals.portalRequirements,
+				x = mapPortals.x,
+				y = mapPortals.y
 			)
 			cls.addList(toAdd)
 			if cls.contains(v):
