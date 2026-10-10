@@ -27,6 +27,7 @@ from repositories.misc.GrimoireUpgradeRepo import GrimoireUpgradeRepo
 from repositories.misc.CompassUpgradeRepo import CompassUpgradeRepo
 from repositories.misc.TesseractUpgradeRepo import TesseractUpgradeRepo
 from repositories.misc.GuildBonusRepo import GuildBonusRepo
+from repositories.misc.MapMetadataRepo import MapMetadataRepo
 from repositories.misc.GuildTaskRepo import GuildTaskRepo
 from repositories.misc.TaskDescriptionsRepo import TaskDescriptionRepo
 from repositories.misc.TaskShopDescRepo import TaskShopDescRepo
@@ -104,6 +105,7 @@ from repositories.talents.TalentTreeRepo import TalentTreeRepo
 from repositories.talents.ClassProgressionRepo import ClassProgressionRepo
 from repositories.misc.world7.ExoticMarketRepo import ExoticMarketRepo
 from repositories.misc.world7.RoyalResourceRepo import RoyalResourceRepo
+from repositories.misc.world7.RoyalGuardianMetadataRepo import RoyalGuardianMetadataRepo
 from repositories.misc.world7.TournamentRaidRepo import TournamentRaidRepo
 from repositories.misc.world7.Spelunking import SpelunkingRepos
 from repositories.misc.world7.JellyOperator import JellyOperatorRepos
@@ -140,7 +142,7 @@ from repositories.misc.world7.PoppyMegafishRepo import PoppyMegafishRepo
 AllRepos = [*SpelunkingRepos, *MineheadRepos, ItemDetailRepo, EquipmentSetsRepo, CosmoUpgradeRepo, SpecificItemRepo, EnemyRepo, DropTableRepo, NpcRepo, QuestMetadataRepo, RecipeRepo, BubbleRepo, AlchemyVialRepo, TalentTreeRepo, ClassProgressionRepo,
             UpgradeVaultRepo, GrimoireUpgradeRepo, CompassUpgradeRepo, TesseractUpgradeRepo, EmperorBonusRepo, PostOfficeUpgradesRepo, PostOfficeRepo, VendorRepo, PrayerRepo, GemShopRepo, BuildingRepo, ShrineRepo,
             RefineryCostRepo, BribeRepo, ConstellationsRepo, DungEnemyRepo, DungItemRepo, AchievementRepo, AchievementMetadataRepo,
-            GuildBonusRepo,
+            GuildBonusRepo, MapMetadataRepo,
             AnvilRepo, ArenaBonusRepo, ChipRepo, InfiniteTerritoryRepo, JewelRepo, LabBonusRepo, MealRepo, PetGeneRepo,
             PetStatRepo, PetUpgradeRepo, TerritoryFightRepo, BossDetailRepo, CardSetRepo, CardSetBonusRepo, FishPoolRepo, TrapBoxRepo,
             ShimmerBonusRepo, ShimmerChallengeRepo,
@@ -154,7 +156,7 @@ AllRepos = [*SpelunkingRepos, *MineheadRepos, ItemDetailRepo, EquipmentSetsRepo,
             FountainCurrencyRepo, FountainUpgradeRepo,
             HarpStringsRepo, HarpNotesRepo, MonumentRepo, SaltLickRepo, ZenithMarketRepo, ResearchGridBonusRepo,
             *JellyOperatorRepos, ButtonBonusRepo, ButtonTaskRepo, SushiRepo, SushiStationUpgradeRepo, BubbaUpgradeRepo,
-            ExoticMarketRepo, RoyalResourceRepo, TournamentRaidRepo,
+            ExoticMarketRepo, RoyalResourceRepo, RoyalGuardianMetadataRepo, TournamentRaidRepo,
             RoyalArmoryUpgradeRepo, RoyalStatueRepo,
             OrbletMarketBonusRepo,
             LegendTalentsRepo, BigFishBonusRepo, BubbaCharismaBonusRepo, BubbaGiftRepo, BubbaMegafleshRepo, ClamworksBonusRepo,

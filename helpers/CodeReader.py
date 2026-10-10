@@ -88,6 +88,7 @@ class IdleonReader:
 		self.codeReader.addSection("MapDispName = function", "MapNames")
 		self.codeReader.addSection("MapAFKtarget = function ()", "MapEnemies")
 		self.codeReader.addSection("MapDetails = function ()", "MapPortals")
+		self.codeReader.addSection("NonAFKscreens = function ()", "NonAFKscreens")
 		self.codeReader.addSection("PostOfficePossibleOrders = function ()", "PostOffice")
 		self.codeReader.addSection("FishToolkitInfo = function ()", "FishToolkit")
 		self.codeReader.addSection("AlchemyDescription = function", "Bubbles")
@@ -237,6 +238,7 @@ class IdleonReader:
 
 		# World 7
 		self.codeReader.addSection("ArmoryUpg = function ()", "ArmoryUpg")
+		self.codeReader.addSection("RG_KillReq = function ()", "RG_KillReq")
 		self.codeReader.addSection("OrbletMarket = function ()", "OrbletMarket", "}),")
 		self.codeReader.addSection("MineheadUPG = function ()", "MineheadUpgrades")
 		# Research
