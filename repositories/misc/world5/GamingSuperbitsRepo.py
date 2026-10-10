@@ -18,7 +18,7 @@ class GamingSuperbitsRepo(Repository[GamingSuperbit]):
 	@classmethod
 	def generateRepo(cls) -> None:
 		data = getFromArrayArray(cls.getSection())
-		for line in data:
-			cls.addList(GamingSuperbit.fromList(line))
-			if cls.contains(line[0]): continue
-			cls.add(line[0], GamingSuperbit.fromList(line))
+		for index, line in enumerate(data):
+			superbit = GamingSuperbit.fromList(line + [index])
+			cls.addList(superbit)
+			cls.add(str(superbit.superbitId), superbit)

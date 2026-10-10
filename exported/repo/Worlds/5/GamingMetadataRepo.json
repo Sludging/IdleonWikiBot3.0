@@ -1,0 +1,34 @@
+{
+    "gaming": {
+        "plantStagePaletteLuck": [
+            {"plantStage": 0, "multiplier": 1},
+            {"plantStage": 1, "multiplier": 1.5},
+            {"plantStage": 2, "multiplier": 2},
+            {"plantStage": 3, "multiplier": 3},
+            {"plantStage": 4, "multiplier": 5},
+            {"plantStage": 5, "multiplier": 10},
+            {"plantStage": 6, "multiplier": 25},
+            {"plantStage": 7, "multiplier": 100}
+        ],
+        "logMinigameRanks": [
+            {"rank": 0, "deathCardCount": 1, "progressHours": 1},
+            {"rank": 1, "deathCardCount": 1, "progressHours": 1},
+            {"rank": 2, "deathCardCount": 1, "progressHours": 2},
+            {"rank": 3, "deathCardCount": 2, "progressHours": 3},
+            {"rank": 4, "deathCardCount": 3, "progressHours": 5},
+            {"rank": 5, "deathCardCount": 4, "progressHours": 8},
+            {"rank": 6, "deathCardCount": 5, "progressHours": 12},
+            {"rank": 7, "deathCardCount": 7, "progressHours": 24},
+            {"rank": 8, "deathCardCount": 8, "progressHours": 36},
+            {"rank": 9, "deathCardCount": 9, "progressHours": 72},
+            {"rank": 10, "deathCardCount": 9, "progressHours": 96},
+            {"rank": 11, "deathCardCount": 9, "progressHours": 96},
+            {"rank": 12, "deathCardCount": 9, "progressHours": 120}
+        ],
+        "ratShopUpgrades": [
+            {"upgradeId": 0, "label": "+{% extra King Tokens/hr"},
+            {"upgradeId": 1, "label": "}x Palette Luck Multi"},
+            {"upgradeId": 2, "label": "}x chance to find Crowns"}
+        ]
+    }
+}

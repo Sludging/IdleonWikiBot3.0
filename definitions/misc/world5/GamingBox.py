@@ -1,4 +1,5 @@
 from definitions.master.IdleonModel import IdleonModel
+from helpers.CustomTypes import Integer
 
 
 class GamingBox(IdleonModel):
@@ -16,3 +17,4 @@ class GamingBox(IdleonModel):
 	itemY: int
 	backgroundX: int
 	backgroundY: int
+	boxId: Integer

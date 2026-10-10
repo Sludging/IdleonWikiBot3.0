@@ -1,5 +1,5 @@
 {
-    "Half Opened Box": {
+    "0": {
         "name": "Half Opened Box",
         "costA": 2,
         "costB": 5,
@@ -13,9 +13,10 @@
         "itemX": 43,
         "itemY": 137,
         "backgroundX": 171,
-        "backgroundY": 68
+        "backgroundY": 68,
+        "boxId": 0
     },
-    "Spaded Box": {
+    "1": {
         "name": "Spaded Box",
         "costA": 3,
         "costB": 6,
@@ -29,9 +30,10 @@
         "itemX": 282,
         "itemY": 254,
         "backgroundX": 49,
-        "backgroundY": 70
+        "backgroundY": 70,
+        "boxId": 1
     },
-    "Animal Box": {
+    "2": {
         "name": "Animal Box",
         "costA": 5,
         "costB": 8,
@@ -45,9 +47,10 @@
         "itemX": 524,
         "itemY": 305,
         "backgroundX": 355,
-        "backgroundY": 92
+        "backgroundY": 92,
+        "boxId": 2
     },
-    "Oceanside Package": {
+    "3": {
         "name": "Oceanside Package",
         "costA": 1,
         "costB": 12,
@@ -61,9 +64,10 @@
         "itemX": 600,
         "itemY": 63,
         "backgroundX": 241,
-        "backgroundY": 21
+        "backgroundY": 21,
+        "boxId": 3
     },
-    "Kitsune Container": {
+    "4": {
         "name": "Kitsune Container",
         "costA": 15,
         "costB": 14,
@@ -77,9 +81,10 @@
         "itemX": 61,
         "itemY": 269,
         "backgroundX": 163,
-        "backgroundY": 178
+        "backgroundY": 178,
+        "boxId": 4
     },
-    "Organic Box": {
+    "5": {
         "name": "Organic Box",
         "costA": 80,
         "costB": 17,
@@ -93,9 +98,10 @@
         "itemX": 165,
         "itemY": 314,
         "backgroundX": 282,
-        "backgroundY": 180
+        "backgroundY": 180,
+        "boxId": 5
     },
-    "Console Box": {
+    "6": {
         "name": "Console Box",
         "costA": 375,
         "costB": 21,
@@ -109,9 +115,10 @@
         "itemX": 617,
         "itemY": 258,
         "backgroundX": 254,
-        "backgroundY": 178
+        "backgroundY": 178,
+        "boxId": 6
     },
-    "Tall Slimy Package": {
+    "7": {
         "name": "Tall Slimy Package",
         "costA": 611,
         "costB": 27,
@@ -125,9 +132,10 @@
         "itemX": 285,
         "itemY": 128,
         "backgroundX": 292,
-        "backgroundY": 174
+        "backgroundY": 174,
+        "boxId": 7
     },
-    "Royalty Box": {
+    "8": {
         "name": "Royalty Box",
         "costA": 1,
         "costB": 50,
@@ -141,9 +149,10 @@
         "itemX": 409,
         "itemY": 290,
         "backgroundX": 280,
-        "backgroundY": 70
+        "backgroundY": 70,
+        "boxId": 8
     },
-    "Empty Box": {
+    "9": {
         "name": "Empty Box",
         "costA": 99,
         "costB": 60,
@@ -157,6 +166,7 @@
         "itemX": 20,
         "itemY": 1,
         "backgroundX": 198,
-        "backgroundY": 174
+        "backgroundY": 174,
+        "boxId": 9
     }
 }

@@ -13,7 +13,8 @@
         "itemX": 43,
         "itemY": 137,
         "backgroundX": 171,
-        "backgroundY": 68
+        "backgroundY": 68,
+        "boxId": 0
     },
     {
         "name": "Spaded Box",
@@ -29,7 +30,8 @@
         "itemX": 282,
         "itemY": 254,
         "backgroundX": 49,
-        "backgroundY": 70
+        "backgroundY": 70,
+        "boxId": 1
     },
     {
         "name": "Animal Box",
@@ -45,7 +47,8 @@
         "itemX": 524,
         "itemY": 305,
         "backgroundX": 355,
-        "backgroundY": 92
+        "backgroundY": 92,
+        "boxId": 2
     },
     {
         "name": "Oceanside Package",
@@ -61,7 +64,8 @@
         "itemX": 600,
         "itemY": 63,
         "backgroundX": 241,
-        "backgroundY": 21
+        "backgroundY": 21,
+        "boxId": 3
     },
     {
         "name": "Kitsune Container",
@@ -77,7 +81,8 @@
         "itemX": 61,
         "itemY": 269,
         "backgroundX": 163,
-        "backgroundY": 178
+        "backgroundY": 178,
+        "boxId": 4
     },
     {
         "name": "Organic Box",
@@ -93,7 +98,8 @@
         "itemX": 165,
         "itemY": 314,
         "backgroundX": 282,
-        "backgroundY": 180
+        "backgroundY": 180,
+        "boxId": 5
     },
     {
         "name": "Console Box",
@@ -109,7 +115,8 @@
         "itemX": 617,
         "itemY": 258,
         "backgroundX": 254,
-        "backgroundY": 178
+        "backgroundY": 178,
+        "boxId": 6
     },
     {
         "name": "Tall Slimy Package",
@@ -125,7 +132,8 @@
         "itemX": 285,
         "itemY": 128,
         "backgroundX": 292,
-        "backgroundY": 174
+        "backgroundY": 174,
+        "boxId": 7
     },
     {
         "name": "Royalty Box",
@@ -141,7 +149,8 @@
         "itemX": 409,
         "itemY": 290,
         "backgroundX": 280,
-        "backgroundY": 70
+        "backgroundY": 70,
+        "boxId": 8
     },
     {
         "name": "Empty Box",
@@ -157,6 +166,7 @@
         "itemX": 20,
         "itemY": 1,
         "backgroundX": 198,
-        "backgroundY": 174
+        "backgroundY": 174,
+        "boxId": 9
     }
 ]

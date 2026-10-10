@@ -71,8 +71,11 @@ from repositories.misc.world5.ArtifactRepo import ArtifactRepo
 from repositories.misc.world5.CaptainBonusRepo import CaptainBonusRepo
 from repositories.misc.world5.DivinityStyleRepo import DivinityStyleRepo
 from repositories.misc.world5.GamingBoxRepo import GamingBoxRepo
+from repositories.misc.world5.GamingImportRepo import GamingImportRepo
+from repositories.misc.world5.GamingMetadataRepo import GamingMetadataRepo
 from repositories.misc.world5.GamingPaletteRepo import GamingPaletteRepo
 from repositories.misc.world5.GamingSuperbitsRepo import GamingSuperbitsRepo
+from repositories.misc.world5.GamingSpeciesRepo import GamingSpeciesRepo
 from repositories.misc.world5.GamingUpgradeRepo import GamingUpgradeRepo
 from repositories.misc.world5.GodInfoRepo import GodInfoRepo
 from repositories.misc.world5.IslandInfoRepo import IslandInfoRepo
@@ -91,6 +94,9 @@ from repositories.misc.world5.hole.HarpStringsRepo import HarpStringsRepo
 from repositories.misc.world5.hole.HarpNotesRepo import HarpNotesRepo
 from repositories.misc.world5.hole.MonumentRepo import MonumentRepo
 from repositories.misc.world5.hole.CosmoUpgradeRepo import CosmoUpgradeRepo
+from repositories.misc.world6.FarmingLandRankUpgradeRepo import FarmingLandRankUpgradeRepo
+from repositories.misc.world6.FarmingMetadataRepo import FarmingMetadataRepo
+from repositories.misc.world6.FarmingStickerRepo import FarmingStickerRepo
 from repositories.misc.world6.JadeUpgradeRepo import JadeUpgradeRepo
 from repositories.misc.world6.MarketInfoRepo import MarketInfoRepo
 from repositories.misc.world6.NinjaItemRepo import NinjaItemRepo
@@ -147,11 +153,11 @@ AllRepos = [*SpelunkingRepos, *MineheadRepos, ItemDetailRepo, EquipmentSetsRepo,
             PetStatRepo, PetUpgradeRepo, TerritoryFightRepo, BossDetailRepo, CardSetRepo, CardSetBonusRepo, FishPoolRepo, TrapBoxRepo,
             ShimmerBonusRepo, ShimmerChallengeRepo,
             ArcadeBonusRepo, SigilRepo, TaskShopDescRepo, TaskDescriptionRepo, ColosseumRepo, ArtifactRepo,
-            CaptainBonusRepo, DivinityStyleRepo, GamingBoxRepo, GamingUpgradeRepo, GodInfoRepo, IslandInfoRepo,
+            CaptainBonusRepo, DivinityStyleRepo, GamingBoxRepo, GamingSpeciesRepo, GamingImportRepo, GamingMetadataRepo, GamingUpgradeRepo, GodInfoRepo, IslandInfoRepo,
             SlabItemSortRepo, GamingSuperbitsRepo, GamingPaletteRepo, CompanionRepo, AtomColliderRepo, WeeklyBossRepo, WeeklyActionRepo,
             FriendBonusRepo, 
             WeeklyShopRepo, DreamChallengeRepo, DreamUpgradeRepo, SummonUpgradeRepo, NinjaUpgradeRepo, JadeUpgradeRepo,
-            MarketInfoRepo, SeedInfoRepo, SummonEnemyRepo, SummonUnitRepo, NinjaItemRepo, FeatherRepo, TomeRepo, TomeBonusRepo,
+            MarketInfoRepo, SeedInfoRepo, FarmingStickerRepo, FarmingLandRankUpgradeRepo, FarmingMetadataRepo, SummonEnemyRepo, SummonUnitRepo, NinjaItemRepo, FeatherRepo, TomeRepo, TomeBonusRepo,
             HoleBuildingRepo, MeasurementRepo, StudyRepo, BellActionRepo, BellImprovementRepo, BellBonusRepo, SedimentRepo, GambitBonusRepo,
             FountainCurrencyRepo, FountainUpgradeRepo,
             HarpStringsRepo, HarpNotesRepo, MonumentRepo, SaltLickRepo, ZenithMarketRepo, ResearchGridBonusRepo,
