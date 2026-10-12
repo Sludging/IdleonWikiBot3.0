@@ -123,6 +123,11 @@ from repositories.misc.world7.OrbletMarketBonusRepo import OrbletMarketBonusRepo
 from repositories.misc.world7.LegendTalentRepo import LegendTalentsRepo
 from repositories.misc.world7.ZenithMarketRepo import ZenithMarketRepo
 from repositories.misc.world7.ResearchGridBonusRepo import ResearchGridBonusRepo
+from repositories.misc.world7.ResearchObservationRepo import ResearchObservationRepo
+from repositories.misc.world7.ResearchLensRepo import ResearchLensRepo
+from repositories.misc.world7.ResearchShapeRepo import ResearchShapeRepo
+from repositories.misc.world7.ResearchPostyNoteRepo import ResearchPostyNoteRepo
+from repositories.misc.world7.ResearchMetadataRepo import ResearchMetadataRepo
 from repositories.misc.world7.SushiRepo import SushiRepo
 from repositories.misc.world7.SushiStationUpgradeRepo import SushiStationUpgradeRepo
 from repositories.misc.world7.ButtonBonusRepo import ButtonBonusRepo
@@ -161,6 +166,7 @@ AllRepos = [*SpelunkingRepos, *MineheadRepos, ItemDetailRepo, EquipmentSetsRepo,
             HoleBuildingRepo, MeasurementRepo, StudyRepo, BellActionRepo, BellImprovementRepo, BellBonusRepo, SedimentRepo, GambitBonusRepo,
             FountainCurrencyRepo, FountainUpgradeRepo,
             HarpStringsRepo, HarpNotesRepo, MonumentRepo, SaltLickRepo, ZenithMarketRepo, ResearchGridBonusRepo,
+            ResearchObservationRepo, ResearchLensRepo, ResearchShapeRepo, ResearchPostyNoteRepo, ResearchMetadataRepo,
             *JellyOperatorRepos, ButtonBonusRepo, ButtonTaskRepo, SushiRepo, SushiStationUpgradeRepo, BubbaUpgradeRepo,
             ExoticMarketRepo, RoyalResourceRepo, RoyalGuardianMetadataRepo, TournamentRaidRepo,
             RoyalArmoryUpgradeRepo, RoyalStatueRepo,

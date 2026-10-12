@@ -256,6 +256,15 @@ class IdleonReader:
 		self.codeReader.addSection('_customBlock_JellyOperation("SlotUnlocked", Math.round', "JellyBoardPlacement", "if (1 ==")
 		self.codeReader.addSection("ResGridSquares = function ()", "ResearchGridBonus")
 		self.codeReader.addSection("SushiUPG = function ()", "SushiUpgrades")
+		self.codeReader.addSection("Occurrences = function ()", "ResearchObservations")
+		self.codeReader.addSection('"PostyNotesOwned" ==', "ResearchPostyNoteUnlock", ";")
+		self.codeReader.addSection('"MaxRoll" ==', "ResearchMaxRoll", ";")
+		self.codeReader.addSection('"MinRoll" ==', "ResearchMinRoll", ";")
+		self.codeReader.addSection('"RollsPerDay" ==', "ResearchRollsPerDay", ";")
+		self.codeReader.addSection('"Kalei_MultiBase" ==', "ResearchKaleidoscopeAdjacentBoost", ";")
+		self.codeReader.addSection('"CanRotateShapes" ==', "ResearchShapeRotationUnlock", ";")
+		self.codeReader.addSection("_customBlock_IsXYmouseWithinBounds(547, 602, 395, 447)", "ResearchShapeRotationClockwise", "_customBlock_IsXYmouseWithinBounds(136, 191, 395, 447)")
+		self.codeReader.addSection("_customBlock_IsXYmouseWithinBounds(136, 191, 395, 447)", "ResearchShapeRotationCounterclockwise", 'this._TRIGGEREDtext = "cb"')
 		# The Button
 		self.codeReader.addSection('"Button_BonusPerTime"', "ButtonBonuses", ";")
 		self.codeReader.addSection("ButtonTasks = function ()", "ButtonTasks")
@@ -270,6 +279,8 @@ class IdleonReader:
 		self.codeReader.addSection("SpelunkChapters = function ()", "SpelunkChapters")
 		self.codeReader.addSection("SpelunkUpg = function ()", "SpelunkUpg")
 		self.codeReader.addSection("SpelunkRocks = function ()", "SpelunkRocks")
+		self.codeReader.addSection('_customBlock_Spelunk("PrismaDropChance", 0, 0)', "SpelunkingRewardOutcomes", '_customBlock_Spelunk("blingbagDropChance",')
+		self.codeReader.addSection('_customBlock_addImgInst("CaveAmber" +', "SpelunkingRewardItemImages", '_customBlock_GrowImgInstREAL')
 
 		# Legend Talents
 		self.codeReader.addSection("LegendTalents = function ()", "LegendTalents")
