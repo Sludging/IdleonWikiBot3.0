@@ -1,7 +1,7 @@
 from typing import List
 
 from definitions.misc.world7.researchGridBonus import ResearchGridBonus
-from helpers.HelperFunctions import getFromSplitArray
+from helpers.HelperFunctions import formatStr, getFromSplitArray
 from repositories.master.Repository import Repository
 
 
@@ -16,8 +16,10 @@ class ResearchGridBonusRepo(Repository[ResearchGridBonus]):
 
     @classmethod
     def generateRepo(cls) -> None:
-        data = getFromSplitArray(cls.getSection())
+        data = getFromSplitArray(cls.getSection(), replaceUnderscores=False)
         for index, line in enumerate(data):
-            toAdd = ResearchGridBonus.fromList([index, *line])
+            fields = [formatStr(field, replaceUnderscores=True) for field in line[:-1]]
+            description = line[-1].replace("_", " ")
+            toAdd = ResearchGridBonus.fromList([index, *fields, description])
             cls.addList(toAdd)
             cls.add(f"{index}", toAdd)

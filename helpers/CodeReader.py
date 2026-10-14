@@ -310,6 +310,10 @@ class IdleonReader:
 		self.codeReader.addSection("ArcaneUpg = function ()", "ArcaneUpg")
 		self.codeReader.addSection("EmperorBon = function ()", "EmperorBon")
 		self.codeReader.addSection("EquipmentSets = function ()", "EquipmentSets")
+		self.codeReader.addSection("PowerSuffixes = function ()", "PowerSuffixes")
+		self.codeReader.addSection("EquipmentTypeReq = function ()", "EquipmentTypeReq")
+		self.codeReader.addSection("EquiptypeGens = function ()", "EquiptypeGens")
+		self.codeReader.addSection("SpeedNames = function ()", "SpeedNames")
 
 		self.codeReader.addSection('this._GeneralINFO.push("{%_Total_Damage', "FriendBonusLabels", '"),')
 		self.codeReader.addSection('if ("FriendBonusQTY" == e)', "FriendBonusValues", 'if ("ReliquariumInPosession" == e)')
