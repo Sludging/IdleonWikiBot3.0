@@ -1,0 +1,167 @@
+{
+    "0": {"index": 0, "kind": "Sediment", "localIndex": 0, "name": "Gravel", "icon": "`"},
+    "1": {"index": 1, "kind": "Sediment", "localIndex": 1, "name": "Goldust", "icon": "@"},
+    "2": {"index": 2, "kind": "Sediment", "localIndex": 2, "name": "Redstone", "icon": "#"},
+    "3": {"index": 3, "kind": "Sediment", "localIndex": 3, "name": "Mythril", "icon": "$"},
+    "4": {
+        "index": 4,
+        "kind": "Sediment",
+        "localIndex": 4,
+        "name": "Cobaltine",
+        "icon": "%"
+    },
+    "5": {"index": 5, "kind": "Sediment", "localIndex": 5, "name": "Bruntine", "icon": "^"},
+    "6": {"index": 6, "kind": "Sediment", "localIndex": 6, "name": "Freezium", "icon": "&"},
+    "7": {"index": 7, "kind": "Sediment", "localIndex": 7, "name": "Sweetium", "icon": "*"},
+    "8": {"index": 8, "kind": "Sediment", "localIndex": 8, "name": "RadCoral", "icon": "("},
+    "9": {
+        "index": 9,
+        "kind": "Sediment",
+        "localIndex": 9,
+        "name": "HyperCoral",
+        "icon": ")"
+    },
+    "10": {
+        "index": 10,
+        "kind": "HarpNote",
+        "localIndex": 0,
+        "name": "Crotchet Note",
+        "icon": ":"
+    },
+    "11": {
+        "index": 11,
+        "kind": "HarpNote",
+        "localIndex": 1,
+        "name": "Natural Note",
+        "icon": ";"
+    },
+    "12": {
+        "index": 12,
+        "kind": "HarpNote",
+        "localIndex": 2,
+        "name": "Bass Note",
+        "icon": "<"
+    },
+    "13": {
+        "index": 13,
+        "kind": "HarpNote",
+        "localIndex": 3,
+        "name": "Treble Note",
+        "icon": ","
+    },
+    "14": {
+        "index": 14,
+        "kind": "HarpNote",
+        "localIndex": 4,
+        "name": "Eighth Note",
+        "icon": ">"
+    },
+    "15": {
+        "index": 15,
+        "kind": "HarpNote",
+        "localIndex": 5,
+        "name": "Quaver Note",
+        "icon": "."
+    },
+    "16": {
+        "index": 16,
+        "kind": "HarpNote",
+        "localIndex": 6,
+        "name": "Sharp Note",
+        "icon": "?"
+    },
+    "17": {
+        "index": 17,
+        "kind": "HarpNote",
+        "localIndex": 7,
+        "name": "(F)Clef Note",
+        "icon": "{"
+    },
+    "18": {
+        "index": 18,
+        "kind": "HarpNote",
+        "localIndex": 8,
+        "name": "(G)Clef Note",
+        "icon": "["
+    },
+    "19": {
+        "index": 19,
+        "kind": "HarpNote",
+        "localIndex": 9,
+        "name": "Sixteenth Note",
+        "icon": "}"
+    },
+    "20": {"index": 20, "kind": "Rupie", "localIndex": 0, "name": "Rupie 0", "icon": "船"},
+    "21": {"index": 21, "kind": "Rupie", "localIndex": 1, "name": "Rupie 1", "icon": "般"},
+    "22": {"index": 22, "kind": "Rupie", "localIndex": 2, "name": "Rupie 2", "icon": "航"},
+    "23": {"index": 23, "kind": "Rupie", "localIndex": 3, "name": "Rupie 3", "icon": "舞"},
+    "24": {"index": 24, "kind": "Rupie", "localIndex": 4, "name": "Rupie 4", "icon": "窗"},
+    "25": {"index": 25, "kind": "Rupie", "localIndex": 5, "name": "Rupie 5", "icon": "皮"},
+    "26": {"index": 26, "kind": "Rupie", "localIndex": 6, "name": "Rupie 6", "icon": "白"},
+    "27": {"index": 27, "kind": "Rupie", "localIndex": 7, "name": "Rupie 7", "icon": "癖"},
+    "28": {"index": 28, "kind": "Rupie", "localIndex": 8, "name": "Rupie 8", "icon": "爬"},
+    "29": {"index": 29, "kind": "Rupie", "localIndex": 9, "name": "Rupie 9", "icon": "爆"},
+    "30": {
+        "index": 30,
+        "kind": "Fountain",
+        "localIndex": 0,
+        "name": "Bronze Coins",
+        "icon": "歧"
+    },
+    "31": {
+        "index": 31,
+        "kind": "Fountain",
+        "localIndex": 1,
+        "name": "Silver Coins",
+        "icon": "武"
+    },
+    "32": {
+        "index": 32,
+        "kind": "Fountain",
+        "localIndex": 2,
+        "name": "Golden Coins",
+        "icon": "歌"
+    },
+    "33": {
+        "index": 33,
+        "kind": "Fountain",
+        "localIndex": 3,
+        "name": "Dollar Bills",
+        "icon": "歉"
+    },
+    "34": {
+        "index": 34,
+        "kind": "Fountain",
+        "localIndex": 4,
+        "name": "Credit Bills",
+        "icon": "款"
+    },
+    "35": {
+        "index": 35,
+        "kind": "Fountain",
+        "localIndex": 5,
+        "name": "Treasury Bills",
+        "icon": "欺"
+    },
+    "36": {
+        "index": 36,
+        "kind": "Fountain",
+        "localIndex": 6,
+        "name": "Moolah Stacks",
+        "icon": "欧"
+    },
+    "37": {
+        "index": 37,
+        "kind": "Fountain",
+        "localIndex": 7,
+        "name": "Shilling Stacks",
+        "icon": "欣"
+    },
+    "38": {
+        "index": 38,
+        "kind": "Fountain",
+        "localIndex": 8,
+        "name": "Greane Stacks",
+        "icon": "欢"
+    }
+}
