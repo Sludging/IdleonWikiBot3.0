@@ -279,6 +279,7 @@ class IdleonReader:
 		self.codeReader.addSection("SpelunkChapters = function ()", "SpelunkChapters")
 		self.codeReader.addSection("SpelunkUpg = function ()", "SpelunkUpg")
 		self.codeReader.addSection("SpelunkRocks = function ()", "SpelunkRocks")
+		self.codeReader.addSection('if ("ToolUnlocked"', "SpelunkingToolUnlocks", ";")
 		self.codeReader.addSection('_customBlock_Spelunk("PrismaDropChance", 0, 0)', "SpelunkingRewardOutcomes", '_customBlock_Spelunk("blingbagDropChance",')
 		self.codeReader.addSection('_customBlock_addImgInst("CaveAmber" +', "SpelunkingRewardItemImages", '_customBlock_GrowImgInstREAL')
 

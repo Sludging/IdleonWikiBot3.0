@@ -83,6 +83,7 @@ from repositories.misc.world5.GodInfoRepo import GodInfoRepo
 from repositories.misc.world5.IslandInfoRepo import IslandInfoRepo
 from repositories.misc.world5.SlabItemSortRepo import SlabItemSortRepo
 from repositories.misc.world5.hole.HoleBuildingRepo import HoleBuildingRepo
+from repositories.misc.world5.hole.HoleCurrencyRepo import HoleCurrencyRepo
 from repositories.misc.world5.hole.FountainCurrencyRepo import FountainCurrencyRepo
 from repositories.misc.world5.hole.FountainUpgradeRepo import FountainUpgradeRepo
 from repositories.misc.world5.hole.MeasurementRepo import MeasurementRepo
@@ -165,7 +166,7 @@ AllRepos = [*SpelunkingRepos, *MineheadRepos, ItemDetailRepo, EquipmentSetsRepo,
             FriendBonusRepo, 
             WeeklyShopRepo, DreamChallengeRepo, DreamUpgradeRepo, SummonUpgradeRepo, NinjaUpgradeRepo, JadeUpgradeRepo,
             MarketInfoRepo, SeedInfoRepo, FarmingStickerRepo, FarmingLandRankUpgradeRepo, FarmingMetadataRepo, SummonEnemyRepo, SummonUnitRepo, NinjaItemRepo, FeatherRepo, TomeRepo, TomeBonusRepo,
-            HoleBuildingRepo, MeasurementRepo, StudyRepo, BellActionRepo, BellImprovementRepo, BellBonusRepo, SedimentRepo, GambitBonusRepo,
+            HoleCurrencyRepo, HoleBuildingRepo, MeasurementRepo, StudyRepo, BellActionRepo, BellImprovementRepo, BellBonusRepo, SedimentRepo, GambitBonusRepo,
             FountainCurrencyRepo, FountainUpgradeRepo,
             HarpStringsRepo, HarpNotesRepo, MonumentRepo, SaltLickRepo, ZenithMarketRepo, ResearchGridBonusRepo,
             ResearchObservationRepo, ResearchLensRepo, ResearchShapeRepo, ResearchPostyNoteRepo, ResearchMetadataRepo,

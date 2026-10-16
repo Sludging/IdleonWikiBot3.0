@@ -4,6 +4,7 @@ from repositories.misc.world7.spelunking.DiscoveryRepo import SpelunkingDiscover
 from repositories.misc.world7.spelunking.ElixirRepo import SpelunkingElixirRepo
 from repositories.misc.world7.spelunking.TunnelRepo import SpelunkingTunnelRepo
 from repositories.misc.world7.spelunking.MetadataRepo import SpelunkingMetadataRepo
+from repositories.misc.world7.spelunking.ToolRepo import SpelunkingToolRepo
 
 SpelunkingRepos = [
     SpelunkingUpgradeRepo,
@@ -11,5 +12,6 @@ SpelunkingRepos = [
     SpelunkingDiscoveryRepo,
     SpelunkingElixirRepo,
     SpelunkingTunnelRepo,
+    SpelunkingToolRepo,
     SpelunkingMetadataRepo
 ]

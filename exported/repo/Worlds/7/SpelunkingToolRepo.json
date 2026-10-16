@@ -1,0 +1,58 @@
+{
+    "0": {
+        "index": 0,
+        "name": "Hammer",
+        "baseStaminaCost": 1,
+        "hitRadius": 23,
+        "damageMultiplier": 1,
+        "unlock": {"kind": "default", "upgradeIndex": null, "minimumBonus": null}
+    },
+    "1": {
+        "index": 1,
+        "name": "Mace",
+        "baseStaminaCost": 2,
+        "hitRadius": 40,
+        "damageMultiplier": 2,
+        "unlock": {"kind": "upgrade", "upgradeIndex": 14, "minimumBonus": 1}
+    },
+    "2": {
+        "index": 2,
+        "name": "Mallet",
+        "baseStaminaCost": 3,
+        "hitRadius": 50,
+        "damageMultiplier": 4,
+        "unlock": {"kind": "upgrade", "upgradeIndex": 15, "minimumBonus": 1}
+    },
+    "3": {
+        "index": 3,
+        "name": "Flail",
+        "baseStaminaCost": 4,
+        "hitRadius": 60,
+        "damageMultiplier": 7,
+        "unlock": {"kind": "upgrade", "upgradeIndex": 16, "minimumBonus": 1}
+    },
+    "4": {
+        "index": 4,
+        "name": "Warhammer",
+        "baseStaminaCost": 7,
+        "hitRadius": 85,
+        "damageMultiplier": 15,
+        "unlock": {"kind": "upgrade", "upgradeIndex": 17, "minimumBonus": 1}
+    },
+    "5": {
+        "index": 5,
+        "name": "Scepter",
+        "baseStaminaCost": 15,
+        "hitRadius": 130,
+        "damageMultiplier": 50,
+        "unlock": {"kind": "unavailable", "upgradeIndex": null, "minimumBonus": null}
+    },
+    "6": {
+        "index": 6,
+        "name": "Mjolnir",
+        "baseStaminaCost": 25,
+        "hitRadius": 35,
+        "damageMultiplier": 250,
+        "unlock": {"kind": "unavailable", "upgradeIndex": null, "minimumBonus": null}
+    }
+}
