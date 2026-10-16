@@ -1,0 +1,331 @@
+[
+    {
+        "mainQuests": [
+            {
+                "npc": "Scripticus",
+                "map": [0, 0],
+                "scene": [
+                    6,
+                    9,
+                    13,
+                    17,
+                    20,
+                    23,
+                    25,
+                    33,
+                    39,
+                    42
+                ],
+                "index": [99999]
+            },
+            {"npc": "Glumlee", "map": [0, 0], "scene": [3, 6], "index": [99999]},
+            {"npc": "Picnic Stowaway", "map": [0, 0], "scene": [-7, -5], "index": [20]},
+            {"npc": "Stiltzcho", "map": [9, -3], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Town Marble", "map": [-16, 0], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Woodsman", "map": [18, 0], "scene": [-7, -5], "index": [99999]},
+            {"npc": "TP Pete", "map": [-8, -4], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Promotheus", "map": [-10, 0], "scene": [2, 10], "index": [99999]},
+            {"npc": "Speccius", "map": [36, 27], "scene": [1, 8], "index": [99999]},
+            {"npc": "Whattso", "map": [-17, -21], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Scubidew", "map": [-7, -7], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Fishpaste97", "map": [-7, -10], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Loveulyte", "map": [-15, 14], "scene": [-7, -5], "index": [1]},
+            {
+                "npc": "Cowbo Jones",
+                "map": [0, 0],
+                "scene": [
+                    1,
+                    4,
+                    7,
+                    12,
+                    19,
+                    22,
+                    24,
+                    27,
+                    33,
+                    38,
+                    44,
+                    47,
+                    50,
+                    54
+                ],
+                "index": [99999]
+            },
+            {"npc": "Giftmas Blobulyte", "map": [0, 0], "scene": [-7, -5], "index": [1]},
+            {
+                "npc": "Hoggindaz",
+                "map": [-8, 15],
+                "scene": [
+                    3,
+                    7,
+                    10,
+                    15,
+                    19,
+                    25,
+                    28,
+                    31,
+                    36,
+                    39
+                ],
+                "index": [99999]
+            },
+            {"npc": "Carpetiem", "map": [0, 0], "scene": [5, 9, 13, 17], "index": [99999]},
+            {"npc": "Coastiolyte", "map": [0, 0], "scene": [-7, -5], "index": [1]},
+            {"npc": "Gangster Gus", "map": [50, -15], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Shuvelle", "map": [0, 0], "scene": [3, 6, 9, 12], "index": [99999]},
+            {"npc": "Yondergreen", "map": [0, 0], "scene": [3, 6, 9, 12], "index": [99999]},
+            {"npc": "Bill Brr", "map": [0, 0], "scene": [2, 5, 9, 12], "index": [99999]},
+            {"npc": "Gobo", "map": [65, -34], "scene": [3, 6, 9, 12, 16], "index": [99999]},
+            {"npc": "Nebula Neddy", "map": [-7, -6], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Lava Larry", "map": [-7, -6], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Eliteus", "map": [-7, 0], "scene": [2, 4], "index": [99999]},
+            {"npc": "Slargon", "map": [16, 7], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Pirate Porkchop", "map": [-10, 0], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Poigu", "map": [-10, -3], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Muhmuguh", "map": [12, -45], "scene": [2, 6, 10], "index": [99999]},
+            {"npc": "Nebulyte", "map": [15, -28], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Monolith", "map": [-25, -10], "scene": [1, 4, 7], "index": [99999]},
+            {
+                "npc": "Lafu Shi",
+                "map": [63, 0],
+                "scene": [
+                    2,
+                    5,
+                    8,
+                    11,
+                    14,
+                    17
+                ],
+                "index": [99999]
+            },
+            {"npc": "Spirit Sungmin", "map": [20, -6], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Masterius", "map": [0, 0], "scene": [2, 4], "index": [99999]},
+            {"npc": "Snootie", "map": [-20, -325], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Bloo Radley", "map": [1000, 0], "scene": [-7, -5], "index": [99999]},
+            {
+                "npc": "Toobus Goobus",
+                "map": [-9, -20],
+                "scene": [4, 7, 10, 13],
+                "index": [99999]
+            },
+            {"npc": "Zenelith", "map": [-17, -8], "scene": [1], "index": [99999]},
+            {"npc": "Wavey Wayne", "map": [-6, 20], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Coral Kid", "map": [0, 0], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Musselini", "map": [0, 0], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Forest Soul", "map": [0, 0], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Dune Soul", "map": [0, 0], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Root Soul", "map": [0, 0], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Frigid Soul", "map": [0, 0], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Squish Soul", "map": [0, 0], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Oozie Soul", "map": [0, 0], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Brezy Soul", "map": [0, 0], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Deeps Soul", "map": [0, 0], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Keymaster", "map": [0, 0], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Pet Dog", "map": [0, 0], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Minehead", "map": [0, 0], "scene": [-7, -5], "index": [99999]},
+            {"npc": "D. Coral", "map": [0, 0], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Glimbo", "map": [0, 0], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Sushi Station", "map": [0, 0], "scene": [-7, -5], "index": [99999]},
+            {"npc": "The Button", "map": [0, 0], "scene": [-7, -5], "index": [99999]},
+            {"npc": "Jelly", "map": [0, 0], "scene": [-7, -5], "index": [99999]}
+        ],
+        "accountWideQuests": [
+            {"key": "Obol_Altar1", "npc": "Obol Altar", "index": 1, "accountWide": false},
+            {"key": "Mr_Pigibank5", "npc": "Mr Pigibank", "index": 5, "accountWide": false},
+            {"key": "Desert_Davey4", "npc": "Desert Davey", "index": 4, "accountWide": false},
+            {
+                "key": "Postboy_Pablob2",
+                "npc": "Postboy Pablob",
+                "index": 2,
+                "accountWide": false
+            },
+            {"key": "Builder_Bird1", "npc": "Builder Bird", "index": 1, "accountWide": false},
+            {"key": "Telescope4", "npc": "Telescope", "index": 4, "accountWide": false},
+            {"key": "Loveulyte2", "npc": "Loveulyte", "index": 2, "accountWide": true},
+            {"key": "Loveulyte5", "npc": "Loveulyte", "index": 5, "accountWide": true},
+            {
+                "key": "Constructor_Crow2",
+                "npc": "Constructor Crow",
+                "index": 2,
+                "accountWide": false
+            },
+            {"key": "Iceland_Irwin2", "npc": "Iceland Irwin", "index": 2, "accountWide": false},
+            {"key": "Egggulyte3", "npc": "Egggulyte", "index": 3, "accountWide": true},
+            {"key": "Egggulyte7", "npc": "Egggulyte", "index": 7, "accountWide": true},
+            {"key": "Coastiolyte2", "npc": "Coastiolyte", "index": 2, "accountWide": true},
+            {"key": "Coastiolyte5", "npc": "Coastiolyte", "index": 5, "accountWide": true},
+            {"key": "Walupiggy1", "npc": "Walupiggy", "index": 1, "accountWide": true},
+            {"key": "Walupiggy4", "npc": "Walupiggy", "index": 4, "accountWide": true},
+            {"key": "Walupiggy7", "npc": "Walupiggy", "index": 7, "accountWide": true},
+            {"key": "Walupiggy10", "npc": "Walupiggy", "index": 10, "accountWide": true},
+            {
+                "key": "Lord_of_the_Hunt3",
+                "npc": "Lord of the Hunt",
+                "index": 3,
+                "accountWide": true
+            },
+            {
+                "key": "Lord_of_the_Hunt7",
+                "npc": "Lord of the Hunt",
+                "index": 7,
+                "accountWide": true
+            },
+            {
+                "key": "Lord_of_the_Hunt10",
+                "npc": "Lord of the Hunt",
+                "index": 10,
+                "accountWide": true
+            },
+            {
+                "key": "Lord_of_the_Hunt13",
+                "npc": "Lord of the Hunt",
+                "index": 13,
+                "accountWide": true
+            },
+            {
+                "key": "Lord_of_the_Hunt16",
+                "npc": "Lord of the Hunt",
+                "index": 16,
+                "accountWide": true
+            },
+            {
+                "key": "Lord_of_the_Hunt19",
+                "npc": "Lord of the Hunt",
+                "index": 19,
+                "accountWide": true
+            },
+            {
+                "key": "Lord_of_the_Hunt22",
+                "npc": "Lord of the Hunt",
+                "index": 22,
+                "accountWide": true
+            },
+            {
+                "key": "Lord_of_the_Hunt25",
+                "npc": "Lord of the Hunt",
+                "index": 25,
+                "accountWide": true
+            },
+            {
+                "key": "Lord_of_the_Hunt28",
+                "npc": "Lord of the Hunt",
+                "index": 28,
+                "accountWide": true
+            },
+            {
+                "key": "Lord_of_the_Hunt31",
+                "npc": "Lord of the Hunt",
+                "index": 31,
+                "accountWide": true
+            },
+            {"key": "Toadstall4", "npc": "Toadstall", "index": 4, "accountWide": true},
+            {"key": "Toadstall7", "npc": "Toadstall", "index": 7, "accountWide": true},
+            {"key": "Toadstall10", "npc": "Toadstall", "index": 10, "accountWide": true},
+            {"key": "Gangster_Gus2", "npc": "Gangster Gus", "index": 2, "accountWide": true},
+            {"key": "Gangster_Gus5", "npc": "Gangster Gus", "index": 5, "accountWide": true},
+            {"key": "Gangster_Gus10", "npc": "Gangster Gus", "index": 10, "accountWide": true},
+            {
+                "key": "Falloween_Pumpkin3",
+                "npc": "Falloween Pumpkin",
+                "index": 3,
+                "accountWide": true
+            },
+            {
+                "key": "Falloween_Pumpkin6",
+                "npc": "Falloween Pumpkin",
+                "index": 6,
+                "accountWide": true
+            },
+            {
+                "key": "Falloween_Pumpkin9",
+                "npc": "Falloween Pumpkin",
+                "index": 9,
+                "accountWide": true
+            },
+            {
+                "key": "Falloween_Pumpkin12",
+                "npc": "Falloween Pumpkin",
+                "index": 12,
+                "accountWide": true
+            },
+            {
+                "key": "Falloween_Pumpkin15",
+                "npc": "Falloween Pumpkin",
+                "index": 15,
+                "accountWide": true
+            },
+            {"key": "Worldo4", "npc": "Worldo", "index": 4, "accountWide": true},
+            {"key": "Worldo7", "npc": "Worldo", "index": 7, "accountWide": true},
+            {
+                "key": "Giftmas_Blobulyte11",
+                "npc": "Giftmas Blobulyte",
+                "index": 11,
+                "accountWide": true
+            },
+            {
+                "key": "Carpenter_Cardinal1",
+                "npc": "Carpenter Cardinal",
+                "index": 1,
+                "accountWide": false
+            },
+            {"key": "Gobo3", "npc": "Gobo", "index": 3, "accountWide": true},
+            {"key": "Gobo6", "npc": "Gobo", "index": 6, "accountWide": true},
+            {"key": "Gobo9", "npc": "Gobo", "index": 9, "accountWide": true},
+            {"key": "Gobo12", "npc": "Gobo", "index": 12, "accountWide": true},
+            {"key": "Gobo16", "npc": "Gobo", "index": 16, "accountWide": true},
+            {"key": "Blobbo1", "npc": "Blobbo", "index": 1, "accountWide": true},
+            {"key": "Blobbo4", "npc": "Blobbo", "index": 4, "accountWide": true},
+            {"key": "Nebula_Neddy2", "npc": "Nebula Neddy", "index": 2, "accountWide": false},
+            {"key": "Lava_Larry2", "npc": "Lava Larry", "index": 2, "accountWide": false},
+            {"key": "Rift_Ripper4", "npc": "Rift Ripper", "index": 4, "accountWide": true},
+            {"key": "Muhmuguh2", "npc": "Muhmuguh", "index": 2, "accountWide": true},
+            {"key": "Muhmuguh6", "npc": "Muhmuguh", "index": 6, "accountWide": true},
+            {"key": "Muhmuguh10", "npc": "Muhmuguh", "index": 10, "accountWide": true},
+            {"key": "Bubbulyte2", "npc": "Bubbulyte", "index": 2, "accountWide": false},
+            {"key": "Omar_Da_Ogar2", "npc": "Omar Da Ogar", "index": 2, "accountWide": true},
+            {"key": "Omar_Da_Ogar5", "npc": "Omar Da Ogar", "index": 5, "accountWide": true},
+            {"key": "Omar_Da_Ogar8", "npc": "Omar Da Ogar", "index": 8, "accountWide": true},
+            {"key": "Omar_Da_Ogar11", "npc": "Omar Da Ogar", "index": 11, "accountWide": true},
+            {"key": "Omar_Da_Ogar14", "npc": "Omar Da Ogar", "index": 14, "accountWide": true},
+            {"key": "Omar_Da_Ogar17", "npc": "Omar Da Ogar", "index": 17, "accountWide": true},
+            {"key": "Lafu_Shi2", "npc": "Lafu Shi", "index": 2, "accountWide": true},
+            {"key": "Lafu_Shi5", "npc": "Lafu Shi", "index": 5, "accountWide": true},
+            {"key": "Lafu_Shi8", "npc": "Lafu Shi", "index": 8, "accountWide": true},
+            {"key": "Lafu_Shi11", "npc": "Lafu Shi", "index": 11, "accountWide": true},
+            {"key": "Lafu_Shi14", "npc": "Lafu Shi", "index": 14, "accountWide": true},
+            {"key": "Lafu_Shi17", "npc": "Lafu Shi", "index": 17, "accountWide": true},
+            {"key": "Woodlin_Elder2", "npc": "Woodlin Elder", "index": 2, "accountWide": true},
+            {"key": "Woodlin_Elder5", "npc": "Woodlin Elder", "index": 5, "accountWide": true},
+            {"key": "Woodlin_Elder8", "npc": "Woodlin Elder", "index": 8, "accountWide": true},
+            {"key": "Woodlin_Elder11", "npc": "Woodlin Elder", "index": 11, "accountWide": true},
+            {"key": "Woodlin_Elder14", "npc": "Woodlin Elder", "index": 14, "accountWide": true},
+            {"key": "Sussy_Gene3", "npc": "Sussy Gene", "index": 3, "accountWide": true},
+            {"key": "Sussy_Gene6", "npc": "Sussy Gene", "index": 6, "accountWide": true},
+            {"key": "Sussy_Gene9", "npc": "Sussy Gene", "index": 9, "accountWide": true},
+            {
+                "key": "Spirit_Sungmin2",
+                "npc": "Spirit Sungmin",
+                "index": 2,
+                "accountWide": false
+            },
+            {"key": "Wavey_Wayne2", "npc": "Wavey Wayne", "index": 2, "accountWide": false},
+            {"key": "Potti1", "npc": "Potti", "index": 3, "accountWide": true},
+            {"key": "Potti2", "npc": "Potti", "index": 6, "accountWide": true},
+            {"key": "Potti3", "npc": "Potti", "index": 9, "accountWide": true},
+            {"key": "Potti4", "npc": "Potti", "index": 12, "accountWide": true},
+            {"key": "Potti5", "npc": "Potti", "index": 15, "accountWide": true},
+            {"key": "Potti6", "npc": "Potti", "index": 18, "accountWide": true},
+            {"key": "Sad_Urie4", "npc": "Sad Urie", "index": 4, "accountWide": false},
+            {"key": "Snootie2", "npc": "Snootie", "index": 2, "accountWide": true},
+            {"key": "Snootie5", "npc": "Snootie", "index": 5, "accountWide": true},
+            {"key": "Snootie8", "npc": "Snootie", "index": 8, "accountWide": true},
+            {"key": "Bloo_Radley1", "npc": "Bloo Radley", "index": 1, "accountWide": true},
+            {"key": "Bloo_Radley4", "npc": "Bloo Radley", "index": 4, "accountWide": true},
+            {"key": "Toobus_Goobus4", "npc": "Toobus Goobus", "index": 4, "accountWide": true},
+            {"key": "Toobus_Goobus7", "npc": "Toobus Goobus", "index": 7, "accountWide": true},
+            {"key": "Toobus_Goobus10", "npc": "Toobus Goobus", "index": 10, "accountWide": true},
+            {"key": "Toobus_Goobus13", "npc": "Toobus Goobus", "index": 13, "accountWide": true},
+            {"key": "Zenelith1", "npc": "Zenelith", "index": 1, "accountWide": false}
+        ]
+    }
+]

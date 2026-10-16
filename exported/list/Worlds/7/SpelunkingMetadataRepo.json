@@ -1,0 +1,76 @@
+[
+    {
+        "rewardLabels": [
+            {"dropCode": "_", "displayName": "Amber"},
+            {"dropCode": "a", "displayName": "Prisma Bubbles"},
+            {"dropCode": "b", "displayName": "Exalted Stamp Frags"},
+            {"dropCode": "c", "displayName": "Snail Mail"},
+            {"dropCode": "d", "displayName": "Blinding Lantern"},
+            {"dropCode": "e", "displayName": "Sigil Syrup"},
+            {"dropCode": "f", "displayName": "Spirit Offering"},
+            {"dropCode": "g", "displayName": "Strange Gold Piece"},
+            {"dropCode": "h", "displayName": "Rockenstone"},
+            {"dropCode": "i", "displayName": "Sheetmetal"},
+            {"dropCode": "j", "displayName": "Popcorn"},
+            {"dropCode": "k", "displayName": "Pillario"}
+        ],
+        "itemDrops": [
+            {
+                "dropCode": "a",
+                "itemId": "Quest99",
+                "displayName": "Prisma Bubbles",
+                "tunnelIndex": null,
+                "unlockUpgradeIndex": 28
+            },
+            {
+                "dropCode": "d",
+                "itemId": "Quest90",
+                "displayName": "Blinding Lantern",
+                "tunnelIndex": null,
+                "unlockUpgradeIndex": 29
+            },
+            {
+                "dropCode": "f",
+                "itemId": "Quest102",
+                "displayName": "Spirit Offering",
+                "tunnelIndex": null,
+                "unlockUpgradeIndex": 29
+            },
+            {
+                "dropCode": "g",
+                "itemId": "CaveGoldPiece",
+                "displayName": "Strange Gold Piece",
+                "tunnelIndex": null,
+                "unlockUpgradeIndex": 30
+            },
+            {
+                "dropCode": "h",
+                "itemId": "W7item0",
+                "displayName": "Rockenstone",
+                "tunnelIndex": 0,
+                "unlockUpgradeIndex": null
+            },
+            {
+                "dropCode": "i",
+                "itemId": "W7item1",
+                "displayName": "Sheetmetal",
+                "tunnelIndex": 2,
+                "unlockUpgradeIndex": null
+            },
+            {
+                "dropCode": "j",
+                "itemId": "W7item2",
+                "displayName": "Popcorn",
+                "tunnelIndex": 4,
+                "unlockUpgradeIndex": null
+            },
+            {
+                "dropCode": "k",
+                "itemId": "W7item3",
+                "displayName": "Pillario",
+                "tunnelIndex": 6,
+                "unlockUpgradeIndex": null
+            }
+        ]
+    }
+]

@@ -88,13 +88,22 @@ class IdleonReader:
 		self.codeReader.addSection("MapDispName = function", "MapNames")
 		self.codeReader.addSection("MapAFKtarget = function ()", "MapEnemies")
 		self.codeReader.addSection("MapDetails = function ()", "MapPortals")
+		self.codeReader.addSection("NonAFKscreens = function ()", "NonAFKscreens")
 		self.codeReader.addSection("PostOfficePossibleOrders = function ()", "PostOffice")
 		self.codeReader.addSection("FishToolkitInfo = function ()", "FishToolkit")
 		self.codeReader.addSection("AlchemyDescription = function", "Bubbles")
+		self.codeReader.addSection("AlchemyVialQTYreq = function ()", "AlchemyVialQTYreq", "}),")
+		self.codeReader.addSection("AlchemyVialItems = function ()", "AlchemyVialItems", "}),")
+		self.codeReader.addSection("AlchemyVialItemsPCT = function ()", "AlchemyVialItemsPCT", "}),")
 		self.codeReader.addSection("TalentOrder = function ()", "TalentOrder")
 		self.codeReader.addSection("TalentIconNames = function ()", "TalentNames")
 		self.codeReader.addSection("TalentDescriptions = function ()", "TalentData")
 		self.codeReader.addSection("ClassNames = function ()", "ClassNames")
+		self.codeReader.addSection("ClassFamilyBonuses = function ()", "ClassFamilyBonuses", "}),")
+		self.codeReader.addSection("ClassFamilyBonusDISPorder = function ()", "ClassFamilyBonusDISPorder", "}),")
+		self.codeReader.addSection("ClassSpecializeSkills = function ()", "ClassSpecializeSkills", "}),")
+		self.codeReader.addSection("ClassAccountBonus = function ()", "ClassAccountBonus", "}),")
+		self.codeReader.addSection("ClassPromotionChoices = function ()", "ClassPromotionChoices", "}),")
 		self.codeReader.addSection("atkMoveMap = new ", "ActiveSkill", "get = function () {")
 		self.codeReader.addSection("StatueInfo = function () {", "StatueInfo")
 		self.codeReader.addSection("CardStuff = function ()", "CardInfo")
@@ -109,11 +118,15 @@ class IdleonReader:
 		self.codeReader.addSection("PrayerInfo = function () {", "PrayerInfo")
 		self.codeReader.addSection("ShrineInfo = function () {", "ShrineInfo")
 		self.codeReader.addSection("GuildBonuses = function () {", "GuidBonuses")
+		self.codeReader.addSection("GuildGPtasks = function ()", "GuildGPtasks", "}),")
 		self.codeReader.addSection("BossDetails = function () {", "BossDetails")
 		self.codeReader.addSection("DungFlurboShop = function () {", "DungFlurbo")
 		self.codeReader.addSection("ArcadeShopInfo = function () {", "ArcadeBonus")
 		self.codeReader.addSection("DungEnhanceINFO = function () {", "DungEnhance")
 		self.codeReader.addSection("RegAchieves = function () {", "Achieve")
+		self.codeReader.addSection("AchieveOrderingz = function ()", "AchieveOrderingz", "}),")
+		self.codeReader.addSection("AchSteam2Reg = function ()", "AchSteam2Reg", "}),")
+		self.codeReader.addSection("AchBallzBonuses = function ()", "AchBallzBonuses", "}),")
 		self.codeReader.addSection("TraitDescriptions = function () {", "DungTraits")
 		self.codeReader.addSection("DungPassiveStats = function () {", "DungPassiveI")
 		self.codeReader.addSection("DungPassiveStats2 = function () {", "DungPassiveF")
@@ -146,12 +159,32 @@ class IdleonReader:
 		self.codeReader.addSection("CardSets = function ()", "CardSets")
 		self.codeReader.addSection("TrapBoxInfo = function ()", "TrapBox")
 		self.codeReader.addSection("RANDOlist = function ()", "RandoList")
-		self.codeReader.addSection("RandoListo2 = function ()", "RandoList2")
 		self.codeReader.addSection("SigilDesc = function ()", "SigilDesc")
 		self.codeReader.addSection("SkullShopDesc = function ()", "SkullShop")
 		self.codeReader.addSection("MapName = function ()", "MapInternal")
 
+		self.codeReader.addSection("CogMatrices = function ()", "CogMatrices")
 		self.codeReader.addSection("AtomInfo = function ()", "AtomInfo")
+		self.codeReader.addSection("WorshipInfo = function ()", "WorshipInfo", "}),")
+		self.codeReader.addSection("WorshipBASEinfos = function ()", "WorshipBASEinfos", "}),")
+		self.codeReader.addSection("WorshipNODESnETC = function ()", "WorshipNODESnETC", "}),")
+		self.codeReader.addSection("DeathNoteMobs = function ()", "DeathNoteMobs", "}),")
+		self.codeReader.addSection("Titans = function ()", "Titans", "}),")
+		self.codeReader.addSection("MainQuests = function ()", "MainQuests", "}),")
+		self.codeReader.addSection("AccountWideQuests = function ()", "AccountWideQuests", "}),")
+		# World 2 Island Expeditions
+		self.codeReader.addSection('this._DL1.push("+{,Base_STR"', "ShimmerBonuses", "this._GenINFO.push(this._DL1),")
+		self.codeReader.addSection(
+			'this._DL1.push(1 + Math.floor(c.asNumber(a.engine.getGameAttribute("OptionsListAccount")[174]) / 12))',
+			"ShimmerBonusLevels",
+			"this._GenINFO[17] = this._DL1",
+		)
+		self.codeReader.addSection(
+			'this._DL1.push("Get_as_much_total_stats_as_possible',
+			"ShimmerChallenges",
+			"this._GenINFO.push(this._DL1),",
+		)
+		self.codeReader.addSection("this._DL1.push(5e4)", "ShimmerChallengeThresholds", "this._GenINFO.push(this._DL1),")
 
 		# World 5
 		self.codeReader.addSection("GamingUpgrades = function ()", "GamingUpgrades")
@@ -160,6 +193,9 @@ class IdleonReader:
 		self.codeReader.addSection("GodsInfo = function ()", "GodsInfo")
 		self.codeReader.addSection("DivStyle = function ()", "DivStyle")
 		self.codeReader.addSection("GamingBoxes = function ()", "GamingBoxes")
+		self.codeReader.addSection("RandoListo2 = function ()", "GamingMetadata")
+		self.codeReader.addSection('if ("ExtraLuckFromEvo"', "GamingPlantStagePaletteLuck", ";")
+		self.codeReader.addSection('"+{%_extra,King_Tokens/hr|', "GamingRatShopUpgrades", '"')
 		self.codeReader.addSection("SailingMapPaths = function ()", "SailingMapPaths")
 		self.codeReader.addSection("IslandInfo = function ()", "IslandInfo")
 		self.codeReader.addSection("IslandInfobox = function ()", "IslandInfobox")
@@ -167,8 +203,7 @@ class IdleonReader:
 		self.codeReader.addSection("ArtifactInfo = function ()", "ArtifactInfo")
 		self.codeReader.addSection("SlabItemSort = function ()", "SlabItemSort")
 
-		self.codeReader.addSection("RiftStuff = function ()", "Rift")
-		self.codeReader.addSection("CogMapKeys = function ()", "CogMap")
+		self.codeReader.addSection("RiftStuff = function ()", "Rift", "}),")
 
 		self.codeReader.addSection("CompanionDB = function ()", "Companion")
 
@@ -188,6 +223,10 @@ class IdleonReader:
 		self.codeReader.addSection("IDforETCbonus = function ()", "IdEctBonus")
 		self.codeReader.addSection("IDforCardBonus = function ()", "IdCardBonus")
 		self.codeReader.addSection("IDforCardSETbonus = function ()", "IdCardSetBonus")
+		self.codeReader.addSection("TournyStuff = function ()", "TournyStuff", "}),")
+		self.codeReader.addSection("TournyRewards = function ()", "TournyRewards", "}),")
+		self.codeReader.addSection("RoyalResources = function ()", "RoyalResources", "}),")
+		self.codeReader.addSection("MarketExoticInfo = function ()", "MarketExoticInfo", "}),")
 
 		# World 6
 		self.codeReader.addSection("SummonUPG = function ()", "SummonUpgrades")
@@ -202,13 +241,37 @@ class IdleonReader:
 		self.codeReader.addSection("ZenithMarket = function ()", "ZenithMarket")
 
 		# World 7
+		self.codeReader.addSection("ArmoryUpg = function ()", "ArmoryUpg")
+		self.codeReader.addSection("RG_KillReq = function ()", "RG_KillReq")
+		self.codeReader.addSection("OrbletMarket = function ()", "OrbletMarket", "}),")
+		self.codeReader.addSection("MineheadUPG = function ()", "MineheadUpgrades")
 		# Research
+		self.codeReader.addSection("JellyUPG = function ()", "JellyOperatorUpgrades")
+		self.codeReader.addSection("_customBlock_IsXYmouseWithinBounds(0, 133, 47, 442)", "JellyCellNames", '"MainAtkCD",')
+		self.codeReader.addSection('"OrganelleSPD", 0, 99)', "JellyCellPassives", '"PASSIVE;"')
+		self.codeReader.addSection('"MainAtkCD" ==', "JellyCellCooldownCoefficients", '"UnitSumAtkCD" ==')
+		self.codeReader.addSection('"MainAtkDMG" ==', "JellyCellDamageCoefficients", '"UnitSumAtk" ==')
+		self.codeReader.addSection('_customBlock_JellyOperation("FEVERunlocked", 0, 0))', "JellyFeverDisplay", '_customBlock_JellyOperation("ROIDunlocked", 0, 0)')
+		self.codeReader.addSection('"SlotUnlocked" ==', "JellyBoardUnlocks", '"SlotPurchasesLeft" ==')
+		self.codeReader.addSection('"BossHP" ==', "JellyInitialObstructionHp", ";")
+		self.codeReader.addSection('_customBlock_JellyOperation("SlotUnlocked", Math.round', "JellyBoardPlacement", "if (1 ==")
 		self.codeReader.addSection("ResGridSquares = function ()", "ResearchGridBonus")
 		self.codeReader.addSection("SushiUPG = function ()", "SushiUpgrades")
+		self.codeReader.addSection("Occurrences = function ()", "ResearchObservations")
+		self.codeReader.addSection('"PostyNotesOwned" ==', "ResearchPostyNoteUnlock", ";")
+		self.codeReader.addSection('"MaxRoll" ==', "ResearchMaxRoll", ";")
+		self.codeReader.addSection('"MinRoll" ==', "ResearchMinRoll", ";")
+		self.codeReader.addSection('"RollsPerDay" ==', "ResearchRollsPerDay", ";")
+		self.codeReader.addSection('"Kalei_MultiBase" ==', "ResearchKaleidoscopeAdjacentBoost", ";")
+		self.codeReader.addSection('"CanRotateShapes" ==', "ResearchShapeRotationUnlock", ";")
+		self.codeReader.addSection("_customBlock_IsXYmouseWithinBounds(547, 602, 395, 447)", "ResearchShapeRotationClockwise", "_customBlock_IsXYmouseWithinBounds(136, 191, 395, 447)")
+		self.codeReader.addSection("_customBlock_IsXYmouseWithinBounds(136, 191, 395, 447)", "ResearchShapeRotationCounterclockwise", 'this._TRIGGEREDtext = "cb"')
 		# The Button
 		self.codeReader.addSection('"Button_BonusPerTime"', "ButtonBonuses", ";")
 		self.codeReader.addSection("ButtonTasks = function ()", "ButtonTasks")
 		self.codeReader.addSection("Research = function ()", "Research")
+		self.codeReader.addSection('"StatueUpgOdds"', "RoyalStatueUnlockOdds", ";")
+		self.codeReader.addSection('"Statue_Cost" == e) return', "RoyalStatueAttemptCost", ";")
 
 
 
@@ -217,6 +280,9 @@ class IdleonReader:
 		self.codeReader.addSection("SpelunkChapters = function ()", "SpelunkChapters")
 		self.codeReader.addSection("SpelunkUpg = function ()", "SpelunkUpg")
 		self.codeReader.addSection("SpelunkRocks = function ()", "SpelunkRocks")
+		self.codeReader.addSection('if ("ToolUnlocked"', "SpelunkingToolUnlocks", ";")
+		self.codeReader.addSection('_customBlock_Spelunk("PrismaDropChance", 0, 0)', "SpelunkingRewardOutcomes", '_customBlock_Spelunk("blingbagDropChance",')
+		self.codeReader.addSection('_customBlock_addImgInst("CaveAmber" +', "SpelunkingRewardItemImages", '_customBlock_GrowImgInstREAL')
 
 		# Legend Talents
 		self.codeReader.addSection("LegendTalents = function ()", "LegendTalents")
@@ -246,6 +312,12 @@ class IdleonReader:
 		self.codeReader.addSection("ArcaneUpg = function ()", "ArcaneUpg")
 		self.codeReader.addSection("EmperorBon = function ()", "EmperorBon")
 		self.codeReader.addSection("EquipmentSets = function ()", "EquipmentSets")
+		self.codeReader.addSection("PowerSuffixes = function ()", "PowerSuffixes")
+		self.codeReader.addSection("EquipmentTypeReq = function ()", "EquipmentTypeReq")
+		self.codeReader.addSection("EquiptypeGens = function ()", "EquiptypeGens")
+		self.codeReader.addSection("SpeedNames = function ()", "SpeedNames")
 
+		self.codeReader.addSection('this._GeneralINFO.push("{%_Total_Damage', "FriendBonusLabels", '"),')
+		self.codeReader.addSection('if ("FriendBonusQTY" == e)', "FriendBonusValues", 'if ("ReliquariumInPosession" == e)')
 
 		self.codeReader.readCode()

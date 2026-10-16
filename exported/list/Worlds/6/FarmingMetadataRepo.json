@@ -1,0 +1,16 @@
+[
+    {
+        "cropScientistBonuses": [
+            {"index": 0, "description": "+{% DMG", "unlockUpgradeIndex": 27},
+            {"index": 1, "description": "}x Gaming Evo", "unlockUpgradeIndex": 24},
+            {"index": 2, "description": "+{% Jade", "unlockUpgradeIndex": 25},
+            {"index": 3, "description": "}x Meal Spd", "unlockUpgradeIndex": 26},
+            {"index": 4, "description": "+{% Cash", "unlockUpgradeIndex": 23},
+            {"index": 5, "description": "+{% Mobs", "unlockUpgradeIndex": 28},
+            {"index": 6, "description": "+{ Critters", "unlockUpgradeIndex": 29},
+            {"index": 7, "description": "+{% DR", "unlockUpgradeIndex": 38},
+            {"index": 8, "description": "+{% Spelunky", "unlockUpgradeIndex": 40},
+            {"index": 9, "description": "+{% Research XP", "unlockUpgradeIndex": 44}
+        ]
+    }
+]

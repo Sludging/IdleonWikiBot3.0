@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## GitHub Issues and Pull Requests
+
+Target issue and pull request operations to the repository configured as this checkout's `origin`. Create issues or pull requests only when the user explicitly asks.
+
 ## Project Overview
 
 IdleonWikiBot3.0 is a Python data extraction tool for the idle game "Idleon". It parses the game's JavaScript code file (N.js), extracts structured game data via regex-based section extraction, validates it through Pydantic models, and exports to JSON and TypeScript for the IdleonEfficiency website. (available locally at ../IdleonEfficiency)

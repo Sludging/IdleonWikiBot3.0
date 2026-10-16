@@ -834,7 +834,9 @@
             "enemy": "riftAll",
             "world": "Hyperion Nebula",
             "map": {"intName": "xSpaceRift", "name": "The Rift", "id": 166},
-            "portalRequirements": [100]
+            "portalRequirements": [100],
+            "x": 818,
+            "y": 50
         },
         "navigation": null,
         "bossData": null
@@ -2090,7 +2092,9 @@
             "enemy": "mushG",
             "world": "Blunder Hills",
             "map": {"intName": "GrasslandsA", "name": "Spore Meadows", "id": 1},
-            "portalRequirements": [21]
+            "portalRequirements": [21],
+            "x": 603,
+            "y": 190
         },
         "navigation": {
             "prev": null,
@@ -2139,7 +2143,9 @@
             "enemy": "frogG",
             "world": "Blunder Hills",
             "map": {"intName": "GrasslandsB", "name": "Froggy Fields", "id": 2},
-            "portalRequirements": [25]
+            "portalRequirements": [25],
+            "x": 519,
+            "y": 211
         },
         "navigation": {
             "prev": "mushR",
@@ -2185,7 +2191,9 @@
             "enemy": "beanG",
             "world": "Blunder Hills",
             "map": {"intName": "GrasslandsC", "name": "Valley Of The Beans", "id": 14},
-            "portalRequirements": [50, 2000]
+            "portalRequirements": [50, 2000],
+            "x": 637,
+            "y": 220
         },
         "navigation": {
             "prev": "frogG",
@@ -2232,7 +2240,9 @@
             "enemy": "slimeG",
             "world": "Blunder Hills",
             "map": {"intName": "JungleA", "name": "Jungle Perimeter", "id": 16},
-            "portalRequirements": [60, 3000]
+            "portalRequirements": [60, 3000],
+            "x": 707,
+            "y": 236
         },
         "navigation": {
             "prev": "beanG",
@@ -2281,7 +2291,9 @@
             "enemy": "snakeG",
             "world": "Blunder Hills",
             "map": {"intName": "JungleB", "name": "Winding Willows", "id": 19},
-            "portalRequirements": [90]
+            "portalRequirements": [90],
+            "x": 755,
+            "y": 256
         },
         "navigation": {
             "prev": "slimeG",
@@ -2325,7 +2337,9 @@
             "enemy": "carrotO",
             "world": "Blunder Hills",
             "map": {"intName": "JungleC", "name": "Vegetable Patch", "id": 24},
-            "portalRequirements": [120, 2000]
+            "portalRequirements": [120, 2000],
+            "x": 670,
+            "y": 269
         },
         "navigation": {
             "prev": "snakeG",
@@ -2370,7 +2384,9 @@
             "enemy": "goblinG",
             "world": "Blunder Hills",
             "map": {"intName": "ForestA", "name": "Forest Outskirts", "id": 26},
-            "portalRequirements": [130]
+            "portalRequirements": [130],
+            "x": 627,
+            "y": 299
         },
         "navigation": {
             "prev": "carrotO",
@@ -2417,7 +2433,9 @@
             "enemy": "plank",
             "world": "Blunder Hills",
             "map": {"intName": "ForestB", "name": "Encroaching Forest Villas", "id": 27},
-            "portalRequirements": [30, 4200]
+            "portalRequirements": [30, 4200],
+            "x": 545,
+            "y": 333
         },
         "navigation": {
             "prev": "goblinG",
@@ -2465,7 +2483,9 @@
             "enemy": "frogBIG",
             "world": "Blunder Hills",
             "map": {"intName": "ForestC", "name": "Tucked Away", "id": 28},
-            "portalRequirements": [0]
+            "portalRequirements": [0],
+            "x": 530,
+            "y": 379
         },
         "navigation": {
             "prev": "plank",
@@ -2510,7 +2530,9 @@
             "enemy": "branch",
             "world": "Blunder Hills",
             "map": {"intName": "TreeInteriorA", "name": "The Base Of The Bark", "id": 13},
-            "portalRequirements": [2500, 50000]
+            "portalRequirements": [2500, 50000],
+            "x": 754,
+            "y": 204
         },
         "navigation": {
             "prev": "ratB",
@@ -2553,7 +2575,9 @@
             "enemy": "acorn",
             "world": "Blunder Hills",
             "map": {"intName": "TreeInteriorB", "name": "Hollowed Trunk", "id": 18},
-            "portalRequirements": [5000]
+            "portalRequirements": [5000],
+            "x": 765,
+            "y": 169
         },
         "navigation": {
             "prev": "branch",
@@ -2598,7 +2622,9 @@
             "enemy": "mushW",
             "world": "Blunder Hills",
             "map": {"intName": "TreeInteriorC", "name": "Where the Branches End", "id": 31},
-            "portalRequirements": [0]
+            "portalRequirements": [0],
+            "x": 793,
+            "y": 130
         },
         "navigation": {
             "prev": "Crystal0",
@@ -2646,7 +2672,9 @@
             "enemy": "poopSmall",
             "world": "Blunder Hills",
             "map": {"intName": "SewerA", "name": "Poopy Sewers", "id": 8},
-            "portalRequirements": [20000]
+            "portalRequirements": [20000],
+            "x": 532,
+            "y": 142
         },
         "navigation": {
             "prev": "frogBIG",
@@ -2692,7 +2720,9 @@
             "enemy": "ratB",
             "world": "Blunder Hills",
             "map": {"intName": "SewerB", "name": "Rats Nest", "id": 15},
-            "portalRequirements": [35000]
+            "portalRequirements": [35000],
+            "x": 501,
+            "y": 136
         },
         "navigation": {
             "prev": "poopSmall",
@@ -2734,7 +2764,9 @@
             "enemy": "poopD",
             "world": "Blunder Hills",
             "map": {"intName": "SewerD", "name": "Meel's Crypt", "id": 38},
-            "portalRequirements": [0]
+            "portalRequirements": [0],
+            "x": 9999,
+            "y": 9999
         },
         "navigation": {
             "prev": "poopBig",
@@ -2860,7 +2892,9 @@
             "enemy": "jarSand",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zDesertCalmA", "name": "Jar Bridge", "id": 51},
-            "portalRequirements": [100]
+            "portalRequirements": [100],
+            "x": 388,
+            "y": 188
         },
         "navigation": {
             "prev": null,
@@ -2906,7 +2940,9 @@
             "enemy": "mimicA",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zDesertCalmB", "name": "The Mimic Hole", "id": 52},
-            "portalRequirements": [120, 1000]
+            "portalRequirements": [120, 1000],
+            "x": 429,
+            "y": 263
         },
         "navigation": {
             "prev": "jarSand",
@@ -2951,7 +2987,9 @@
             "enemy": "crabcake",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zDesertCalmC", "name": "Dessert Dunes", "id": 53},
-            "portalRequirements": [150]
+            "portalRequirements": [150],
+            "x": 505,
+            "y": 277
         },
         "navigation": {
             "prev": "mimicA",
@@ -2996,7 +3034,9 @@
             "enemy": "coconut",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zDesertMildA", "name": "The Grandioso Canyon", "id": 57},
-            "portalRequirements": [200]
+            "portalRequirements": [200],
+            "x": 608,
+            "y": 273
         },
         "navigation": {
             "prev": "crabcake",
@@ -3041,7 +3081,9 @@
             "enemy": "sandcastle",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zDesertMildB", "name": "Shifty Sandbox", "id": 58},
-            "portalRequirements": [250]
+            "portalRequirements": [250],
+            "x": 552,
+            "y": 233
         },
         "navigation": {
             "prev": "coconut",
@@ -3090,7 +3132,9 @@
             "enemy": "pincermin",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zDesertMildC", "name": "Pincer Plateau", "id": 59},
-            "portalRequirements": [300]
+            "portalRequirements": [300],
+            "x": 510,
+            "y": 192
         },
         "navigation": {
             "prev": "sandcastle",
@@ -3133,7 +3177,9 @@
             "enemy": "potato",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zDesertMildD", "name": "Slamabam Straightaway", "id": 60},
-            "portalRequirements": [500, 0]
+            "portalRequirements": [500, 0],
+            "x": 490,
+            "y": 125
         },
         "navigation": {
             "prev": "pincermin",
@@ -3177,7 +3223,9 @@
             "enemy": "steak",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zDesertNightA", "name": "The Ring", "id": 62},
-            "portalRequirements": [1000]
+            "portalRequirements": [1000],
+            "x": 566,
+            "y": 130
         },
         "navigation": {
             "prev": "potato",
@@ -3223,7 +3271,9 @@
             "enemy": "moonman",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zDesertNightB", "name": "Up Up Down Down", "id": 63},
-            "portalRequirements": [2000]
+            "portalRequirements": [2000],
+            "x": 661,
+            "y": 129
         },
         "navigation": {
             "prev": "steak",
@@ -3267,7 +3317,9 @@
             "enemy": "sandgiant",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zDesertNightC", "name": "Sands of Time", "id": 64},
-            "portalRequirements": [3000]
+            "portalRequirements": [3000],
+            "x": 740,
+            "y": 181
         },
         "navigation": {
             "prev": "moonman",
@@ -3311,7 +3363,9 @@
             "enemy": "snailZ",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zDesertNightD", "name": "Djonnuttown", "id": 65},
-            "portalRequirements": [1]
+            "portalRequirements": [1],
+            "x": 732,
+            "y": 259
         },
         "navigation": {
             "prev": "sandgiant",
@@ -3356,7 +3410,9 @@
             "enemy": "sheep",
             "world": "Frostbite Tundra",
             "map": {"intName": "ySnowA1", "name": "Steep Sheep Ledge", "id": 101},
-            "portalRequirements": [1000]
+            "portalRequirements": [1000],
+            "x": 283,
+            "y": 275
         },
         "navigation": {
             "prev": null,
@@ -3401,7 +3457,9 @@
             "enemy": "flake",
             "world": "Frostbite Tundra",
             "map": {"intName": "ySnowA2", "name": "Snowfield Outskirts", "id": 103},
-            "portalRequirements": [2000]
+            "portalRequirements": [2000],
+            "x": 294,
+            "y": 227
         },
         "navigation": {
             "prev": "sheep",
@@ -3446,7 +3504,9 @@
             "enemy": "stache",
             "world": "Frostbite Tundra",
             "map": {"intName": "ySnowA3", "name": "The Stache Split", "id": 104},
-            "portalRequirements": [3000, 100000]
+            "portalRequirements": [3000, 100000],
+            "x": 363,
+            "y": 191
         },
         "navigation": {
             "prev": "flake",
@@ -3491,7 +3551,9 @@
             "enemy": "ram",
             "world": "Frostbite Tundra",
             "map": {"intName": "ySnowD1", "name": "Wam Wonderland", "id": 116},
-            "portalRequirements": [250000]
+            "portalRequirements": [250000],
+            "x": 353,
+            "y": 135
         },
         "navigation": {
             "prev": "eye",
@@ -3536,7 +3598,9 @@
             "enemy": "bloque",
             "world": "Frostbite Tundra",
             "map": {"intName": "ySnowB1", "name": "Refrigeration Station", "id": 105},
-            "portalRequirements": [4000]
+            "portalRequirements": [4000],
+            "x": 426,
+            "y": 224
         },
         "navigation": {
             "prev": "stache",
@@ -3582,7 +3646,9 @@
             "enemy": "mamoth",
             "world": "Frostbite Tundra",
             "map": {"intName": "ySnowB2", "name": "Mamooooth Mountain", "id": 106},
-            "portalRequirements": [6000]
+            "portalRequirements": [6000],
+            "x": 484,
+            "y": 239
         },
         "navigation": {
             "prev": "bloque",
@@ -3628,7 +3694,9 @@
             "enemy": "snowball",
             "world": "Frostbite Tundra",
             "map": {"intName": "ySnowB3", "name": "Rollin' Tundra", "id": 107},
-            "portalRequirements": [8000]
+            "portalRequirements": [8000],
+            "x": 567,
+            "y": 259
         },
         "navigation": {
             "prev": "mamoth",
@@ -3672,7 +3740,9 @@
             "enemy": "penguin",
             "world": "Frostbite Tundra",
             "map": {"intName": "ySnowB4", "name": "Signature Slopes", "id": 108},
-            "portalRequirements": [11000]
+            "portalRequirements": [11000],
+            "x": 683,
+            "y": 285
         },
         "navigation": {
             "prev": "snowball",
@@ -3723,7 +3793,9 @@
             "enemy": "thermostat",
             "world": "Frostbite Tundra",
             "map": {"intName": "ySnowB5", "name": "Thermonuclear Climb", "id": 109},
-            "portalRequirements": [15000]
+            "portalRequirements": [15000],
+            "x": 684,
+            "y": 245
         },
         "navigation": {
             "prev": "penguin",
@@ -3767,7 +3839,9 @@
             "enemy": "glass",
             "world": "Frostbite Tundra",
             "map": {"intName": "ySnowC1", "name": "Waterlogged Entrance", "id": 110},
-            "portalRequirements": [18000]
+            "portalRequirements": [18000],
+            "x": 698,
+            "y": 208
         },
         "navigation": {
             "prev": "thermostat",
@@ -3811,7 +3885,9 @@
             "enemy": "snakeB",
             "world": "Frostbite Tundra",
             "map": {"intName": "ySnowC2", "name": "Cryo Catacombs", "id": 111},
-            "portalRequirements": [22000]
+            "portalRequirements": [22000],
+            "x": 661,
+            "y": 167
         },
         "navigation": {
             "prev": "glass",
@@ -3855,7 +3931,9 @@
             "enemy": "speaker",
             "world": "Frostbite Tundra",
             "map": {"intName": "ySnowC3", "name": "Overpass of Sound", "id": 112},
-            "portalRequirements": [35000]
+            "portalRequirements": [35000],
+            "x": 611,
+            "y": 136
         },
         "navigation": {
             "prev": "snakeB",
@@ -3899,7 +3977,9 @@
             "enemy": "eye",
             "world": "Frostbite Tundra",
             "map": {"intName": "ySnowC4", "name": "Crystal Basecamp", "id": 113},
-            "portalRequirements": [120000]
+            "portalRequirements": [120000],
+            "x": 670,
+            "y": 121
         },
         "navigation": {
             "prev": "speaker",
@@ -3970,7 +4050,9 @@
             "enemy": "mushP",
             "world": "Hyperion Nebula",
             "map": {"intName": "xSpaceA1", "name": "Spaceway Raceway", "id": 151},
-            "portalRequirements": [5000]
+            "portalRequirements": [5000],
+            "x": 717,
+            "y": 243
         },
         "navigation": {
             "prev": null,
@@ -4016,7 +4098,9 @@
             "enemy": "w4a2",
             "world": "Hyperion Nebula",
             "map": {"intName": "xSpaceA2", "name": "TV Outpost", "id": 152},
-            "portalRequirements": [12000]
+            "portalRequirements": [12000],
+            "x": 651,
+            "y": 292
         },
         "navigation": {
             "prev": "mushP",
@@ -4060,7 +4144,9 @@
             "enemy": "w4a3",
             "world": "Hyperion Nebula",
             "map": {"intName": "xSpaceA3", "name": "Donut Drive-In", "id": 153},
-            "portalRequirements": [18000]
+            "portalRequirements": [18000],
+            "x": 587,
+            "y": 344
         },
         "navigation": {
             "prev": "w4a2",
@@ -4104,7 +4190,9 @@
             "enemy": "demonP",
             "world": "Hyperion Nebula",
             "map": {"intName": "xSpaceA4", "name": "Outskirts of Fallstar Isle", "id": 154},
-            "portalRequirements": [25000]
+            "portalRequirements": [25000],
+            "x": 514,
+            "y": 272
         },
         "navigation": {
             "prev": "w4a3",
@@ -4148,7 +4236,9 @@
             "enemy": "w4b2",
             "world": "Hyperion Nebula",
             "map": {"intName": "xSpaceB1", "name": "Mountainous Deugh", "id": 155},
-            "portalRequirements": [40000]
+            "portalRequirements": [40000],
+            "x": 394,
+            "y": 298
         },
         "navigation": {
             "prev": "demonP",
@@ -4192,7 +4282,9 @@
             "enemy": "w4b1",
             "world": "Hyperion Nebula",
             "map": {"intName": "xSpaceB2", "name": "Wurm Highway", "id": 156},
-            "portalRequirements": [60000]
+            "portalRequirements": [60000],
+            "x": 287,
+            "y": 321
         },
         "navigation": {
             "prev": "w4b2",
@@ -4237,7 +4329,9 @@
             "enemy": "w4b3",
             "world": "Hyperion Nebula",
             "map": {"intName": "xSpaceB3", "name": "Jelly Cube Bridge", "id": 157},
-            "portalRequirements": [90000]
+            "portalRequirements": [90000],
+            "x": 281,
+            "y": 234
         },
         "navigation": {
             "prev": "w4b1",
@@ -4281,7 +4375,9 @@
             "enemy": "w4b4",
             "world": "Hyperion Nebula",
             "map": {"intName": "xSpaceB4", "name": "Cocoa Tunnel", "id": 158},
-            "portalRequirements": [120000]
+            "portalRequirements": [120000],
+            "x": 216,
+            "y": 158
         },
         "navigation": {
             "prev": "w4b3",
@@ -4325,7 +4421,9 @@
             "enemy": "w4b5",
             "world": "Hyperion Nebula",
             "map": {"intName": "xSpaceB5", "name": "Standstill Plains", "id": 159},
-            "portalRequirements": [150000]
+            "portalRequirements": [150000],
+            "x": 314,
+            "y": 151
         },
         "navigation": {
             "prev": "w4b4",
@@ -4369,7 +4467,9 @@
             "enemy": "w4c1",
             "world": "Hyperion Nebula",
             "map": {"intName": "xSpaceC1", "name": "Shelled Shores", "id": 160},
-            "portalRequirements": [190000]
+            "portalRequirements": [190000],
+            "x": 446,
+            "y": 149
         },
         "navigation": {
             "prev": "w4b5",
@@ -4413,7 +4513,9 @@
             "enemy": "w4c2",
             "world": "Hyperion Nebula",
             "map": {"intName": "xSpaceC2", "name": "The Untraveled Octopath", "id": 161},
-            "portalRequirements": [250000]
+            "portalRequirements": [250000],
+            "x": 545,
+            "y": 142
         },
         "navigation": {
             "prev": "w4c1",
@@ -4457,7 +4559,9 @@
             "enemy": "w4c3",
             "world": "Hyperion Nebula",
             "map": {"intName": "xSpaceC3", "name": "Flamboyant Bayou", "id": 162},
-            "portalRequirements": [300000]
+            "portalRequirements": [300000],
+            "x": 582,
+            "y": 70
         },
         "navigation": {
             "prev": "w4c2",
@@ -4501,7 +4605,9 @@
             "enemy": "w4c4",
             "world": "Hyperion Nebula",
             "map": {"intName": "xSpaceC4", "name": "Enclave of Eyes", "id": 163},
-            "portalRequirements": [350000]
+            "portalRequirements": [350000],
+            "x": 686,
+            "y": 107
         },
         "navigation": {
             "prev": "w4c3",
@@ -4546,7 +4652,9 @@
             "enemy": "w5a1",
             "world": "Smolderin' Plateau",
             "map": {"intName": "wLavaA1", "name": "Naut Sake Perimeter", "id": 201},
-            "portalRequirements": [15000]
+            "portalRequirements": [15000],
+            "x": 691,
+            "y": 177
         },
         "navigation": {
             "prev": null,
@@ -4591,7 +4699,9 @@
             "enemy": "w5a2",
             "world": "Smolderin' Plateau",
             "map": {"intName": "wLavaA2", "name": "Niagrilled Falls", "id": 202},
-            "portalRequirements": [25000]
+            "portalRequirements": [25000],
+            "x": 631,
+            "y": 210
         },
         "navigation": {
             "prev": "w5a1",
@@ -4635,7 +4745,9 @@
             "enemy": "w5a3",
             "world": "Smolderin' Plateau",
             "map": {"intName": "wLavaA3", "name": "The Killer Roundabout", "id": 203},
-            "portalRequirements": [40000]
+            "portalRequirements": [40000],
+            "x": 647,
+            "y": 263
         },
         "navigation": {
             "prev": "w5a2",
@@ -4680,7 +4792,9 @@
             "enemy": "w5a4",
             "world": "Smolderin' Plateau",
             "map": {"intName": "wLavaA4", "name": "Cracker Jack Lake", "id": 204},
-            "portalRequirements": [50000]
+            "portalRequirements": [50000],
+            "x": 610,
+            "y": 297
         },
         "navigation": {
             "prev": "w5a3",
@@ -4725,7 +4839,9 @@
             "enemy": "w5a5",
             "world": "Smolderin' Plateau",
             "map": {"intName": "wLavaA5", "name": "The Great Molehill", "id": 205},
-            "portalRequirements": [75000]
+            "portalRequirements": [75000],
+            "x": 541,
+            "y": 292
         },
         "navigation": {
             "prev": "w5a4",
@@ -4769,7 +4885,9 @@
             "enemy": "w5b1",
             "world": "Smolderin' Plateau",
             "map": {"intName": "wLavaB1", "name": "Erruption River", "id": 206},
-            "portalRequirements": [100000]
+            "portalRequirements": [100000],
+            "x": 473,
+            "y": 268
         },
         "navigation": {
             "prev": "w5a5",
@@ -4813,7 +4931,9 @@
             "enemy": "w5b2",
             "world": "Smolderin' Plateau",
             "map": {"intName": "wLavaB2", "name": "Mount Doomish", "id": 207},
-            "portalRequirements": [200000]
+            "portalRequirements": [200000],
+            "x": 418,
+            "y": 280
         },
         "navigation": {
             "prev": "w5b1",
@@ -4858,7 +4978,9 @@
             "enemy": "w5b3",
             "world": "Smolderin' Plateau",
             "map": {"intName": "wLavaB3", "name": "OJ Bay", "id": 208},
-            "portalRequirements": [300000]
+            "portalRequirements": [300000],
+            "x": 400,
+            "y": 243
         },
         "navigation": {
             "prev": "w5b2",
@@ -4903,7 +5025,9 @@
             "enemy": "w5b4",
             "world": "Smolderin' Plateau",
             "map": {"intName": "wLavaB4", "name": "Lampar Lake", "id": 209},
-            "portalRequirements": [450000]
+            "portalRequirements": [450000],
+            "x": 341,
+            "y": 264
         },
         "navigation": {
             "prev": "w5b3",
@@ -4947,7 +5071,9 @@
             "enemy": "w5b5",
             "world": "Smolderin' Plateau",
             "map": {"intName": "wLavaB5", "name": "Spitfire River", "id": 210},
-            "portalRequirements": [600000]
+            "portalRequirements": [600000],
+            "x": 290,
+            "y": 249
         },
         "navigation": {
             "prev": "w5b4",
@@ -4992,7 +5118,9 @@
             "enemy": "w5b6",
             "world": "Smolderin' Plateau",
             "map": {"intName": "wLavaB6", "name": "Miner Mole Outskirts", "id": 211},
-            "portalRequirements": [1000000]
+            "portalRequirements": [1000000],
+            "x": 221,
+            "y": 265
         },
         "navigation": {
             "prev": "w5b5",
@@ -5036,7 +5164,9 @@
             "enemy": "w5c1",
             "world": "Smolderin' Plateau",
             "map": {"intName": "wLavaC1", "name": "Crawly Catacombs", "id": 212},
-            "portalRequirements": [3000000]
+            "portalRequirements": [3000000],
+            "x": 321,
+            "y": 357
         },
         "navigation": {
             "prev": "w5b6",
@@ -5081,7 +5211,9 @@
             "enemy": "w5c2",
             "world": "Smolderin' Plateau",
             "map": {"intName": "wLavaC2", "name": "The Worm Nest", "id": 213},
-            "portalRequirements": [60000]
+            "portalRequirements": [60000],
+            "x": 429,
+            "y": 377
         },
         "navigation": {
             "prev": "w5c1",
@@ -5125,7 +5257,9 @@
             "enemy": "w6a1",
             "world": "Spirited Valley",
             "map": {"intName": "vSpiritA1", "name": "Gooble Goop Creek", "id": 251},
-            "portalRequirements": [30000]
+            "portalRequirements": [30000],
+            "x": 634,
+            "y": 354
         },
         "navigation": {
             "prev": null,
@@ -5170,7 +5304,9 @@
             "enemy": "w6a2",
             "world": "Spirited Valley",
             "map": {"intName": "vSpiritA2", "name": "Picnic Bridgeways", "id": 252},
-            "portalRequirements": [50000]
+            "portalRequirements": [50000],
+            "x": 571,
+            "y": 357
         },
         "navigation": {
             "prev": "w6a1",
@@ -5214,7 +5350,9 @@
             "enemy": "w6a3",
             "world": "Spirited Valley",
             "map": {"intName": "vSpiritA3", "name": "Irrigation Station", "id": 253},
-            "portalRequirements": [100000]
+            "portalRequirements": [100000],
+            "x": 540,
+            "y": 382
         },
         "navigation": {
             "prev": "w6a2",
@@ -5258,7 +5396,9 @@
             "enemy": "w6a4",
             "world": "Spirited Valley",
             "map": {"intName": "vSpiritA4", "name": "Troll Playground", "id": 254},
-            "portalRequirements": [250000]
+            "portalRequirements": [250000],
+            "x": 476,
+            "y": 385
         },
         "navigation": {
             "prev": "w6a3",
@@ -5302,7 +5442,9 @@
             "enemy": "w6a5",
             "world": "Spirited Valley",
             "map": {"intName": "vSpiritA5", "name": "Edge of the Valley", "id": 255},
-            "portalRequirements": [400000]
+            "portalRequirements": [400000],
+            "x": 401,
+            "y": 383
         },
         "navigation": {
             "prev": "w6a4",
@@ -5345,7 +5487,9 @@
             "enemy": "w6b1",
             "world": "Spirited Valley",
             "map": {"intName": "vSpiritB1", "name": "Bamboo Laboredge", "id": 256},
-            "portalRequirements": [1100000]
+            "portalRequirements": [1100000],
+            "x": 245,
+            "y": 360
         },
         "navigation": {
             "prev": "w6a5",
@@ -5390,7 +5534,9 @@
             "enemy": "w6b2",
             "world": "Spirited Valley",
             "map": {"intName": "vSpiritB2", "name": "Lightway Path", "id": 257},
-            "portalRequirements": [3200000]
+            "portalRequirements": [3200000],
+            "x": 329,
+            "y": 293
         },
         "navigation": {
             "prev": "w6b1",
@@ -5434,7 +5580,9 @@
             "enemy": "w6b3",
             "world": "Spirited Valley",
             "map": {"intName": "vSpiritB3", "name": "Troll Broodnest", "id": 258},
-            "portalRequirements": [8000000]
+            "portalRequirements": [8000000],
+            "x": 549,
+            "y": 217
         },
         "navigation": {
             "prev": "w6b2",
@@ -5478,7 +5626,9 @@
             "enemy": "w6b4",
             "world": "Spirited Valley",
             "map": {"intName": "vSpiritB4", "name": "Above the Clouds", "id": 259},
-            "portalRequirements": [12000000]
+            "portalRequirements": [12000000],
+            "x": 656,
+            "y": 130
         },
         "navigation": {
             "prev": "w6b3",
@@ -5522,7 +5672,9 @@
             "enemy": "w6c1",
             "world": "Spirited Valley",
             "map": {"intName": "vSpiritC1", "name": "Sleepy Skyline", "id": 260},
-            "portalRequirements": [25000000]
+            "portalRequirements": [25000000],
+            "x": 457,
+            "y": 153
         },
         "navigation": {
             "prev": "w6b4",
@@ -5571,7 +5723,9 @@
             "enemy": "w6c2",
             "world": "Spirited Valley",
             "map": {"intName": "vSpiritC2", "name": "Dozey Dogpark", "id": 261},
-            "portalRequirements": [70000000]
+            "portalRequirements": [70000000],
+            "x": 323,
+            "y": 179
         },
         "navigation": {
             "prev": "w6c1",
@@ -5614,7 +5768,9 @@
             "enemy": "w6d1",
             "world": "Spirited Valley",
             "map": {"intName": "vSpiritD1", "name": "Yolkrock Basin", "id": 262},
-            "portalRequirements": [100000000]
+            "portalRequirements": [100000000],
+            "x": 218,
+            "y": 189
         },
         "navigation": {
             "prev": "w6c2",
@@ -5658,7 +5814,9 @@
             "enemy": "w6d2",
             "world": "Spirited Valley",
             "map": {"intName": "vSpiritD2", "name": "Chieftain Stairway", "id": 263},
-            "portalRequirements": [150000000]
+            "portalRequirements": [150000000],
+            "x": 165,
+            "y": 124
         },
         "navigation": {
             "prev": "w6d1",
@@ -5703,7 +5861,9 @@
             "enemy": "w6d3",
             "world": "Spirited Valley",
             "map": {"intName": "vSpiritD3", "name": "Emperor's Castle Doorstep", "id": 264},
-            "portalRequirements": [100]
+            "portalRequirements": [100],
+            "x": 200,
+            "y": 103
         },
         "navigation": {
             "prev": "w6d2",
@@ -5927,7 +6087,9 @@
             "enemy": "w7a1",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaA1", "name": "Refraction Bend", "id": 301},
-            "portalRequirements": [100000]
+            "portalRequirements": [100000],
+            "x": 293,
+            "y": 86
         },
         "navigation": {
             "prev": null,
@@ -5971,7 +6133,9 @@
             "enemy": "w7a2",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaA2", "name": "Doodle Reef", "id": 302},
-            "portalRequirements": [250000]
+            "portalRequirements": [250000],
+            "x": 215,
+            "y": 96
         },
         "navigation": {
             "prev": "w7a1",
@@ -6015,7 +6179,9 @@
             "enemy": "w7a3",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaA3", "name": "Seaweed Street", "id": 303},
-            "portalRequirements": [10000000, 1500000]
+            "portalRequirements": [10000000, 1500000],
+            "x": 270,
+            "y": 142
         },
         "navigation": {
             "prev": "w7a2",
@@ -6060,7 +6226,9 @@
             "enemy": "w7a4",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaA4", "name": "Barnacle Curb", "id": 304},
-            "portalRequirements": [5000000]
+            "portalRequirements": [5000000],
+            "x": 202,
+            "y": 141
         },
         "navigation": {
             "prev": "w7a3",
@@ -6104,7 +6272,9 @@
             "enemy": "w7a5",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaA5", "name": "Balloon Bay", "id": 305},
-            "portalRequirements": [20000000, 1000000]
+            "portalRequirements": [20000000, 1000000],
+            "x": 226,
+            "y": 203
         },
         "navigation": {
             "prev": "w7a4",
@@ -6147,7 +6317,9 @@
             "enemy": "w7a6",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaA6", "name": "The Clamworks", "id": 306},
-            "portalRequirements": [0]
+            "portalRequirements": [0],
+            "x": 153,
+            "y": 162
         },
         "navigation": {
             "prev": "w7a5",
@@ -6192,7 +6364,9 @@
             "enemy": "w7a7",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaA7", "name": "Plastic Basin", "id": 307},
-            "portalRequirements": [250000000, 20000000]
+            "portalRequirements": [250000000, 20000000],
+            "x": 397,
+            "y": 148
         },
         "navigation": {
             "prev": "w7a6",
@@ -6235,7 +6409,9 @@
             "enemy": "w7a8",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaA8", "name": "Puffpuff Overpass", "id": 308},
-            "portalRequirements": [60000000]
+            "portalRequirements": [60000000],
+            "x": 364,
+            "y": 118
         },
         "navigation": {
             "prev": "w7a7",
@@ -6278,7 +6454,9 @@
             "enemy": "w7a10",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaA10", "name": "Middle of Nowhere", "id": 310},
-            "portalRequirements": [500000000, 75000000]
+            "portalRequirements": [500000000, 75000000],
+            "x": 470,
+            "y": 105
         },
         "navigation": {
             "prev": "w7a9",
@@ -6321,7 +6499,9 @@
             "enemy": "w7a9",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaA9", "name": "Pinpoint Summit", "id": 309},
-            "portalRequirements": [0]
+            "portalRequirements": [0],
+            "x": 357,
+            "y": 77
         },
         "navigation": {
             "prev": "w7a8",
@@ -6366,7 +6546,9 @@
             "enemy": "w7a11",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaA11", "name": "Coralcave Outskirts", "id": 311},
-            "portalRequirements": [1000000000]
+            "portalRequirements": [1000000000],
+            "x": 435,
+            "y": 75
         },
         "navigation": {
             "prev": "w7a10",
@@ -6410,7 +6592,9 @@
             "enemy": "w7a12",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaA12", "name": "Coralcave Perimeter", "id": 312},
-            "portalRequirements": [0]
+            "portalRequirements": [0],
+            "x": 401,
+            "y": 51
         },
         "navigation": {
             "prev": "w7a11",
@@ -6455,7 +6639,9 @@
             "enemy": "w7b1",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaB1", "name": "Deep End of the Koipond", "id": 315},
-            "portalRequirements": [2000000]
+            "portalRequirements": [2000000],
+            "x": 352,
+            "y": 261
         },
         "navigation": {
             "prev": "w7a12",
@@ -6499,7 +6685,9 @@
             "enemy": "w7b2",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaB2", "name": "Minefield", "id": 316},
-            "portalRequirements": [6000000]
+            "portalRequirements": [6000000],
+            "x": 456,
+            "y": 241
         },
         "navigation": {
             "prev": "w7b1",
@@ -6543,7 +6731,9 @@
             "enemy": "w7b3",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaB3", "name": "Pirate Upper Deck", "id": 317},
-            "portalRequirements": [1000000000, 40000000]
+            "portalRequirements": [1000000000, 40000000],
+            "x": 560,
+            "y": 214
         },
         "navigation": {
             "prev": "w7b2",
@@ -6588,7 +6778,9 @@
             "enemy": "w7b4",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaB4", "name": "Sushi Perimeter", "id": 318},
-            "portalRequirements": [60000000]
+            "portalRequirements": [60000000],
+            "x": 619,
+            "y": 179
         },
         "navigation": {
             "prev": "w7b3",
@@ -6632,7 +6824,9 @@
             "enemy": "w7b5",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaB5", "name": "Jellofish Fields", "id": 319},
-            "portalRequirements": [125000000]
+            "portalRequirements": [125000000],
+            "x": 677,
+            "y": 156
         },
         "navigation": {
             "prev": "w7b4",
@@ -6676,7 +6870,9 @@
             "enemy": "w7b6",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaB6", "name": "Where the Kelp Meets Trench", "id": 320},
-            "portalRequirements": [250000000]
+            "portalRequirements": [250000000],
+            "x": 720,
+            "y": 128
         },
         "navigation": {
             "prev": "w7b5",
@@ -6720,7 +6916,9 @@
             "enemy": "w7b7",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaB7", "name": "Trench Precipice", "id": 321},
-            "portalRequirements": [350000000]
+            "portalRequirements": [350000000],
+            "x": 792,
+            "y": 132
         },
         "navigation": {
             "prev": "w7b6",
@@ -6764,7 +6962,9 @@
             "enemy": "w7b8",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaB8", "name": "The Glowing Underbelly", "id": 322},
-            "portalRequirements": [500000000]
+            "portalRequirements": [500000000],
+            "x": 776,
+            "y": 166
         },
         "navigation": {
             "prev": "w7b7",
@@ -6809,7 +7009,9 @@
             "enemy": "w7b9",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaB9", "name": "Ancient Fissure", "id": 323},
-            "portalRequirements": [750000000]
+            "portalRequirements": [750000000],
+            "x": 744,
+            "y": 192
         },
         "navigation": {
             "prev": "w7b8",
@@ -6853,7 +7055,9 @@
             "enemy": "w7b10",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaB10", "name": "fillername", "id": 324},
-            "portalRequirements": [1000000000]
+            "portalRequirements": [1000000000],
+            "x": 729,
+            "y": 213
         },
         "navigation": {
             "prev": "w7b9",
@@ -6898,7 +7102,9 @@
             "enemy": "w7b11",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaB11", "name": "Pirate Mess Hall", "id": 325},
-            "portalRequirements": [2000000000]
+            "portalRequirements": [2000000000],
+            "x": 523,
+            "y": 201
         },
         "navigation": {
             "prev": "w7b10",
@@ -6943,7 +7149,9 @@
             "enemy": "w7b12",
             "world": "Shimmerfin Deep",
             "map": {"intName": "uAquaB12", "name": "Dreadnaught Chamber", "id": 326},
-            "portalRequirements": [0]
+            "portalRequirements": [0],
+            "x": 591,
+            "y": 238
         },
         "navigation": {
             "prev": "w7b11",
@@ -7045,7 +7253,9 @@
             "enemy": "mushR",
             "world": "Blunder Hills",
             "map": {"intName": "GrasslandsD", "name": "Birch Enclave", "id": 17},
-            "portalRequirements": [0]
+            "portalRequirements": [0],
+            "x": 672,
+            "y": 170
         },
         "navigation": {
             "prev": "mushG",
@@ -7163,7 +7373,9 @@
             "enemy": "skele2",
             "world": "Frostbite Tundra",
             "map": {"intName": "ySnowD2", "name": "Hell Hath Frozen Over", "id": 117},
-            "portalRequirements": [0]
+            "portalRequirements": [0],
+            "x": 287,
+            "y": 114
         },
         "navigation": {
             "prev": "skele",
@@ -10478,6 +10690,87 @@
         "navigation": null,
         "bossData": null
     },
+    "T3a": {
+        "details": {
+            "Name": "Bronze Champion Earl",
+            "AFKtype": "Fighting",
+            "MonsterFace": 94,
+            "MonsterOffsetX": 34,
+            "MonsterOffsetY": 49,
+            "HeightOfMonster": 60,
+            "MonsterMoving": 1,
+            "MovingFrame": 8,
+            "RespawnTime": 45,
+            "DeathFrame": 18,
+            "MonsterHPTotal": 2.5e+16,
+            "Type": "monsterType",
+            "SpecialType": "",
+            "ExpGiven": 1300000000,
+            "ExpType": 0,
+            "Defence": 2500000,
+            "MoveSPEED": 5,
+            "Damages": [600000, 1],
+            "DefFor0": 333313
+        },
+        "drops": null,
+        "mapData": null,
+        "navigation": null,
+        "bossData": null
+    },
+    "T3b": {
+        "details": {
+            "Name": "Silver Champion Earl",
+            "AFKtype": "Fighting",
+            "MonsterFace": 94,
+            "MonsterOffsetX": 34,
+            "MonsterOffsetY": 49,
+            "HeightOfMonster": 60,
+            "MonsterMoving": 1,
+            "MovingFrame": 8,
+            "RespawnTime": 45,
+            "DeathFrame": 18,
+            "MonsterHPTotal": 2.5e+16,
+            "Type": "monsterType",
+            "SpecialType": "",
+            "ExpGiven": 1300000000,
+            "ExpType": 0,
+            "Defence": 2500000,
+            "MoveSPEED": 5,
+            "Damages": [600000, 1],
+            "DefFor0": 333313
+        },
+        "drops": null,
+        "mapData": null,
+        "navigation": null,
+        "bossData": null
+    },
+    "T3c": {
+        "details": {
+            "Name": "Gold Champion Earl",
+            "AFKtype": "Fighting",
+            "MonsterFace": 94,
+            "MonsterOffsetX": 34,
+            "MonsterOffsetY": 49,
+            "HeightOfMonster": 60,
+            "MonsterMoving": 1,
+            "MovingFrame": 8,
+            "RespawnTime": 45,
+            "DeathFrame": 18,
+            "MonsterHPTotal": 2.5e+16,
+            "Type": "monsterType",
+            "SpecialType": "",
+            "ExpGiven": 1300000000,
+            "ExpType": 0,
+            "Defence": 2500000,
+            "MoveSPEED": 5,
+            "Damages": [600000, 1],
+            "DefFor0": 333313
+        },
+        "drops": null,
+        "mapData": null,
+        "navigation": null,
+        "bossData": null
+    },
     "r0a": {
         "details": {
             "Name": "Magician Grub",
@@ -10617,7 +10910,9 @@
             "enemy": "Copper",
             "world": "Blunder Hills",
             "map": {"intName": "MininggA", "name": "Tunnels Entrance", "id": 6},
-            "portalRequirements": [10]
+            "portalRequirements": [10],
+            "x": 393,
+            "y": 154
         },
         "navigation": null,
         "bossData": null
@@ -10653,7 +10948,9 @@
             "enemy": "Iron",
             "world": "Blunder Hills",
             "map": {"intName": "MininggB", "name": "Freefall Caverns", "id": 7},
-            "portalRequirements": [25, 81]
+            "portalRequirements": [25, 81],
+            "x": 293,
+            "y": 165
         },
         "navigation": null,
         "bossData": null
@@ -10721,7 +11018,9 @@
             "enemy": "Plat",
             "world": "Blunder Hills",
             "map": {"intName": "MininggC", "name": "The Ol' Straightaway", "id": 10},
-            "portalRequirements": [40]
+            "portalRequirements": [40],
+            "x": 345,
+            "y": 180
         },
         "navigation": null,
         "bossData": null
@@ -10788,7 +11087,9 @@
             "enemy": "Void",
             "world": "Blunder Hills",
             "map": {"intName": "MininggD", "name": "Echoing Egress", "id": 11},
-            "portalRequirements": [50, 60]
+            "portalRequirements": [50, 60],
+            "x": 356,
+            "y": 208
         },
         "navigation": null,
         "bossData": null
@@ -10855,7 +11156,9 @@
             "enemy": "Starfire",
             "world": "Blunder Hills",
             "map": {"intName": "MininggE", "name": "Slip Slidy Ledges", "id": 12},
-            "portalRequirements": [60]
+            "portalRequirements": [60],
+            "x": 254,
+            "y": 223
         },
         "navigation": null,
         "bossData": null
@@ -10922,7 +11225,9 @@
             "enemy": "Godshard",
             "world": "Blunder Hills",
             "map": {"intName": "MininggF", "name": "Motherlode Pit", "id": 32},
-            "portalRequirements": [0]
+            "portalRequirements": [0],
+            "x": 318,
+            "y": 231
         },
         "navigation": null,
         "bossData": null
@@ -11608,7 +11913,9 @@
             "enemy": "FishSmall",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zFishingA", "name": "Salty Shores", "id": 54},
-            "portalRequirements": [15]
+            "portalRequirements": [15],
+            "x": 230,
+            "y": 157
         },
         "navigation": null,
         "bossData": null
@@ -11643,7 +11950,9 @@
             "enemy": "FishMed",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zFishingC", "name": "Deepwater Docks", "id": 61},
-            "portalRequirements": [30]
+            "portalRequirements": [30],
+            "x": 227,
+            "y": 215
         },
         "navigation": null,
         "bossData": null
@@ -12673,7 +12982,9 @@
             "enemy": "Bug2",
             "world": "Yum-Yum Desert",
             "map": {"intName": "zDesertCavernA", "name": "Bandit Bob's Hideout", "id": 67},
-            "portalRequirements": [0]
+            "portalRequirements": [0],
+            "x": 479,
+            "y": 327
         },
         "navigation": null,
         "bossData": null
@@ -14546,7 +14857,9 @@
             "enemy": "Nothing",
             "world": "Blunder Hills",
             "map": {"intName": "GrasslandaTown", "name": "Blunder Hills", "id": 0},
-            "portalRequirements": [1, 0]
+            "portalRequirements": [1, 0],
+            "x": 562,
+            "y": 167
         },
         "navigation": null,
         "bossData": null

@@ -53,8 +53,7 @@ class NpcRepo(Repository[Npc]):
 
 			for i in range(1, len(questData), 2):
 				if quests := re.split(reQuest, questData[i + 1]):
-					npcName = replaceUnderscores(questData[i])
-					npcName = Constants.nameConflicts.get(npcName, npcName)
+					npcName = cls._normaliseNpcName(questData[i])
 					currentNpc = Npc(
 						head = NpcHeadRepo.get(npcName),
 						dialogue = [],
@@ -84,6 +83,12 @@ class NpcRepo(Repository[Npc]):
 						currentNpc.dialogue.append(DialogueLine.parse_obj(temp))
 
 					cls.add(npcName, currentNpc)
+
+
+	@classmethod
+	def _normaliseNpcName(cls, name: str) -> str:
+		name = replaceUnderscores(name)
+		return Constants.nameConflicts.get(name, name)
 
 	@classmethod
 	def addItemQuest(cls, currentNpc, temp):

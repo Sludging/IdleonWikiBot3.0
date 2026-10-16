@@ -50,6 +50,8 @@ class Talent(IdleonModel):
 		return self.name in {"_", "", " "}
 
 
+
+
 class TalentTree(IdleonModel):
 	talents: Dict[str, Talent]
 

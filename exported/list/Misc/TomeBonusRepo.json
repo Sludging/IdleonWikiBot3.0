@@ -1,0 +1,8 @@
+[
+    {"index": 0, "description": "+{% DMG"},
+    {"index": 1, "description": "+{% Skill Eff"},
+    {"index": 2, "description": "+{% Drop Rate"},
+    {"index": 3, "description": "+{% STR"},
+    {"index": 4, "description": "+{% AGI"},
+    {"index": 5, "description": "+{% WIS"}
+]

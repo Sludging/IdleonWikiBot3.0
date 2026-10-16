@@ -1,0 +1,9 @@
+[
+    {"description": "{% Total Damage", "value": 100},
+    {"description": "{% Class EXP gain", "value": 30},
+    {"description": "{% Skill Efficiency", "value": 50},
+    {"description": "{% Drop Rate", "value": 25},
+    {"description": "{% Skill EXP gain", "value": 30},
+    {"description": "{% more Coins", "value": 40},
+    {"description": "{% Extra Kills", "value": 10}
+]

@@ -1,0 +1,196 @@
+{
+    "0": {
+        "index": 0,
+        "name": "Purple Diamond",
+        "vertices": [
+            {"x": 16, "y": 0},
+            {"x": 32, "y": 29},
+            {"x": 16, "y": 59},
+            {"x": 0, "y": 30}
+        ],
+        "width": 33,
+        "height": 60,
+        "bonusPercent": 25,
+        "descriptionTemplate": "Multiplies highlighted bonuses by }x"
+    },
+    "1": {
+        "index": 1,
+        "name": "Blue Circle",
+        "vertices": [
+            {"x": 29, "y": 0},
+            {"x": 45, "y": 5},
+            {"x": 55, "y": 16},
+            {"x": 58, "y": 28},
+            {"x": 54, "y": 44},
+            {"x": 47, "y": 52},
+            {"x": 31, "y": 58},
+            {"x": 15, "y": 54},
+            {"x": 4, "y": 44},
+            {"x": 0, "y": 30},
+            {"x": 3, "y": 16},
+            {"x": 14, "y": 4}
+        ],
+        "width": 59,
+        "height": 59,
+        "bonusPercent": 15,
+        "descriptionTemplate": "Multiplies highlighted bonuses by }x"
+    },
+    "2": {
+        "index": 2,
+        "name": "Green Microsquare",
+        "vertices": [
+            {"x": 1, "y": 1},
+            {"x": 31, "y": 1},
+            {"x": 31, "y": 31},
+            {"x": 1, "y": 31}
+        ],
+        "width": 33,
+        "height": 33,
+        "bonusPercent": 50,
+        "descriptionTemplate": "Multiplies highlighted bonuses by }x"
+    },
+    "3": {
+        "index": 3,
+        "name": "Cyan Hexagon",
+        "vertices": [
+            {"x": 17, "y": 0},
+            {"x": 58, "y": 0},
+            {"x": 75, "y": 33},
+            {"x": 58, "y": 67},
+            {"x": 17, "y": 67},
+            {"x": 0, "y": 34}
+        ],
+        "width": 76,
+        "height": 68,
+        "bonusPercent": 20,
+        "descriptionTemplate": "+{% Research EXP per highlighted bonus"
+    },
+    "4": {
+        "index": 4,
+        "name": "Golden Rectangle",
+        "vertices": [
+            {"x": 0, "y": 0},
+            {"x": 111, "y": 0},
+            {"x": 111, "y": 80},
+            {"x": 0, "y": 80}
+        ],
+        "width": 111,
+        "height": 83,
+        "bonusPercent": 20,
+        "descriptionTemplate": "Multiplies highlighted bonuses by }x"
+    },
+    "5": {
+        "index": 5,
+        "name": "Orange Star",
+        "vertices": [
+            {"x": 42, "y": 0},
+            {"x": 53, "y": 26},
+            {"x": 83, "y": 29},
+            {"x": 63, "y": 50},
+            {"x": 71, "y": 80},
+            {"x": 42, "y": 67},
+            {"x": 12, "y": 80},
+            {"x": 20, "y": 50},
+            {"x": 0, "y": 29},
+            {"x": 30, "y": 26}
+        ],
+        "width": 84,
+        "height": 82,
+        "bonusPercent": 35,
+        "descriptionTemplate": "Multiplies highlighted bonuses by }x"
+    },
+    "6": {
+        "index": 6,
+        "name": "Maroon Triangle",
+        "vertices": [
+            {"x": 110, "y": 0},
+            {"x": 141, "y": 63},
+            {"x": 0, "y": 58}
+        ],
+        "width": 142,
+        "height": 64,
+        "bonusPercent": 25,
+        "descriptionTemplate": "+{% Research EXP per highlighted bonus"
+    },
+    "7": {
+        "index": 7,
+        "name": "White Moon",
+        "vertices": [
+            {"x": 62, "y": 0},
+            {"x": 92, "y": 8},
+            {"x": 103, "y": 21},
+            {"x": 67, "y": 18},
+            {"x": 46, "y": 30},
+            {"x": 35, "y": 52},
+            {"x": 37, "y": 82},
+            {"x": 48, "y": 99},
+            {"x": 71, "y": 109},
+            {"x": 102, "y": 105},
+            {"x": 100, "y": 113},
+            {"x": 86, "y": 122},
+            {"x": 65, "y": 127},
+            {"x": 40, "y": 123},
+            {"x": 20, "y": 110},
+            {"x": 5, "y": 90},
+            {"x": 0, "y": 70},
+            {"x": 2, "y": 45},
+            {"x": 15, "y": 22},
+            {"x": 36, "y": 6}
+        ],
+        "width": 104,
+        "height": 128,
+        "bonusPercent": 30,
+        "descriptionTemplate": "Multiplies highlighted bonuses by }x"
+    },
+    "8": {
+        "index": 8,
+        "name": "Pink Heart",
+        "vertices": [
+            {"x": 20, "y": 0},
+            {"x": 31, "y": 3},
+            {"x": 35, "y": 7},
+            {"x": 39, "y": 3},
+            {"x": 50, "y": 0},
+            {"x": 63, "y": 5},
+            {"x": 70, "y": 19},
+            {"x": 64, "y": 34},
+            {"x": 35, "y": 63},
+            {"x": 4, "y": 32},
+            {"x": 0, "y": 18},
+            {"x": 7, "y": 5}
+        ],
+        "width": 71,
+        "height": 64,
+        "bonusPercent": 35,
+        "descriptionTemplate": "Multiplies highlighted bonuses by }x"
+    },
+    "9": {
+        "index": 9,
+        "name": "Bat Symbol",
+        "vertices": [
+            {"x": 14, "y": 0},
+            {"x": 33, "y": 10},
+            {"x": 40, "y": 0},
+            {"x": 47, "y": 11},
+            {"x": 55, "y": 11},
+            {"x": 62, "y": 0},
+            {"x": 69, "y": 10},
+            {"x": 88, "y": 0},
+            {"x": 102, "y": 25},
+            {"x": 99, "y": 30},
+            {"x": 102, "y": 34},
+            {"x": 89, "y": 60},
+            {"x": 57, "y": 45},
+            {"x": 51, "y": 54},
+            {"x": 45, "y": 45},
+            {"x": 13, "y": 60},
+            {"x": 0, "y": 34},
+            {"x": 3, "y": 30},
+            {"x": 0, "y": 25}
+        ],
+        "width": 103,
+        "height": 61,
+        "bonusPercent": 60,
+        "descriptionTemplate": "Multiplies highlighted bonuses by }x"
+    }
+}

@@ -1,9 +1,11 @@
 from repositories.arcade.ArcadeBonusRepo import ArcadeBonusRepo
+from repositories.collections.DeathNoteRepo import DeathNoteRepo
 from repositories.collections.EnemyRepo import EnemyRepo
 from repositories.dungeons.DungEnemyRepo import DungEnemyRepo
 from repositories.dungeons.DungItemRepo import DungItemRepo
 from repositories.enemies.BossDetailRepo import BossDetailRepo
 from repositories.enemies.DropTableRepo import DropTableRepo
+from repositories.enemies.TitanRepo import TitanRepo
 from repositories.item.AnvilRepo import AnvilRepo
 from repositories.item.RecipeRepo import RecipeRepo
 from repositories.item.RefineryCostRepo import RefineryCostRepo
@@ -12,21 +14,30 @@ from repositories.item.ItemDetailRepo import ItemDetailRepo
 from repositories.item.TrapBoxRepo import TrapBoxRepo
 from repositories.item.VendorRepo import VendorRepo
 from repositories.misc.AchievementRepo import AchievementRepo
+from repositories.misc.AchievementMetadataRepo import AchievementMetadataRepo
 from repositories.misc.EquipmentSetsRepo import EquipmentSetsRepo
 from repositories.misc.CardSetRepo import CardSetRepo
 from repositories.misc.bonusmap.CardSetBonusRepo import CardSetBonusRepo
+from repositories.misc.bonusmap.EctBonusRepo import EctBonusRepo
 from repositories.misc.ColosseumRepo import ColosseumRepo
 from repositories.misc.CompanionRepo import CompanionRepo
+from repositories.misc.FriendBonusRepo import FriendBonusRepo
 from repositories.misc.ConstellationsRepo import ConstellationsRepo
 from repositories.misc.GemShopRepo import GemShopRepo
 from repositories.misc.GrimoireUpgradeRepo import GrimoireUpgradeRepo
 from repositories.misc.CompassUpgradeRepo import CompassUpgradeRepo
 from repositories.misc.TesseractUpgradeRepo import TesseractUpgradeRepo
 from repositories.misc.GuildBonusRepo import GuildBonusRepo
+from repositories.misc.MapMetadataRepo import MapMetadataRepo
+from repositories.misc.EquipmentMetadataRepo import EquipmentMetadataRepo
+from repositories.misc.GuildTaskRepo import GuildTaskRepo
 from repositories.misc.TaskDescriptionsRepo import TaskDescriptionRepo
 from repositories.misc.TaskShopDescRepo import TaskShopDescRepo
 from repositories.misc.TomeRepo import TomeRepo
+from repositories.misc.TomeBonusRepo import TomeBonusRepo
 from repositories.misc.UpgradeVaultRepo import UpgradeVaultRepo
+from repositories.misc.RiftRepo import RiftRepo
+from repositories.misc.RandoList2Repo import RandoList2Repo
 from repositories.misc.EmperorBonusRepo import EmperorBonusRepo
 from repositories.misc.equinox.DreamChallengeRepo import DreamChallengeRepo
 from repositories.misc.equinox.DreamUpgradeRepo import DreamUpgradeRepo
@@ -36,15 +47,20 @@ from repositories.misc.weeklyboss.WeeklyShopRepo import WeeklyShopRepo
 from repositories.misc.world1.BribeRepo import BribeRepo
 from repositories.misc.world1.FeatherRepo import FeatherRepo
 from repositories.misc.world2.BubbleRepo import BubbleRepo
+from repositories.misc.world2.AlchemyVialRepo import AlchemyVialRepo
 from repositories.misc.world2.FishPoolRepo import FishPoolRepo
 from repositories.misc.world2.PostOfficeRepo import PostOfficeRepo
+from repositories.misc.world2.ShimmerBonusRepo import ShimmerBonusRepo
+from repositories.misc.world2.ShimmerChallengeRepo import ShimmerChallengeRepo
 from repositories.misc.world2.PostOfficeUpgradesRepo import PostOfficeUpgradesRepo
 from repositories.misc.world2.SigilRepo import SigilRepo
+from repositories.misc.world3.CogMatrixRepo import CogMatrixRepo
 from repositories.misc.world3.AtomColliderRepo import AtomColliderRepo
 from repositories.misc.world3.BuildingRepo import BuildingRepo
 from repositories.misc.world3.PrayerRepo import PrayerRepo
 from repositories.misc.world3.ShrineRepo import ShrineRepo
 from repositories.misc.world3.SaltLickRepo import SaltLickRepo
+from repositories.misc.world3.WorshipRepo import WorshipRepo
 from repositories.misc.world4.ArenaBonusRepo import ArenaBonusRepo
 from repositories.misc.world4.ChipRepo import ChipRepo
 from repositories.misc.world4.InfiniteTerritoryRepo import InfiniteTerritoryRepo
@@ -59,13 +75,17 @@ from repositories.misc.world5.ArtifactRepo import ArtifactRepo
 from repositories.misc.world5.CaptainBonusRepo import CaptainBonusRepo
 from repositories.misc.world5.DivinityStyleRepo import DivinityStyleRepo
 from repositories.misc.world5.GamingBoxRepo import GamingBoxRepo
+from repositories.misc.world5.GamingImportRepo import GamingImportRepo
+from repositories.misc.world5.GamingMetadataRepo import GamingMetadataRepo
 from repositories.misc.world5.GamingPaletteRepo import GamingPaletteRepo
 from repositories.misc.world5.GamingSuperbitsRepo import GamingSuperbitsRepo
+from repositories.misc.world5.GamingSpeciesRepo import GamingSpeciesRepo
 from repositories.misc.world5.GamingUpgradeRepo import GamingUpgradeRepo
 from repositories.misc.world5.GodInfoRepo import GodInfoRepo
 from repositories.misc.world5.IslandInfoRepo import IslandInfoRepo
 from repositories.misc.world5.SlabItemSortRepo import SlabItemSortRepo
 from repositories.misc.world5.hole.HoleBuildingRepo import HoleBuildingRepo
+from repositories.misc.world5.hole.HoleCurrencyRepo import HoleCurrencyRepo
 from repositories.misc.world5.hole.FountainCurrencyRepo import FountainCurrencyRepo
 from repositories.misc.world5.hole.FountainUpgradeRepo import FountainUpgradeRepo
 from repositories.misc.world5.hole.MeasurementRepo import MeasurementRepo
@@ -79,6 +99,9 @@ from repositories.misc.world5.hole.HarpStringsRepo import HarpStringsRepo
 from repositories.misc.world5.hole.HarpNotesRepo import HarpNotesRepo
 from repositories.misc.world5.hole.MonumentRepo import MonumentRepo
 from repositories.misc.world5.hole.CosmoUpgradeRepo import CosmoUpgradeRepo
+from repositories.misc.world6.FarmingLandRankUpgradeRepo import FarmingLandRankUpgradeRepo
+from repositories.misc.world6.FarmingMetadataRepo import FarmingMetadataRepo
+from repositories.misc.world6.FarmingStickerRepo import FarmingStickerRepo
 from repositories.misc.world6.JadeUpgradeRepo import JadeUpgradeRepo
 from repositories.misc.world6.MarketInfoRepo import MarketInfoRepo
 from repositories.misc.world6.NinjaItemRepo import NinjaItemRepo
@@ -88,12 +111,28 @@ from repositories.misc.world6.SummonEnemyRepo import SummonEnemyRepo
 from repositories.misc.world6.SummonUnitRepo import SummonUnitRepo
 from repositories.misc.world6.SummonUpgradeRepo import SummonUpgradeRepo
 from repositories.npc.NpcRepo import NpcRepo
+from repositories.npc.QuestMetadataRepo import QuestMetadataRepo
 from repositories.talents.TalentTreeRepo import TalentTreeRepo
+from repositories.talents.ClassProgressionRepo import ClassProgressionRepo
+from repositories.misc.world7.ExoticMarketRepo import ExoticMarketRepo
+from repositories.misc.world7.RoyalResourceRepo import RoyalResourceRepo
+from repositories.misc.world7.RoyalGuardianMetadataRepo import RoyalGuardianMetadataRepo
+from repositories.misc.world7.TournamentRaidRepo import TournamentRaidRepo
 from repositories.misc.world7.Spelunking import SpelunkingRepos
+from repositories.misc.world7.JellyOperator import JellyOperatorRepos
+from repositories.misc.world7.Minehead import MineheadRepos
 from repositories.misc.world7.BubbaUpgradeRepo import BubbaUpgradeRepo
+from repositories.misc.world7.RoyalArmoryUpgradeRepo import RoyalArmoryUpgradeRepo
+from repositories.misc.world7.RoyalStatueRepo import RoyalStatueRepo
+from repositories.misc.world7.OrbletMarketBonusRepo import OrbletMarketBonusRepo
 from repositories.misc.world7.LegendTalentRepo import LegendTalentsRepo
 from repositories.misc.world7.ZenithMarketRepo import ZenithMarketRepo
 from repositories.misc.world7.ResearchGridBonusRepo import ResearchGridBonusRepo
+from repositories.misc.world7.ResearchObservationRepo import ResearchObservationRepo
+from repositories.misc.world7.ResearchLensRepo import ResearchLensRepo
+from repositories.misc.world7.ResearchShapeRepo import ResearchShapeRepo
+from repositories.misc.world7.ResearchPostyNoteRepo import ResearchPostyNoteRepo
+from repositories.misc.world7.ResearchMetadataRepo import ResearchMetadataRepo
 from repositories.misc.world7.SushiRepo import SushiRepo
 from repositories.misc.world7.SushiStationUpgradeRepo import SushiStationUpgradeRepo
 from repositories.misc.world7.ButtonBonusRepo import ButtonBonusRepo
@@ -116,21 +155,27 @@ from repositories.misc.world7.PoppyUpgradeRepo import PoppyUpgradeRepo
 from repositories.misc.world7.OrionMegafeatherRepo import OrionMegafeatherRepo
 from repositories.misc.world7.PoppyMegafishRepo import PoppyMegafishRepo
 
-AllRepos = [*SpelunkingRepos, ItemDetailRepo, EquipmentSetsRepo, CosmoUpgradeRepo, SpecificItemRepo, EnemyRepo, DropTableRepo, NpcRepo, RecipeRepo, BubbleRepo, TalentTreeRepo,
+AllRepos = [*SpelunkingRepos, *MineheadRepos, ItemDetailRepo, EquipmentSetsRepo, CosmoUpgradeRepo, SpecificItemRepo, EnemyRepo, DropTableRepo, NpcRepo, QuestMetadataRepo, RecipeRepo, BubbleRepo, AlchemyVialRepo, TalentTreeRepo, ClassProgressionRepo,
             UpgradeVaultRepo, GrimoireUpgradeRepo, CompassUpgradeRepo, TesseractUpgradeRepo, EmperorBonusRepo, PostOfficeUpgradesRepo, PostOfficeRepo, VendorRepo, PrayerRepo, GemShopRepo, BuildingRepo, ShrineRepo,
-            RefineryCostRepo, BribeRepo, ConstellationsRepo, DungEnemyRepo, DungItemRepo, AchievementRepo,
-            GuildBonusRepo,
+            RefineryCostRepo, BribeRepo, ConstellationsRepo, DungEnemyRepo, DungItemRepo, AchievementRepo, AchievementMetadataRepo,
+            GuildBonusRepo, MapMetadataRepo, EquipmentMetadataRepo, RandoList2Repo,
             AnvilRepo, ArenaBonusRepo, ChipRepo, InfiniteTerritoryRepo, JewelRepo, LabBonusRepo, MealRepo, PetGeneRepo,
-            PetStatRepo, PetUpgradeRepo, TerritoryFightRepo, BossDetailRepo, CardSetRepo, CardSetBonusRepo, FishPoolRepo, TrapBoxRepo,
+            PetStatRepo, PetUpgradeRepo, TerritoryFightRepo, BossDetailRepo, CardSetRepo, CardSetBonusRepo, EctBonusRepo, FishPoolRepo, TrapBoxRepo,
+            ShimmerBonusRepo, ShimmerChallengeRepo,
             ArcadeBonusRepo, SigilRepo, TaskShopDescRepo, TaskDescriptionRepo, ColosseumRepo, ArtifactRepo,
-            CaptainBonusRepo, DivinityStyleRepo, GamingBoxRepo, GamingUpgradeRepo, GodInfoRepo, IslandInfoRepo,
-            SlabItemSortRepo, GamingSuperbitsRepo, GamingPaletteRepo, CompanionRepo, AtomColliderRepo, WeeklyBossRepo, WeeklyActionRepo,
+            CaptainBonusRepo, DivinityStyleRepo, GamingBoxRepo, GamingSpeciesRepo, GamingImportRepo, GamingMetadataRepo, GamingUpgradeRepo, GodInfoRepo, IslandInfoRepo,
+            SlabItemSortRepo, GamingSuperbitsRepo, GamingPaletteRepo, CompanionRepo, AtomColliderRepo, CogMatrixRepo, WeeklyBossRepo, WeeklyActionRepo,
+            FriendBonusRepo, 
             WeeklyShopRepo, DreamChallengeRepo, DreamUpgradeRepo, SummonUpgradeRepo, NinjaUpgradeRepo, JadeUpgradeRepo,
-            MarketInfoRepo, SeedInfoRepo, SummonEnemyRepo, SummonUnitRepo, NinjaItemRepo, FeatherRepo, TomeRepo,
-            HoleBuildingRepo, MeasurementRepo, StudyRepo, BellActionRepo, BellImprovementRepo, BellBonusRepo, SedimentRepo, GambitBonusRepo,
+            MarketInfoRepo, SeedInfoRepo, FarmingStickerRepo, FarmingLandRankUpgradeRepo, FarmingMetadataRepo, SummonEnemyRepo, SummonUnitRepo, NinjaItemRepo, FeatherRepo, TomeRepo, TomeBonusRepo,
+            HoleCurrencyRepo, HoleBuildingRepo, MeasurementRepo, StudyRepo, BellActionRepo, BellImprovementRepo, BellBonusRepo, SedimentRepo, GambitBonusRepo,
             FountainCurrencyRepo, FountainUpgradeRepo,
             HarpStringsRepo, HarpNotesRepo, MonumentRepo, SaltLickRepo, ZenithMarketRepo, ResearchGridBonusRepo,
-            ButtonBonusRepo, ButtonTaskRepo, SushiRepo, SushiStationUpgradeRepo, BubbaUpgradeRepo,
+            ResearchObservationRepo, ResearchLensRepo, ResearchShapeRepo, ResearchPostyNoteRepo, ResearchMetadataRepo,
+            *JellyOperatorRepos, ButtonBonusRepo, ButtonTaskRepo, SushiRepo, SushiStationUpgradeRepo, BubbaUpgradeRepo,
+            ExoticMarketRepo, RoyalResourceRepo, RoyalGuardianMetadataRepo, TournamentRaidRepo,
+            RoyalArmoryUpgradeRepo, RoyalStatueRepo,
+            OrbletMarketBonusRepo,
             LegendTalentsRepo, BigFishBonusRepo, BubbaCharismaBonusRepo, BubbaGiftRepo, BubbaMegafleshRepo, ClamworksBonusRepo,
             CoralReefUpgradeRepo, DancingCoralBonusRepo, TomeEpilogueBonusRepo, VoteBonusRepo, MeritocratyBonusRepo,
             EventShopBonusRepo, HoleJarRepo, HoleJarBonusRepo, OrionUpgradeRepo, PoppyUpgradeRepo,

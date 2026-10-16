@@ -18,7 +18,13 @@ class FountainCurrencyRepo(Repository[FountainCurrency]):
 	@classmethod
 	def generateRepo(cls) -> None:
 		groups = getFromNestedSplitArray(cls.getSection(0))
-		currencyIndices = sorted({int(row[3]) for group in groups for row in group if len(row) > 3})
+		# Older sources contain an unfinished upgrade template, not a tenth currency.
+		currencyIndices = sorted({
+			int(row[3])
+			for group in groups
+			for row in group
+			if len(row) > 3 and row[:3] != ["Name", "IndexReq", "X"]
+		})
 		currencyNames = [
 			"Bronze Coins",
 			"Silver Coins",

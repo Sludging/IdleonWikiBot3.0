@@ -18,7 +18,7 @@ class GamingBoxRepo(Repository[GamingBox]):
 	@classmethod
 	def generateRepo(cls) -> None:
 		data = getFromSplitArray(cls.getSection())
-		for line in data:
-			cls.addList(GamingBox.fromList(line))
-			if cls.contains(line[0]): continue
-			cls.add(line[0], GamingBox.fromList(line))
+		for index, line in enumerate(data):
+			box = GamingBox.fromList(line + [index])
+			cls.addList(box)
+			cls.add(str(box.boxId), box)

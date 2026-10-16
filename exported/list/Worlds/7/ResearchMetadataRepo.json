@@ -1,0 +1,10 @@
+[
+    {
+        "baseDiscoveryMinRoll": 1,
+        "baseDiscoveryMaxRoll": 100,
+        "baseDiscoveryRollsPerDay": 3,
+        "baseKaleidoscopeAdjacentBoostPercent": 30,
+        "shapeRotationResearchLevel": 90,
+        "shapeRotationStepDegrees": 5
+    }
+]

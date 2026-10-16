@@ -1,4 +1,5 @@
 from definitions.master.IdleonModel import IdleonModel
+from helpers.CustomTypes import Integer
 
 
 class GamingSuperbit(IdleonModel):
@@ -6,3 +7,4 @@ class GamingSuperbit(IdleonModel):
 	x1: int
 	x2: int
 	name: str
+	superbitId: Integer

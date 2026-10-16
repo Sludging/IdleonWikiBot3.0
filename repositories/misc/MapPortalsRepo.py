@@ -21,9 +21,43 @@ class MapPortalsRepo(Repository[MapInfo]):
 			# Some maps only have one portal, and for some reason getFrom4dArray handles the array differently.
 			# So if we have an array of values, it's a multi portal map
 			if len(v) > 1:
-				cls.add(f"{n}", MapInfo(id = n, portalRequirements = v[0], maxOnScreen = v[1][0]))
-				cls.addList(MapInfo(id = n, portalRequirements = v[0], maxOnScreen = v[1][0]))
+				cls.add(
+					f"{n}",
+					MapInfo(
+						id = n,
+						portalRequirements = v[0],
+						maxOnScreen = v[1][0],
+						x = v[2][0],
+						y = v[2][1]
+					)
+				)
+				cls.addList(
+					MapInfo(
+						id = n,
+						portalRequirements = v[0],
+						maxOnScreen = v[1][0],
+						x = v[2][0],
+						y = v[2][1]
+					)
+				)
 			# Else it's a map with only one portal, so just get that value directly
 			else:
-				cls.add(f"{n}", MapInfo(id = n, portalRequirements = [v[0][0]], maxOnScreen = v[1][0]))
-				cls.addList(MapInfo(id = n, portalRequirements = [v[0][0]], maxOnScreen = v[1][0]))
+				cls.add(
+					f"{n}",
+					MapInfo(
+						id = n,
+						portalRequirements = [v[0][0]],
+						maxOnScreen = v[1][0],
+						x = v[2][0],
+						y = v[2][1]
+					)
+				)
+				cls.addList(
+					MapInfo(
+						id = n,
+						portalRequirements = [v[0][0]],
+						maxOnScreen = v[1][0],
+						x = v[2][0],
+						y = v[2][1]
+					)
+				)

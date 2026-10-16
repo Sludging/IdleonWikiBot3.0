@@ -1,0 +1,722 @@
+{
+    "0": {
+        "resourceId": 0,
+        "world": 0,
+        "order": 0,
+        "x": 93,
+        "y": 361,
+        "capacity": 1000000,
+        "nodeType": 5
+    },
+    "1": {
+        "resourceId": 1,
+        "world": 0,
+        "order": 1,
+        "x": 197,
+        "y": 151,
+        "capacity": 15000,
+        "nodeType": 3
+    },
+    "2": {
+        "resourceId": 2,
+        "world": 0,
+        "order": 2,
+        "x": 327,
+        "y": 115,
+        "capacity": 1500,
+        "nodeType": 3
+    },
+    "3": {
+        "resourceId": 3,
+        "world": 0,
+        "order": 3,
+        "x": 343,
+        "y": 281,
+        "capacity": 50000,
+        "nodeType": 3
+    },
+    "4": {
+        "resourceId": 4,
+        "world": 0,
+        "order": 4,
+        "x": 467,
+        "y": 403,
+        "capacity": 50000,
+        "nodeType": 5
+    },
+    "5": {
+        "resourceId": 5,
+        "world": 0,
+        "order": 5,
+        "x": 395,
+        "y": 198,
+        "capacity": 30000,
+        "nodeType": 0
+    },
+    "6": {
+        "resourceId": 6,
+        "world": 0,
+        "order": 6,
+        "x": 466,
+        "y": 333,
+        "capacity": 70000,
+        "nodeType": 4
+    },
+    "7": {
+        "resourceId": 7,
+        "world": 0,
+        "order": 7,
+        "x": 563,
+        "y": 226,
+        "capacity": 2000,
+        "nodeType": 0
+    },
+    "8": {
+        "resourceId": 8,
+        "world": 0,
+        "order": 8,
+        "x": 478,
+        "y": 247,
+        "capacity": 10000,
+        "nodeType": 0
+    },
+    "9": {
+        "resourceId": 9,
+        "world": 0,
+        "order": 9,
+        "x": 603,
+        "y": 346,
+        "capacity": 20000,
+        "nodeType": 4
+    },
+    "10": {
+        "resourceId": 10,
+        "world": 0,
+        "order": 10,
+        "x": 705,
+        "y": 305,
+        "capacity": 5000,
+        "nodeType": 4
+    },
+    "11": {
+        "resourceId": 11,
+        "world": 0,
+        "order": 11,
+        "x": 812,
+        "y": 266,
+        "capacity": 4000,
+        "nodeType": 2
+    },
+    "12": {
+        "resourceId": 12,
+        "world": 0,
+        "order": 12,
+        "x": 816,
+        "y": 173,
+        "capacity": 40000,
+        "nodeType": 2
+    },
+    "13": {
+        "resourceId": 13,
+        "world": 0,
+        "order": 13,
+        "x": 714,
+        "y": 118,
+        "capacity": 12000,
+        "nodeType": 2
+    },
+    "14": {
+        "resourceId": 14,
+        "world": 0,
+        "order": 14,
+        "x": 811,
+        "y": 43,
+        "capacity": 200000,
+        "nodeType": 5
+    },
+    "15": {
+        "resourceId": 15,
+        "world": 0,
+        "order": 15,
+        "x": 606,
+        "y": 106,
+        "capacity": 5000,
+        "nodeType": 1
+    },
+    "16": {
+        "resourceId": 16,
+        "world": 0,
+        "order": 16,
+        "x": 0,
+        "y": 0,
+        "capacity": 0,
+        "nodeType": -1
+    },
+    "17": {
+        "resourceId": 17,
+        "world": 0,
+        "order": 17,
+        "x": 0,
+        "y": 0,
+        "capacity": 0,
+        "nodeType": -1
+    },
+    "18": {
+        "resourceId": 18,
+        "world": 0,
+        "order": 18,
+        "x": 0,
+        "y": 0,
+        "capacity": 0,
+        "nodeType": -1
+    },
+    "19": {
+        "resourceId": 19,
+        "world": 0,
+        "order": 19,
+        "x": 0,
+        "y": 0,
+        "capacity": 0,
+        "nodeType": -1
+    },
+    "20": {
+        "resourceId": 20,
+        "world": 1,
+        "order": 0,
+        "x": 123,
+        "y": 126,
+        "capacity": 3000,
+        "nodeType": 13
+    },
+    "21": {
+        "resourceId": 21,
+        "world": 1,
+        "order": 1,
+        "x": 93,
+        "y": 362,
+        "capacity": 3000000,
+        "nodeType": 15
+    },
+    "22": {
+        "resourceId": 22,
+        "world": 1,
+        "order": 2,
+        "x": 173,
+        "y": 255,
+        "capacity": 50000,
+        "nodeType": 13
+    },
+    "23": {
+        "resourceId": 23,
+        "world": 1,
+        "order": 3,
+        "x": 271,
+        "y": 185,
+        "capacity": 6000,
+        "nodeType": 10
+    },
+    "24": {
+        "resourceId": 24,
+        "world": 1,
+        "order": 4,
+        "x": 254,
+        "y": 314,
+        "capacity": 750000,
+        "nodeType": 13
+    },
+    "25": {
+        "resourceId": 25,
+        "world": 1,
+        "order": 5,
+        "x": 365,
+        "y": 132,
+        "capacity": 250,
+        "nodeType": 10
+    },
+    "26": {
+        "resourceId": 26,
+        "world": 1,
+        "order": 6,
+        "x": 353,
+        "y": 228,
+        "capacity": 1000,
+        "nodeType": 10
+    },
+    "27": {
+        "resourceId": 27,
+        "world": 1,
+        "order": 7,
+        "x": 396,
+        "y": 322,
+        "capacity": 2000,
+        "nodeType": 11
+    },
+    "28": {
+        "resourceId": 28,
+        "world": 1,
+        "order": 8,
+        "x": 450,
+        "y": 72,
+        "capacity": 80000,
+        "nodeType": 12
+    },
+    "29": {
+        "resourceId": 29,
+        "world": 1,
+        "order": 9,
+        "x": 565,
+        "y": 323,
+        "capacity": 5000,
+        "nodeType": 11
+    },
+    "30": {
+        "resourceId": 30,
+        "world": 1,
+        "order": 10,
+        "x": 567,
+        "y": 169,
+        "capacity": 25000,
+        "nodeType": 12
+    },
+    "31": {
+        "resourceId": 31,
+        "world": 1,
+        "order": 11,
+        "x": 637,
+        "y": 226,
+        "capacity": 10000,
+        "nodeType": 12
+    },
+    "32": {
+        "resourceId": 32,
+        "world": 1,
+        "order": 12,
+        "x": 598,
+        "y": 54,
+        "capacity": 150000,
+        "nodeType": 14
+    },
+    "33": {
+        "resourceId": 33,
+        "world": 1,
+        "order": 13,
+        "x": 793,
+        "y": 41,
+        "capacity": 1500000,
+        "nodeType": 15
+    },
+    "34": {
+        "resourceId": 34,
+        "world": 1,
+        "order": 14,
+        "x": 765,
+        "y": 132,
+        "capacity": 300000,
+        "nodeType": 14
+    },
+    "35": {
+        "resourceId": 35,
+        "world": 1,
+        "order": 15,
+        "x": 804,
+        "y": 251,
+        "capacity": 500000,
+        "nodeType": 14
+    },
+    "36": {
+        "resourceId": 36,
+        "world": 1,
+        "order": 16,
+        "x": 810,
+        "y": 336,
+        "capacity": 1000000,
+        "nodeType": 11
+    },
+    "37": {
+        "resourceId": 37,
+        "world": 1,
+        "order": 17,
+        "x": 0,
+        "y": 0,
+        "capacity": 0,
+        "nodeType": -1
+    },
+    "38": {
+        "resourceId": 38,
+        "world": 1,
+        "order": 18,
+        "x": 0,
+        "y": 0,
+        "capacity": 0,
+        "nodeType": -1
+    },
+    "39": {
+        "resourceId": 39,
+        "world": 1,
+        "order": 19,
+        "x": 0,
+        "y": 0,
+        "capacity": 0,
+        "nodeType": -1
+    },
+    "40": {
+        "resourceId": 40,
+        "world": 2,
+        "order": 0,
+        "x": 87,
+        "y": 137,
+        "capacity": 1000000,
+        "nodeType": 25
+    },
+    "41": {
+        "resourceId": 41,
+        "world": 2,
+        "order": 1,
+        "x": 158,
+        "y": 44,
+        "capacity": 500000,
+        "nodeType": 24
+    },
+    "42": {
+        "resourceId": 42,
+        "world": 2,
+        "order": 2,
+        "x": 199,
+        "y": 197,
+        "capacity": 750,
+        "nodeType": 20
+    },
+    "43": {
+        "resourceId": 43,
+        "world": 2,
+        "order": 3,
+        "x": 179,
+        "y": 314,
+        "capacity": 1250,
+        "nodeType": 20
+    },
+    "44": {
+        "resourceId": 44,
+        "world": 2,
+        "order": 4,
+        "x": 365,
+        "y": 347,
+        "capacity": 2000,
+        "nodeType": 20
+    },
+    "45": {
+        "resourceId": 45,
+        "world": 2,
+        "order": 5,
+        "x": 357,
+        "y": 265,
+        "capacity": 300,
+        "nodeType": 20
+    },
+    "46": {
+        "resourceId": 46,
+        "world": 2,
+        "order": 6,
+        "x": 382,
+        "y": 55,
+        "capacity": 200000,
+        "nodeType": 24
+    },
+    "47": {
+        "resourceId": 47,
+        "world": 2,
+        "order": 7,
+        "x": 436,
+        "y": 148,
+        "capacity": 5000,
+        "nodeType": 21
+    },
+    "48": {
+        "resourceId": 48,
+        "world": 2,
+        "order": 8,
+        "x": 493,
+        "y": 286,
+        "capacity": 10000,
+        "nodeType": 21
+    },
+    "49": {
+        "resourceId": 49,
+        "world": 2,
+        "order": 9,
+        "x": 476,
+        "y": 394,
+        "capacity": 800000,
+        "nodeType": 21
+    },
+    "50": {
+        "resourceId": 50,
+        "world": 2,
+        "order": 10,
+        "x": 509,
+        "y": 44,
+        "capacity": 3000000,
+        "nodeType": 25
+    },
+    "51": {
+        "resourceId": 51,
+        "world": 2,
+        "order": 11,
+        "x": 560,
+        "y": 186,
+        "capacity": 30000,
+        "nodeType": 21
+    },
+    "52": {
+        "resourceId": 52,
+        "world": 2,
+        "order": 12,
+        "x": 632,
+        "y": 55,
+        "capacity": 320000,
+        "nodeType": 23
+    },
+    "53": {
+        "resourceId": 53,
+        "world": 2,
+        "order": 13,
+        "x": 811,
+        "y": 47,
+        "capacity": 5000000,
+        "nodeType": 26
+    },
+    "54": {
+        "resourceId": 54,
+        "world": 2,
+        "order": 14,
+        "x": 736,
+        "y": 151,
+        "capacity": 100000,
+        "nodeType": 23
+    },
+    "55": {
+        "resourceId": 55,
+        "world": 2,
+        "order": 15,
+        "x": 741,
+        "y": 249,
+        "capacity": 75000,
+        "nodeType": 22
+    },
+    "56": {
+        "resourceId": 56,
+        "world": 2,
+        "order": 16,
+        "x": 698,
+        "y": 334,
+        "capacity": 50000,
+        "nodeType": 22
+    },
+    "57": {
+        "resourceId": 57,
+        "world": 2,
+        "order": 17,
+        "x": 807,
+        "y": 333,
+        "capacity": 500000,
+        "nodeType": 22
+    },
+    "58": {
+        "resourceId": 58,
+        "world": 2,
+        "order": 18,
+        "x": 0,
+        "y": 0,
+        "capacity": 0,
+        "nodeType": -1
+    },
+    "59": {
+        "resourceId": 59,
+        "world": 2,
+        "order": 19,
+        "x": 0,
+        "y": 0,
+        "capacity": 0,
+        "nodeType": -1
+    },
+    "60": {
+        "resourceId": 60,
+        "world": 3,
+        "order": 0,
+        "x": 98,
+        "y": 49,
+        "capacity": 4000000,
+        "nodeType": 35
+    },
+    "61": {
+        "resourceId": 61,
+        "world": 3,
+        "order": 1,
+        "x": 91,
+        "y": 358,
+        "capacity": 2500000,
+        "nodeType": 34
+    },
+    "62": {
+        "resourceId": 62,
+        "world": 3,
+        "order": 2,
+        "x": 141,
+        "y": 195,
+        "capacity": 150000,
+        "nodeType": 31
+    },
+    "63": {
+        "resourceId": 63,
+        "world": 3,
+        "order": 3,
+        "x": 237,
+        "y": 95,
+        "capacity": 300000,
+        "nodeType": 31
+    },
+    "64": {
+        "resourceId": 64,
+        "world": 3,
+        "order": 4,
+        "x": 202,
+        "y": 264,
+        "capacity": 50000,
+        "nodeType": 31
+    },
+    "65": {
+        "resourceId": 65,
+        "world": 3,
+        "order": 5,
+        "x": 371,
+        "y": 40,
+        "capacity": 6000000,
+        "nodeType": 36
+    },
+    "66": {
+        "resourceId": 66,
+        "world": 3,
+        "order": 6,
+        "x": 395,
+        "y": 212,
+        "capacity": 10000,
+        "nodeType": 32
+    },
+    "67": {
+        "resourceId": 67,
+        "world": 3,
+        "order": 7,
+        "x": 369,
+        "y": 398,
+        "capacity": 1000000,
+        "nodeType": 34
+    },
+    "68": {
+        "resourceId": 68,
+        "world": 3,
+        "order": 8,
+        "x": 460,
+        "y": 321,
+        "capacity": 100000,
+        "nodeType": 30
+    },
+    "69": {
+        "resourceId": 69,
+        "world": 3,
+        "order": 9,
+        "x": 511,
+        "y": 398,
+        "capacity": 25000,
+        "nodeType": 30
+    },
+    "70": {
+        "resourceId": 70,
+        "world": 3,
+        "order": 10,
+        "x": 573,
+        "y": 256,
+        "capacity": 5000,
+        "nodeType": 30
+    },
+    "71": {
+        "resourceId": 71,
+        "world": 3,
+        "order": 11,
+        "x": 704,
+        "y": 179,
+        "capacity": 1000,
+        "nodeType": 30
+    },
+    "72": {
+        "resourceId": 72,
+        "world": 3,
+        "order": 12,
+        "x": 682,
+        "y": 343,
+        "capacity": 3000,
+        "nodeType": 30
+    },
+    "73": {
+        "resourceId": 73,
+        "world": 3,
+        "order": 13,
+        "x": 476,
+        "y": 81,
+        "capacity": 500000,
+        "nodeType": 33
+    },
+    "74": {
+        "resourceId": 74,
+        "world": 3,
+        "order": 14,
+        "x": 644,
+        "y": 52,
+        "capacity": 1000000,
+        "nodeType": 33
+    },
+    "75": {
+        "resourceId": 75,
+        "world": 3,
+        "order": 15,
+        "x": 588,
+        "y": 176,
+        "capacity": 1500000,
+        "nodeType": 33
+    },
+    "76": {
+        "resourceId": 76,
+        "world": 3,
+        "order": 16,
+        "x": 813,
+        "y": 99,
+        "capacity": 10000000,
+        "nodeType": 37
+    },
+    "77": {
+        "resourceId": 77,
+        "world": 3,
+        "order": 17,
+        "x": 0,
+        "y": 0,
+        "capacity": 0,
+        "nodeType": -1
+    },
+    "78": {
+        "resourceId": 78,
+        "world": 3,
+        "order": 18,
+        "x": 0,
+        "y": 0,
+        "capacity": 0,
+        "nodeType": -1
+    },
+    "79": {
+        "resourceId": 79,
+        "world": 3,
+        "order": 19,
+        "x": 0,
+        "y": 0,
+        "capacity": 0,
+        "nodeType": -1
+    }
+}

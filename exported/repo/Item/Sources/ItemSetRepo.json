@@ -626,5 +626,8 @@
     "EquipmentHats131": {"set": "Lucky"},
     "EquipmentHats136": {"set": "Bronze"},
     "EquipmentHats137": {"set": "Silver"},
-    "EquipmentHats138": {"set": "Gold"}
+    "EquipmentHats138": {"set": "Gold"},
+    "EquipmentHats142": {"set": "Bronze"},
+    "EquipmentHats143": {"set": "Silver"},
+    "EquipmentHats144": {"set": "Gold"}
 }

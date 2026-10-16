@@ -646,5 +646,14 @@
         "type": "%",
         "lvlUpText": "+{% Marble DR",
         "barType": 35
+    },
+    {
+        "effect": "+{% Jelly Bloodcells",
+        "x1": 5,
+        "x2": 100,
+        "func": "decay",
+        "type": "%",
+        "lvlUpText": "+{% Bloodcells",
+        "barType": 42
     }
 ]

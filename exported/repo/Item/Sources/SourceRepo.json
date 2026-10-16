@@ -16541,8 +16541,7 @@
             {
                 "wikiName": "[[Royal Worm#Bossin' the Boss|Bossin' the Boss]]",
                 "txtName": "Royal Worm: Bossin' the Boss"
-            },
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+            }
         ],
         "recipeFrom": [],
         "questAss": []
@@ -17042,6 +17041,43 @@
         "recipeFrom": [],
         "questAss": []
     },
+    "Quest108": {
+        "sources": [
+            {
+                "wikiName": "[[Wavey Wayne#Briny Tasks|Briny Tasks]]",
+                "txtName": "Wavey Wayne: Briny Tasks"
+            },
+            {
+                "wikiName": "[[Toobus Goobus#TUNNEL EXPLORING|TUNNEL EXPLORING]]",
+                "txtName": "Toobus Goobus: TUNNEL EXPLORING"
+            },
+            {
+                "wikiName": "[[Toobus Goobus#FEAR HOLE! FEAR HOLE!|FEAR HOLE! FEAR HOLE!]]",
+                "txtName": "Toobus Goobus: FEAR HOLE! FEAR HOLE!"
+            },
+            {
+                "wikiName": "[[Toobus Goobus#READING CHALLENGE|READING CHALLENGE]]",
+                "txtName": "Toobus Goobus: READING CHALLENGE"
+            },
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "Quest115": {
+        "sources": [
+            {
+                "wikiName": "[[Wavey Wayne#Briny Tasks|Briny Tasks]]",
+                "txtName": "Wavey Wayne: Briny Tasks"
+            },
+            {
+                "wikiName": "[[Toobus Goobus#RESEARCH STUDIES|RESEARCH STUDIES]]",
+                "txtName": "Toobus Goobus: RESEARCH STUDIES"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
     "Quest70": {
         "sources": [
             {
@@ -17241,35 +17277,6 @@
             {
                 "wikiName": "[[Bloo Radley#The Hero's Journey|The Hero's Journey]]",
                 "txtName": "Bloo Radley: The Hero's Journey"
-            }
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Quest108": {
-        "sources": [
-            {
-                "wikiName": "[[Toobus Goobus#TUNNEL EXPLORING|TUNNEL EXPLORING]]",
-                "txtName": "Toobus Goobus: TUNNEL EXPLORING"
-            },
-            {
-                "wikiName": "[[Toobus Goobus#FEAR HOLE! FEAR HOLE!|FEAR HOLE! FEAR HOLE!]]",
-                "txtName": "Toobus Goobus: FEAR HOLE! FEAR HOLE!"
-            },
-            {
-                "wikiName": "[[Toobus Goobus#READING CHALLENGE|READING CHALLENGE]]",
-                "txtName": "Toobus Goobus: READING CHALLENGE"
-            },
-            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "Quest115": {
-        "sources": [
-            {
-                "wikiName": "[[Toobus Goobus#RESEARCH STUDIES|RESEARCH STUDIES]]",
-                "txtName": "Toobus Goobus: RESEARCH STUDIES"
             }
         ],
         "recipeFrom": [],
@@ -17525,14 +17532,33 @@
         "recipeFrom": [],
         "questAss": []
     },
-    "EquipmentHats140": {
+    "EquipmentPendant33": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
         "recipeFrom": [],
         "questAss": []
     },
-    "EquipmentRings37": {
+    "EquipmentHats122": {
+        "sources": [
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "EquipmentKeychain11": {
+        "sources": [
+            {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"},
+            {"wikiName": "[[Dungeons#Flurbo Shop|Flurbo Shop]]", "txtName": "Dungeons: Flurbo Shop"},
+            {
+                "wikiName": "[[Dungeons#Loot Rolls|Dungeon Loot Rolls]]",
+                "txtName": "Dungeons: Flurbo Shop"
+            }
+        ],
+        "recipeFrom": [],
+        "questAss": []
+    },
+    "GemP35": {
         "sources": [
             {"wikiName": "[[Gem Shop]]", "txtName": "Gem Shop"}
         ],
@@ -18300,17 +18326,6 @@
         "questAss": []
     },
     "EquipmentKeychain10": {
-        "sources": [
-            {"wikiName": "[[Dungeons#Flurbo Shop|Flurbo Shop]]", "txtName": "Dungeons: Flurbo Shop"},
-            {
-                "wikiName": "[[Dungeons#Loot Rolls|Dungeon Loot Rolls]]",
-                "txtName": "Dungeons: Flurbo Shop"
-            }
-        ],
-        "recipeFrom": [],
-        "questAss": []
-    },
-    "EquipmentKeychain11": {
         "sources": [
             {"wikiName": "[[Dungeons#Flurbo Shop|Flurbo Shop]]", "txtName": "Dungeons: Flurbo Shop"},
             {

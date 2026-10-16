@@ -463,7 +463,7 @@ export const initResearchGridBonusRepo = () => {
                 "bonusPerLevel": 5,
                 "x3": 0,
                 "x4": 0,
-                "description": "Get +  extra Research PTS every 10 Research LVs! Also, +{% Research EXP Gain!"
+                "description": "Get +| extra Research PTS every 10 Research LVs! Also, +{% Research EXP Gain!"
             }),
         new ResearchGridBonusBase(51, <ResearchGridBonusModel>{
                 "index": 51,
@@ -472,7 +472,7 @@ export const initResearchGridBonusRepo = () => {
                 "bonusPerLevel": 5,
                 "x3": 0,
                 "x4": 0,
-                "description": "Increase the max possible Roll while searching for new observations by + , and +{% Research EXP gain!"
+                "description": "Increase the max possible Roll while searching for new observations by +|, and +{% Research EXP gain!"
             }),
         new ResearchGridBonusBase(52, <ResearchGridBonusModel>{
                 "index": 52,
@@ -661,7 +661,7 @@ export const initResearchGridBonusRepo = () => {
                 "bonusPerLevel": 5,
                 "x3": 0,
                 "x4": 0,
-                "description": "Gives +  Kaleidoscopes to use for Observations! Also, +{% Kaleidoscope effect!"
+                "description": "Gives +| Kaleidoscopes to use for Observations! Also, +{% Kaleidoscope effect!"
             }),
         new ResearchGridBonusBase(73, <ResearchGridBonusModel>{
                 "index": 73,
@@ -823,7 +823,7 @@ export const initResearchGridBonusRepo = () => {
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
-                "description": "Gives you +  more Daily Rolls for getting new Observations! Also, +{% Research EXP gain!"
+                "description": "Gives you +| more Daily Rolls for getting new Observations! Also, +{% Research EXP gain!"
             }),
         new ResearchGridBonusBase(91, <ResearchGridBonusModel>{
                 "index": 91,
@@ -832,7 +832,7 @@ export const initResearchGridBonusRepo = () => {
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
-                "description": "Gives +  Optical Monocles to use for Observations! Also +{% Insight EXP gain, to level up your Observations faster with!"
+                "description": "Gives +| Optical Monocles to use for Observations! Also +{% Insight EXP gain, to level up your Observations faster with!"
             }),
         new ResearchGridBonusBase(92, <ResearchGridBonusModel>{
                 "index": 92,
@@ -1147,7 +1147,7 @@ export const initResearchGridBonusRepo = () => {
                 "bonusPerLevel": 3,
                 "x3": 0,
                 "x4": 0,
-                "description": "Every week, you get +  Insta uses for The Button on the Mantaray map, which let you skip the current demand. @ Also, +{% chance for +1 use every day"
+                "description": "Every week, you get +| Insta uses for The Button on the Mantaray map, which let you skip the current demand. @ Also, +{% chance for +1 use every day"
             }),
         new ResearchGridBonusBase(127, <ResearchGridBonusModel>{
                 "index": 127,
@@ -1183,7 +1183,7 @@ export const initResearchGridBonusRepo = () => {
                 "bonusPerLevel": 5,
                 "x3": 0,
                 "x4": 0,
-                "description": "Raises the Max LV of certain Yellow Legend Talents by + . Also, }x Class EXP gain!"
+                "description": "Raises the Max LV of certain Yellow Legend Talents by +|. Also, }x Class EXP gain!"
             }),
         new ResearchGridBonusBase(131, <ResearchGridBonusModel>{
                 "index": 131,
@@ -1192,7 +1192,7 @@ export const initResearchGridBonusRepo = () => {
                 "bonusPerLevel": 5,
                 "x3": 0,
                 "x4": 0,
-                "description": "Raises the Max LV of certain Red Legend Talents by + . @ Also, }x Class EXP gain!"
+                "description": "Raises the Max LV of certain Red Legend Talents by +|. @ Also, }x Class EXP gain!"
             }),
         new ResearchGridBonusBase(132, <ResearchGridBonusModel>{
                 "index": 132,
@@ -1201,7 +1201,7 @@ export const initResearchGridBonusRepo = () => {
                 "bonusPerLevel": 5,
                 "x3": 0,
                 "x4": 0,
-                "description": "Raises the Max LV of certain Brown Legend Talents by + . Also, }x Class EXP gain!"
+                "description": "Raises the Max LV of certain Brown Legend Talents by +|. Also, }x Class EXP gain!"
             }),
         new ResearchGridBonusBase(133, <ResearchGridBonusModel>{
                 "index": 133,
@@ -1336,7 +1336,7 @@ export const initResearchGridBonusRepo = () => {
                 "bonusPerLevel": 25,
                 "x3": 0,
                 "x4": 0,
-                "description": "Gives you +  more tries every day at Mr Minehead's Depth Charge! Also, +{% Minehead Currency/hr"
+                "description": "Gives you +| more tries every day at Mr Minehead's Depth Charge! Also, +{% Minehead Currency/hr"
             }),
         new ResearchGridBonusBase(148, <ResearchGridBonusModel>{
                 "index": 148,
@@ -1363,7 +1363,7 @@ export const initResearchGridBonusRepo = () => {
                 "bonusPerLevel": 10,
                 "x3": 0,
                 "x4": 0,
-                "description": "Reduces the cost of all Masterclass upgrades by {% every day, FOREVER! Total Reduction:-&%"
+                "description": "Reduces the cost of all OG Masterclass upgrades (DB, WW, AC) by {% every day, FOREVER! Total Reduction:-&%"
             }),
         new ResearchGridBonusBase(151, <ResearchGridBonusModel>{
                 "index": 151,
@@ -1381,7 +1381,7 @@ export const initResearchGridBonusRepo = () => {
                 "bonusPerLevel": 5,
                 "x3": 0,
                 "x4": 0,
-                "description": "Raises the Max LV of certain Green Legend Talents by + . Also, }x Class EXP gain!"
+                "description": "Raises the Max LV of certain Green Legend Talents by +|. Also, }x Class EXP gain!"
             }),
         new ResearchGridBonusBase(153, <ResearchGridBonusModel>{
                 "index": 153,
@@ -1507,7 +1507,7 @@ export const initResearchGridBonusRepo = () => {
                 "bonusPerLevel": 15,
                 "x3": 0,
                 "x4": 0,
-                "description": "If your 1st click is on a depth charge, 50% chance it wiggles and doesn't count! Happens up to   times per game. @ Also, +{% Minehead Currency gain!"
+                "description": "If your 1st click is on a depth charge, 50% chance it wiggles and doesn't count! Happens up to | times per game. @ Also, +{% Minehead Currency gain!"
             }),
         new ResearchGridBonusBase(167, <ResearchGridBonusModel>{
                 "index": 167,
@@ -1534,7 +1534,7 @@ export const initResearchGridBonusRepo = () => {
                 "bonusPerLevel": 10,
                 "x3": 0,
                 "x4": 0,
-                "description": "Some of Glimbo's trades give +  additional LVs! This works retroactively. Also, }x Coin gain"
+                "description": "Some of Glimbo's trades give +| additional LVs! This works retroactively. Also, }x Coin gain"
             }),
         new ResearchGridBonusBase(170, <ResearchGridBonusModel>{
                 "index": 170,
@@ -1673,30 +1673,30 @@ export const initResearchGridBonusRepo = () => {
             }),
         new ResearchGridBonusBase(185, <ResearchGridBonusModel>{
                 "index": 185,
-                "name": "Name",
-                "maxLevel": 1,
-                "bonusPerLevel": 1,
+                "name": "Cellular Warfare",
+                "maxLevel": 4,
+                "bonusPerLevel": 5,
                 "x3": 0,
                 "x4": 0,
-                "description": "desc"
+                "description": "Multiplies all damage dealt by your cells during operations by }x @ A true operator must consider the indirect bloodcell gain..."
             }),
         new ResearchGridBonusBase(186, <ResearchGridBonusModel>{
                 "index": 186,
-                "name": "Name",
-                "maxLevel": 1,
-                "bonusPerLevel": 1,
+                "name": "Daily Operating Procedure",
+                "maxLevel": 4,
+                "bonusPerLevel": 2,
                 "x3": 0,
                 "x4": 0,
-                "description": "desc"
+                "description": "Gives you +| more operations to start every day at the Jelly Operator game!"
             }),
         new ResearchGridBonusBase(187, <ResearchGridBonusModel>{
                 "index": 187,
-                "name": "Name",
-                "maxLevel": 1,
-                "bonusPerLevel": 1,
+                "name": "Jelly Operator Linguistics",
+                "maxLevel": 4,
+                "bonusPerLevel": 10,
                 "x3": 0,
                 "x4": 0,
-                "description": "desc"
+                "description": "You can now speak to the Jelly found in the Jellofish map to play the Jelly Operator game! @ Also, }x more Bloodcells gained from operations!"
             }),
         new ResearchGridBonusBase(188, <ResearchGridBonusModel>{
                 "index": 188,
@@ -1705,7 +1705,7 @@ export const initResearchGridBonusRepo = () => {
                 "bonusPerLevel": 1,
                 "x3": 0,
                 "x4": 0,
-                "description": "Every day, you get another +  extra uses for ALL your shakers at the Sushi Station! @ And +{% chance for free use when using Shakers!"
+                "description": "Every day, you get another +| extra uses for ALL your shakers at the Sushi Station! @ And +{% chance for free use when using Shakers!"
             }),
         new ResearchGridBonusBase(189, <ResearchGridBonusModel>{
                 "index": 189,
@@ -1723,7 +1723,7 @@ export const initResearchGridBonusRepo = () => {
                 "bonusPerLevel": 75,
                 "x3": 0,
                 "x4": 0,
-                "description": "Multiplies your EXP gain for Cooking Mastery, a feature unlocked at Rift 61, by a massive }x @ Also gives +  Yellow PTS to spend on Meals!"
+                "description": "Multiplies your EXP gain for Cooking Mastery, a feature unlocked at Rift 61, by a massive }x @ Also gives +| Yellow PTS to spend on Meals!"
             }),
         new ResearchGridBonusBase(191, <ResearchGridBonusModel>{
                 "index": 191,

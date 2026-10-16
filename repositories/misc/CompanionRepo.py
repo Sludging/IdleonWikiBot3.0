@@ -7,7 +7,6 @@ from repositories.master.Repository import Repository
 
 
 class CompanionRepo(Repository[Companion]):
-
 	@classmethod
 	def getCategory(cls) -> str:
 		return "Misc"
@@ -16,14 +15,15 @@ class CompanionRepo(Repository[Companion]):
 	def getSections(cls) -> List[str]:
 		return ["Companion"]
 
+
 	@classmethod
 	def generateRepo(cls) -> None:
-		data = getFromSplitArray(cls.getSection())
-		for n, bonus in enumerate(data):
+		for bonus in getFromSplitArray(cls.getSection()):
 			toAdd = Companion.fromList(bonus)
-			cls.add(toAdd.id, Companion.fromList(bonus))
-			cls.addList(Companion.fromList(bonus))
+			cls.add(toAdd.id, toAdd)
+			cls.addList(toAdd)
 
 	@classmethod
 	def getWikiName(cls, name: str) -> str:
 		return EnemyDetailsRepo.getWikiName(name)
+

@@ -1,0 +1,17 @@
+[
+    {
+        "index": 0,
+        "name": "Magnifying Glass",
+        "descriptionTemplate": "When placed on an observation, this lens will give you Research EXP!"
+    },
+    {
+        "index": 1,
+        "name": "Optical Monocle",
+        "descriptionTemplate": "When placed on an observation, this lens will give insight for that observation, which levels it up over time!"
+    },
+    {
+        "index": 2,
+        "name": "Kaleidoscope",
+        "descriptionTemplate": "When placed on an observation, all adjacent lenses will be {% more powerful!"
+    }
+]
