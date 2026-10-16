@@ -456,7 +456,7 @@
         "bonusPerLevel": 5,
         "x3": 0,
         "x4": 0,
-        "description": "Get +  extra Research PTS every 10 Research LVs! Also, +{% Research EXP Gain!"
+        "description": "Get +| extra Research PTS every 10 Research LVs! Also, +{% Research EXP Gain!"
     },
     "51": {
         "index": 51,
@@ -465,7 +465,7 @@
         "bonusPerLevel": 5,
         "x3": 0,
         "x4": 0,
-        "description": "Increase the max possible Roll while searching for new observations by + , and +{% Research EXP gain!"
+        "description": "Increase the max possible Roll while searching for new observations by +|, and +{% Research EXP gain!"
     },
     "52": {
         "index": 52,
@@ -654,7 +654,7 @@
         "bonusPerLevel": 5,
         "x3": 0,
         "x4": 0,
-        "description": "Gives +  Kaleidoscopes to use for Observations! Also, +{% Kaleidoscope effect!"
+        "description": "Gives +| Kaleidoscopes to use for Observations! Also, +{% Kaleidoscope effect!"
     },
     "73": {
         "index": 73,
@@ -816,7 +816,7 @@
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
-        "description": "Gives you +  more Daily Rolls for getting new Observations! Also, +{% Research EXP gain!"
+        "description": "Gives you +| more Daily Rolls for getting new Observations! Also, +{% Research EXP gain!"
     },
     "91": {
         "index": 91,
@@ -825,7 +825,7 @@
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
-        "description": "Gives +  Optical Monocles to use for Observations! Also +{% Insight EXP gain, to level up your Observations faster with!"
+        "description": "Gives +| Optical Monocles to use for Observations! Also +{% Insight EXP gain, to level up your Observations faster with!"
     },
     "92": {
         "index": 92,
@@ -1140,7 +1140,7 @@
         "bonusPerLevel": 3,
         "x3": 0,
         "x4": 0,
-        "description": "Every week, you get +  Insta uses for The Button on the Mantaray map, which let you skip the current demand. @ Also, +{% chance for +1 use every day"
+        "description": "Every week, you get +| Insta uses for The Button on the Mantaray map, which let you skip the current demand. @ Also, +{% chance for +1 use every day"
     },
     "127": {
         "index": 127,
@@ -1176,7 +1176,7 @@
         "bonusPerLevel": 5,
         "x3": 0,
         "x4": 0,
-        "description": "Raises the Max LV of certain Yellow Legend Talents by + . Also, }x Class EXP gain!"
+        "description": "Raises the Max LV of certain Yellow Legend Talents by +|. Also, }x Class EXP gain!"
     },
     "131": {
         "index": 131,
@@ -1185,7 +1185,7 @@
         "bonusPerLevel": 5,
         "x3": 0,
         "x4": 0,
-        "description": "Raises the Max LV of certain Red Legend Talents by + . @ Also, }x Class EXP gain!"
+        "description": "Raises the Max LV of certain Red Legend Talents by +|. @ Also, }x Class EXP gain!"
     },
     "132": {
         "index": 132,
@@ -1194,7 +1194,7 @@
         "bonusPerLevel": 5,
         "x3": 0,
         "x4": 0,
-        "description": "Raises the Max LV of certain Brown Legend Talents by + . Also, }x Class EXP gain!"
+        "description": "Raises the Max LV of certain Brown Legend Talents by +|. Also, }x Class EXP gain!"
     },
     "133": {
         "index": 133,
@@ -1329,7 +1329,7 @@
         "bonusPerLevel": 25,
         "x3": 0,
         "x4": 0,
-        "description": "Gives you +  more tries every day at Mr Minehead's Depth Charge! Also, +{% Minehead Currency/hr"
+        "description": "Gives you +| more tries every day at Mr Minehead's Depth Charge! Also, +{% Minehead Currency/hr"
     },
     "148": {
         "index": 148,
@@ -1374,7 +1374,7 @@
         "bonusPerLevel": 5,
         "x3": 0,
         "x4": 0,
-        "description": "Raises the Max LV of certain Green Legend Talents by + . Also, }x Class EXP gain!"
+        "description": "Raises the Max LV of certain Green Legend Talents by +|. Also, }x Class EXP gain!"
     },
     "153": {
         "index": 153,
@@ -1500,7 +1500,7 @@
         "bonusPerLevel": 15,
         "x3": 0,
         "x4": 0,
-        "description": "If your 1st click is on a depth charge, 50% chance it wiggles and doesn't count! Happens up to   times per game. @ Also, +{% Minehead Currency gain!"
+        "description": "If your 1st click is on a depth charge, 50% chance it wiggles and doesn't count! Happens up to | times per game. @ Also, +{% Minehead Currency gain!"
     },
     "167": {
         "index": 167,
@@ -1527,7 +1527,7 @@
         "bonusPerLevel": 10,
         "x3": 0,
         "x4": 0,
-        "description": "Some of Glimbo's trades give +  additional LVs! This works retroactively. Also, }x Coin gain"
+        "description": "Some of Glimbo's trades give +| additional LVs! This works retroactively. Also, }x Coin gain"
     },
     "170": {
         "index": 170,
@@ -1680,7 +1680,7 @@
         "bonusPerLevel": 2,
         "x3": 0,
         "x4": 0,
-        "description": "Gives you +  more operations to start every day at the Jelly Operator game!"
+        "description": "Gives you +| more operations to start every day at the Jelly Operator game!"
     },
     "187": {
         "index": 187,
@@ -1698,7 +1698,7 @@
         "bonusPerLevel": 1,
         "x3": 0,
         "x4": 0,
-        "description": "Every day, you get another +  extra uses for ALL your shakers at the Sushi Station! @ And +{% chance for free use when using Shakers!"
+        "description": "Every day, you get another +| extra uses for ALL your shakers at the Sushi Station! @ And +{% chance for free use when using Shakers!"
     },
     "189": {
         "index": 189,
@@ -1716,7 +1716,7 @@
         "bonusPerLevel": 75,
         "x3": 0,
         "x4": 0,
-        "description": "Multiplies your EXP gain for Cooking Mastery, a feature unlocked at Rift 61, by a massive }x @ Also gives +  Yellow PTS to spend on Meals!"
+        "description": "Multiplies your EXP gain for Cooking Mastery, a feature unlocked at Rift 61, by a massive }x @ Also gives +| Yellow PTS to spend on Meals!"
     },
     "191": {
         "index": 191,

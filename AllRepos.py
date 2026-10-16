@@ -37,6 +37,7 @@ from repositories.misc.TomeRepo import TomeRepo
 from repositories.misc.TomeBonusRepo import TomeBonusRepo
 from repositories.misc.UpgradeVaultRepo import UpgradeVaultRepo
 from repositories.misc.RiftRepo import RiftRepo
+from repositories.misc.RandoList2Repo import RandoList2Repo
 from repositories.misc.EmperorBonusRepo import EmperorBonusRepo
 from repositories.misc.equinox.DreamChallengeRepo import DreamChallengeRepo
 from repositories.misc.equinox.DreamUpgradeRepo import DreamUpgradeRepo
@@ -53,6 +54,7 @@ from repositories.misc.world2.ShimmerBonusRepo import ShimmerBonusRepo
 from repositories.misc.world2.ShimmerChallengeRepo import ShimmerChallengeRepo
 from repositories.misc.world2.PostOfficeUpgradesRepo import PostOfficeUpgradesRepo
 from repositories.misc.world2.SigilRepo import SigilRepo
+from repositories.misc.world3.CogMatrixRepo import CogMatrixRepo
 from repositories.misc.world3.AtomColliderRepo import AtomColliderRepo
 from repositories.misc.world3.BuildingRepo import BuildingRepo
 from repositories.misc.world3.PrayerRepo import PrayerRepo
@@ -156,13 +158,13 @@ from repositories.misc.world7.PoppyMegafishRepo import PoppyMegafishRepo
 AllRepos = [*SpelunkingRepos, *MineheadRepos, ItemDetailRepo, EquipmentSetsRepo, CosmoUpgradeRepo, SpecificItemRepo, EnemyRepo, DropTableRepo, NpcRepo, QuestMetadataRepo, RecipeRepo, BubbleRepo, AlchemyVialRepo, TalentTreeRepo, ClassProgressionRepo,
             UpgradeVaultRepo, GrimoireUpgradeRepo, CompassUpgradeRepo, TesseractUpgradeRepo, EmperorBonusRepo, PostOfficeUpgradesRepo, PostOfficeRepo, VendorRepo, PrayerRepo, GemShopRepo, BuildingRepo, ShrineRepo,
             RefineryCostRepo, BribeRepo, ConstellationsRepo, DungEnemyRepo, DungItemRepo, AchievementRepo, AchievementMetadataRepo,
-            GuildBonusRepo, MapMetadataRepo, EquipmentMetadataRepo,
+            GuildBonusRepo, MapMetadataRepo, EquipmentMetadataRepo, RandoList2Repo,
             AnvilRepo, ArenaBonusRepo, ChipRepo, InfiniteTerritoryRepo, JewelRepo, LabBonusRepo, MealRepo, PetGeneRepo,
             PetStatRepo, PetUpgradeRepo, TerritoryFightRepo, BossDetailRepo, CardSetRepo, CardSetBonusRepo, EctBonusRepo, FishPoolRepo, TrapBoxRepo,
             ShimmerBonusRepo, ShimmerChallengeRepo,
             ArcadeBonusRepo, SigilRepo, TaskShopDescRepo, TaskDescriptionRepo, ColosseumRepo, ArtifactRepo,
             CaptainBonusRepo, DivinityStyleRepo, GamingBoxRepo, GamingSpeciesRepo, GamingImportRepo, GamingMetadataRepo, GamingUpgradeRepo, GodInfoRepo, IslandInfoRepo,
-            SlabItemSortRepo, GamingSuperbitsRepo, GamingPaletteRepo, CompanionRepo, AtomColliderRepo, WeeklyBossRepo, WeeklyActionRepo,
+            SlabItemSortRepo, GamingSuperbitsRepo, GamingPaletteRepo, CompanionRepo, AtomColliderRepo, CogMatrixRepo, WeeklyBossRepo, WeeklyActionRepo,
             FriendBonusRepo, 
             WeeklyShopRepo, DreamChallengeRepo, DreamUpgradeRepo, SummonUpgradeRepo, NinjaUpgradeRepo, JadeUpgradeRepo,
             MarketInfoRepo, SeedInfoRepo, FarmingStickerRepo, FarmingLandRankUpgradeRepo, FarmingMetadataRepo, SummonEnemyRepo, SummonUnitRepo, NinjaItemRepo, FeatherRepo, TomeRepo, TomeBonusRepo,

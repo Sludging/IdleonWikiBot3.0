@@ -163,6 +163,7 @@ class IdleonReader:
 		self.codeReader.addSection("SkullShopDesc = function ()", "SkullShop")
 		self.codeReader.addSection("MapName = function ()", "MapInternal")
 
+		self.codeReader.addSection("CogMatrices = function ()", "CogMatrices")
 		self.codeReader.addSection("AtomInfo = function ()", "AtomInfo")
 		self.codeReader.addSection("WorshipInfo = function ()", "WorshipInfo", "}),")
 		self.codeReader.addSection("WorshipBASEinfos = function ()", "WorshipBASEinfos", "}),")

@@ -1,3 +1,4 @@
+import ast
 import json
 import re
 from typing import List, Set
@@ -37,6 +38,26 @@ def getFromNestedSplitArray(v: str, replaceUnderscores: bool = True) -> List[Lis
 				rows.append([formatStr(value, replaceUnderscores = replaceUnderscores) for value in values])
 		groups.append(rows)
 	return groups
+
+def getFromNumericNestedArray(v: str) -> List[List[List[int]]]:
+	"""Extracts a numeric nested array from a JavaScript function or array."""
+	source, arrayNode = _topLevelArray(v)
+	if arrayNode.type != "array":
+		raise ValueError("Expected a top-level array")
+	values = ast.literal_eval(_nodeText(source, arrayNode))
+	if not isinstance(values, list) or any(
+		not isinstance(matrix, list) or any(
+			not isinstance(pair, list) or any(
+				not isinstance(value, int) or isinstance(value, bool)
+				for value in pair
+			)
+			for pair in matrix
+		)
+		for matrix in values
+	):
+		raise ValueError("Expected a nested array of integer arrays")
+	return values
+
 
 
 def getFromLiteralArrayEntry(v: str, index: int, replaceUnderscores: bool = False) -> List[str]:
